@@ -1,0 +1,1991 @@
+[
+  {
+    "id": "e34aeb70-f44d-44e2-b981-084f05b417d6",
+    "stem": "A 53-year-old engineer presents with increasing shortness of breath on exertion.\nPhysical examination is normal apart from some inspiratory crackles at both lung bases.\nHis chest x ray is shown.\nWhat is the diagnosis?",
+    "options": [
+      "Byssinosis",
+      "Talcosis",
+      "Asbestosis",
+      "Silicosis",
+      "Siderosis"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a99a8294-c800-4109-be9f-34c14a32afdd",
+    "stem": "A 73-year-old lady presented with lethargy and weight loss of one stone over the last four months.\nShe had had an irritating cough and repeated haemoptysis. She had been a smoker of 20 cigarettes a day but gave up four monthspreviously when her symptoms began. She had been treated for pulmonary tuberculosis 15 years previously. She was not sure whatmedication she was given and for how long.\nInvestigations revealed:\nHaemoglobin 120 g/L(115-165)\nWhite cell count 4.1 ×10/L (4-11)\nPlatelets 140 ×10/L (150-400)\nSerum sodium 134 mmol/L(137-144)\nSerum potassium3.7 mmol/L(3.5-4.9)\nSerum urea 8.5 mmol/L(2.5-7.5)\nAspergillus fumigatus precipitinsPositive\nRAST Negative to Aspergillus\nHer chest x ray showed a solid lesion at the left lung apex.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Bronchial carcinoma",
+      "Allergic bronchopulmonary aspergillosis",
+      "Aspergilloma",
+      "Invasive aspergillosis",
+      "Reactivation of tuberculosis"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d62b1385-d98d-4433-8cfa-b3fce8f3a1cc",
+    "stem": "A 65-year-old lady is admitted as an emergency after a choking episode.\nShe is breathless and has a temperature of 37.8°C. She is a smoker of 20 cigarettes a day, but has no history of previous respiratory disease;she had a stroke six months previously. She was started on oral co-amoxiclav by her general practitioner.\nA chest x ray showed a homogenous opacity at the right base with the right hilum pulled downwards.\nWhat is the next investigation of choice?",
+    "options": [
+      "Sputum culture",
+      "Bronchoscopy",
+      "CT chest",
+      "Ventilation/perfusion scan",
+      "Blood cultures"
+    ],
+    "correct_option": 1,
+    "explanation": "This lady's clinical history suggests aspiration.\nHer chest x ray suggests collapse +/- consolidation of the right lower lobe.\nThe lower lobes are the usual site of aspiration when the patient is upright. She may therefore have aspirated a foreign body duringthe choking episode and a bronchoscopy will identify this and allow its removal.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "ca029d89-7464-414b-832a-da714aa35d7e",
+    "stem": "A 51-year-old man presents with a dry irritating unproductive cough. It often keeps him awake at night. He is a heavy snorer.\nHe admits to breathlessness on exertion and feels tired during the day. He has smoked 20 cigarettes a day since the age of 20 years and hasrecently been diagnosed as having hypothyroidism. He is overweight (BMI = 34).\nHis lung function shows:\n  Observed Normal Range\nFEV12.8 L (3.3 - 4.8)\nVC 2.9 L (3.7 - 5.6)\nTLC 3.4 L (6.0 - 8.2)\nRV 0.9 L (1.3 - 2.9)\nTLCO4.3 mmol/min/kPa(8.2 - 12.8)\nKCO1.1 mmol/min/kPa/L(1.2 - 2.0)\nWhat is the most likely diagnosis?",
+    "options": [
+      "Asthma",
+      "Sleep apnoea",
+      "Chronic obstructive pulmonary disease",
+      "Bronchiolitis obliterans and organising pneumonia",
+      "Idiopathic pulmonary ﬁbrosis"
+    ],
+    "correct_option": 4,
+    "explanation": "This man's lung function demonstrates a restrictive defect with an increased ratio of forced expiratory volume in one second(FEV1)/forced vital capacity (FVC) and decreased lung volumes.\nBoth Tlco and Kco are reduced.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "12a3898d-6c8b-4303-b718-9a0739749410",
+    "stem": "A 16-year-old boy is admitted to hospital for investigation of a chronic cough. He has a history of recurrent episodes of bronchitis sincechildhood and missed a signiﬁcant amount of school. He also gives a longstanding history of loose stools which he describes as being'greasy'.\nHe lives with his parents on a dairy farm. He has two brothers who are both well. On examination he appears small for his age and weighs 50kg. Loss of the nail angle is noted in all digits. There are widespread coarse crackles audible in both lung ﬁelds, most notable at the bases. Asputum sample is sent for culture: the culture plate is shown.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Cystic ﬁbrosis",
+      "Hypersensitivity pneumonitis",
+      "Chronic granulomatous disease",
+      "Hypogammaglobulinaemia",
+      "Tuberculosis"
+    ],
+    "correct_option": 0,
+    "explanation": "The history is most suggestive of CF (chronic cough, steatorrhoea due to pancreatic exocrine insuﬃciency). Late diagnosis is notcommon but may happen in children in adolesence.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "49e1c5ca-f66e-4fb1-a426-e8a80fa932ba",
+    "stem": "A 69-year-old man is referred into hospital by his GP with a 5/7 history of shortness of breath and productive cough. He is talkingappropriately in full sentences.\nHis observations are as follows; HR 98, BP 110/79 mmHg, RR 27 and temperature 38.2°C.\nHis laboratory investigations are as follows;\nHb 125 g/L(130-180)\nWBC 18.7 ×10/L (4-11)\nNeutrophils16.1 ×10/L (1.5-7.0)\nPlatelets479 ×10/L (150-400)\nSodium123 mmol/L(137-144)\nPotassium3.8 mmol/L(3.5-4.9)\nUrea 8.1 mmol/L(2.5-7.5)\nCreatinine115 μ mol/L(60-110)\nCRP 210 mg/L(<10)\nUsing the information available and the severity index CURB-65, what severity of pneumonia does this patient demonstrate?",
+    "options": [
+      "Life threatening",
+      "Low severity",
+      "Moderate severity",
+      "High severity",
+      "Very low severity"
+    ],
+    "correct_option": 2,
+    "explanation": "The CURB-65 score is based on ﬁve parameters:",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "9e66cd06-483a-4ca0-9195-e973b9b1313b",
+    "stem": "A 47-year-old lady was referred to outpatients with a four week history of cough productive of sputum and breathlessness.\nThe cough had become so severe that she was producing 500 ml of frothy mucoid sputum per day. She had noticed a reduction in appetitebut no weight loss.\nWhat is the most likely diagnosis ?",
+    "options": [
+      "Small cell carcinoma",
+      "Bronchoalveolar cell carcinoma",
+      "Lymphangitis carcinomatosa",
+      "Langerhan's histiocytosis X",
+      "Carcinoid tumour"
+    ],
+    "correct_option": 1,
+    "explanation": "Bronchoalveolar cell carcinoma classically presents with progressive breathlessness and the production of large amounts of sputum(bronchorrhoea). They account for up to 1% of all bronchial carcinomas.\nThe tumour spreads using the alveolar walls as a frame and the alveoli are often ﬁlled with mucin.\nThe differential diagnosis includes heart failure, persistent pneumonia, alveolar proteinosis and cryptogenic organising pneumonia.\nPulmonary Langerhan's cell histiocytosis X and lymphangitis carinomatosis can all present with progressive breathlesness andcough but bronchorrhoea is not a feature.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "239dae22-adaf-44f9-b9dc-777b31630797",
+    "stem": "A 48-year-old lady presents with increasing breathlessness and cough. This has been getting worse over the last year and she has hadrepeated chest infections over the last six months.\nShe smoked 10 cigarettes a day until eight years ago. She has no known allergies. She works as a hairdresser.\nA chest x ray was reported as being normal.\nPulmonary function testing demonstrated:\nFEV 1.60 L(53% predicted)\nFVC 2.86 L(78% predicted)\nTotal lung capacity4.83 L(110% predicted)\nTLCO 6.63%(93% predicted)\nKCO 1.36(120% predicted)\nWhat is the most likely diagnosis?",
+    "options": [
+      "Emphysema",
+      "Obesity",
+      "Chronic bronchitis",
+      "Asthma",
+      "Pulmonary embolism"
+    ],
+    "correct_option": 0,
+    "explanation": "This lady has moderate airways obstruction: FEV/FVC = 56% predicted.\nTransfer factor and transfer co-eﬃcient can be normal or elevated in patients with asthma but are always reduced in emphysema.\nPatients with extra-pulmonary restrictive defects such as obesity show an elevated KCO with normal TLCO, but the restrictive defectproduces a normal or elevated FEV/FVC and reduced lung volumes.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "44b33958-e5b6-4adc-a9b5-bb8c70b81efa",
+    "stem": "A 69-year-old retired miner was referred to the outpatient clinic with a two month history of persistent non-productive cough. He alsocomplained of exertional dyspnoea and left sided chest pain.\nHis appetite had been poor for the preceeding four months and he had lost over one stone in weight. He had retired aged 45 years afterworking underground for over thirty years. He lived with his wife, drank 10 units of alcohol per week and was an ex-smoker of forty cigarettesa day.\nOn examination he was apyrexial. Pulse regular at 90 beats per minute, blood pressure 135/75 mmHg. There was no ﬁnger clubbing. Chestexpansion was reduced on the left with dullness to percussion and diminished breath sounds at the left base and mid-zone. A chestradiograph showed bilateral calciﬁed pleural plaques and a large left pleural effusion.\nWhich investigation is most likely to yield a diagnosis?",
+    "options": [
+      "Pleural aspiration",
+      "Pleural biopsy",
+      "Computed tomography",
+      "Sputum cytology",
+      "Bronchoscopy"
+    ],
+    "correct_option": 1,
+    "explanation": "This man has bilateral pleural plaques and undoubtably therefore has been exposed to asbestos in the past. In addition he has a leftpleural effusion, is a smoker and has symptoms of progressive disease including weight loss.\nAlthough asbestos exposure can cause benign pleural effusions malignancy is the most likely cause of his signs and symptoms,either a bronchial carcinoma or a malignant mesothelioma.\nBronchoscopy is unlikely to be helpful in the absence of a central lesion on radiology.\nComputed tomography may identify pleural thickening and other abnormalities and features such as nodular pleural thickening,mediastinal pleural thickening, parietal pleural thickening greater than 1 cm and circumferential pleural thickening are characteristicof malignancy.\nThe sensitivity of pleural ﬂuid cytology is around 60%. Pleural biopsy however allows histological conﬁrmation of the diagnosis.When done blindly using an Abrams' needle it may increase the diagnostics yield by only 10% over pleural cytology but whenundertaken either under CT guidance or thorascopically it has a sensitivity of 90-95%.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "8eda4afe-62dd-40c4-abca-a53c7c7586d7",
+    "stem": "A 23-year-old man presents to the Emergency department with a severe exacerbation of asthma. He is treated with nebulised salbutamoland ipratropium bromide and 15 L oxygen.\nHis results are as follows:\n  Pre-treatmentPost-Treatment\nPO (kP) 6.6 7.9\nPCO (kP)  3.4 3.5\npH 7.35 7.32\nPEFR (L/min)100 160\nAccording to BTS guidelines, which is the next step in his management?",
+    "options": [
+      "Intravenous aminophylline",
+      "Intravenous hydrocortisone",
+      "Intravenous salbutamol",
+      "Intravenous magnesium",
+      "Intravenous suxamethonium and ventilation"
+    ],
+    "correct_option": 1,
+    "explanation": "BTS guidelines recommend that all patients with acute exacerbations of asthma receive steroids in appropriate doses.\nAlthough the effects may not be seen for several hours it is important to initiate this management step.\nObviously the other treatments may all be required, however this question focusses on the guidelines.\nReference:\nBritish Thoracic Society. Asthma Guideline.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "f0059fe2-c648-4f00-8f1d-b2ebea058776",
+    "stem": "A 65-year-old man with a 50 pack/year history presents with cough and haemoptysis.\nA chest x ray shows a right hilar cavitating mass. Bronchoscopy and biopsy conﬁrm the diagnosis of carcinoma of bronchus. His calciumlevels are 3.89, and the parathyroid hormone related peptide (PTHrH) is raised.\nWhat is the most likely histological diagnosis?",
+    "options": [
+      "Adenocarcinoma",
+      "Small cell carcinoma",
+      "Alveolar cell carcinoma",
+      "Fibrosarcoma",
+      "Squamous cell carcinoma"
+    ],
+    "correct_option": 4,
+    "explanation": "Sixty per cent to 80% of squamous cell carcinomas arise in the proximal portions of the tracheobronchial tree. Squamous cellcarcinomas are associated with extensive necrosis with resulting cavitation.\nHypercalcaemia and elevated parathyroid hormone related peptide levels are most commonly associated with squamous cellcarcinomas.\nSmall cell carcinomas may be also be associated with hypercalcaemia but not with increased PTHrH levels.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "6d3b3684-6037-4b14-8300-620660f98fb6",
+    "stem": "A 33-year-old pregnant woman was admitted to the emergency department agitated and confused following a seizure.\nShe awoke one hour earlier to ﬁnd her husband lying dead in the bed next to her. An ultrasound scan conﬁrmed that her 26-week-old fetushad also died. She informed the admitting staff that both she and her husband had been unwell with 'ﬂu like symptoms for the past week.They had moved into an old house four weeks ago which they were renovating, and spent the previous day painting their bedroom and hadthen eaten re-heated Chinese food dinner.\nHer past medical history included asthma which was well controlled on inhaled corticosteroids. She had a 15 pack year smoking history, buthad given up when she learnt that she had become pregnant. She had also a more recent history of headaches.\nOn clinical examination she was tachypnoeic with a respiratory rate of 24 breaths per minute, blood pressure of 90/60 mmHg, pulse of 120beats per minute and oxygen saturations of 98% on air. There was no rash or purpura visible on her body. Heart sounds were normal with nomurmurs or added sounds. Auscultation of her chest revealed vesicular breath sounds with no added sounds. Abdominal examination wasnormal.\nWhat is the most likely cause of this tragic event?",
+    "options": [
+      "Meningococcal septicaemia",
+      "Methaemoglobinaemia",
+      "Bacillus cereus septicaemia",
+      "Carbon monoxide poisoning",
+      "Lead poisoning"
+    ],
+    "correct_option": 3,
+    "explanation": "Carbon monoxide poisoning still accounts for 75 deaths per year and often presents with non-speciﬁc symptoms such as headache,malaise, myalgia and weakness.\nFumes from cleaning ﬂuids and paint removers that contain methylene chloride (dichloromethane) can also cause carbon monoxidepoisoning. When breathed in, methylene chloride is converted into CO gas.\nThe woman in the question survived because the fetal haemoglobin of her unborn child preferentially bound to the poisonouscarbon monoxide gas.\nLead poisoning does not present so acutely, and there is nothing in the history to suggest methaemoglobinaemia.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "dcdff5c9-25f7-4efc-b1ae-8df10c1b04b8",
+    "stem": "A 75-year-old man is referred into hospital by his GP with a provisional diagnosis of pneumonia. He is talking appropriately in full sentences.\nHis observations are as follows; HR 98, BP 110/79 mmHg, RR 27 and temperature 38.2°C.\nHis laboratory investigations are as follows:\nHb 125 g/L(130-180)\nWBC 18.7 ×10/L (4-11)\nNeutrophils16.1 ×10/L (1.5-7.0)\nPlatelets479 ×10/L (150-400)\nSodium123 mmol/L(137-144)\nPotassium3.8 mmol/L(3.5-4.9)\nUrea 8.1 mmol/L(2.5-7.5)\nCreatinine115 μ mol/L(60-110)\nCRP 210 mg/L(<10)\nBased on the above information what is his predicted mortality according to current BTS guidelines?",
+    "options": [
+      "40%",
+      "<3%",
+      "20%",
+      "9%",
+      "5-7%"
+    ],
+    "correct_option": 3,
+    "explanation": "This question requires an understanding of the pneumonia severity index (CURB-65) and its associated mortality rates.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "30f027f7-4d4c-4aa6-a9a6-f33ed33538c8",
+    "stem": "A 45-year-old salesman presents with a one week history of fever, cough, headache and dyspnoea. He has no past medical history ofnote. He has no recent overseas travel history but does travel widely within the United Kingdom with his work.\nHe has a temperature of 40.1°C, heart rate is 121 bpm, and saturations are 92% air.\nInvestigations are as follows:\nNa 128 mmol/L(137-144)\nUrea 6.8 mmol/L(2.5-7.5)\nCreatinine109 µmol/L(60-110)\nWBC 11.7 g/dL (4.0- 11.0)\nCRP 73 mg/L (<10)\nUrine 2+ protein\n2+ blood\nSputumMainly leukocytes, no organisms seen\nWhat is the most likely diagnosis?",
+    "options": [
+      "Pulmonary embolism",
+      "Streptococcal pneumonia",
+      "Mycoplasma pneumonia",
+      "Pneumocystis pneumonia",
+      "Correct option"
+    ],
+    "correct_option": 4,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d548c5ce-51f3-4ef1-93e9-fc421e741702",
+    "stem": "A 65-year-old woman presents with a chronic productive cough and shortness of breath.  She has a previous history of chronic obstructiveairways disease. \nOn examination she is cachectic and clubbed, there are coarse crackles in the right mid-zone.  A chest x ray is performed and the image isshown below. \nWhat is the most likely diagnosis?",
+    "options": [
+      "Lung cancer",
+      "Right middle lobe collapse",
+      "Pleural effusion",
+      "Pericardial effusion",
+      "Right middle lobe pneumonia"
+    ],
+    "correct_option": 1,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "1a533301-38bc-4a42-96bd-ca3126d7c188",
+    "stem": "A 58-year-old man presents with weight loss and haemoptysis. He has smoked most of his life.\nOn examination he is clubbed and has clinical evidence of right pleural effusion. His serum calcium is 3.2 mM (2.2-2.6 mmol/L). A bone scanis normal.\nFrom which of the following histological types of lung cancer is he most likely to suffer?",
+    "options": [
+      "Adenocarcinoma",
+      "Mesothelioma",
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Large cell carcinoma"
+    ],
+    "correct_option": 3,
+    "explanation": "Hypercalcaemia in absence of bony metastases occurs in about 15% of squamous cell lung carcinoma from parathyroid hormonerelated protein (PTHrP) production. This is a feature of non-metastatic manifestation of malignancy.\nInappropriate antidiuretic hormone (ADH) secretion (hyponatraemia) and ectopic adrenocorticotropic hormone (ACTH) production(Cushing's syndrome) occur with small cell lung cancer.\nClubbing is predominantly associated with squamous cell cancers and occasionally adenocarcinoma.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "956c6631-6786-4d86-9e15-603c15ea7c3e",
+    "stem": "A 36-year-old woman presented to the Accident & Emergency department with an episode of dizziness and collapse whilst out walking herdog.\nThere was no history of tongue biting or  incontinence. There were no witnesses to the collapse. On direct questioning she admitted to beingincreasingly breathless on exertion and feeling fatigued. She had no history of respiratory disease but was unable to comment on her familyhistory as she was adopted at birth. Although she took no regular medication she did admit to recreational drug use including ecstasy.\nOn examination there was mild central cyanosed. She was alert and orientated. Her pulse was 90 beats per minute regular, temperature36.5°C, blood pressure 100/80 mmHg and oxygen saturations 88% on room air. Auscultation of her chest revealed a loud P2, a pansystolicmurmur at the left sternal edge and an early diastolic murmur at the second left space.\nAn Electrocardiogram reveals a sinus tachycardia.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Acute Pulmonary Embolism",
+      "Epilepsy",
+      "Pulmonary Arterial Hypertension",
+      "Mixed Aortic Valve disease",
+      "Hypertrophic Cardiomyopathy"
+    ],
+    "correct_option": 2,
+    "explanation": "The symptoms of pulmonary arterial hypertension include dyspnoea, fatigue, weakness and syncope. Drugs associated withpulmonary arterial hypertension include appetite suppressants and amphetamines. The physical signs of include a left parasternalheave, loud second pulmonary sound, a pansystolic murmur of tricuspid regurgitation and an early diastolic murmur of pulmonaryinsuﬃciency. The ECG is not inconsistent with pulmonary arterial hypertension.\nAlthough a pulmonary embolism is a possible diagnosis, her symptoms are more suggestive of a chronic condition. Neither epilepsy,hypertrophic cardiomyopathy or mixed aortic valve disease are consistent with her presentation or clinical signs.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a6e235f8-ea27-45a1-ae6f-198805fc6219",
+    "stem": "A 65-year-old gentleman with a BMI of 37 is referred to the respiratory clinic with increasing shortness of breath. He has a 40 pack yearhistory.\nInitial investigations reveal:\npH 7.36 (7.36 - 7.44)\npO 10.6 kP(11.3 - 12.6)\npCO6.7 kP (4.7 - 6.0)\nHCO37 mmol/L(20 - 28)\nSpirometry shows:  Actual% predicted\nFVC (l)3.6359\nFEV1(l)3.0160\nFRC (l)1.4637\nRV (l)1.0848\nTLC (l)4.9961\nWhat is the likely diagnosis?",
+    "options": [
+      "Neuromuscular disorder",
+      "Obesity hypoventilation syndrome",
+      "Emphysema",
+      "Interstitial lung disease",
+      "Chronic bronchitis"
+    ],
+    "correct_option": 1,
+    "explanation": "This patient has evidence of a restrictive lung disease based on his spirometry readings and type II respiratory failure (compensated)on his blood gases.\nCoupled with his raised BMI, this would be in keeping with obesity hypoventilation syndrome.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "08f96102-645a-4996-8487-f18e3f2879fb",
+    "stem": "A 62-year-old man presented to the Emergency Department with sudden onset of left-sided chest pain and breathlessness. The pain cameon suddenly while he was sitting in an armchair in front of the television and was described as sharp. The pain was followed almostimmediately by a sensation of breathlessness.\nHis general health had been good, though he reported that he was usually breathless only on exertion, particularly walking up hills andwalking up the stairs in his house. For several years he has had a productive cough in the morning, producing clear or white sputum which heattributes to a smoker's cough. He had never noticed any blood in his sputum. His appetite was good and his weight has been steady.\nHe is a retired plumber who lived with his wife and two cats. He was a smoker of 20 cigarettes a day and had been since the age of 16 years;he drank approximately twelve units of alcohol per week. There was no family history of note and he had no known allergies. His regularprescribed medications included salmeterol 50 mg BD, tiotropium 18 mg OD, and Combivent PRN.\nInvestigations showed:\nHaemoglobin148 g/L(130-180)\nWhite cell count9.7 ×10/L (4-11)\nPlatelets 197 ×10/L (150-400)\nTroponin T<0.03 U/L(<0.03)\nThe ECG showed sinus rhythm, with a large P wave, but was otherwise unremarkable.\nThe chest radiograph showed hyperinﬂated lung ﬁelds with a small apical left pneumothorax with a 3 cm margin between the lung surfaceand the chest wall. His oxygen saturations by pulse oximetry were 88% on room air. He was given 24% oxygen in the Emergency department,but remained dyspnoeic with oxygen saturations of 91% on 24% oxygen.\nWhat should be the next step in his management?",
+    "options": [
+      "Increase the concentration of inspired oxygen to 28%",
+      "Insert an intercostal drainage tube",
+      "Undertake a pleural aspiration",
+      "Arrange CTPA",
+      "Discharge the patient home with repeat chest radiograph in seven days"
+    ],
+    "correct_option": 1,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "e881f688-2f6b-4c9b-9232-7c958af40a8f",
+    "stem": "This patient presented with a six month history of increasing dyspnoea and swollen legs.\nWhat is the diagnosis?",
+    "options": [
+      "Hypoalbuminaemia",
+      "Congestive cardiac failure",
+      "Bacterial endocarditis",
+      "Chronic renal failure",
+      "Yellow nail syndrome"
+    ],
+    "correct_option": 4,
+    "explanation": "Yellow nail syndrome is caused by hypoplastic lymphatics and is characterised by the triad of lymphoedema, pleural effusions andyellow discolouration of the nails.\nApproximately 40% of patients also have bronchiectasis.\nHypoalbuminaemia is associated with white nails (leukonychia).\nChronic renal failure may be associated with brown discolouration of the nails.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "f6d7d784-e0bc-47f6-adda-a0f1ff112237",
+    "stem": "A 24-year-old man presents to the Emergency department with a two hour history of pleuritic chest pain. He denies feeling breathless, withoxygen saturations of 96% on air.\nA chest x ray is performed and an observant CT1 recognises a small apical pneumothorax, which when measured is 1.8 cm.\nAccordingly to current guidelines, what intervention should be undertaken?",
+    "options": [
+      "Discharge with advice to return if symptoms worsen and follow up chest x ray in two weeks",
+      "Discharge with advice to return if symptoms worsen and follow up chest x ray in 48 hours",
+      "Aspirate and admit for 24 hours",
+      "Aspirate and discharge home after 12 hours if well",
+      "Intercostal chest drain insertion (Seldinger technique)"
+    ],
+    "correct_option": 0,
+    "explanation": "This question requires an understanding of the different types of pneumothorax and the current British Thoracic Society (BTS)guidelines for management.\nThis patient has a small pneumothorax with no known underlying lung disease and as such can be classed as a spontaneouspneumothorax. According to current BTS guidelines, if the patient is not breathless and the rim of air is less than 2 cm they can beconsidered for early discharge and repeat chest x ray in two weeks.\nA secondary pneumothorax in contrast always requires intervention.\nAspiration is less likely to be effective in a secondary pneumothorax and so if it fails or does not meet the above criteria, a chest drainneeds to be inserted.\nThe Seldinger technique using a 16G is the preferred method for this.\nReference:\nMaskell N. British Thoracic Society Pleural Disease Guidelines - 2010 update. Thorax. 2010;65:667-669.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "092e7487-83da-4d3a-ab69-218160b9bd37",
+    "stem": "A breathless patient undergoes pulmonary function testing.\nThe following results are obtained:\nFEV174% predicted\nFVC68% predicted\nTLC77% predicted\nTL 46% predicted\nK 53% predicted\nWhich of the following is the most likely cause ?",
+    "options": [
+      "Kyphoscoliosis",
+      "Chronic obstructive pulmonary disease",
+      "Morbid obesity",
+      "Idiopathic pulmonary ﬁbrosis",
+      "Asthma"
+    ],
+    "correct_option": 3,
+    "explanation": "The restrictive lung pattern together with the reduced TLCO and KCO suggest lung ﬁbrosis. Idiopathic pulmonary ﬁbrosis (IPF) alsoknown as usual interstitial pneumonitis (UIP), is a spontaneously occuring diffuse parenchymal lung disease. Complete pulmonaryfunction testing, chest x ray and high resolution CT scan of the chest are helpful in establishing the diagnosis.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "ea61a5f9-ed33-42d2-8603-553d4a08f78b",
+    "stem": "A 43-year-old HIV-positive man presented with this rash.\nHe had been treated for Pneumocystis jirovecii pneumonia (PCP) six months previously when he presented for the ﬁrst time. His currentmedication included highly active antiretrovial therapy (zidovudine [AZT], lamivudine [3TC] and nevirapine) and co-trimoxazole as PCPprophylaxis. His CD4 count was 210 cells/mm with an undetectable HIV viral load.\nWhat is the cause of his rash?",
+    "options": [
+      "Co-trimoxazole allergy",
+      "Nevirapine hypersensitivity",
+      "Correct option",
+      "Disseminated herpes simplex virus infection",
+      "Scabies"
+    ],
+    "correct_option": 2,
+    "explanation": "The slide shows the typical rash of herpes zoster (shingles), caused by VZV.\nHIV-positive patients are more prone to herpes zoster regardless of their CD4 count.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "0a8907a3-1fd2-4f97-b39d-eaff824cad43",
+    "stem": "A 72-year-old retired stone mason under follow up for silicosis and mild COPD attends the Emergency department with increasing shortnessof breath, productive cough and wheeze.\nOn examination his respiratory rate is 32, oxygen saturations 63% on air, pulse 126 bpm and BP 135/57 mmHg. A blood gas is performed on28% oxygen, revealing type II respiratory failure.\nHe is moved to ITU for level 2 care with non-invasive ventilation. He initially improves but then acutely deteriorates with dropping oxygensaturations. It is noted his BP is 126/56 mmHg.\nOn examination there are diminished breath sounds on the left, but increased resonance on percussion and reduced expansion. Trachea iscentral.\nWhat management should be initiated?",
+    "options": [
+      "Remove non-invasive ventilation",
+      "Aspirate left lung with a green needle (maximum 2L)",
+      "Insert a left interpleural chest drain",
+      "Emergency decompression with 14G cannula",
+      "Decrease IPAP"
+    ],
+    "correct_option": 2,
+    "explanation": "This patient has clinical evidence of a left sided pneumothorax but at present not a tension pneumothorax and needs managingappropriately.\nThe treatment of choice for a pneumothorax in a ventilated patient is insertion of a chest drain.\nIf the patient developed a tension pneumothorax it would need emergency decompression with a cannula followed by chest drain.\nThis patient needs to continue on NIV but needs a drain urgently.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "f275d109-5924-43ac-a982-4ea716fc824b",
+    "stem": "A 22-year-old lady was planning to emigrate to Australia and had a chest x ray undertaken as part of her visa requirements.\nThis demonstrated bilateral hilar lymphadenopathy but clear lung ﬁelds. It was reported as being suspicious of sarcoidosis. She was referredto the outpatients clinic.\nOn systems review in outpatients a two month history of arthralgia and a dry cough was elicited. She had no previous history of note butthree months ago she had had unprotected intercourse and took an HIV test which was negative. She had no other symptoms. She lived inZimbabwe until she was 16. She worked as a waitress.\nWhich one investigation is most likely to conﬁrm the diagnosis?",
+    "options": [
+      "Serum angiotensin converting enzyme (ACE) activity",
+      "Bronchoalveolar lavage",
+      "Transbronchial lung biopsy",
+      "Tuberculin test",
+      "High-resolution (HR) CT scan of chest"
+    ],
+    "correct_option": 2,
+    "explanation": "A HRCT scan of chest may reveal pulmonary abnormalities in sarcoidosis, such as multiple ill deﬁned opacities running along thebronchovascular bundles, lymphatics and interlobar septa even in the absence of plain CXR abnormalities.\nSerum ACE is elevated in about 70% of patients with active sarcoidosis but is not sensitive or speciﬁc and is therefore not helpful indiagnosis.\nHistological conﬁrmation is required to make the diagnosis with conﬁdence.\nTransbronchial lung biopsy will provide positive histology in about 80% of patients, is safe and can be done under sedation with localanaesthesia and is therefore the diagnostic investigation of choice.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "ae31631d-e5c4-4759-9eb6-84c6f4af4f61",
+    "stem": "A 56-year-old female presented with a four day history of breathlessness, cough and a high fever.\nShe gave a long history of indigestion and intermittent dysphagia to solids and liquids. She would often wake at night with episodes ofcoughing and spluttering. There was no history of weight loss. On examination she had a temperature of 39°C, resp rate of 30/min and a HRof 102. On auscultation of the lung ﬁelds there were coarse basal crackles.\nHer chest x ray on admission to hospital is shown.\nWhat is the cause of her illness?",
+    "options": [
+      "Hiatus hernia",
+      "Benign oesophageal stricture",
+      "Achalasia",
+      "Bronchiectasis",
+      "Pharyngeal pouch"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "4513da43-3be5-4b3f-9524-72a5d439894f",
+    "stem": "A 56-year-old builder presents with cough and breathlessness.\nHe is known to have chronic obstructive pulmonary disease and ulcerative colitis. He smokes up to 20 cigarettes a day.\nThe cough is productive of clear sputum up to 500 ml a day. He has had no haemoptysis. The breathlessness now restricts his exercisetolerance to 50 metres. He has lost over 2 stone in two months.\nExamination revealed dullness to percussion at the right lung base. His abdomen was generally tender but there was no guarding.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Alveolar proteinosis",
+      "incorrect option",
+      "Bronchiolitis obliterans with organising pneumonia",
+      "Correct option",
+      "Bronchopleural ﬁstula"
+    ],
+    "correct_option": 3,
+    "explanation": "Bronchioloalveolar cell carcinoma of the lung accounts for around 5% of all primary lung carcinomas.\nThe classic massive clear frothy sputum that is produced by patients with this cancer is a late manifestation but can be up to onelitre a day. Other symptoms are dyspnoea, weight loss and chest pain.\nAlmost a half of patients are diagnosed on routine CXR, usually demonstrating a peripheral lesion.\nIts name arises from its pattern of growth along the alveolar walls without actually destroying them.\nIt is an adenocarcinoma.\nIn those whose tumour is not resectable, prognosis is poor.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "6f2e4d86-4cbb-4f9c-bf2d-0d525e1a8d8c",
+    "stem": "A 45-year-old retired coal miner with simple silicosis presented with shortness of breath.\nHe retired early and received a coal workers' pension. He had been short of breath for three months. He has kept budgerigars as pets for thelast three months. On auscultation he had basal crepitations but CXR showed ﬁne nodular shadowing in the apices.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Hypersensitivity pneumonitis",
+      "Progressive silicosis",
+      "Tuberculosis",
+      "Allergic bronchopulmonary aspergillosis",
+      "Psittacosis"
+    ],
+    "correct_option": 0,
+    "explanation": "Silicosis usually results in small nodular opacities in the mid and upper zones. There may be associated hilar gland enlargementwhich may calcify producing characteristic 'eggshell' calciﬁcation. These radiological shadows are not usually associated withsymptoms or loss of lung function.\nHypersensitivity pneumonitis (HP) is an inﬂammatory reaction to inhaled organic dusts of which there are many causes such asSaccharopolyspora rectivirgula and Thermoactinomyces vulgaris (farmer's lung), Thermoactinomyces sacchari (bagassosis), A.clavatus (malt worker's lung), etc.\nBird fancier's lung is HP caused by the inhalation of avian serum proteins present particularly in the bloom of birds' feathers. It occursmost commonly among pigeon fanciers and budgerigar owners the latter usually presenting with a chronic HP. Patients presentwith a progressive dyspnoea on exertion. Inspiratory crackles are heard on auscultation of the lungs. CXR shows ﬁne linear opacitiesin the upper lobes which may progress to honeycombing.\nThe diagnosis of HP is based on typical clinical, radiological and lung function changes in the presence of an identiﬁed source ofantigen with positive precipitating antibodies in the patient's serum to the causal antigen.\nImprovement of clinical abnormalities following avoidance of the causal antigen helps conﬁrm the diagnosis.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "e2e2f877-4327-4f77-9002-6012f36fb6fc",
+    "stem": "A 51-year-old lady presents with a sudden onset of shortness of breath and right-sided chest pain.\nShe has a history of recurrent pneumothoraces and has had a pleurodesis in 2005. There is no history of any recent ﬂights or trauma and sheis a non-smoker. Past medical history includes endometriosis for which she takes depot progesterone injections every three months. Onexamination, she is of average height and stature.\nObservations: oxygen saturations 98% on air, blood pressure 138/90 mmHg, heart rate 65/min, RR 30.\nExamination of the chest reveals a hyper-resonant note and decreased air entry in the right base; the trachea is central.\nChest x ray reveals a 3.2 cm rim of air around the lung.\nHow would you like to manage this patient?",
+    "options": [
+      "Discharge with advice, for outpatient follow up",
+      "Admit and insert chest drain with underwater seal",
+      "Admit, aspirate, repeat x ray and monitor for 24 hours",
+      "Admit, aspirate under ultrasound guidance and monitor for 24 hours",
+      "Admit, monitor, high ﬂow oxygen"
+    ],
+    "correct_option": 1,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "11b6ee85-2a96-435c-af07-6baa3442709b",
+    "stem": "A 21-year-old woman comes to the respiratory clinic for review. She is a keen runner but over recent months has suffered increasingproblems with wheeze and shortness breath a short time after the onset of exercise. She has tried using a salbutamol inhaler shortly beforeexercise, but this is as yet ineffective. There is no previous history of smoking, and she takes no regular medication.\nOn examination her BP is 105/70, pulse is 62 and regular. Her chest is clear. Abdomen is soft and non-tender and her BMI is 22. Peak ﬂow is510 (525 predicted).\nWhich of the following is the most appropriate next step?",
+    "options": [
+      "incorrect option",
+      "High dose inhaled corticosteroid",
+      "Oral theophylline",
+      "Correct option",
+      "Oral salbutamol"
+    ],
+    "correct_option": 0,
+    "explanation": "The answer is C), Oral montelukast. This patient is symptom free outside periods of exercise, as such a targeted therapy for exerciseinduced asthma, such as montelukast, is the most appropriate intervention. In the event it was ineffective, then low dose inhaledcorticosteroid would be the most appropriate next step.\nHigh dose corticosteroids, inhaled LABA, oral salbutamol, and theophylline are inappropriate because the logical therapy escalationfor exercise induced asthma is well established. In the event that montelukast is ineffective, low inhaled corticosteroids are the nextstep, followed either by an increase in corticosteroids or addition of an LABA. Oral salbutamol and oral theophylline are therapyescalation steps reserved for patients with severe chronic asthma resistant to other interventions.\nReferences:\nScenario: Management of exercise-induced asthma",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "73ee8418-9161-4e91-9afc-1489bb54a797",
+    "stem": "A 55-year-old male is admitted to the intensive care unit with respiratory failure. He is intubated, sedated and ventilated. A nasogastric tubeis inserted to facilitate early enteral feeding.\nWhich one of the following is the most important ﬁrst line investigation that will establish correct positioning of the tube in the stomach?",
+    "options": [
+      "Use a magnet tracking device",
+      "Chest x ray",
+      "pH testing of gastric aspirate using non-quantitative litmus paper",
+      "pH testing of gastric aspirate using indicator paper",
+      "Inject air into the nasogastric tube with a syringe and auscultate the epigastric area for bubbling sounds"
+    ],
+    "correct_option": 3,
+    "explanation": "The misplacement of a nasogastric tube (NG) in the lungs and proceeding to 'enteral feeding' is a potential cause of death. TheNational Patient Safety Agency (NPSA) and Medical Protection Society (MPS) have highlighted the potential for catastrophe andsuggested methods of preventing such 'never-events'. Between 2005 and March 2011 the NPSA were notiﬁed of 21 deaths and 79cases of harm secondary to a misplaced NG tubes.\nThe ﬁrst line test to conﬁrm",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "8712dcf5-02fb-4779-acd1-303300a28d66",
+    "stem": "The following arterial blood gases (ABGs) were taken from an unconscious 45-year-old man in the Emergency department on FiO of 21%:\npH 7.36 (7.36-7.44)\npO 13.0 kPa(11.3-12.6)\npCO 3.7 kPa(4.7-6.0)\nHCO 15 mmol/L(20-28)\nWhich is the correct interpretation of the ABG result?",
+    "options": [
+      "Delayed analysis of ABG sample",
+      "Compensated metabolic alkalosis",
+      "Compensated respiratory acidosis",
+      "Compensated metabolic acidosis",
+      "Compensated respiratory alkalosis"
+    ],
+    "correct_option": 3,
+    "explanation": "The pH and bicarbonate results suggest that there is an acidosis. In a respiratory acidosis one would expect the carbon dioxide to behigh. In this case the CO is low, favouring metabolic acidosis.\nSome degree of respiratory compensation of the acidosis is seen. Typically, a patient's respiratory rate increases with increasedrespiratory effort. This allows some of the excess H to be excreted as CO helping to prevent large variations in pH.\nH + HCO  →  HO + CO\nThis deep and rapid breathing can lead to oxygen levels which are high or high-normal. An alternative explanation for the highoxygen levels here is that the patient may be receiving oxygen therapy in the Emergency department.\nDelayed analysis of an ABG sample can result in a spuriously low pO. There is no reason to suspect this has occurred in this case.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "21a4e277-af58-45ce-954d-f98487283af7",
+    "stem": "A 19-year-old male is brought to the Emergency department after having a generalised seizure.\nHe has a known history of epilepsy and vomited whilst having the seizure.\nOn examination the patient is drowsy but responsive to verbal commands. His clothing is covered in vomitus. He is febrile, 38.5°C. Onauscultation of his chest, there are coarse crackles in the right upper and mid zones. His chest radiograph shows diffuse right upper lobarairway shadowing.\nWhich of the following combinations of antibiotics should be started?",
+    "options": [
+      "Erythromycin + rifampicin",
+      "Ceftazidime + erythromycin",
+      "Co-amoxiclav + metronidazole",
+      "Penicillin + gentamicin",
+      "Co-trimoxazole"
+    ],
+    "correct_option": 2,
+    "explanation": "This patient clearly has aspiration pneumonia and the only appropriate treatment would be co-amoxiclav and metronidazole.Aspiration pneumonia causes a combination of bacterial and chemical pneumonitis. Organisms involved include Staph aureus &Strep pneumoniae, but also anerobes e.g. Peptostreptococci and Fusobacterium.\nMonotherapy would be insuﬃcient in a case of aspiration pneumonia. The co-amoxiclav is used primarily to cover aerobes andfacultative aerobes, and the metronidazole targets anaerobes.\nThey are required in conjunction to offer optimal cover. In cases of serious side effects, the regime would need to be re-considered",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "f40ea52d-1941-4c8e-bc78-251da8fb6e9f",
+    "stem": "An 18-year-old student presented with sudden onset of left sided chest pain and breathlessness.\nHe had a history of cardiac surgery as a child. He smoked ten cigarettes a day. He denied any alcohol or illicit drug use. He had returned froma holiday in Thailand ten days ago.\nOn examination he was tall and thin. There was no clubbing or lymphadenopathy. He was not cyanosed. He had a resting tachycardia andthere was an audible click with expiration.\nWhat is the likely underlying diagnosis?",
+    "options": [
+      "Tietze's syndrome",
+      "Viral pericarditis",
+      "Pulmonary embolism",
+      "Mitral valve prolapse",
+      "Marfan's syndrome"
+    ],
+    "correct_option": 4,
+    "explanation": "Sudden onset chest pain and breathlessness are most likely due to a PE or pneumothorax.\nHamman's sign (or 'crunch') is a crunching systolic sound heard over the sternal edge in mediastinal emphysema or left apicalpneumothoraces.\nIt can be dependent on the patient's position when auscultating.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "2bd22539-5066-436f-a506-6d820e837413",
+    "stem": "A 41-year-old man presents with generalised weakness, starting in the feet and hands, spreading up the limbs and now making swallowingdiﬃcult. He had an episode of food poisoning last week which has now resolved.\nWhich of the following results is most likely to predict the imminent need for invasive ventilation?",
+    "options": [
+      "Peak expiratory ﬂow rate of less than 50% predicted",
+      "Positive anti-GD3 titre",
+      "Nerve conduction studies consistent with Guillain-Barré syndrome",
+      "CSF protein count of 500 mg/dL",
+      "Forced vital capacity of 1.4 L"
+    ],
+    "correct_option": 4,
+    "explanation": "Guillain-Barré syndrome (GBS) is an acute peripheral ascending polyneuropathy. It often follows an infective trigger, commonlyCytomegalovirus, Campylobacter or inﬂuenza. Critical care support is often needed if there is respiratory muscle involvement, whichpresents with a restrictive-type pattern on spirometry.\nThe ratio of FEV1/FVC is normally well maintained and therefore measures of maximal expiratory effort (for example, peak ﬂow) maygive a falsely high reassuring reading. FVC is a more sensitive indicator of respiratory muscle dysfunction and a better indication ofthe need for ventilation.\nAutonomic dysfunction is another potentially severe complication of GBS.\nAlthough a raised protein CSF,  nerve conduction studies consistent with Guillain-Barré syndrome and positive anti-GD3 titre are allinvestigations that support the diagnosis, they do not correlate with severity.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "4c825f3b-e9e9-4fae-ba7e-985cb1136545",
+    "stem": "A 54-year old man without a history of trauma is admitted to the Emergency department with pleuritic chest pain. He has smoked  10-20cigarettes a day for 35 years.\nA standard erect PA chest radiograph shows a 3 cm apical secondary pneumothorax.\nWhich one of the following options is the most appropriate initial management strategy?",
+    "options": [
+      "Admit and perform a CT scan to establish the size of the pneumothorax",
+      "Discharge and review in the outpatient department in two to four weeks",
+      "Aspirate air with a 16-18 SWG cannula",
+      "Correct option",
+      "Insert a large bore chest drain (>20 FG) and attach to an underwater seal drain"
+    ],
+    "correct_option": 3,
+    "explanation": "The patient has a secondary pneumothorax, is more than 50 years of age and has a signiﬁcant smoking history.\nThe British Thoracic Society clinical guidelines indicate that a pneumothorax of greater than 2 cm or patient breathlessness warrantthe insertion of a small bore chest drain (8-14 SWG). There are no advantages in the insertion of a large bore chest drain as it usuallymore painful and delays discharge. Needle aspiration is appropriate if the pneumothorax is 1-2 cm in this risk group.\nA CT scan is a 'gold-standard' investigation in the detection and establishing the exact size of small pneumothoraces. It is also usefulin determining the extent of any other lung pathology. The practicalities of organising and performing a CT scan often preclude itsusefulness, especially when a decision is already made to insert a chest drain.\nThe pneumothorax is too big to risk discharge and review at such a long time interval.\nReference:\nMacDuff A, et al. Management of spontaneous pneumothorax: British Thoracic Society Pleural Disease Guideline 2010. Thorax.2010;65:ii18-31.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "47d024b8-323e-4d97-9821-36eb7f101546",
+    "stem": "A 55-year-old man presented to the outpatient clinic with a six month history of breathlessness, wheeze and a non-productive cough. he had been given a salbutamol inhaler by his GP which had not signiﬁcantly improved his symptoms.\nHe was presently unemployed, but had worked for 20 years in a nearby coal mine. He had smoked since the age of 20 and had a twenty packper year smoking history. He was particularly concerned as his father had died of emphysema at the age of 65.\nClinical examination revealed a hyperinﬂated chest with reduced breath sounds, scattered rhonchi throughout the chest and a prolongedexpiratory phase. His heart sounds were quiet but no murmurs could be heard. Examination of his abdomen was normal.\nSpirometry revealed:\nActual (L)Predicted (%)\nFVC 3.298\nFEV1 2.070\nFEV1/FVC62.5\nWhich one of the following options most strongly supports a diagnosis of COPD?",
+    "options": [
+      "No variability in peak expiratory ﬂow rate over the past two months",
+      "Occupational exposure to coal dust",
+      "Positive family history of COPD",
+      "Twenty pack year smoking history",
+      "An increase in FEV1 of 12% post bronchodilator"
+    ],
+    "correct_option": 0,
+    "explanation": "Chronic obstructive pulmonary disease (COPD) is characterised by progressive decline in lung function as a result of airﬂowobstruction. Symptoms and peak ﬂow values do not change markedly from day to day, in marked contrast to asthma.\nAlthough the majority of patients with COPD will have a signiﬁcant history, many patients with asthma will also be smokers.\nCoal dust exposure has not been deﬁnitively linked to COPD, but this association is diﬃcult to prove since most coal workers weresmokers.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "05110b8d-d8dc-4c97-b026-065068947bcc",
+    "stem": "A 26-year-old man presents with haemoptysis.\nHe has had a productive cough since childhood and suffered from recurrent sinusitis. He was known to be infertile.\nInvestigations revealed normal immunoglobulins, normal sweat sodium and negative skin prick tests for grass pollen, house dust mite andaspergillus.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Situs inversus",
+      "Cystic ﬁbrosis",
+      "Bronchiolitis",
+      "Bronchiectasis",
+      "Primary ciliary dyskinesia"
+    ],
+    "correct_option": 4,
+    "explanation": "Primary ciliary dyskinesia is a hereditary condition in which there is partial or complete deﬁciency of outer or inner dynein arms ofcilia causing slow and poorly co-ordinated ciliary beating throughout the body.\nPatients suffer from bronchiectasis and sinusitis. They are infertile because of the reduced motility of the sperm. It is associated in50% of cases with dextrocardia and situs inversus when it is called Kartagener's syndrome.\nPatients with cystic ﬁbrosis also have bronchiectasis and sinusitis and are infertile as the vas deferens fails to develop. Patients withcystic ﬁbrosis have an abnormal sweat test with high levels of sodium and chloride although care needs to be taken with interpretingthe test in adults. The diagnosis is usually conﬁrmed by determining the patient's genotype.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "23f68554-382c-4f6b-a45a-0c1901f33557",
+    "stem": "The structure shown below was identiﬁed on microscopy of a sputum sample from a patient who presented with haemoptysis.\nHe has an abnormal chest radiograph.\nWhat treatment should be started?",
+    "options": [
+      "Intravenous vancomycin",
+      "Intravenous amphotericin B",
+      "Intravenous cefotaxime",
+      "Intravenous amoxicillin/clavulanic acid + clarithromycin",
+      "Isoniazid + rifampicin + ethambutol + pyrazinamide"
+    ],
+    "correct_option": 1,
+    "explanation": "The slide shows the typical morphology of Aspergillus fumigatus.\nThe patient will need treatment with amphotericin.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "2b6a8f3b-eb80-41ec-b0a9-b741d0c8cb85",
+    "stem": "A 20-year-old man was admitted to the Emergency department with chest pain and breathlessness.\nA large right sided pneumothorax was conﬁrmed and successfully treated with chest tube drainage. He had been admitted six months earlierwith a right sided pneumothorax which had also been treated with chest tube drainage. He was a non-smoker and had no other signiﬁcantpast medical history.\nAfter 24 hours his lung had fully re-expanded and his condition was stable.\nWhat is the most appropriate next step in his management?",
+    "options": [
+      "Do nothing",
+      "Arrange for talc pleurodesis during this admission",
+      "Refer to a thoracic surgeon for pleurectomy and bullectomy",
+      "Arrange for bleomycin pleurodesis during this admission",
+      "Arrange a bronchoscopy to investigate any underlying broncho-pleural ﬁstula"
+    ],
+    "correct_option": 2,
+    "explanation": "The management of choice for a second unilateral pneumothorax in a ﬁt individual is referral for bullectomy and pleurectomy. This isconducted under video assisted guidance. Also known as video assisted thoracoscopic surgery (VATS).\nUntil then, activities such as diving and ﬂying are contraindicated.\nPleurodesis could be considered in elderly or frail individuals, but is not suitable in this patient.\nAs his lung has re-expanded, there will be no broncho-pleural ﬁstula.\nReference:\nBritish Thoracic Society. Pleural Disease Guideline 2010. Thorax. 2010;65:667-669.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "f0b953e5-1189-429a-b38d-860039ca5d33",
+    "stem": "A 60-year-old stonemason attends respiratory clinic with a two year history of increasing breathlessness.\nHe is an ex-smoker with a 40 pack year history.\nOn examination he looked well. His chest was hyperexpanded and had bibasal inspiratory crackles. He was not clubbed nor had he anylymphadenopathy.\nHis spirometry shows:\nFEV39%predicted\nFVC72%predicted\nK 53%predicted\nChest x ray reported hilar eggshell calciﬁcation and some upper zone ﬁbrotic changes.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Byssinosis",
+      "Silicosis",
+      "Asbestosis",
+      "Simple pneumoconiosis",
+      "Berylliosis"
+    ],
+    "correct_option": 1,
+    "explanation": "This patient has lung ﬁbrosis and his employment is vital in the diagnosis.\nSilicosis is a ﬁbrotic lung disease associated with the inhalation of silicon dioxide (silica). It is usually found in quarry workers orminers and also sandblasters, pottery workers and stonemasons (if the dust contains quartz).\nDiagnosis is made on industrial history and typical chest x ray changes.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a870a7a1-d1a6-4d73-aebe-b5ab6ec30b3c",
+    "stem": "A 26-year-old man was referred to the emergency unit by his general practitioner with a four hour history of exertional dyspnoea.\nHe experienced undue breathlessness on climbing three ﬂights of stairs associated with mild chest discomfort. The discomfort andbreathlessness eased within a few minutes of rest, but recurred when he continued to climb the stairs.\nOn examination, he appeared well. His pulse was 80 beats per minute in sinus rhythm with blood pressure 120/65 mmHg. On auscultation ofhis chest there was a loud clicking sound at the lower left sternal border that was synchronised with his heartbeat.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Rib fracture",
+      "Spontaneous pneumothorax",
+      "Acute non-Q wave myocardial infarction",
+      "Pericarditis",
+      "Mitral valve prolapse"
+    ],
+    "correct_option": 1,
+    "explanation": "A clicking noise that is synchronised with the heart beat is a less common, but well-recognised ﬁnding in patients with spontaneouspneumothorax.\nIt appears to be commoner in patients with small left-sided pneumothoraces.\nThe sound is different from the crunching noise that occurs in pneumomediastinum (Hamman's sign).\nReference:\nMacDuff A, Arnold A, Harvey J. Management of spontaneous pneumothorax: British Thoracic Society Pleural Disease Guideline 2010.Thorax. 2010;65:ii18-31.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "3f2c7788-6065-476f-9638-49aa1593fa74",
+    "stem": "A 14-year-old boy with a known nut allergy was admitted to the Emergency department following the accidental ingestion of a pistachio nutbiscuit.\nOn examination he had audible stridor and looked peripherally shut down. His blood pressure was 70/50 mmHg, oxygen saturations 86% onroom air and respiratory rate of 26 breaths per minute. His pulse was feeble.\nWhat is the most appropriate immediate management?",
+    "options": [
+      "Correct option",
+      "Subcutaneous adrenaline",
+      "Intravenous adrenaline",
+      "Intravenous antihistamine",
+      "Intravenous hydrocortisone"
+    ],
+    "correct_option": 0,
+    "explanation": "Anaphylactic shock requires urgent treatment with adrenaline, which is absorbed at a faster rate intramuscularly thansubcutaneously.\nIn this scenario, waiting to obtain intravenous access in a peripherally shutdown patient could prove fatal.\nAlthough hydrocortisone and antihistamine therapy are indicated in this patient, they will take hours to work and will have no effecton shock.\nReference:\nResuscitation Council (UK). Resuscitation guidelines.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "acaa33f4-cbd4-4118-9b2d-60dad25de4ba",
+    "stem": "A 61-year-old man with moderately severe COPD was admitted to the Emergency department after collapsing at home in front of his wife.Whilst in the ambulance en route to the hospital he had two episodes of ventricular tachycardia with loss of cardiac output, both of whichrevert to sinus rhythm with a single 200 joule shock.\nOn arrival at the hospital, the medical staff were informed by his wife that he has been unwell for the past week with a lower respiratory tractinfection, but did not want to bother his general practitioner. He had been breathless, wheezy and coughing up copious amounts of sputum.Over the past 24 hours his symptoms had deteriorated markedly and he had become drowsy.\nHe had a 40 pack year smoking history but had given up for over 10 years. Although disabled by his breathlessness he led an active life andhad a good quality of life. He had never been admitted to hospital before.\nOn clinical examination he was drowsy with a GCS of 8/15. He was tachypnoeic with a respiratory rate of 40 breaths per minute and wastaking very shallow breaths. His pulse was measured at 150 per minute and the cardiac monitor showed him to be in sinus rhythm. Hisoxygen saturations were 68% on 40% inhaled oxygen. Auscultation of his chest reveals feeble breath sounds bilaterally with a polyphonicwheeze.\nHis arterial blood gases on 40% oxygen are shown below:\npH 7.18 (7.36-7.44)\npO 5.8 kPa(11.3-12.6)\npCO9 kPa (4.7-6.0)\nHCO16 mmol/L(20-28)\nHe is commenced on nebulised bronchodilators and given 200 milligrams of hydrocortisone.\nWhat is the most appropriate management for this gentleman?",
+    "options": [
+      "Commence intravenous aminophylline",
+      "Increase his inspired oxygen to 60% via venturi mask and repeat the blood gas in 30 minutes",
+      "Commence intravenous magnesium",
+      "Decrease inspired oxygen to 28% via venturi mask and repeat the blood gas analysis in 30 minutes",
+      "Request immediate intubation and invasive ventilation."
+    ],
+    "correct_option": 4,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "e3a681cc-e644-4d86-bc93-539a71c1eaa3",
+    "stem": "A 65-year-old man presented with an upper respiratory tract infection.\nHe had a longstanding history of occupational lung disease. Despite maximal therapy he developed respiratory failure and died.\nA post-mortem examination was requested as he had been an inpatient for less than 24 hours. Lung histology is shown.\nOn the basis of the lung histology, which of the following agents was most likely responsible for his occupational lung disease?",
+    "options": [
+      "Silicon dioxide",
+      "Magnesium silicate",
+      "Beryllium",
+      "Asbestos",
+      "Coal dust"
+    ],
+    "correct_option": 0,
+    "explanation": "The lung histology shows non-caseating granulomata, a characteristic feature of berylliosis.\nAsbestos exposure can lead to pulmonary ﬁbrosis, pleural plaques and mesothelioma.\nOccupational exposure to the other options listed has the potential to induce pulmonary ﬁbrosis.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "1dd3fe7c-7a61-4324-b6f8-f9eae8b09bbb",
+    "stem": "A 55-year-old former shipyard worker complained of increasing breathlessness.\nHe undergoes pulmonary function tests and the results are as follows:\nTest PredictedActual\nFEV (L) 4.4 3.5\nFVC (L) 4.9 4.0\nTL (mmol/min/kP) 10.3 6.8\nK  (mmol/min/kP/L)1.9 2.3\nWhat is the most likely diagnosis?",
+    "options": [
+      "Emphysema",
+      "Asbestosis",
+      "Mesothelioma",
+      "Pulmonary ﬁbrosis",
+      "Chronic bronchitis"
+    ],
+    "correct_option": 1,
+    "explanation": "FVC is reduced much more than FEV1, which would be in keeping with a restrictive defect. This may arise from either pulmonaryﬁbrosis or extrapulmonary cause such as pleural disease.\nThe raised K would be in keeping with extrapulmonary disease with unimpaired gas transfer (pulmonary ﬁbrosis has both reduced\nTL and K).\nThis gentleman's occupational history is key, making him at risk from both mesothelioma and asbestosis. In the question theabsence of other features of mesothelioma (pain, weight loss, etc.) makes asbestosis the most likely diagnosis. Asbestosisspeciﬁcally refers to the pneumoconiosis caused by inhalation of asbestos ﬁbres. The disease is characterized by slowly progressive,diffuse pulmonary ﬁbrosis.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "32a60678-1d03-4510-9402-73d9ad92484e",
+    "stem": "A 29-year-old woman is admitted to hospital with pleuritic chest pain and shortness of breath.  She has a past medical history of asthmawhich is usually well controlled. \nShe drinks 24 units of alcohol per week and smokes 15 cigarettes a day.  Physical examination is unremarkable.  A chest x ray is performedand the ﬁlm is shown below. \nWhat is the underlying diagnosis?",
+    "options": [
+      "Pleural effusion",
+      "Correct option",
+      "Pneumonia",
+      "Pulmonary embolus",
+      "Acute exacerbation of asthma"
+    ],
+    "correct_option": 1,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "0d40593b-3f5a-4a22-a760-39071dc1524a",
+    "stem": "This 60-year-old man presented to his general practitioner with a three month history of proximal muscle weakness. There is a barelyperceptible purple rash on sun exposed areas, but more noticeable over the knuckles.\nHe was a smoker of 20 cigarettes a day for 40 years.\nWhat is the diagnosis?",
+    "options": [
+      "Polymyalgia rheumatica",
+      "Myotonic dystrophy",
+      "Cushing's syndrome",
+      "Ectopic parathyroid hormone production",
+      "Dermatomyositis"
+    ],
+    "correct_option": 4,
+    "explanation": "Dermatomyositis is an autoimmune disease characterised by polymyositis and a skin rash.\nThe classic purple (heliotrope) rash is seen on sun-exposed areas, especially the eyelids, nose, cheeks, forehead, knees, knuckles andaround the nail beds. The rash may be pruritic.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d71bbddb-57ad-42e3-8477-51968fb72b06",
+    "stem": "An 81-year-old man was admitted to hospital from a residential home after developing chest pain. He had a past history of ischaemic heartdisease, having suffered a myocardial infarction eight years previously. Following his previous infarction, he had developed congestivecardiac failure which was well controlled with medication.\nHe had no other past history of note, apart from an injury during his time in the armed services sixty years previously when he sustained achest injury when he was hit by shrapnel while serving in North Africa. His medications included aspirin, ramipril and furosemide. He hadbeen born and raised in India, but had lived in the United Kingdom for all of his adult life, where he had worked as a secondary school teacherand latterly a headmaster of a boys' boarding school.\nHis ECG showed lateral ST segment elevation and his serum troponin T was elevated. His chest x ray showed pleural calciﬁcation at the rightbase.\nSelect the most likely cause of pleural calciﬁcation in this patient.",
+    "options": [
+      "Mesothelioma",
+      "Primary hyperparathyroidism",
+      "Occupational exposure to chalk dust",
+      "Childhood measles",
+      "Correct option"
+    ],
+    "correct_option": 4,
+    "explanation": "Unilateral pleural calciﬁcation most commonly occurs as a chronic change secondary to pleural infection (particularly tuberculousempyema), pyogenic empyema, or haemothorax. Unilateral pleural calciﬁcation rarely is related to asbestos exposure.\nBilateral calciﬁed pleural plaques are usually considered asbestos-related.\nOther rarer causes of bilateral disease include radiation exposure, hyperparathyroidism, pulmonary infarction, and pancreatitis.\nThe most likely explanation for pleural calciﬁcation in this patient is either old TB empyema or as a result of haemothorax from hiswar injury.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "91ba35da-d145-49d9-adc0-7e1bbb7dc7c1",
+    "stem": "A 65-year-old man presented with a four week history of pleuritic chest pain associated with shortness of breath and dry cough. He alsoreported weight loss of nearly 10 kg in the past six months.\nHe had a past history of myocardial infarction 20 years earlier from which he had made a good recovery. He did not suffer from any exertionalchest pain subsequently.\nHe lived alone and had not seen his general practitioner for two years. He seldom saw his general practitioner, but had attended the surgerytwice recently with mild recurrent pain in his left knee that responded well to treatment with simple analgesia. He was an ex-smoker of 15cigarettes per day, having given up smoking 10 years previously. His only medication was aspirin.\nOn examination of his chest he had reduced expansion, dull percussion note and decreased breath sounds on the right. A chest x rayconﬁrmed a right-sided pleural effusion.\nAnalysis of a pleural aspirate revealed:\nPleural ﬂuid protein content42 g/L\nPleural ﬂuid glucose2.0 mmol/L\nWhat is the likely diagnosis?",
+    "options": [
+      "Cardiac failure",
+      "Bronchial carcinoma",
+      "Tuberculosis",
+      "Rheumatoid arthritis",
+      "Mesothelioma"
+    ],
+    "correct_option": 1,
+    "explanation": "The pleural ﬂuid protein is greater than 35 g/L which demonstrates it is an exudate and effectively excludes cardiac failure.\nIf pleural ﬂuid protein is 25-35 g/L then Light's criteria are more accurate in determining whether the effusion is an exudate ortransudate. It is an exudate if one or more of the following criteria are met1. Pleural ﬂuid protein divided by serum protein greater than  0.52. Pleural ﬂuid lactate dehydrogenase (LDH) divided by serum LDH greater than 0.6",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "7e91dff8-510c-4943-8170-868e4eb06002",
+    "stem": "A drowsy 23-year-old student is brought in to the Emergency department by her friend. The patient lives alone in a one bedroom ﬂat. She isnormally ﬁt and well although had recently been complaining of diﬃculty concentrating in lectures.\nShe smokes 20 cigarettes a day. She was on no medication and had no previous medical history of note. She had vomited.\nOn examination she was ﬂushed. She had a bounding pulse of 120 beats per minute. Her blood pressure was 180/100 mmHg. Oxygensaturations were normal.\nInitial investigations showed:\nHaemoglobin128 g/L(115-165)\nWhite cell count10.5 ×10/L (4-11)\nPlatelets 280 ×10/L (150-400)\nSerum sodium134 mmol/L(137-144)\nSerum potassium3.6 mmol/L(3.5-4.9)\nSerum urea7.4 mmol/L(2.5-7.5)\nSerum creatinine80 µmol/L(60-110)\nDrug screenNegative\nArterial blood gases on air:\npO8.6 kPa(11.3-12.6)\npCO4.7 kPa(4.7-6.0)\npH7.42(7.36-7.44)\nThe chest x ray was normal.\nWhat investigation would conﬁrm the diagnosis?",
+    "options": [
+      "Electroencephalogram",
+      "Lumbar puncture",
+      "Blood lactate",
+      "Blood glucose",
+      "Carboxy haemoglobin"
+    ],
+    "correct_option": 4,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "def512a0-6f60-4e6f-87b6-cca2ae54bad2",
+    "stem": "A 58-year-old man presents with shortness of breath. His respiratory function tests are shown below:\nLung function testActualPredicted\nFEV(l) 2.4 3.0\nFVC (l) 2.8 3.8\nRV (l) 1.4 2.0\nTlco (mmol/min/kPa)6.2 7.4\nKCO (mmol/min/kPa/l)1.7 1.4\nWhich of the following is the most likely diagnosis?",
+    "options": [
+      "Emphysema",
+      "Anaemia",
+      "Hypersensitivity pneumonitis",
+      "Idiopathic pulmonary ﬁbrosis",
+      "Pleural thickening"
+    ],
+    "correct_option": 4,
+    "explanation": "This patient's FEV and FVC are both reduced producing a restrictive picture on spirometry. This is conﬁrmed by the small RV.\nTlco is also reduced in restrictive defects but the elevated Kco is in keeping with extrapulmonary restriction. This can be caused bypleural disease such as pleural thickening, respiratory muscle weakness and chest wall disease such as thoracoplasty or scoliosis.\nEmphysema produces an obstructive spirometry with increased RV but decreased Tlco.\nIdiopathic pulmonary ﬁbrosis produces a restrictive picture but Kco is normally reduced although it can be normal but is neverelevated.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "e7524449-9aa8-4b59-9e7a-c55ccd62b63d",
+    "stem": "A 53-year-old lady is referred to the chest clinic with a history of recurrent chest infection and episodic wheezing.\nThe only other medical history she provides is that she thinks she is in menopause as she is having frequent ﬂushing attacks. She has a 10pack year history.\nA chest x ray was requested by the GP and the report is as follows:\n\"There is right upper lobe collapse. The remaining lung ﬁelds are clear, with no masses identiﬁed. The heart is unremarkable.\"\nWhat is the most likely diagnosis?",
+    "options": [
+      "COPD",
+      "Churg-Strauss syndrome",
+      "Lymphoma",
+      "Phaeochromocytoma",
+      "Correct option"
+    ],
+    "correct_option": 4,
+    "explanation": "This lady may have an obstructive lesion as evidenced by the right upper lobe collapse and recurrent chest infections.\nShe is likely to have bronchial carcinoid, a form of neuroendocrine tumour. They usually arise from the large bronchi and secreteserotonin. They may present with obstructive symptoms caused by the growing mass in the airway - wheezing, recurrent chestinfections, haemoptysis - although they are often asymptomatic.\nSystemic symptoms are usually found when there are metastases in the liver - carcinoid syndrome, but can very occasionally occurin localised bronchial carcinoid as the bronchial tree drains into the systemic circulation.\nCOPD is less likely given the history of ﬂushing and lobar collapse.\nPhaeochromocytoma may account for the ﬂushing but not the other symptoms.\nLymphoma can result in obstructive lesions but one would expect enlarged mediastinal lymph nodes, as well as palpablelymphadenopathy.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "c1466e45-65db-4da0-88d9-4612d75f6160",
+    "stem": "A 60-year-old lady undergoing treatment for acute leukaemia attends the haematology clinic complaining of cough, wheeze, occasionalhaemoptysis and fever.\nA chest x ray demonstrates the classical air crescent sign. A galactomannan test is performed which is positive.\nBased on the above information, what is the most likely diagnosis?",
+    "options": [
+      "Tuberculosis",
+      "Aspergillosis",
+      "Streptococcal pneumonia",
+      "Staphylococcal pneumonia",
+      "Pneumocystis pneumonia"
+    ],
+    "correct_option": 1,
+    "explanation": "Aspergillosis is a fungal infection, and develops mainly in individuals who are immunocompromised. It is a leading cause of death inacute leukaemia and haemopoietic stem cell transplantation.\nSigns and symptoms include cough, haemoptysis, chest wall pain, fever and shock.\nIt is often seen on chest x rays and CT scan, and demonstrates an air crescent sign. Other investigations include microscopy and thegalactomannan test.\nPneumocystis pneumonia and tuberculosis are also found in immunocompromised individuals however the information provided ismore in keeping with a diagnosis of aspergillosis.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "b65a6b87-89b1-406d-93af-20d1f70de6ea",
+    "stem": "A 19-year-old male was admitted to hospital with a two-day history of nausea and vomiting.\nHe had been diagnosed with asthma since the age of 4 years and had been admitted to hospital one year previously with acute severeasthma that had required admission to level 2 care, though he did not require mechanical ventilation.\nHe was also under the care of the obesity clinic because of his weight, and on admission to hospital weighed over 220 kg. He lived with hisparents and was unemployed. He was a non-smoker.\nHis prescribed medications included beclomethasone 500 mcg bd., salmeterol 50 mcg bd and sustained release theophylline. He has beenwell controlled on this regime for over nine months, but had developed increasing wheeze and breathlessness with a fever and a coughproductive of purulent sputum ﬁve days previously. He had seen his general practitioner, who gave him a course of tablets, but his symptomsprogressed despite this treatment.\nOn examination, he was agitated and breathless at rest. His peak expiratory ﬂow rate was 190 L/min. He was febrile with a temperature of37.8°C. His pulse was 120 beats per minute in sinus rhythm and his blood pressure was 120/88 mmHg.\nWhat was the most likely treatment prescribed by his general practitioner?",
+    "options": [
+      "Prednisolone",
+      "Montelukast",
+      "Tetracycline",
+      "Amoxicillin",
+      "Erythromycin"
+    ],
+    "correct_option": 4,
+    "explanation": "The patient has symptoms and signs typical of theophylline toxicity.\nPhyllocontin is a slow release aminophylline. It is converted to theophylline which is then metabolised to inactive xanthinederivatives. The average half-life is six hours but this is affected by a number of factors:\nFactors decreasing theophylline clearance:\nDisease:Hepatic cirrhosisCongestive cardiac failureChronic obstructive pulmonary diseaseAcute pulmonary oedema",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "2dadc7f4-dd52-459a-bff8-7fd44d06e68e",
+    "stem": "A 70-year-old is investigated for weight loss.\nWhat is the diagnosis?",
+    "options": [
+      "Aspergilloma",
+      "Cystic bronchiectasis",
+      "Pneumonic consolidation",
+      "Pulmonary embolus",
+      "Lung carcinoma"
+    ],
+    "correct_option": 4,
+    "explanation": "The diagnosis is a cavitating lung carcinoma.\nThis is a thick walled irregular cyst with an associated enlarged right hilum responsible for the soft tissue adjacent to the rightpulmonary artery.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "0e62ea26-1686-4ce0-80fa-4d81a8c87d5d",
+    "stem": "A 67-year-old man was referred to the outpatient department with a four month history of increasing cough and dyspnoea.\nHe coughed most mornings bringing up mucoid sputum. He denied any haemoptysis. In addition he had become increasingly breathless onexertion so that his exercise tolerance was reduced to 100 metres on the ﬂat.\nHe denied any chest pain but did have pain in his right shoulder that was constant and had started to keep him awake at night over the lastcouple of months and more recently pain of the medial aspect of his right arm. He was known to have rheumatoid arthritis. His appetite wasreduced and he had lost 5 kg in weight. He had a forty pack year smoking history. He was a retired engineer.\nOn examination there was tar staining of the ﬁngers. He had signs of rheumatoid arthritis in his hands. There was bilateral ﬁnger clubbing. he had wasting of small muscles of his right hand particularly the thenar and hypothenar eminences.\nWhat is the diagnositic test of choice?",
+    "options": [
+      "Isotope bone scan",
+      "Nerve conduction studies",
+      "CT scan of chest",
+      "Sputum cytology",
+      "Bronchoscopy"
+    ],
+    "correct_option": 2,
+    "explanation": "This patient has a Pancoast or superior sulcus tumour.\nThe tumour arises in the apex of the lung and inﬁltrates locally into the brachial plexus, ribs and mediastinum. Patients often havesigns of local extension on presentation such as:Neurological signs in the arm and hand (C8,T1 distribution)Ipsilateral Horner's syndrome, orRadiological evidence of rib destruction.\nCT scan is the investigation of choice.\nIt can often be diﬃcult to get biopsy material as approaches in this area are diﬃcult.\nBronchoscopy is unhelpful as lesions are too peripheral.\nTumours are most commonly squamous cell and are usually inoperable on presentation.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "200fbf7e-891f-475b-b9f3-32b0632d0fcd",
+    "stem": "A 19-year-old man with recurrent admissions to hospital for exacerbations of his asthma attends the Emergency department with a shorthistory of increasing breathlessness and cough.\nOn examination he is obviously dyspnoeic and wheezy and becoming exhausted. His respiratory rate is 16 breaths per minute, his HR is 125bpm (sinus tachycardia) and his PEFR is 30% predicted.\nAn arterial blood gas is taken and the results are as follows:\npH 7.43 (7.36-7.44)\npO 7.3 kPa(11.3-12.6)\npCO5.2 kPa(4.7-6.0)\nUsing the details above what severity is this patient's exacerbation?",
+    "options": [
+      "Acute severe exacerbation",
+      "Mild exacerbation",
+      "Life threatening exacerbation",
+      "Moderate exacerbation",
+      "Near fatal exacerbation"
+    ],
+    "correct_option": 2,
+    "explanation": "A life threatening exacerbation of asthma can be diagnosed based on one of the following:PEF <33% best or predictedSpO <92%\nPaO <8 kPaNormal PaCO (4.6-6.0 kPa)\nSilent chestCyanosisPoor respiratory effortArrhythmia, orExhaustion, altered conscious level.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "46f59cec-1700-4fb8-9141-883a128897ce",
+    "stem": "A 67-year-old man presents with a two month history of persistent cough. The cough is always unproductive and there has been nohaemoptysis. It never wakes him from his sleep.\nHe has no chest pain but has noticed some mild breathlessness on exertion. He is a smoker of 20 cigarettes a day since the age of 17. He haslost a small amount of weight, and has a reduced appetite. He has been constipated over the last two weeks.\nExamination was unremarkable. He has no clubbing nor lymphadenopathy. Examining his chest, breath sounds were vesicular with no addedsounds.\nInvestigations showed:\nHaemoglobin 126 g/L(130-180)\nWhite cell count10.5 ×10/L (4-11)\nPlatelets 160 ×10/L (150-400)\nSerum sodium149 mmol/L(137-144)\nSerum potassium4.4 mmol/L(3.5-4.9)\nSerum urea 9.4 mmol/L(2.5-7.5)\nSerum creatinine120 µmol/L(60-110)\nSerum corrected calcium3.26 mmol/L(2.2-2.6)\nThe chest x ray showed right hilar lymphadenopathy.\nWhat is the next investigation of choice?",
+    "options": [
+      "Isotope bone scan",
+      "Kveim test",
+      "Bronchoscopy",
+      "Bone marrow biopsy",
+      "CT chest"
+    ],
+    "correct_option": 4,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "051cdd62-4b67-45e3-b853-eaeb4c889089",
+    "stem": "A 65-year-old woman presents with chest pain, cough and shortness of breath.  She has lost some weight recently.\nShe has a past medical history of breast cancer and chronic obstructive pulmonary disease. \nOn examination she has a temperature of 37.8C, some coarse crepitations in the right mid-zone and mild expiratory wheeze throughoutboth lungs.  A CT of the chest is performed and one of the sections is shown below. \nWhat is the most likely diagnosis?",
+    "options": [
+      "Pneumonia",
+      "Pleural effusion",
+      "Pulmonary embolus",
+      "Pericarditis",
+      "Lung cancer"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "c4cc147c-e11f-4776-8eb1-c01ea7fb2a21",
+    "stem": "A 25-year-old man was admitted to the Emergency department after being found unconscious by his girlfriend. His past medical historyincluded anxiety and depression for which he was taking a combination of benzodiazepines and tricyclic antidepressants.\nHis girlfriend estimates that he has ingested ﬁfty milligrams of diazepam and ﬁve hundred milligrams of amitriptylline. Next to his body shealso discovered a suicide note and an empty bottle of vodka. His past medical history included asthma, which was well controlled with highdose inhaled corticosteroids.\nOn examination he was drowsy, with a Glasgow coma score of 7. His temperature was 34.8°C, pulse 120 per minute and blood pressure80/50 mmHg. Bronchial breath sounds were heard over the right upper zone.\nA chest x ray revealed right upper lobe consolidation.\nHis arterial blood gases on 15 L of oxygen per minute via a reservoir bag mask showed:\npH 7.2 (7.36-7.44)\nPaCO9.5 kPa (4.7-6.0)\nPaO 12.0 kPa(11.3-12.6)\nHCO27.3 mmol/L(20-28)\nWhat is the most appropriate management?",
+    "options": [
+      "Continue with high ﬂow oxygen and fast bleep the on-call anaesthetist for an ETT",
+      "Nasal intermittent positive pressure ventilation (NIPPV) via mask",
+      "Administration of intravenous ﬂumazenil and maintain high ﬂow oxygen",
+      "Change his oxygen to a 28% venturi mask and repeat the ABG",
+      "Continuous positive pressure ventilation (CPAP) via mask"
+    ],
+    "correct_option": 0,
+    "explanation": "Intubation is the only",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "958630d0-26c2-45ec-b7ac-77a7c32cdba6",
+    "stem": "A 21-year-old Asian medical student presented to the emergency department with a month long history of fever, night sweats and a coughproductive of purulent sputum.\nOn examination, he was febrile (38.5°C) with pulse 110 beats per minute and a respiratory rate of 22 breaths per minute. Coarse crackleswere heard over the right lung apex. His chest x ray showed right upper lobar consolidation with a single cavitating lesion.\nInvestigations revealed:\nHaemoglobin 115 g/L(130-180)\nWhite cell count12.5 ×10/L (4-11)\nPlatelets 425 ×10/L (150-400)\nSerum sodium140 mmol/L(137-144)\nSerum potassium4.2 mmol/L(3.5-4.9)\nSerum urea 3.1 mmol/L(2.5-7.5)\nSerum creatinine76 µmol/L(60-110)\nSerum C reactive protein254 mg/L(<10)\nA sputum sample showed acid-alcohol fast bacilli.\nHe was started on anti-tuberculous therapy with rifampicin, isoniazid, pyrazinamide and ethambutol. Within seven days his fever had settled,he was feeling better and his inﬂammatory markers were settling.\nContact tracing reveals that he lived with his parents and two sisters. His older sister, who had lived in the United Kingdom all her life,subsequently has a strongly positive Mantoux test. She otherwise feels well and has no symptoms of anorexia, weight loss, fever, nightsweats or cough and her chest radiograph is normal.\nWhat is the most appropriate management for his sister?",
+    "options": [
+      "Correct option",
+      "Repeat her Mantoux test after one month",
+      "Arrange to see her in clinic in one month with a repeat chest radiograph and clinical assessment",
+      "Prescribe quadruple tuberculosis treatment",
+      "Ignore the Mantoux test as she is physically well and has no signs of active tuberculosis"
+    ],
+    "correct_option": 0,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "2a2b7e89-c30e-4d41-8d37-a5f6315f386f",
+    "stem": "A 35-year-old male attends the HIV clinic complaining of a productive cough. Sputum analysis is as follows:\n\"Gram positive (weakly) bacilli, stains red with Ziehl Neelsen stain.\"\nGiven these ﬁndings what is the mostly likely organism responsible for his symptoms?",
+    "options": [
+      "B. cereus",
+      "Pneumocystis jirovecii",
+      "B. anthracis",
+      "Aspergillus fumigatus",
+      "M. tuberculosis"
+    ],
+    "correct_option": 4,
+    "explanation": "The sputum analysis is in keeping with Mycobacterium tuberculosis, which is a small aerobic non-motile bacillus. It is classiﬁed as aGram positive organism but stains very weakly on testing. When using the Ziehl-Neelsen test it stains bright red against a bluebackground.\nB. anthracis and B. cereus are two other bacilli that are pathogenic; B. anthracis is responsible for anthrax.\nAspergillus and Pneumocystis are both pathogens that are associated with respiratory illnesses in immunocompromised patients,but the sputum ﬁndings are not in keeping with these organisms.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "819b00da-af19-441a-8e9d-121928b6ae3a",
+    "stem": "A 75-year-old South African woman with known rheumatoid arthritis was admitted to hospital with a three week history of weight loss, nightsweats and cough.\nHer general practitioner had been unsuccessfully treating her with amoxicillin for the past week and had decided to admit her when shedeveloped haemoptysis. She was on maintenance prednisolone 10 mg once per day and four weeks earlier she had received inﬂiximab for aﬂare up of rheumatoid arthritis.\nShe lived with her husband, who was usually her main carer, but had been admitted to hospital himself with inﬂuenza three days earlier. Shewas a lifelong non-smoker and worked most of her life as a missionary in South Africa and Zimbabwe.\nOn examination she looked cachexic and was pyrexial with a temperature of 38.4°C. Her blood pressure was 180/100 mmHg, pulse 120beats per minute and oxygen saturations of 89% on room air. Her heart sounds were normal and there were no audible murmurs.Auscultation of her lung ﬁelds revealed bronchial breath sounds in the left upper zone. Examination of her abdomen was normal.\nMantoux test< 5 mm(after 48 hours)\nA chest radiograph revealed cavitating left upper lobe consolidation.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Post-primary tuberculosis",
+      "Staphylococcal pneumonia",
+      "Pneumocystis jirovecii pneumonia",
+      "Squamous cell carcinoma",
+      "Klebsiella pneumonia"
+    ],
+    "correct_option": 0,
+    "explanation": "Treatment with tumour necrosis factor (TNF) alpha antagonists signiﬁcantly increases the risk of post-primary tuberculosis. In thiscase the Mantoux test will be unreliable since the patient is on maintenance steroids.\nAlthough immunosuppressed patients are at risk of pneumocystis pneumonia (PCP), the chest radiograph appearance described isnot typical of this.\nThe Heaf test involves the multipuncture of skin using 100,000 tuberculin units/ml. It is read after one week and graded accordingto the coalescence of the puncture dots.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "b654a25f-f998-43de-8c01-fb76a2a55e9a",
+    "stem": "A 25-year-old man presents with vague chest pain and cough. He is a non smoker with no signiﬁcant PMH.\nHis chest x ray, taken in the Emergency department, is shown.\nWhat is the most appropriate treatment for this condition?",
+    "options": [
+      "Low molecular weight heparin and CTPA",
+      "Amoxicillin/clavulanate and clarithromycin",
+      "Manage by observation, advice and review in 1 week",
+      "Nebulised salbutamol",
+      "Intercostal chest drain insertion"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "7d5f5e8d-3567-45e6-859a-5cbbab69a246",
+    "stem": "A 39-year-old man presents to the Emergency department with a one week history of a non-productive cough and increasingbreathlessness. He reports his breathing is much worse on exertion.\nHis past medical history includes migraines and childhood asthma (but he has not used any inhaler in almost 30 years). He travelsinternationally with work and describes having unprotected sex frequently over the last decade.\nExamination reveals mild pyrexia of 37.8°C.\nInvestigations are as follows:\nHb 134 g/L(130-180)\nWBC 3.3 ×10/L (1.5-7)\nPlt 177 ×10/L (150-400)\nCRP 78 mg/L(<10)\npH 7.35 (7.35-7.45)\npO 6.5 kPa(11.3-12.6)\npCO 5.8 kPa(4.7-6.0)\nLDH 310 U/L(10-250)\nβ -d-Glucanpositive\nCXR shows bilateral patchy inﬁltrates.\nGiven the likely diagnosis, which of the following would be the most appropriate initial treatment regime?",
+    "options": [
+      "Clarithromycin and co-amoxiclav",
+      "Rifampicin, ethambutol, isoniazid, pyrazinamide",
+      "Clindamycin and primaquine",
+      "Amphotericin B",
+      "Trimethoprim sulfamethoxazole (TMP-SMX)"
+    ],
+    "correct_option": 4,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "21b59478-f098-441a-94ca-0cdb105bd62b",
+    "stem": "A 68-year-old woman on the intensive care unit is extubated six hours following a Hartmann's procedure. One hour later you are called toassess the patient as the nurse has noted she has developed stridor.\nShe has a past medical history of chronic stable asthma.\nWhich one of the following is a recognised risk factor for post-extubation stridor (PES)?",
+    "options": [
+      "More than 60 years of age",
+      "Female gender",
+      "Intubation for less than 24 hours",
+      "Past medical history of asthma",
+      "Low tracheal cuff pressure"
+    ],
+    "correct_option": 1,
+    "explanation": "Post-extubation stridor (PES) is a frequent complication of intubation, occurring in 2-16% of cases. It is caused by laryngeal oedemathat results from damage to the mucosa of the larynx. Mucosal damage is caused by pressure and ischaemia resulting in aninﬂammatory response. Laryngeal oedema, in severe cases, can lead to acute respiratory compromise necessitating emergencyreintubation.\nFemale gender is a risk factor for both laryngeal oedema and PES. This predisposition has been hypothesised to be due to the femalemucous membrane being less resistant to trauma and thinner than that in men.\nOther risk factors include:Female genderIntubation >36 hoursExcessive cuff pressureLarge tube size, andTracheal infection.\nAge and asthma are not known risk factors for PES.\nReference:1. Bahal N, Khan M, Manoras A. Get Through: ﬁnal FRCA: MCQs. London: Hodder & Stoughton; 2011. p 272-272.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "6dffd4cc-0662-4cdf-91bf-71fd9549d2c6",
+    "stem": "A 55-year-old woman undergoing treatment for acute leukaemia attends the haematology clinic complaining of cough, wheeze, occasionalhaemoptysis and fever.\nA chest x ray demonstrates the classical air crescent sign. A galactomannan test is performed which is positive.\nGiven the most likely diagnosis, what treatment should be commenced?",
+    "options": [
+      "Co-trimoxazole",
+      "Co-amoxiclav",
+      "Amphotericin B",
+      "Caspofungin",
+      "Rifampicin, isoniazid, ethambutol and pyrazinamide"
+    ],
+    "correct_option": 2,
+    "explanation": "Aspergillosis is a fungal infection and develops mainly in individuals who are immunocompromised. It is a leading cause of death inacute leukaemia and haemopoietic stem cell transplantation.\nSigns and symptoms include cough, haemoptysis, chest wall pain, fever and shock.\nIt is often seen on chest x rays and CT scan, and demonstrates an air crescent sign. Other investigations include microscopy and thegalactomannan test.\nThe current treatments include voriconazole and liposomal amphotericin B. Caspofungin is also used as part of combinationtherapy.\nCo-trimoxazole is used in the treatment of Pneumocystis pneumonia.\nRifampicin, isoniazid, ethambutol and pyrazinamide are used in the treatment of TB.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "4d53951e-7f44-4fc4-be93-186ba06c57b1",
+    "stem": "A 68-year-old man was admitted with nausea and general malaise.\nHe was a hill farmer and continued to work his farm, on which he kept mostly sheep, with his sons. Over the last two weeks, since returningfrom holiday in Spain, he had become increasingly fatigued.\nThe only other symptoms of note were a three month history of poor appetite and a 8 kg weight loss. He was receiving thyroxine 100 mcgmdaily having been diagnosed with hypothyroidism by his GP nine years previously. He was a smoker of ﬁve cigarettes per day and had drunkmore alcohol than usual whilst on holiday but usually drank about 12 units of alcohol daily.\nOn examination, he was sun-tanned, slightly confused, appeared dehydrated and had a pulse of 92 bpm regular, a temperature of 37.2°Cwith a blood pressure of 100/80 mmHg. Cardiovascular and respiratory examination were unremarkable. He had a slight liver edge onpalpation and neurological examination was normal.\nInvestigations revealed:\nSerum sodium 125 mmol/L(137-144)\nSerum potassium5.6 mmol/L(3.5-4.9)\nSerum corrected calcium2.73 mmol/L(2.2-2.6)\nSerum standard bicarbonate15 mmol/L(20-28)\nSerum urea 22 mmol/L(2.5-7.5)\nPlasma TSH 6 mU/L (0.4-4.0)\nWhich of the following is the most likely diagnosis?",
+    "options": [
+      "Sarcoidosis",
+      "Hypoadrenalism",
+      "Primary hyperparathyroidism",
+      "Hypothyroidism",
+      "Bronchogenic carcinoma with syndrome of inappropriate ADH (SIADH) secretion"
+    ],
+    "correct_option": 1,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "c8e801ec-5d37-4c0b-9ddf-6a6190867841",
+    "stem": "A 67-year-old gentleman attends hospital with a one week history of severe ﬂu-like symptoms and is now complaining of a cough productiveof green sputum with shortness of breath.\nA chest x ray demonstrates right upper lobe consolidation and pneumatocele formation.\nWhat is the likely causative organism?",
+    "options": [
+      "Staphylococcus aureus",
+      "Klebsiella pneumoniae",
+      "Mycoplasma pneumoniae",
+      "Chlamydia pneumoniae",
+      "Haemophilus inﬂuenzae"
+    ],
+    "correct_option": 0,
+    "explanation": "Staphylococcal pneumonia is often a sequel to inﬂuenza infection and so anti-staphylococcal antibiotics need to be administered inpatients who develop pneumonia following inﬂuenza.\nIt may produce a severe illness with a high mortality.\nThe productions of toxins may cause tissue necrosis resulting in cavitation, pneumatocele and pneumothoraces.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "7dd12d1b-1ba2-4ee8-abb9-b300964fdeb0",
+    "stem": "A 70-year-old man complains of pain in the chest over the last three months associated with a 7 kg weight loss. He is a smoker of 10cigarettes daily.\nAfter initial chest x rays a CT scan was performed.\nWhat is the diagnosis?",
+    "options": [
+      "Pleural plaque",
+      "Mesothelioma",
+      "Pleural effusion",
+      "Neuroﬁbroma",
+      "Pneumonic consolidation"
+    ],
+    "correct_option": 1,
+    "explanation": "The diagnosis is a mesothelioma.\nThere is a large rind of soft tissue related to the left chest wall.\nThis is a malignant process as there is destruction of the associated rib excluding the other diagnoses.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "6a0e958e-2347-4a6a-b941-40961f29d2b9",
+    "stem": "A 27-year-old female presents with acute asthma. She complains of worsening breathlessness and wheeze over the last 24 hours.\nShe has had previous hospital admissions with asthma but never to critical care. She has received salbutamol, ipratropium, hydrocortisoneand magnesium. She is unable to complete sentences in one breath and is unable to perform a peak ﬂow test. She appears exhausted.\nAn arterial blood gas is performed and her PaCO is 7.5 kPa.\nWhich of the following degrees of clinical severity does this patient fulﬁl?",
+    "options": [
+      "Mild exacerbation of asthma",
+      "Moderate exacerbation of asthma",
+      "Near fatal asthma",
+      "Life threatening asthma",
+      "Acute severe asthma"
+    ],
+    "correct_option": 2,
+    "explanation": "The British Thoracic Society deﬁnes near fatal asthma as an attack with raised PaCO and/or requiring mechanical ventilation with\nraised inﬂation pressures.\nA raised PaCO is an important sign that intubation may be required if the patient is not responding to maximum medicalmanagement.\nReference:\nBritish Thoracic Society. Asthma Guideline.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "9c392960-ccbe-4d28-b40f-6853ee0ecdd4",
+    "stem": "A 78-year-old patient with known severe chronic obstructive pulmonary disease (COPD) was admitted to the Emergency Department with athree day history of cough, purulent sputum and breathlessness.\nThe paramedic crew informed the admitting medical team that they had treated him with oxygen and nebulised bronchodilator therapy enroute to hospital.\nOn examination he was alert but had a carbon dioxide retention ﬂap. His temperature was 37.9°C, blood pressure was 110/70 mmHg,oxygen saturation was 99% on air and his pulse was 110 beats per minute. Heart sounds were normal with no audible murmurs. His chestradiograph showed hyperinﬂated lung ﬁelds but no focal consolidation. Abdominal examination was normal.\nHis arterial blood gas results on 10 litres of oxygen are shown below:\npH 7.25 (7.36-7.44)\nPaO 14.0 kPa(11.3-12.6)\nPaCO 9.4 kPa(4.7-6.0)\nStandard bicarbonate34 mmol/L(20-28)\nBase excess +4 mmol/L(<2)\nWhat is the most appropriate management?",
+    "options": [
+      "Ask the on call anaesthetist to intubate",
+      "Change his oxygen mask to a 24% venturi mask and re-check ABGs in 1 hour",
+      "Commence intravenous aminophylline",
+      "Reduce the inhaled oxygen to 4 litres via Hudson mask and recheck ABGs in 1 hour",
+      "Commence non-invasive ventilation"
+    ],
+    "correct_option": 1,
+    "explanation": "Some patients with COPD are exquisitely sensitive to uncontrolled oxygen therapy and easily develop type II respiratory failure.Paramedics are unable to deliver controlled oxygen therapy and this is responsible for considerable mortality and morbidity in theCOPD population.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d3bbd83a-f61d-42ee-8d23-0d32f8cf362c",
+    "stem": "A 67-year-old lady presented with a seven month history of exertional breathlessness and cough. She had a reduced appetite and had losthalf a stone in weight. She had no previous history of note.\nShe had worked as a hairdresser. She kept a cat at home. She lived alone but had been coping well until now. She smoked 20 cigarettes aday.\nOn examination she was clubbed and cyanosed. She was pale. Pulse rate was 80 beats per minute. BP was 138/80 mmHg. Heart sounds werenormal. There were bilateral ﬁne inspiratory crackles heard at the lung bases.\nInvestigations revealed:\nFEV1 2.8 L (3.6 predicted)\nFVC 3.1 L (4.5 predicted)\nDiffusion capacity5.1 mmol/min/kPa(NR 6.3-11.9)\nThe chest x ray showed slight increase in basal lung markings.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Fibrosing alveolitis",
+      "Left ventricular failure (LVF)",
+      "Bronchiectasis",
+      "Lymphangitis carcinomatosis",
+      "Sarcoidosis"
+    ],
+    "correct_option": 0,
+    "explanation": "The history and examination ﬁndings are suggestive of interstitial lung disease (ILD).\nThe pulmonary function tests demonstrate a reduction in both FEV and FVC (FEV/FVC = 90%) with a low diffusion capacity, that is,\nrestrictive defect which is consistent with ILD. The most likely diagnosis is CFA (or usual interstitial pneumonia).\nBronchiectasis usually results in a productive cough and an obstructive pattern on lung function.\nSarcoidosis usually affects the mid zones or is distributed more uniformly throughout the lungs.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "77f8b85f-899c-4af9-ad6e-78b2e0ad8889",
+    "stem": "A 24-year-old male who works in a plastic factory presented with shortness of breath.\nHe had recently returned from a two week holiday to Spain where he was completely well.\nHe presented at 0200 hours to the Emergency department after having used his salbutamol inhaler eight times. He recovered completelyafter treatment with a salbutamol nebuliser and steroids.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Bronchopulmonary aspergillosis",
+      "Hypersensitivity pneumonitis",
+      "Late onset asthma",
+      "Chemical pneumonitis",
+      "Occupational asthma"
+    ],
+    "correct_option": 4,
+    "explanation": "Occupational asthma is the commonest industrial lung disease in the western world with more than 500 causes. It accounts for upto 10% of adult onset asthma. It is caused by agents that are encountered at work.\nThe commonest occupations affected (with causes) in the United Kingdom are:Paint sprayers (isocyanates)Bakers (ﬂour mainly but also enzymes such as amylase used in the baking process)Chemical processors (acids, detergents, bleaches)Plastics workers (polyethylene, polyvinyl chloride)Solderers (colophony), andLaboratory technicians (rats, mice, rabbits, locusts).\nThe typical history is usually one of breathlessness, wheeze and cough which occur during the working week and remit duringabsences from work such as holidays.\nThe symptoms do not usually develop immediately on ﬁrst exposure but begin days, months or even years later.\nRemoval from exposure to the sensitising agent at an early stage can lead to remission of asthma although sensitisation to the agentis usually permanent.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "7c424e40-0280-410e-a1e6-4000816a68f0",
+    "stem": "A 28-year-old, 225 kg male was referred for investigation of breathlessness prior to undergoing a gastropexy operation.\nHe admitted to being breathless on walking 100 yards and also complained of a non-productive cough on waking each morning.\nHis past medical history included type 2 diabetes mellitus and a history of childhood asthma and rhinitis. He smoked twenty cigarettes perday and drank at least ten units of alcohol every evening. He lived with his father who had kept pigeons for the past ﬁve years.\nAs part of his investigations he underwent full pulmonary function tests the results of which are shown below.\n  Actual% predicted\nFVC (l) 3.72 61\nFEV1(l) 3.05 64\nFRC (l) 1.42 34\nRV (l) 1.01 45\nTLC (l) 4.94 60\nDLCO (ml/m/mm Hg)29.1361\nDLCO/VA 4.95 94\nWhat is the most likely cause of his breathlessness?",
+    "options": [
+      "Asthma",
+      "Obesity",
+      "Left ventricular failure",
+      "Bronchiolitis obliterans",
+      "Hypersensitivity pneumonitis"
+    ],
+    "correct_option": 1,
+    "explanation": "These tests are consistent with obesity, that is, extra-thoracic restriction.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "6ae1c019-c327-4f82-b942-5a6bb485f75d",
+    "stem": "A 30-year-old pet shop owner presents with a 10 day history of non-productive cough, fever, chills, malaise and lethargy. On questioning healso complains of increasing dyspnoea and sore throat. There is no other relevant medical history of note.\nOn examination, his pulse is 88 bpm regular, he has a blood pressure of 122/76 mmHg and a respiratory rate of 22/min. He has atemperature of 37.6°C. He has a mild pharyngitis together with bilateral basal crepitations on auscultation of his chest. Abdominal palpationreveals a two ﬁnger breadths splenomegaly.\nInvestigations reveal:\nFull blood countNormal-\nU+Es Normal-\nGlucose 5.6 mmol/L(3.0-6.0)\nESR 95 mm/hr(<10)\nThe chest x ray shows left lower lobe consolidation.\nWhat is the most probable diagnosis?",
+    "options": [
+      "Streptococcal pneumonia",
+      "Legionellosis",
+      "Psittacosis",
+      "Hypersensitivity pneumonitis",
+      "Allergic bronchopulmonary aspergillosis"
+    ],
+    "correct_option": 2,
+    "explanation": "The patient is a pet shop worker with features of an atypical pneumonia.\nAll the mentioned features are typical of psittacosis although other causes of atypical pneumonias cannot be excluded completelyfrom the information provided.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "fee89a93-3963-4a1c-a5b6-f0a7d8e5ea74",
+    "stem": "A 32-year-old female ﬂoor manager for a paint warehouse presented with shortness of breath.\nRecently, whilst on holiday in the Lake District her symptoms had completely resolved.\nShe presented in the early hours of the morning having used her salbutamol inhaler 12 times. She was treated with a salbutamol nebuliserand steroids and completely recovered.\nWhich is the best investigation to determine the diagnosis?",
+    "options": [
+      "Bronchial provocation testing",
+      "Skin prick testing",
+      "CXR",
+      "PEFRs measure at home and work",
+      "RAST IgE"
+    ],
+    "correct_option": 3,
+    "explanation": "This patient has occupational asthma. She has symptoms of asthma that improve when she is on holiday from her job.\nA good history is essential to diagnosing occupational asthma. All the jobs a patient has had need to be noted as well as materials towhich they have been exposed, when they were exposed and the interval between exposures and development of symptoms.\nObjective measurements are the key to conﬁrming the diagnosis and are best performed using serial peak expiratory ﬂow rate(PEFR) measured two hourly from waking to sleeping at least over a four week period which should include at least three periodsaway from work for at least two consecutive days, although patients with more severe disease may require more than 10 days awayfrom the work environment before improvements are noted.\nWhilst serial PEFR measurement is the diagnositic test of choice bronchial provocation tests and speciﬁc IgE radioallergosorbenttests (RAST) are required to identify the speciﬁc agent at work causing the asthma.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "98d4999f-6773-4249-8eae-1a8c6a7fb4cc",
+    "stem": "A 32-year-old man presented to hospital with a four week history of progressively worsening dyspnoea on exertion. He also complained of anon-productive cough.\nOver the two days preceding admission the patient had become breathless at rest and was started on oral co-amoxiclav by his generalpractitioner.\nOn examination he was febrile 38°C and looked unwell. Candida was noted on the tonsilar pillars. No wheeze or crackles were heard in hischest. His chest radiograph is shown. Oxygen saturation was 95% on room air, but fell to 85% following a bout of coughing. Arterial bloodgases show pO of 59 mmHg (75-100).\nWhat treatment should be given?",
+    "options": [
+      "Cefuroxime + metronidazole",
+      "Vancomycin + ceftazidime",
+      "Co-amoxiclav + clarithromycin",
+      "Benzylpenicillin + ﬂucloxacillin",
+      "Co-trimoxazole + prednisolone"
+    ],
+    "correct_option": 4,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "68154a9b-fde8-417c-9d2a-276d3ac02f56",
+    "stem": "A 26-year-old diabetic patient presented to the emergency department at 2 am.\nHe had been to a party but complained of sudden worsening of a three day history of increasing breathlessness.\nThe following results were obtained from an arterial blood gas sample.\npH 7.66 (7.36-7.44)\npO 7.4 kPa(11.3-12.6)\npCO 4.7 kPa(4.7-6.0)\nSerum bicarbonate28 (20-28)\nH 21 nmol/L(35-45)\nWhat is your interpretation of these blood gas results?",
+    "options": [
+      "Laboratory error",
+      "Metabolic acidosis and respiratory alkalosis",
+      "Respiratory alkalosis",
+      "Metabolic alkalosis",
+      "Mixed metabolic and respiratory alkalosis"
+    ],
+    "correct_option": 0,
+    "explanation": "The patient is severely alkalotic and has a normal bicarbonate. He has a normal pCO and is hypoxic. The only explanation must be alaboratory error.\nThe Henderson-Hasselbalch equation might be of use here. In short the pH is proportional to the ratio of bicarbonate to pCO. The\nratio here is normal so why is the pH so alkalotic? It must be an error.\nAlso why has the H concentration been quoted? You can derive the pH from the H concentration and the pH level is about right\nfor that H concentration but who on earth would be expected to calculate that in an exam?! I'll tell you who ... one of the editors ofthe question.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "c8819494-70fb-4a5c-b6eb-0d91730e67c8",
+    "stem": "A 75-year-old lady is referred to the rapid access chest clinic with a four month history of progressive breathlessness, lethargy, anorexia andone stone weight loss. She reports a dull right-sided chest pain that has been present for the last one month, and is partially relieved with 'lowdose' co-codamol prescribed by her GP.\nShe is a housewife and smokes 15 cigarettes a day. Her husband, a retired plumber, recently died from a chest problem.\nOn examination she is dyspnoeic and cachetic. Examination of her chest demonstrates reduced expansion, vocal fremitus, breath soundsand dull percussion note throughout the right lung.\nChest x ray reports a medium sized right-sided pleural effusion. The pleura of the right hemi-thorax are thickened.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Asbestosis",
+      "Pleural adenocarcinoma",
+      "Mesothelioma",
+      "Adenocarcinoma",
+      "Squamous cell carcinoma"
+    ],
+    "correct_option": 2,
+    "explanation": "This lady has constitutional symptoms as well as a unilateral pleural effusion, so malignancy should be excluded. It is her husband'soccupation that is the clue to her underlying diagnosis.\nThe inclusion of her husband's occupation as a plumber is indicative of possible asbestos exposure to this lady through washing herhusband's clothes.\nThe weight loss, lethargy and chest pain coupled with the probable asbestos exposure and the chest x ray ﬁndings would makemesothelioma the most likely diagnosis.\nShe may be eligible for compensation if it is shown to be a mesothelioma.\nFurther investigation including CT and biopsy are required.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "b3b3cad3-41eb-45ad-b880-92bb337fc8d3",
+    "stem": "A 62-year-old man attends the Emergency department because of progressively worsening dyspnoea. He also gives a history of dry coughand a low-grade fever.\nHe has a past history of hypertension, and was hospitalised six months previously when he suffered an acute inferior myocardial infarctionthat was complicated by left ventricular failure and arrythmia. His chest x ray shows a diffuse interstitial pneumonia.\nOther investigations are shown below.\nESR110 mm/h\nFEV190%\nFVC70%\nKCO60%\nWhich of the following agents is most likely to have caused these ﬁndings?",
+    "options": [
+      "Verapamil",
+      "Captopril",
+      "Propranolol",
+      "Procainamide",
+      "Amiodarone"
+    ],
+    "correct_option": 4,
+    "explanation": "The side effects of amiodarone are well recognised, and include pneumonitis and pulmonary ﬁbrosis.\nPneumonitis and lung ﬁbrosis present withA progressively-worsening dry coughPleuritic chest painDyspnoeaMalaise.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a40c4661-77e6-4add-bf37-9923a9387caf",
+    "stem": "A 19-year-old male presented with pleuritic chest pain which occurred suddenly while playing football. He presented to the Emergencydepartment complaining of dyspnoea. His chest x ray is shown.\nWhat would be the deﬁnitive treatment for this condition?",
+    "options": [
+      "Intercostal chest drain insertion",
+      "High-ﬂow inspired oxygen",
+      "Low molecular weight heparin",
+      "Intravenous amoxicillin + clarithromycin",
+      "Nebulised salbutamol"
+    ],
+    "correct_option": 0,
+    "explanation": "The slide shows a large left-sided tension pneumothorax.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "efed112e-8ddc-4787-b27f-481c5aa086f0",
+    "stem": "A 65-year-old retired miner attends the outpatient department with a six month history of breathlessness on exertion which has got worsefollowing a recent chest infection.\nHe has a cough productive of mucoid sputum. He smoked 20 cigarettes a day until ﬁve years ago. He keeps pigeons at home.\nLung function tests before and after bronchodilators show:\n  BeforeAfterNormal range\nFEV10.9 1.0 (2.2 - 4.4)\nFVC2.1 2.3 (3.0 - 4.8)\nTLC7.2 - (2.4 - 4.6)\nKco0.6 - (1.2 - 2.1)\nWhat is the diagnosis?",
+    "options": [
+      "Hypersensitivity pneumonitis",
+      "Pigeon fancier's lung",
+      "Coal workers pneumoconiosis",
+      "Asthma",
+      "Chronic obstructive pulmonary disease (COPD)"
+    ],
+    "correct_option": 4,
+    "explanation": "This man's lung function demonstrates an obstructive pattern.\nThe forced expiratory volume in one second (FEV1)/forced vital capacity (FVC) is usually greater than 75% in normal young peoplebut falls to 70-75% in normal elderly subjects. Below this is an obstructive pattern.\nAs airway obstruction progresses both the FEV1 and FVC decrease. There is an increased total lung capacity (TLC).\nThe results also show that there is no signiﬁcant reversibility to bronchodilators (that is, less than 15% improvement in FEV1) and thetransfer co-eﬃcient is reduced which is consistent with a diagnosis of COPD rather than asthma.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "04360d6f-ed5a-4545-89b9-aa1506279587",
+    "stem": "01:49\nA 29-year-old man comes to the asthma clinic for review. Despite taking ﬂuticasone 250mcg and salmeterol 50 mcg (seretide 250) x 2 puffsBD, he is still short of breath, particularly troubled by coughing and wheezing at night and if he takes exercise. He has a job in an oﬃce, has nopets and is a non-smoker. Apart from asthma he has no signiﬁcant past medical history.\nOn examination his BP is 122/72, pulse is 72 and regular. There is good bilateral air entry on auscultation, although you can hear occasionalwheezes. PEFR is 480, vs 590 predicted.\nWhich of the following is the most appropriate next step?",
+    "options": [
+      "Add low dose prednisolone",
+      "Add montelukast tablets",
+      "Add omalizumab",
+      "Add loratadine",
+      "Add theophylline tablets"
+    ],
+    "correct_option": 1,
+    "explanation": "The answer is C), Add montelukast tablets. At this stage, with 1 mg of inhaled ﬂuticasone per day and long acting beta agonisttherapy, this patient would be considered to already be taking high dose inhaled corticosteroids and LABA. As such, with only partialcontrol, an oral leukotriene receptor antagonist such as montelukast would be the most appropriate next step. In the event thataddition of montelukast failed to gain control, specialist referral would be advised.\nIn this situation, without an obvious allergen trigger, there is no evidence that adding an antihistamine such as loratadine would beuseful. Prednisolone should be very carefully considered with respect to the risk beneﬁt proﬁle in a 29-year-old man, and would onlybe considered after other options had been exhausted under specialist advice.\nTheophylline tablets or oral modiﬁed release beta agonists could be considered as an additional step, although evidence suggeststhey offer little further advantage versus inhaled LABA and are associated with increased risk of cardiac rhythm disturbance.Omalizumab is an anti-IgE monoclonal antibody recommended by NICE only after other options have been exhausted and underspecialist respiratory advice for allergic asthma.\nReferences:\nNICE Guidelines: Asthma management\nOmalizumab for treating severe persistent allergic asthma",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "867a6c95-320b-4e98-a3d0-33ebfa6ea40e",
+    "stem": "A 66-year-old retired plumber presents with a two year history of progressive breathlessness.\nHe has no cough nor chest pain. He has a 50 pack/year smoking history and drinks 40 units of alcohol a week. His appetite is good and hisweight is unchanged (BMI = 24).\nHis spirometry shows:\n  ActualPredicted\nFEV1 2.7 L3.3 L\nFVC 2.9 L4.2 L\nPEF (l/min) 500 550\nTLC 4.1 L7.2 L\nTLco (mmol/min/kPa)7.8 8.0\nKco (mmol/min/kPa/l)2.0 1.4\nWhat is the diagnosis?",
+    "options": [
+      "Idiopathic pulmonary ﬁbrosis",
+      "Chronic obstructive airways disease",
+      "Hypersensitivity pneumonitis",
+      "Asbestosis",
+      "Extensive bilateral pleural thickening"
+    ],
+    "correct_option": 4,
+    "explanation": "This man's lung function shows a restrictive pattern with increased ratio of forced expiratory volume in one second (FEV1)/forcedvital capacity (FVC) and decreased total lung capacity (TLC).",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "6cb10ba4-81ce-4947-a348-39333e2c2fa6",
+    "stem": "A patient who was seen in rapid access chest clinic undergoes a CT thorax. The report is as follows:\n\"There is a mass arising from the left main bronchus, 1.5 cm from the carina and not directly involving the carina. It is causing almostcomplete obstruction of the left main bronchus, and is likely to represent a primary lung tumour. There are several left hilar lymph nodes, thelargest measuring 2 cm. The TNM staging is T3N1MX.\"\nUsing the above information what is the staging?",
+    "options": [
+      "IIB",
+      "IV",
+      "IB",
+      "IIIA",
+      "IIIB"
+    ],
+    "correct_option": 3,
+    "explanation": "Stage grouping by TMN subset is useful in the management of patients with lung cancer and is often utilised by physicians to assesstreatment options.\nTable taken from NICE guidance on Lung cancer (CG121).",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "11a437f7-74c2-467e-9d08-2492a5d5791e",
+    "stem": "A 57-year-old man presented with deteriorating breathlessness over the last one year.\nHe had received inhalers for the last two years prescribed by his GP which he has, until the last three months, used intermittently. He wasalso taking ramipril 10 mg od and bendroﬂumethiazide 2.5 mg daily for a six year history of hypertension. He stopped smoking two yearspreviously and consumed approximately 14 units of alcohol weekly.\nOn examination he was cyanosed and had a swollen face and dilated superﬁcial veins over the anterior chest wall with ﬁxed dilated neckveins. His blood pressure was 154/88 mmHg, pulse is 88 beats per minute. Heart sounds were normal. There was pitting oedema of theankles. Respiratory examination revealed a hyperexpanded chest with scattered expiratory wheeze. Abdominal examination was normal.\nInvestigations revealed:\nHaemoglobin 148 g/L(130-180)\nWhite cell count12.91 ×10/L (4-11)\nPlatelets 488 ×10/L (150-400)\nSerum sodium130 mmol/L(137-144)\nSerum urea 10.8 mmol/L(2.5-7.5)\nSerum corrected calcium2.81 mmol/L(2.2-2.6)\nThe ECG was normal. Chest x ray showed hyperexpanded lung ﬁelds with left paratracheal shadowing. A CT scan of the thorax showed ananterior mediastinal mass.\nWhich single investigation would be most helpful in making a diagnosis?",
+    "options": [
+      "CT scan of the abdomen",
+      "Tuberculin skin test",
+      "Bronchoscopy",
+      "Bone marrow trephine biopsy",
+      "Biopsy of the mediastinal mass"
+    ],
+    "correct_option": 4,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "3cc83bff-e6b5-463c-902f-84a32bc1c0a1",
+    "stem": "A 56-year-old woman is admitted with one stone weight loss over the last six months and worsening breathlessness. Her exercise toleranceis now limited to walking 20 yards on the ﬂat.\nShe also complains of orthopnoea, requiring four pillows at night. She has a history of mild ischaemic heart disease and asthma. She hassmoked 15 cigarettes perday for many years and admits to drinking 30 units of alcohol per week.\nOn examination, there is no evidence of clubbing or lymphadenopathy. Examination conﬁrms a right pleural effusion, extending up to theupper zone. Her jugular venous pressure is not elevated.\nInvestigations show:\nChest x rayRight pleural effusion\nIsotope bonescan Increased uptake in vertebrae, pelvis and right femur\nBronchoscopyNo endobronchial lesion is seen, but there is some distortion of right bronchial anatomy due to extrinsiccompression. Bronchial trap cytology negative for malignant cells\nWhat is the most appropriate diagnostic procedure?",
+    "options": [
+      "CT guided biopsy",
+      "Echocardiogram",
+      "Video assisted thoracoscopy (VATS)",
+      "Pleural ﬂuid analysis",
+      "Serum tumour markers"
+    ],
+    "correct_option": 0,
+    "explanation": "There is likely to be a central tumour accounting for the external compression seen on bronchoscopy. This may well be amenable toCT guided biopsy.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "f9f3a710-6143-46ea-93b2-119bcef72cb2",
+    "stem": "Which of the following statements is most accurate concerning the management of the adult respiratory distress syndrome (ARDS) in apatient with severe sepsis?",
+    "options": [
+      "Turning the patient into the prone position is not recommended as a rescue strategy",
+      "A target tidal volume of 6 ml/kg actual body weight should be set",
+      "Pulmonary artery catheters usefully improve outcomes in patients with both ARDS and sepsis",
+      "Non-invasive ventilation should be attempted before endotracheal intubation where possible",
+      "The ventilator strategy should employ a relatively high level of positive end-expiratory pressure (PEEP)"
+    ],
+    "correct_option": 4,
+    "explanation": "ARDS is a common complication of severe sepsis. The ARDSnet guidelines feature prominently in the Surviving Sepsis guidelines,with a special emphasis on factors that are important in severe sepsis.\nThe target tidal volume is based on ideal, rather than actual body weight. Fat has no alveoli! A target tidal volume of 6 ml/kg idealbody weight should be set maintaining plateau pressures of less than 30 cmHO.\nA high-PEEP strategy is recommended to reduce atelectotrauma.\nTurning the patient prone and recruitment manoeuvres are recommended for worsening hypoxaemia.\nPulmonary artery catheters should not be used routinely and a conservative ﬂuid strategy should be used where possible.\nNon-invasive ventilation (NIV) should not be routinely used and only in carefully considered in a minority of cases.\nReference:\nSurviving Sepsis Campaign. Recommendations: Other Supportive Therapy of Severe Sepsis.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "2489eca3-ba01-45c0-9884-f4ccc3ad98ae",
+    "stem": "A 23-year-old woman with no history of trauma is admitted to the Emergency Department with pleuritic chest pain and exertional dyspnoea.\nA standard erect PA chest radiograph shows a 4 cm apical pneumothorax. The chest physician decides that a chest drain should be insertedas soon as possible.\nWhich one of the following options is the most appropriate technique?",
+    "options": [
+      "Insertion of a small bore chest drain using a Seldinger technique in the posterior axillary line",
+      "Insertion of a large bore chest drain using blunt dissection in the mid-axillary line",
+      "Insertion of a large bore (posterior) suprascapular apical chest drain using blunt dissection",
+      "Insertion of a small bore chest drain using a Seldinger technique in the mid-axillary line",
+      "Insertion of a small bore chest drain using a Seldinger technique in the second intercostal space mid-clavicular line"
+    ],
+    "correct_option": 3,
+    "explanation": "Small bore drains are just as effective as large bore drains and are less painful when in situ.\nThe most appropriate point for chest drain insertion is in the 'safe triangle', in the mid-axillary line. This reduces the chance of injuryto the internal mammary artery, muscle, liver, and spleen. Scarring from insertion is less obvious than in the second intercostalspace and mid-clavicular line, particularly important in women.\nLoculated apical pneumothoraces may be drained using a posteriorly sited (suprascapular) apical tube but are not recommended inthis scenario. If the pneumothorax is loculated, as demonstrated by a CT scan, a more posterior insertion site might be selected. Thisis not the case with this patient.\nReference:\nMacDuff A, Arnold A, Harvey J, et al. Management of spontaneous pneumothorax: British Thoracic Society Pleural Disease Guideline2010. Thorax. 2010;65:ii18-31. \nLaws D, Neville E, Duffy J, et al. BTS guidelines for the insertion of a chest drain. Thorax. 2003;58:ii53-9.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "15dde8ac-820f-4c68-b80b-7be87dae3cce",
+    "stem": "A 24-year-old asthmatic patient presents to the emergency department (ED) complaining of increased shortness of breath, wheeze and aproductive cough for several days.\nOn examination he has a respiratory rate of 40 breaths per minute, oxygen saturations (SpO) of 88% on high ﬂow oxygen. His blood pressureis 160/70mmHg and pulse rate 100 beats per minute. This patient's peak expiratory ﬂow rate is 35% of predicted and is unable to completesentences. His PaCO is within the normal range.\nWhich of the following is a feature of acute life threatening asthma in this patient?",
+    "options": [
+      "Respiratory rate of 40 breaths per minute",
+      "A pulse rate of 100 beats per minute",
+      "Peak expiratory ﬂow rate of 35% of predicted",
+      "Inability to complete sentences",
+      "Oxygen saturations of 88% on high ﬂow oxygen"
+    ],
+    "correct_option": 2,
+    "explanation": "The British Thoracic Society (BTS) deﬁnes exacerbation of adult asthma into moderate, acute severe or life-threatening.\nModerate symptoms includeIncreasing symptomsPeak expiratory ﬂow (PEF) 50-75% of predicted or best\nand no other features.\nFeatures of acute severe asthma include:PEF 33-50% of predicted or bestRespiratory rate of more than 25 breaths per minuteHeart rate greater than 110 beats per minute orAn inability to complete sentences.\nThe features of life-threatening asthma include:A PEF less than 33% of predictedOxygen saturations less than 92%Arterial blood gas demonstrating a PaO less than 8 kPa or a PaCO in the normal range (4.6-6 kPa)",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d8aa3f55-2970-46db-a386-6953628575cf",
+    "stem": "A 25-year-old stable hand presents with 12 hour history of cough, shortness of breath, fever and headache.\nOn examination his heart rate is 114 bpm, with a respiratory rate of 26 and temperature of 37.8°C. His oxygen saturations are 92%, droppingto 88% when he walks across the ward.\nHis chest x ray demonstrates a diffuse interstitial micronodular pattern.\nBased on the information what is the most likely diagnosis?",
+    "options": [
+      "Hamman-Rich syndrome",
+      "Pneumocystis pneumonia",
+      "Chlamydia trachomatis",
+      "Respiratory syncytial virus",
+      "Hypersentivity pneumonitis"
+    ],
+    "correct_option": 4,
+    "explanation": "This patient has evidence of inﬂammation of the alveoli and lung interstitium. All the above conditions may be classed as interstitiallung disease, in keeping with the x ray ﬁndings.\nThe inclusion of this patient's occupation as a stable hand (and hence potential mold allergen exposure) is key to answering thisquestion\nThis patient's signs and symptoms are in keeping with acute hypersensitivity pneumonitis - most likely as a result of exposure tomouldy hay in his line of work (farmer's lung).\nHypersensitivity pneumonitis may be acute, subacute or chronic. Acute hypersensitivity pneumonitis symptoms may develop fourto six hours after exposure to allergen and last 12 hours up to several days following removal of the antigen.\nIn a young person with these ﬁndings Pneumocystis pneumonia (with underlying undiagnosed HIV) should be considered.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "7f4e01bd-6dda-4139-b454-35251d1027c5",
+    "stem": "An 82-year-old man presents with weight loss (5 kg) and a hoarse voice of two months duration.\nHis chest radiograph is shown below.\nWhat clinical signs are likely to be found?",
+    "options": [
+      "Inability to sweat on the right upper body",
+      "Inability to blink left eyelid",
+      "Left ptosis",
+      "Right-sided exophthalmos",
+      "Dilated left pupil"
+    ],
+    "correct_option": 2,
+    "explanation": "The chest x ray shows left upper lobar consolidation; the history of hoarseness implies involvement of the recurrent laryngeal nerve -most likely due to invasion by tumour.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "fb8961d9-142f-4aa9-b1a1-a2a9642740da",
+    "stem": "A 25-year-old gentleman, a known case of asthma, presents to the Emergency Department with an acute exacerbation of asthma.\nHe is usually well controlled on inhaled ﬂuticasone BD and salbutamol inhaler as required.\nThe patient admits to having been getting progressively short of breath over the last few days, requiring several doses of inhaled salbutamolper day. He is distressed at rest with a respiratory rate of 26 breaths per minute and he is unable to complete sentences in one breath.Examination reveals bilateral expiratory polyphonic wheezes and poor air entry.\nArterial blood gases on air show:\nPaCO 3.6 kPa/27 mmHg(4.7-6.0)\nPaO 10 kPa/75 mmHg(11.3-12.6)\npH 7.45 (7.36-7.44)\nStandard bicarbonate24 mmol/L(20-28)\nThe casualty oﬃcer starts the patient on high ﬂow oxygen and continuous nebulised salbutamol. He also gives the patient 200 mg ofhydrocortisone IV and one dose of nebulised ipratropium bromide. No improvement is seen after 30 minutes of treatment.\nWhich of the following treatments would be most appropriate at this stage?",
+    "options": [
+      "Intubation and ventilation",
+      "Helium/oxygen mixture",
+      "IV magnesium sulphate",
+      "IV aminophylline",
+      "IV salbutamol"
+    ],
+    "correct_option": 2,
+    "explanation": "The diagnosis is acute severe asthma (according to the British Thoracic Society Guidelines).\nOf all the mentioned treatments the one that is most appropriate is magnesium sulphate.\nBTS Guidelines on the Management of Asthma state: \"In acute asthma, IV aminophylline is not likely to result in any additionalbronchodilation compared to standard care with inhaled bronchodilators and steroids.\"\nIntubation is not indicated at this stage, though it is to be considered if features of respiratory failure develop.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "6027c4fc-30ea-4d5b-829a-4952078b0cd2",
+    "stem": "A 22-year-old woman presents with recurrent epidodes of breathlessness and cough productive of foul smelling sputum.\nShe has a past history of recurrent episodes of colicky abdominal pain for the last four years.\nInvestigations show:\nSputum cultureHeavy growth of Pseudomonas aeruginosa and Haemophilus inﬂuenzae\nCXR Tramline and ring shadows\nWhat is the most likely explanation for her symptoms?",
+    "options": [
+      "Hypogammaglobulinaemia",
+      "Cystic ﬁbrosis",
+      "Chronic granulomatous disease",
+      "Primary ciliary dyskinesia",
+      "Bronchiectasis"
+    ],
+    "correct_option": 1,
+    "explanation": "Cystic ﬁbrosis (CF) usually presents in childhood, but it is not unusual for some cases to present in early adult life. CF presenting inthis fashion occurs frequently in the Part 2 examination.\nPseudomonas is never a pathogen in healthy lungs, it is the cause of the foul smelling sputum and implies that there is underlyingbronchiectasis. Similarly, H. inﬂuenzae is typically a pathogen in chronic lung disease.\nSeveral of the alternative options may be associated with bronchiectasis, but none adequately explains the history of abdominalpain, which is likely to be due to distal intestinal obstruction syndrome (sludging of intestinal contents leading to intestinalobstruction by faecal impaction or intussusception).\nChronic granulomatous disease (CGD) is an inherited disorder of phagocyte cells, caused by an inability of neutrophils to undergothe oxidative burst necessary to kill some bacteria and fungi. This leads to recurrent life-threatening bacterial and fungal infections.\nFungal pneumonias, particularly those caused by Aspergillus species are common. Most patients (75%) present within the ﬁrst ﬁveyears of life.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "dcfe2278-31c8-43e9-b0cc-f6e330972c66",
+    "stem": "An 82-year-old man complains of a six month history of feeling generally unwell, tired and lethargic.\nHe complains of aches and pains, especially of the left chest wall and shoulder. He has also lost 10 lbs in weight over the last three monthsbecause of a loss of appetite. There is longstanding prostatism, which has got gradually worse. His past medical history includes previouscholecystectomy and pancreatitis.\nExamination reveals a mildly tender left chest wall, and discomfort when moving his left shoulder. A left partial ptosis and miosis are noted.There is no evidence of clubbing or lymphadenopathy. Percussion note over his chest is normal, as are his breath sounds.\nCXR is normal.\nWhat is the next investigation of choice?",
+    "options": [
+      "Computed tomography of chest",
+      "Ultrasound abdomen",
+      "Prostatic speciﬁc antigen level",
+      "Isotope bone scan",
+      "Bronchoscopy"
+    ],
+    "correct_option": 0,
+    "explanation": "This patient has a left Horner's syndrome from a Pancoast's tumour which compresses the sympathetic ﬁbres (from T1 and T2) asthey travel upwards to superior cervical ganglion and then to the dilator pupillae as the long ciliary nerve.\nCarcinoma at the apex of the lung can erode the ribs and the lower part of the brachial plexus (C8, T1, T2) causing pain in theshoulder and the medial surface of the arm. The diagnosis is often delayed as the most common feature of Pancoast's tumour ispain, extending down the arm to the elbow.\nPatients may initially present to rheumatologists or orthopaedic surgeons.\nCT is essential to locate the tumour and the extent of rib, vertebral and muscle involvement.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "414259cd-ab4f-4ca2-88c6-8c1f13d09958",
+    "stem": "A 19-year-old lady developed increasing breathlessness and hypoxia two days after admission with severe burns. She had no previous historyof note.\nHer father had had a myocardial infarction at the age of 40.\nShe was a non-smoker. On examination she had a respiratory rate of 26 breaths per minute and a pulse rate of 110 beats per minute. Onlistening to her chest there were crackles over both lung ﬁelds. A chest x ray revealed bilateral hazy shadowing.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Left ventricular failure (LVF)",
+      "Pulmonary haemorrhage",
+      "Chemical pneumonitis",
+      "Nosocomial pneumonia",
+      "Adult respiratory distress syndrome"
+    ],
+    "correct_option": 4,
+    "explanation": "This lady is likely to have developed adult respiratory distress syndrome (ARDS) as a complication of her severe burns.\nThe patient becomes tachypnoeic, increasingly breathless and cyanosed and develops refractory hypoxia.\nThe CXR classically shows bilateral peripheral interstitial and alveolar inﬁltrates that become progressively more conﬂuent but sparethe costophrenic angles.\nThe following are helpful in differentiating ARDS from other conditions, such as LVF:normal heart sizeabsent septal linesair bronchograms, anda peripheral distribution.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "58393261-d9c8-49a6-ae1f-8de050eea949",
+    "stem": "A 54-year-old sales representative was referred by his general practitioner complaining of feeling tired all the time. He had a history ofdepression for which he was taking anti-depressant tablets prescribed by the GP.\nHe had recently resigned from his job as he was too tired to do the large amount of driving required and had nearly been involved in a caraccident when his car had swerved across the road for no apparent reason. He was overweight and admitted to 3 stone increase in weightover the last three years, which he had put down to depression. His blood pressure was elevated at 170/100 mmHg.\nWhich investigation is most likely to explain the reason for his presentation?",
+    "options": [
+      "24 hour blood monitoring",
+      "TSH level",
+      "EEG",
+      "Overnight oximetry",
+      "Paul Bunnell test"
+    ],
+    "correct_option": 3,
+    "explanation": "Obstructive sleep apnoea (or sleep apnoea/hypopnoea) syndrome occurs when episodes of partial or complete obstruction of thepharyngeal airway occur during sleep.\nThis causes:Repetative apnoeas (cessation of airﬂow for more than 10 seconds) and hypopnoeas (50% reduction in airﬂow for greater than10 seconds)Loud snoring, andExcessive daytime somnolence as a result of repeated arousals.\nThe gold standard diagnostic test is overnight polysomnography.\nIncreasingly though simpler sleep monitoring systems or simple overnight oximetry are being used often with the studiesundertaken in the patient's home. The treatment of choice is weight loss, avoid sedatives drugs/excess alcohol and nasalcontinuous positive airway pressure (CPAP).",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "f55f6580-7844-4f6b-a2c7-bb1e58370da7",
+    "stem": "A 54-year-old sales representative was referred by his general practitioner complaining of feeling tired all the time.\nHe had a history of depression for which he was taking anti-depressant tablets prescribed by the GP. He had recently resigned from his job ashe was too tired to do the large amount of driving required and had nearly been involved in a car accident when his car had swerved acrossthe road for no apparent reason.\nHe was overweight and admitted to 3 stone increase in weight over the last three years. His blood pressure was elevated at 170/100 mmHg.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Infectious mononucleosis",
+      "Absence seizures",
+      "Chronic hyperventilation syndrome",
+      "Hypothyroidism",
+      "Obstructive sleep apnoea syndrome"
+    ],
+    "correct_option": 4,
+    "explanation": "Obstructive sleep apnoea (or sleep apnoea/hypopnoea) syndrome occurs when episodes of partial or complete obstruction of thepharyngeal airway occur during sleep.\nThis causes\nA.  Repetitive apnoeas (cessation of airﬂow for more than 10 seconds) and hypopnoeas (50% reduction in airﬂow for greater than 10seconds)\nB.  Loud snoring and\nC.  Excessive daytime somnolence as a result of repeated arousals.\nThe gold standard diagnostic test is overnight polysomnography.\nIncreasingly though simpler sleep monitoring systems or simple overnight oximetry are being used often with the studiesundertaken in the patient's home.\nThe treatment of choice is weight loss, avoid sedatives drugs/excess alcohol and nasal continuous positive airway pressure (CPAP).",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "ea4d051c-90fe-4ece-9741-540cbc58e547",
+    "stem": "An 87-year-old man was admitted to the Emergency department with a two hour history of sharp central chest pain and breathlessness.\nOne week ago he noticed his left leg had become swollen, but had decided not to consult medical advice. Apart from essential hypertension,for which he was taking bendroﬂumethiazide, he had no other medical conditions. He was a lifelong non-smoker.\nOn clinical examination he was dyspnoeic at rest with a respiratory rate of 28 breaths per minute. His blood pressure was 90/60 mmHg,pulse 110 beats per minute and regular with oxygen saturations of 86% on room air. Auscultation of his chest revealed a loud second heartsound over the right second intercostal space.\nAnalysis of arterial blood gases on air showed:\npH 7.35 (7.36-7.44)\nPaO 7.0 kPa(11.3-12.6)\nPaCO 3.8 kPa(4.7-6.0)\nStandard HCO24 mmol/L(20-28)\nA CT pulmonary angiogram showed a large saddle embolism affecting his pulmonary trunk.\nWhat is the most appropriate management?",
+    "options": [
+      "Continuous infusion of unfractionated heparin",
+      "Low molecular weight (LMW) heparin",
+      "Urgent referral for endarterectomy",
+      "Urgent placement of inferior vena cava (IVC) ﬁlter",
+      "Urgent thrombolysis"
+    ],
+    "correct_option": 4,
+    "explanation": "In the presence of shock, the treatment of choice in sub-massive pulmonary embolism is thrombolysis and oxygen therapy.\nThrombolysis is indicated in the presence of shock (hypotension, acidosis, etc.). However, the mortality in elderly patients who arethrombolysed is signiﬁcant (up to 5% in some series).\nEndarterectomy is never performed in the acute setting and an IVC ﬁlter is not the appropriate management in this case.\nThe outcome for unfractionated heparin is no better than LMW heparin, and is associated with a higher risk of haemorrhage.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "914bf0cb-52fd-4b69-89a0-d054f8bc3de4",
+    "stem": "A 65-year old male with metastatic small cell lung cancer presents with an acutely swollen leg for which he has an ultrasound scan and isfound to have a femoral vein venous thrombosis. He later becomes tachypnoeic and drops his oxygen saturation level to 88% on air.\nOn auscultation, there is wheeze bilaterally and reduced air on the left with hyper-resonant percussion note.\nA pneumothorax is suspected so an urgent CT thorax is requested which shows a large 5 cm pneumothorax, bilateral segmental PEs and aleft sided 4x3x2 cm lung cancer.\nGiven that he is at risk of bleeding following insertion of a chest drain to treat the pneumothorax, what decision should be made in respect tohis anticoagulation for PE?",
+    "options": [
+      "Unfractionated Heparin infusion",
+      "Treatment dose Low Molecular Weight Heparin (LMWH)",
+      "Prophylactic dose tinzaparin until drain removed then treatment dose",
+      "Rivaroxaban",
+      "Thrombolysis"
+    ],
+    "correct_option": 0,
+    "explanation": "This poses a dilemma in respect to resolution of the pneumothorax while reducing the risk of bleeding. \nFirstly, it would be irresponsible to neglect his anticoagulation treatment by only prescribing prophylactic tinzaparin. This is notadequate to prevent further clot formation or break down the PE.\nRivaroxaban and other NOACs, such as apixiban, are becoming more favourable in treating DVTs and PEs, however, the inability tomonitor the level accurately poses an increased risk for this patient.\nThrombolysis is only indicated in massive PE or PE with signs of shock. Treatment dose LMWH is a reasonable choice, however, thelong half-life means that should this patient start to bleed from the site it is harder to control and monitor.\nThis leaves heparin infusion as the most sensible treatment for this patient as it can be stopped easily and monitoring is done everyfour hours in order to titrate the dose accordingly. \nFurther reading:",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "7f15cc83-fbef-4fb1-99ec-431025e2ba7a",
+    "stem": "A 75-year-old man presents with a chronic productive cough and shortness of breath.  He has a previous history of chronic obstructiveairways disease. \nOn examination he is cachectic and clubbed; there are coarse crackles in the right upper zone.  A chest x ray is performed and the image isshown below. \nWhat is the most likely diagnosis?",
+    "options": [
+      "Lung cancer",
+      "Right upper lobe collapse",
+      "Pulmonary haemorrhage",
+      "Right upper lobe pneumonia",
+      "Pleural effusion"
+    ],
+    "correct_option": 0,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "06809c14-63ce-4d00-a55d-828f0401e449",
+    "stem": "A 65-year old male with metastatic small cell lung cancer presents with an acutely swollen leg for which he has an ultrasound scan and isfound to have a femoral vein deep vein thrombosis. Later that day he develops pleuritic chest pain and SOB which he attributes to a largelunch and neglects to tell the nursing staff at the time.\nHe later becomes tachypnoeic and drops his oxygen saturation level to 88% on air.\nOn auscultation is wheeze bilaterally and reduced air on the left with hyper-resonant percussion note.\nA pneumothorax is suspected so an urgent CT thorax is requested which shows a large 5 cm pneumothorax, bilateral segmental PE's, leftsided 4x3x2 cm lung cancer (unchanged from last scan one month ago) and bibasal atelectasis.\nA chest drain is inserted and the patient stabilises.\nWhat is the most likely cause of the pneumothorax?",
+    "options": [
+      "Pneumothorax secondary to chest infection",
+      "Pneumothorax secondary to pulmonary embolism (PE)",
+      "Primary pneumothorax",
+      "Pneumothorax secondary to chronic lung disease",
+      "Pneumothorax secondary to malignancy"
+    ],
+    "correct_option": 1,
+    "explanation": "The clue here is the initial presentation with a DVT likely due to secondary embolism from a PE. The patient describes reﬂuxsymptoms which are more likely to be consistent with the PE causing the pneumothorax at the time. The deterioration in thisgentleman's observations that follow also ﬁt with PE causing the pneumothorax.  \nThe other options all do not ﬁt the time frame for the acute nature of the deterioration.\nPE causing pneumothorax is a rare complication but a serious one should it occur. It is important to treat the underlyingpneumothorax if severe while still treating the PE with anticoagulation. It may be favourable, therefore, to use unfractionatedheparin where there is increased risk of bleeding from the drain site. \nFurther reading:\nBMJ Case Reports: Secondary spontaneous pneumothorax: a rare complication of pulmonary embolism",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "f30a649b-8805-4d68-87e1-97d69187dfe9",
+    "stem": "A 42-year-old man is admitted to the intensive care unit with severe breathlessness following a three day history of acute pancreatitis.\nOn facemask oxygen via a non-rebreathing mask at 15 litres per minute a blood gas measurement shows a PaO of 7.3 kPa. A chest x rayshows hazy shadowing throughout both lung ﬁelds. The patient's temperature is 37.5°C. An ECG demonstrates sinus tachycardia and thecardiac-speciﬁc troponin is normal.\nWhat is the single most likely diagnosis?",
+    "options": [
+      "Cardiogenic pulmonary oedema",
+      "Aspiration pneumonitis",
+      "Pneumonia",
+      "Acute respiratory distress syndrome (ARDS)",
+      "Basal atelectasis"
+    ],
+    "correct_option": 3,
+    "explanation": "The acute respiratory distress syndrome (ARDS) is deﬁned as an acute respiratory condition meeting the following criteria:Acute onsetBilateral inﬁltrates (on chest x ray or CT scan)PaO:FiO ratio of less than 26.7 kPa\nLack of evidence of left atrial hypertension (PAWP <18 mmHg if available).\nIt has a high mortality and is most commonly caused by sepsis, trauma, direct lung injury and pancreatitis.\nAspiration pneumonitis often preferentially affects dependent lung segments. Global, disseminated CXR changes are less likely thanwith ARDS.\nAlthough basal atelectasis may account for some hypoxaemia it would not account for global CXR changes in middle and upper lungﬁelds.\nCardiogenic pulmonary oedema is a key differential and can be diagnostically diﬃcult to differentiate from ARDS as pulmonaryartery catheters are rarely inserted. However, in this patient there is no history of acute cardiac disease and there is a good history ofa common trigger for ARDS. Therefore ARDS is more likely than cardiogenic pulmonary oedema in this case.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d8a33b97-4902-4f74-bc2e-d3a98bf5cb9b",
+    "stem": "A 74-year-old man presented to his general practitioner with a chronic cough.\nHe smokes 10 cigarettes per day starting at the age of 14. The GP had organised a chest x ray which was reported as showing calciﬁcation onboth hemidiaphragms and clear lung ﬁelds. He was therefore referred to the outpatients' department.\nAn occupational history revealed that he had worked in a shipyard for about eight years ﬁfty years previously. He had no previous medicalhistory of note. Systems review was negative apart from some intermittent heartburn and nocturia. In particular his appetite was normal andthere had been no weight loss. He lived alone but kept pigeons.\nOn examination his pulse was 74 beats per minute, blood pressure 155/75 mmHg and there were no abnormalities found on respiratoryexamination.\nWhich one of the following statements is correct?",
+    "options": [
+      "He is at high risk of developing mesothelioma",
+      "The x ray ﬁndings can be explained by a diagnosis of Psittacosis",
+      "He is at high risk of developing asbestosis",
+      "It is likely that the x ray abnormality is related to his previous occupation",
+      "The x ray abnormality is the cause of his cough"
+    ],
+    "correct_option": 3,
+    "explanation": "This patient's CXR shows calciﬁcation on both hemidiaphragms which are most likely to be pleural plaques from previous asbestosexposure.\nHe would have been exposed to asbestos in his job in the ship yards. Pleural plaques are benign and simply a marker of previousasbestos exposure and therefore are common in anyone who has been exposed to asbestos in the past. They rarely causesymptoms and are therefore unlikely to be the cause of his cough. They require no long term follow up.\nHe is unlikely to develop asbestosis 50 years after his last exposure to asbestos, most patients developing disease within 20 years ofexposure.\nSimilarly, the average latent period from exposure to diagnosis of mesothelioma is 20 years. It is as a result of this that the incidenceof mesothelioma continues to rise and is expected to peak in 2020 at around 1300 cases/year in the United Kingdom.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a388981f-5dc2-4926-a70f-47f71ad2fad5",
+    "stem": "A 28-year-old woman reports to your practice with a productive cough which gets worse at night, wheezing and diﬃculty in breathing for thelast two months.\nThe sputum has some brownish mucous plugs. She now reports having fatigue on normal exertion. In the last two weeks she has developedhaemoptysis.\nThere is a strong family history of atopy. She used to have asthma which she has outgrown.\nOn examination she is slightly dyspnoeic at rest. She is afebrile with a temperature of 36.6°C.\nHer respiratory rate is 32 breaths/minute. On further examination the only signiﬁcant ﬁnding is an expiratory wheeze.\nThe respiratory function tests were as follows:\nForced Expiratory Volume1.40 L\nForced Vital Capacity2.90 L\nPeak Expiratory Flow Rate200 L/min\nThe chest radiograph shows dilated bronchioles with a shadow in the mid-lung zones.\nWhat is the likely diagnosis?",
+    "options": [
+      "Asthma",
+      "Bronchiectasis",
+      "Allergic bronchopulmonary aspergillosis",
+      "Sarcoidosis",
+      "Tuberculosis"
+    ],
+    "correct_option": 2,
+    "explanation": "The clinical picture above is one of allergic bronchopulmonary aspergillosis. It is very similar to asthma with a productive coughwhich is worse at night and wheezing. The sputum usually has brownish or greenish ﬂecks which often contain aspergillus hyphae.The lung function tests show an obstructive pattern. The diagnosis should be conﬁrmed by using any one of these tests; serum IgElevels of aspergillus, skin prick test for aspergillus or a radioallergosorbent test.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "e4c1afe6-4200-455b-acb7-ea8e7cb7afae",
+    "stem": "A 67-year-old gentleman presents to the Emergency department with a four day history of increasing breathlessness, productive cough andfever.\nOn examination his observations are as follows: HR 132 (irregular), BP 89/61 mmHg, RR 29, and temperature 38.7°C. He appears a littledisorientated.\nHis laboratory investigations are listed below:\nHb 111 g/L(130-180)\nWBC 22.5 ×10/L (4-11)\nPlatelets567 ×10/L (150-400)\nNa+ 136 mmol/L(137-144)\nK+ 4.5 mmol/L(3.5-4.9)\nUrea 8.9 mmol/L(2.5-7.5)\nCreatinine114 μ mol/L(60-110)\nCRP 345 mg/L(<10)\nChest x ray right lower lobe consolidation\nUsing current guidelines, which empirical antibiotic regime should be commenced?",
+    "options": [
+      "Doxycycline 200 mg loading dose and then 100 mg OD",
+      "Amoxicillin 1 g TDS and clarithromycin 500 mg BD",
+      "Amoxicillin 500 mg TDS",
+      "Co-amoxiclav 1.2 g TDS and clarithromycin 500 mg BD",
+      "Benzylpenicillin 1.2 g QDS and Levoﬂoxacin 500 mg BD"
+    ],
+    "correct_option": 3,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "760be4f5-9a8a-43e1-befb-3ae527370ec0",
+    "stem": "A 48-year-old male accountant is referred from his general practitioner with a three month history of dry, nocturnal cough.\nHe is an ex-smoker having given up ﬁve years ago. He does not produce any sputum, has not suffered with any haemoptysis and despite hissteady weight has an exercise tolerance similar to his work colleagues.\nHe denies any other symptoms of note. Examination reveals he is 5' 10\" (1.77m) tall and weighs 98kg (BMI = 31 kg/m). Chest is clear toauscultation.\nResults of spirometry are shown below:\nFEV 3.0 L (Predicted 3.38 L)\nFVC 4.4 L (Predicted 4.40 L)\nFEV/FVC0.68 (Predicted 0.77 )\nPEFR 540 L/min(Predicted 559 L/min)\nWhat would be the most appropriate ﬁrst line investigation?",
+    "options": [
+      "24 Hour oesophageal pH and manometry",
+      "Peak ﬂow chart",
+      "Bronchoscopy",
+      "Sleep studies",
+      "Flexible nasendoscopy"
+    ],
+    "correct_option": 1,
+    "explanation": "Three common causes to consider with nocturnal dry cough are: asthma, reﬂux and post nasal drip.\nThe clue here is the obstructive picture on spirometry (FEV1/FVC ratio <70%) - which immediately excludes reﬂux and post nasaldrip (there is no reason for these conditions to have abnormal presentation on spirometry). Effectively excluding oesophagealmanometry and nasendoscopy from the options available.\nIf this were a case of obstructive sleep apnoea, one would expect a restrictive defect secondary to obesity, hence excluding sleepstudies as a useful entity.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "1851d7df-b96f-49d4-b4d3-07bef8c4ff06",
+    "stem": "A patient who was seen in rapid access chest clinic undergoes a CT thorax. The report is as follows;\n\"There is a mass arising from the left main bronchus, 1.5 cm from the carina and not directly involving the carina. It is causing almostcomplete obstruction of the left main bronchus, and is likely to represent a primary lung tumour. There are several left hilar lymph nodes, thelargest measuring 2 cm.\"\nWhat is the TNM (tumour, nodes, metastases) staging of this lung tumour?",
+    "options": [
+      "T3N1MX",
+      "T3N2M1",
+      "T2N2M1",
+      "T2N2MX",
+      "T2N1MX"
+    ],
+    "correct_option": 3,
+    "explanation": "The TNM Classiﬁcation of Malignant Tumours (TNM) is a cancer staging system that describes the extent of cancer in a patient'sbody.T describes the size of the tumor and whether it has invaded nearby tissue,M describes distant metastasis (spread of cancer from one body part to another),N describes regional lymph nodes that are involved.\nPrimary Tumor (T)\nTXPrimary tumor cannot be assessed, or tumor proven by the presence of malignant cells in sputum or bronchial washings but notvisualized by imaging or bronchoscopy\nT0No evidence of primary tumor\nTisCarcinoma in situ\nT1Tumor 3 cm or less in greatest dimension, surrounded by lung or visceral pleura, without bronchoscopic evidence of invasionmore proximal than the lobar bronchus (for example, not in the main bronchus)\nT1aTumor 2 cm or less in greatest dimension\nT1bTumor more than 2 cm but 3 cm or less in greatest dimension",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "dfd5a773-e523-4b99-8b62-6526e122191e",
+    "stem": "A 24-year-old woman with recurrent admissions to hospital for exacerbations of her asthma attends the Emergency department at 8 am witha short history of increasing breathlessness.\nOn examination she is obviously dyspnoeic and wheezy. Her respiratory rate is 27 breaths per minute, her HR is 118 bpm (sinus tachycardia)and her PEFR is 34%.\nAn arterial blood gas is taken and the results are as follows;\npH 7.52 (7.36-7.44)\npO28.64 kPa(11.3-12.6)\npCO3.1 kPa(4.7-6.0)\nUsing the details above what severity is this patient's exacerbation?",
+    "options": [
+      "Mild exacerbation",
+      "Acute severe exacerbation",
+      "Moderate exacerbation",
+      "Life threatening exacerbation",
+      "Near fatal exacerbation"
+    ],
+    "correct_option": 1,
+    "explanation": "An acute severe exacerbation of asthma can be diagnosed based on one of the following:PEF 33-50% best or predictedRespiratory rate ≥ 25/minHeart rate ≥ 110/minInability to complete sentences in one breath.\nReference:\nSee page 93 of: British Thoracic Society. Asthma Guideline.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "3fe7a9cb-4436-46fc-98ae-563add2d8f01",
+    "stem": "A 67-year-old smoker who lives in a men's hostel attends the Emergency department with back pain on a background of a cough which hasbeen present for approximately nine months and intermittently has haemoptysis.\nHe is cachetic and looks unkempt. He smokes 40 cigarettes a day, and drinks a bottle of cider daily. He also reports urinary frequency andhesitancy, but no haematuria.\nHe undergoes a number of investigations and the results are listed below:\nHb 104 g/L(130-180)\nWBC11.9 ×10/L (4-11)\nPlt 342 ×10/L (150-400)\nPSA3 µg/L (<4)\nCXR shows cavitating lesions in both upper lobes.\nLumbar spine x ray shows suspicious lesions in L3 and L5.\nSputum microscopy reveals multiple red rods on a blue background.\nBone biopsy shows caseating granuloma.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Staphylococcus aureus infection",
+      "Tuberculosis",
+      "Prostate cancer",
+      "Multiple myeloma",
+      "Lung cancer"
+    ],
+    "correct_option": 1,
+    "explanation": "Cavitating apical lesions are characteristic of tuberculosis but differentials such as lung cancer should be considered for thisappearance.\nThe sputum described is the classical AAFB appearance using the Ziehl-Neelsen stain.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "7bed1305-1460-40eb-be8e-09901a974ef4",
+    "stem": "A 23-year-old male with asthma presented to the emergency department with acute breathlessness and wheeze following a coryzal illness.He has been treated with high ﬂow oxygen, regular nebulised bronchodilators and 200 milligrams of intravenous hydrocortisone.\nOn examination he was pale, clammy and unable to record a peak ﬂow reading. His pulse is 140 per min, temperature 37.3°C, and hadoxygen saturations of 86% on 15 L of oxygen. Auscultation of his chest reveals poor breath sounds bilaterally with a faint polyphonic wheeze.\nHis arterial blood gas on 15L of oxygen reveals:\npH 7.30 (7.36-7.44)\nPO 8.0 kPa(11.3-12.6)\npCO7.8 kPa(4.7-6.0)\nHCO16 mmol/L(20-28)\nWhat is the most appropriate management for this patient?",
+    "options": [
+      "Intravenous aminophylline",
+      "Intravenous magnesium",
+      "Intubation and invasive positive pressure ventilation",
+      "Intravenous antibiotics",
+      "Non-invasive ventilation"
+    ],
+    "correct_option": 2,
+    "explanation": "Acute severe asthma is still responsible for a large number of deaths in the United Kingdom each year.\nHypercapnia and signs of fatigue are indications for immediate intubation and ventilation.\nAlthough intravenous aminophylline and magnesium may have a place in the treatment of severe asthma, they should not delayintubation when it is indicated.\nNon-invasive ventilation is not recommended in acute severe asthma.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "52be3a35-98c8-4532-86d6-795d7cda8aa2",
+    "stem": "A 52-year-old male presented to the respiratory outpatient clinic with a history of progressive breathlessness on exertion.\nHe was a keen rambler and had ﬁrst noticed his symptoms some twelve months previously when he was struggling to keep up with his wife.\nHe had no associated cough, sputum production, wheeze or chest pain. His past medical history included a transient ischaemic attack  (TIA)three months previously, seasonal allergic rhinitis and hypercholesterolaemia. He was a lifelong non-smoker and had been started on aspirinand simvastatin since his TIA. He admitted that his diet was poor and contained a signiﬁcant amount of saturated fats.\nOn clinical examination, he was found to be obese (BMI 30) and plethoric. His blood pressure was 100/80 mmHg, temperature 36.8°C, pulse96 beats per minute and oxygen saturations of 90% on room air. On auscultation, there was an ejection systolic murmur loudest in the leftsecond intercostal space.\nHis ECG showed right axis deviation with right bundle branch block.\nHis full pulmonary function tests are shown below:\n  Actual % Predicted\nFVC 4.30 L 87%\nFEV1 3.62 L 84%\nFEV1/FVC 84% 99%\nTLC 6.90 L 86%\nRV/TLC 30.0 % 110%\nDLCO (ml/m/mm Hg)56 mL /m/mm Hg163%\nWhich is the most likely underlying diagnosis?",
+    "options": [
+      "Cor pulmonale",
+      "Pulmonary restriction secondary to obesity",
+      "Atrial septal defect",
+      "Obstructive sleep apnoea",
+      "Chronic pulmonary emboli"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "8b945542-431e-40ee-9d93-cd2e8df8305f",
+    "stem": "You are asked advice by a young professional couple, Mr and Mrs X. Mrs X is nine weeks pregnant.\nMr X's brother and his partner had a child with cystic ﬁbrosis. As a result, Mr X was screened and found to carry the DF508 mutation for cysticﬁbrosis. Mrs X declines to be tested.\nWhat are the chances of Mr and Mrs X's child having cystic ﬁbrosis, given that the gene frequency for this mutation in the general populationis 1/20?",
+    "options": [
+      "1/160",
+      "1/20",
+      "1/4",
+      "1/80",
+      "1/40"
+    ],
+    "correct_option": 3,
+    "explanation": "CF is caused by mutations in a single large gene on chromosome 7 that encodes the cystic ﬁbrosis transmembrane conductanceregulator (CFTR) protein\nThe chance of Mrs X being a carrier of the gene is 1/20.\nThe chances of two carriers of a recessive gene having a child that is homozygous for that disease (that is both genes aretransmitted to the child) is 1/4.\nTherefore, the chances of this couple having a child with CF are 1/4 × 1/20 = 1/80.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "2317f6ce-df32-4ecd-88d4-310babd20af7",
+    "stem": "A 72-year-old female was admitted with a deteriorating dyspnoea and fever which had deteriorated over the preceding three days.\nPrior to this admission she had been well having returned one week ago from a Spanish holiday with her husband. The only other history ofnote was that three years ago she was diagnosed with type 2 diabetes for which she was treated with diet alone. She is a smoker of ﬁvecigarettes per day.\nOn examination she was suntanned, slightly confused with saturations of 92% on air. She had a pyrexia of 40°C, a pulse of 118 bpm and ablood pressure of 108/90 mmHg. Auscultation of the chest revealed left basal crackles.\nInvestigations revealed:\nHaemoglobin143 g/L(115-165)\nWhite cell count8.2 ×10/L (4-11)\nPlatelets 320 ×10/L (150-400)\nSerum sodium128 mmol/L(137-144)\nSerum potassium3.6 mmol/L(3.5-4.9)\nSerum urea8.2 mmol/L(2.5-7.5)\nSerum glucose10.9 mmol/L(3.0-6.0)\nUrine sodium15 mmol/L-\nArterial blood gases showed:pH 7.36 (7.36-7.44)\npCO 5.1 kPa(4.7-6.0)\npO 10.7 kPa(11.3-12.6)\nStandard HCO30 mmol/L(20-28)\nHow would you treat this patient's hyponatraemia?",
+    "options": [
+      "Demeclocycline therapy",
+      "Normal saline",
+      "Fluid restriction 800ml / 24hrs",
+      "Hypertonic saline",
+      "Furosemide therapy"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a2a8dfa5-f554-4115-90c3-17e67fe6475b",
+    "stem": "A 75-year-old lady is referred to the rapid access chest clinic with a four month history of progressive breathlessness, lethargy, anorexia andone stone weight loss.\nShe is a housewife and smokes 15/cigarettes a day. Her husband, a retired plumber, recently died from a 'chest problem'. She reports a dullright-sided chest pain that has been present for the last one month, and is partially relieved with 'low dose' co-codamol prescribed by her GP.\nOn examination she is dyspnoeic and cachectic. Examination of her chest demonstrates reduced vocal fremitus, percussion note and breathsounds throughout the right lung.\nChest x ray reports a medium sized right-sided pleural effusion. The pleura of the right hemithorax are thickened.\nWhat investigation is the most likely to yield the diagnosis?",
+    "options": [
+      "Video-assisted thoracoscopic surgery (VATS) biopsy",
+      "CT guided lung biopsy",
+      "CT thorax",
+      "Pleural aspiration and ﬂuid for cytology",
+      "Chest drain and pleural ﬂuid sent for cytology"
+    ],
+    "correct_option": 0,
+    "explanation": "This lady has constitutional symptoms as well as a unilateral pleural effusion, and given her possible second-hand exposure toasbestos, mesothelioma needs to be excluded.\nThe inclusion of her husband's occupation as a plumber is indicative of possible asbestos exposure in this lady, potentially throughwashing her husband's clothes.\nThe weight loss, lethargy and chest pain coupled with the probable asbestos exposure and the chest x ray ﬁndings would makemesothelioma the most likely diagnosis.\nShe may be eligible for compensation if it is shown to be a mesothelioma.\nTo aid the choice of treatment, as well as future compensation claims, a histological diagnosis is key. VATS biopsy is the diagnostictool of choice as it provides the highest diagnostic yield, as well as allowing the operator to gain a macroscopic view of the abnormalpleura. Prophylactic radiotherapy is often given to minimise the risk of track seeding.\nFurther investigations including CT and histopathology are required.",
+    "tags": [
+      "Respiratory"
+    ],
+    "source": "BMJ OnExamination"
+  }
+]

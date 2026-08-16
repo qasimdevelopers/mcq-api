@@ -1,0 +1,1209 @@
+[
+  {
+    "id": "53bf6bcc-f222-4049-b5e5-bcfbd84234fc",
+    "stem": "This 55-year-old man presented with a painful, swollen ﬁnger and a fever (37.7°C).\nWhat is likely to be found on microscopy of aspirated synovial ﬂuid?",
+    "options": [
+      "Bipyramidal crystals that exhibit strong positive birefringence under polarised light",
+      "Gram positive cocci in clusters",
+      "Rhomboid crystals that exhibit weak positive birefringence under polarised light",
+      "Small, non-birefringent crystals visible only under electron microscopy",
+      "Needle-shaped crystals that exhibit strong negative birefringence under polarised light"
+    ],
+    "correct_option": 4,
+    "explanation": "An acute attack of monoarticular arthritis is typical of gout. Agonising pain is usually accompanied by joint swelling, redness andtenderness, often with a low-grade fever. Urate crystals are needle-shaped, and exhibit strong negative birefringence underpolarised light microscopy.\nThe crystals described in the other answer options include:Calcium oxalate crystals - Bipyramidal crystals that exhibit strong positive birefringence under polarised lightCalcium pyrophosphate crystals - Rhomboid crystals that exhibit weak positive birefringence under polarised lightCalcium hydroxyapatite crystals - Small, non-birefringent crystals visible only under electron microscopy.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "bb8493fb-ba17-4f00-9d18-36d7b5c6c61a",
+    "stem": "You are asked to see a 36-year-old man with a four year history of recurrent episodes of asymmetrical joint pains involving his knees, anklesand elbows. Two to four joints tend to be affected at any one time and each joint may be affected from two to four weeks each time.\nIn the last decade he has also had recurrent painful mouth sores. On this occasion, he also complains of a severe occipital headache, mildabdominal pain and some discomfort on passing urine.\nOn examination, his temperature is 38°C. His left knee and right ankle joints are painful, swollen and tender. Superﬁcial thrombophlebitis isnoted in the right leg.\nInvestigations show:\nHb 99 g/L (130-180)\nWCC 11.6 ×10/L (4-11)\nPlatelets 420 ×10/L (150-400)\n \nESR 60 mm/hr(0-15)\nPlasma sodium138 mmol/L(137-144)\nPlasma potassium4.3 mmol/L(3.5-4.9)\nPlasma urea6.9 mmol/L(2.5-7.5)\nPlasma creatinine95 µmol/L(60-110)\nPlasma glucose5.8 mmol/L(3.0-6.0)\nWhat is the most likely diagnosis?",
+    "options": [
+      "Systemic lupus erythematosus",
+      "Ulcerative colitis",
+      "Behçet's syndrome",
+      "Dermatomyositis",
+      "Granulomatosis with polyangiitis"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "6c6d077b-6d73-4a2d-bfe9-135ac7b28724",
+    "stem": "A 17-year-old Arabic male presents with high temperature, abdominal pain, and ﬁxed erythematous rash on his ankle.\nOn examination, the abdomen is tender. Examination of other systems is normal.\nOn enquiry, he admits to several similar episodes in the past, which have resolved spontaneously after three to seven days.\nBlood tests show leukocytosis, neutrophilia, high ESR, CRP, and a normal UE&C, amylase, and LFTs. There is a mild polyclonal increase inserum immunoglobulin.\nA chest x ray is normal and the CT abdomen reveals scanty amount of free ﬂuid.\nRecent blood tests are:\nHb 111 g/L(130-180)\nWBC 18.8 ×10/L (4-11)\nNeutrophils90% (40-75)\nLymphocytes10% (20-45)\nEosinophils30% (1-6)\nPlatelet 270 ×10/L (150-400)\nESR 86 mm/hr(0-15)\nCRP 143 mg/L(<10)\nWhat is the diagnosis?",
+    "options": [
+      "TNF receptor activating periodic syndrome",
+      "Adult onset Still's disease",
+      "Familial Mediterranean fever",
+      "Behçet's disease",
+      "Hyper IgD syndrome"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "018382a0-4423-46f2-b421-35215a9a3296",
+    "stem": "A 54-year-old Caucasian nurse with RA was commenced on adalimumab three months ago.\nHer joint symptoms have improved considerably. However, she has a one month history of dry cough, weight loss, and fever. She has lost 10kg in last month.\nApart from adalimumab, other medications include methotrexate 15 mg/week, and folic acid 5 mg/day. There is no personal or familyhistory of other chronic illnesses.\nOn examination, the temperature is 37.8°C, pulse 100 beats/min, BP 110/80 mm Hg, and SaO 98% on air. There is no synovitis.Examination of respiratory system reveals scattered crepitations, and she has cervical lymphadenopathy.\nThese are results of recent blood tests:\nHaemoglobin131 g/L(115-165)\nWBC 8.2 ×10/L (4-11)\nNeutrophils5.1 ×10/L (1.5-7)\nPlatelets280 ×10/L (150-400)\nESR 98 mm/hr(0-20)\nUrea, electrolytes and creatinine are normal.\nCXR reveals miliary shadows bilaterally.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Tuberculosis",
+      "Community acquired pneumonia",
+      "Silicosis",
+      "Pneumocystis jirovecii pneumonia",
+      "Methotrexate pneumonitis"
+    ],
+    "correct_option": 0,
+    "explanation": "Anti-TNF α  agent increases the risk of tuberculosis. This risk is most pronounced in the ﬁrst three months of treatment.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "841ec5d0-acc0-442b-8d4c-cb0a75a94087",
+    "stem": "A 54-year-old woman with RA was commenced on methotrexate six weeks ago. Her joint symptoms have improved considerably. However,she has a three day history of dry cough, progressive shortness of breath, and fever.\nThe current medications include methotrexate 15 mg/week, folic acid 5 mg/day, and aspirin 75 mg/day. There is no personal or familyhistory of other chronic illnesses.\nOn examination, the temperature is 37.8°C, pulse 100 beats/min, BP 110/80 mm Hg, and SaO 90% on air. There is synovitis in both wrists,and MCPJs. Examination of respiratory system reveals scattered crepitations.\nThese are the results of a recent blood test:\nHaemoglobin131 g/L(130-180)\nWBC 8.2 ×10/L (4-11)\nNeutrophils5.1 ×10/L (1.5-7)\nPlatelets280 ×10/L (150-400)\nESR 48 mm/hr(0-30)\nUrea, electrolytes and creatinine: normal.\nCXR: patchy airspace shadows bilaterally.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Methotrexate pneumonitis",
+      "Atypical tuberculosis",
+      "Tuberculosis",
+      "Pneumocystis jirovecii pneumonia",
+      "Community acquired pneumonia"
+    ],
+    "correct_option": 0,
+    "explanation": null,
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d46fdca6-8d53-47da-b02f-b948ca5c6b17",
+    "stem": "A 54-year-old woman with SLE affecting skin and joints has been on azathioprine (100 mg/day), and hydroxychloroquine 400 mg/day for thelast four years.\nShe presents with a one day history of a large blind spot in the right eye. On examination, there is a positive scotoma in the right visual ﬁeld.Retinal fundoscopy and rest of nervous system examination is normal. There is no history of headache.\nThese are results of a recent blood test:\nHaemoglobin131 g/L(115-165)\nWBC 8.2 ×10/L (4-11)\nNeutrophils7.1 ×10/L (1.5-7)\nPlatelets180 ×10/L (150-400)\nESR 28 mm/hr(0-20)\nCRP 12 mg/L(<10)\nUrea, electrolytes and creatinine are normal.\nWhat is the most likely cause of her visual loss?",
+    "options": [
+      "Lenticular deposits due to hydroxychloroquine",
+      "Retinopathy due to azathioprine",
+      "Corneal deposits due to hydroxychloroquine",
+      "Retinopathy due to hydroxychloroquine",
+      "Corneal deposits due to azathioprine"
+    ],
+    "correct_option": 3,
+    "explanation": "Hydroxychloroquine ocular toxicity includes:KeratopathyCiliary body involvement",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "fe4ff098-c6c2-4371-91be-affd5652e22d",
+    "stem": "A 50-year-old Asian lady with severe rheumatoid arthritis has failed on most traditional DMARD treatments.\nShe is currently on methotrexate 20 mg weekly and for the last six months has been receiving regular infusions of the anti-TNF-alphamonoclonal antibody, inﬂiximab. Her joint disease has dramatically improved.\nShe now presents with fevers, pleuritic chest pain and a large left sided pleural effusion, but little evidence of joint synovitis.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Primary bronchial carcinoma",
+      "Rheumatoid related effusion",
+      "Pulmonary metastases",
+      "Pulmonary embolus",
+      "Tuberculosis"
+    ],
+    "correct_option": 4,
+    "explanation": "The most likely answer is TB.\nAll of the other answers are possible and need to be excluded.\nA rheumatoid effusion is unlikely when peripheral joint disease is so well controlled.\nTreatment with anti-TNF-alpha increases the risk of opportunistic infections and in particular, there is a signiﬁcant increase in therisk of TB reactivation in conjunction with inﬂiximab. Therefore patients are often screened for Hepatitis B, C, TB and HIV prior tocommencing inﬂiximab.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "27656cec-6cad-48be-8476-f3b6cc589286",
+    "stem": "This 48-year-old Turkish woman presented with a left ilio-femoral deep vein thrombosis.\nThese lesions have appeared on her tongue four times in the past six months.\nWhich of the following HLA associations is found with increased frequency in patients with this disease?",
+    "options": [
+      "HLA DR3",
+      "HLA B5",
+      "HLA A2",
+      "HLA B27",
+      "HLA DR2"
+    ],
+    "correct_option": 1,
+    "explanation": "The slide shows ulcers on the tongue in a patient with a history of recurrent similar episodes, and a history of venous thrombosis.\nThe diagnosis is Behcet's disease which is a rare multisystem vasculitis.\nClinical features include the classical triad of:1. Recurrent oral ulceration2. Recurrent genital ulceration, and3. Iritis.\nArterial and venous thromboses are well recognised.\nPatients may exhibit pathergy (development of pustules at venepuncture sites).",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "1406ee28-6ef4-4e62-a294-288490465106",
+    "stem": "A 65-year-old man with ischaemic heart disease presents with a two month history of stiffness of the ﬁngers and a mild photosensitive rash.He had been started on procainamide a year ago.\nExamination reveals puffy swelling of the hands and wrists, associated with tenderness of the metacarpophalangeal joints. The chest x rayordered by the GP shows small bilateral pleural effusions.\nWhich of the following tests is characteristic of this patient's condition?",
+    "options": [
+      "Anti-histone antibodies",
+      "Anti-double stranded DNA antibodies",
+      "Anti-centromere antibody",
+      "Anti-Ro antibody",
+      "Anti-ribonucleoprotein antibody"
+    ],
+    "correct_option": 0,
+    "explanation": "Drug-induced (in this case procainamide) lupus erythematosus is typically mild, with arthritis, a photosensitive rash, serositis andmyalgia.\nKidneys and the central nervous system are usually spared, in contrast to systemic lupus erythematosus.\nMost patients with procainamide-induced lupus produce antibodies to histone proteins.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "f064cbc4-69bc-4c52-9af1-a428af3152c2",
+    "stem": "A 70-year-old male complains of acute pain with swelling in his fore-foot.\nWhat is the radiological diagnosis?",
+    "options": [
+      "Tuberculous",
+      "Gout",
+      "Calcium pyrophosphate dihydrate crystal deposition disease (CPPD)",
+      "Osteoarthritis",
+      "Rheumatoid arthritis"
+    ],
+    "correct_option": 1,
+    "explanation": null,
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a6f50161-36b5-46ad-9fc0-8c7596498813",
+    "stem": "An 82-year-old man presents with an isolated intracapsular fracture of his right neck of femur. He is alert and orientated, and states that hefelt dizzy and lost consciousness brieﬂy when he stood up. He has a history of ischaemic heart disease and he takes furosemide for ankleoedema.\nHe has a soft mid-systolic murmur that is heard loudest over the second left intercostal space radiating to the carotid area. The second heartsound is muﬄed. He cannot leave his house unaided due to angina. He requires informal carer support to complete his activities of dailyliving due to breathlessness. His ECG shows the typical electrical criteria for left ventricular hypertrophy, but no acute changes.\nHe has been booked onto the planned orthopaedic trauma list this afternoon.\nWhat is the most appropriate course of action?",
+    "options": [
+      "Cancel surgery, and perform aortic valve replacement prior to hip ﬁxation",
+      "Perform surgery as planned, under general anaesthesia with invasive monitoring",
+      "Cancel surgery, manage the fracture conservatively with analgesics and traction",
+      "Cancel surgery, and arrange a transthoracic echocardiogram within ﬁve days",
+      "Perform surgery as planned, under a spinal anaesthetic"
+    ],
+    "correct_option": 1,
+    "explanation": "This patient has clinical evidence of critical aortic stenosis (AS) with evidence of heart failure and left ventricular hypertrophy. He haspresented with a mechanism suggesting cardiogenic syncope. He is therefore likely to have a relatively ﬁxed cardiac output stateand will be at extremely high risk of morbidity and mortality in the perioperative period. A spinal anaesthetic will be a risky proceduredue to profound, uncontrolled and irreversible autonomic blockade. A cardiostable general anaesthetic with appropriate invasivemonitoring is more titratable and will be a safer option in these circumstances.\nThe patient's outcome is likely to be signiﬁcantly worse if surgery is delayed. Although delay may be acceptable to amendimmediately",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "bf72fcd0-e4cc-43fa-888b-b7e65038ebc2",
+    "stem": "A 27-year-old woman with Granulomatosis with polyangiitis (glomerulonephritis and pulmonary involvement) is treated with monthly pulsedi.v. cyclophosphamide for six months.\nAs her disease is still active, she is commenced on oral cyclophosphamide (100 mg/day for six months), and subsequently on azathioprine.\nOf which of the following is she most at risk?MARKED",
+    "options": [
+      "Hyperthyroidism",
+      "Premature ovarian failure",
+      "Ovarian cancer",
+      "Venous thromboembolism",
+      "Breast cancer"
+    ],
+    "correct_option": 1,
+    "explanation": "Cyclophosphamide causes premature ovarian failure and infertility in both men and women.\nThe risk increases with increasing doses of cyclophosphamide and is greater in younger patients.\nCyclophosphamide treatment does not lead to breast cancer, hyperthyroidism, ovarian cancer, or venous thromboembolism.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "96aba81a-de69-45b0-8e69-6fd6cc8c66d1",
+    "stem": "This patient is attempting to dorsiﬂex his right wrist.\nThere is a small area of sensory loss on the dorsum of the right hand, overlying the metacarpophalangeal joints of the right thumb and rightﬁrst ﬁnger.\nWhat is the likely cause of this injury?",
+    "options": [
+      "Fracture involving the midshaft of the humerus",
+      "Fracture involving the lateral epicondyle of the humerus",
+      "Fracture of the humeral head",
+      "Carpal tunnel syndrome",
+      "Fracture involving the medial epicondyle of the humerus"
+    ],
+    "correct_option": 0,
+    "explanation": "This clinical description and photograph is suggestive of radial nerve palsy giving rise to wrist drop.\nThe typical causes of wrist drop are damage to the radial nerve in the spiral groove of the humerus in a midshaft fracture, and also asa result of acute compression. This is commonly caused by the \"Saturday night palsy\", when the affected subject falls asleep withtheir arm over the side of a chair.\nUlnar nerve injury is caused by compression at the medial epicondyle.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "331c8292-b340-4c76-b6cf-89ae881af713",
+    "stem": "A 58-year-old woman presented with a symmetrical polyarthritis of the small joints of her hands and feet.\nx Rays of her hands were obtained and the second interphalangeal joint of the right hand is shown below.\nWhat characteristic radiological feature is shown?",
+    "options": [
+      "Juxta-articular osteopenia",
+      "Punched out erosions",
+      "Periarticular erosion",
+      "Sclerosis",
+      "Osteophytes"
+    ],
+    "correct_option": 2,
+    "explanation": "The radiological changes are consistent with rheumatoid arthritis. Rheumatoid arthritis is an erosive inﬂammatory disease. Thecharacteristic feature is periarticular erosions.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "49b9ee86-4429-4c6a-99fc-6f316bfdae14",
+    "stem": "A 33-year-old teacher presented with a three week history of pain, swelling, and stiffness in his ankles. He had a cough and mild exertionalshortness of breath.\nOn examination, his ankles were warm, tender, and swollen. Chest examination was normal. FBC, U&E, and LFTs were normal. Anti-CCPantibodies and rheumatoid factor were negative. CRP was high at 38 mg/L, and a serum ACE was 133 (normal 0-65) units.\nChest radiograph showed bilateral hilar lymphadenopathy, and reticulo-nodular shadows in lung ﬁelds.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Mycobacterium tuberculosis infection",
+      "Rheumatoid arthritis",
+      "Lymphoma",
+      "Atypical pneumonia",
+      "Sarcoidosis"
+    ],
+    "correct_option": 4,
+    "explanation": "Sarcoidosis is suggested by the presence of:ankle arthritisbilateral hilar adenopathypulmonary ﬁbrosis, anda high serum ACE level.\nInﬂammatory arthritis in sarcoidosis typically targets the ankle joint.\nRheumatoid arthritis is unlikely as he is sero-negative for both rheumatoid factor, and anti-CCP antibodies, and there is noinvolvement of the small joints of hands, and feet.\nAtypical pneumonia, lymphoma, Mycobacterium tuberculosis infection do not lead to this constellation of symptoms, signs, andlaboratory results.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "62feb133-8416-4796-8538-ba9d502bb4ca",
+    "stem": "A 52-year-old insulin-dependent woman with diabetes presents with increasing lower back pain for the last two days. The pain is intense, andshe is unable to sleep at night.\nOn examination, the temperature is 37.8°C, pulse 105/min, and BP 110/70 mmHg. Examination of the heart, lungs, and abdomen is normal.She is tender on the T12 vertebra.\nBlood tests are as follows:\nHb 108 g/L(115-165)\nWBC 19.9 ×10/L (4-11)\nNeutrophils94% (40-75)\nPlatelet380 ×10/L (150-400)\nESR 90 mm/hr(0-20)\nCRP 200 mg/L(<10)\nUrea, electrolytes and creatinine are normal.\nA chest x ray, thoracic spine x ray, and urine dipstick are normal. \nWhat is the diagnosis?",
+    "options": [
+      "Pyelonephritis",
+      "Osteoporotic fracture",
+      "Epidural abscess",
+      "Metastases",
+      "Discitis"
+    ],
+    "correct_option": 4,
+    "explanation": "This patient has discitis.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "76c3b48d-001e-4fcd-bfcf-6438246323ba",
+    "stem": "A 36-year-old Turkish man presents with superﬁcial thrombophlebitis in his leg veins.\nOn enquiry, there is a history of recurrent episodes of oral and genital ulcers in the last year. Some of these ulcers have left scars. He has ahistory of anterior uveitis.\nRecent blood tests show a normocytic normochromic anaemia, normal LFTs, UE&C, and a raised ESR (66 mm/hr). A venous Doppler revealedbelow knee deep venous thrombosis.\nOn which of the following medicines should he be commenced?",
+    "options": [
+      "Naproxen",
+      "Low molecular weight heparin",
+      "Warfarin",
+      "Aspirin",
+      "Prednisolone"
+    ],
+    "correct_option": 4,
+    "explanation": "This patient has Behçet's disease.\nBehçet's syndrome is a systemic vasculitis with an unknown aetiology, which affects small and large vessels (venous and arterial).More than 60% of patients are HLA-B51, and there is an increased prevalence in the Mediterranean countries.\nIt is commonly associated with mucocutaneous manifestations (oro-genital ulceration, erythema nodosum), ocular disease,gastrointestinal involvement and neurological features. Venous thrombosis is a common complication. Thrombosis of major vesselslike the vena cava and suprahepatic veins may occur but is rare. Similarly, inﬂammation of arterial wall may occur, leading to theformation of aneurysm and/or occlusion. Thrombo-embolism is rare as the thrombi are adherent to the vessel wall.\nCurrent EULAR guidelines recommend that corticosteroids in conjunction with immunosuppressants like azathioprine,cyclosporine, and cyclophosphamide may be used in those with venous or arterial involvement. These recommendations are basedon the widely held belief that the cause of clot is inﬂammation of the vessel wall.\nDVT in Behçet's adhere to the vessel wall and do not result in emboli. Pulmonary embolism is therefore rare despite a high frequencyof venous thrombosis.\nEvidence is lacking for the use of anticoagulation, antiﬁbrinolytics, and antiplatelet agents, and routine use of these is notrecommended. Another reason to avoid these agents is the possibility of a coexisting pulmonary arterial aneurysm, which mightresult in fatal bleeding.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "812a6807-e9ba-41c7-8329-999edb9e37d4",
+    "stem": "A 20-year-old woman presents with typical erythema nodosum. She has a low grade fever and bilateral ankle arthritis but no other symptomsand has no medical history. There is no history of travel abroad and she is on no medication.\nWhich of the following would be the most appropriate investigation for this patient to aid diagnosis?",
+    "options": [
+      "Erythrocyte sedimentation rate (ESR)",
+      "Viral titres",
+      "Chest x ray",
+      "Barium enema",
+      "Upper gastointestinal (GI) endoscopy"
+    ],
+    "correct_option": 2,
+    "explanation": "Erythema nodosum is commonly idiopathic.\nIt can also be related to streptococcal infections, acute sarcoidosis or related to drugs such as the oral contraceptive pill,sulphonamides and penicillins.\nRarer causes include inﬂammatory bowel disease, tuberculosis, Behçet's disease and other connective tissue disorders.\nIn this case, a chest x ray would be the most helpful investigation as this may identify bilateral hilar lymphadenopathy which togetherwith a bilateral ankle arthropathy would strongly support a diagnosis of acute sarcoidosis.\nInvestigation of the bowel is unlikely to help in the absence of any bowel symptoms.\nViral titres and ESR are non-speciﬁc.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "27e1e4a1-2626-49a0-8825-79135e402ef7",
+    "stem": "An 80-year-old lady was reviewed in the outpatient clinic.\nShe was diagnosed with polymyalgia rheumatica eighteen months previously when she presented with bilateral shoulder stiffness andgeneralised myalgia; the ESR on presentation had been 60 mm/1st hour (0-30).\nShe was started on prednisolone 15 mg daily along with calcium and vitamin D supplementation and she responded well, with resolution ofher symptoms within one week. However, her symptoms have persistently relapsed when the dose of prednisolone has been reduced belowher current dose of 12.5 mg of prednisolone daily.\nHow should her disease be managed?",
+    "options": [
+      "Continue the current dose of prednisolone",
+      "Stop prednisolone and start azathioprine",
+      "Continue to taper the prednisolone and treat any symptoms with non-steroidal anti-inﬂammatory drugs",
+      "Increase the dose of prednisolone and add a bisphosphonate",
+      "Continue the current dose of prednisolone and start methotrexate"
+    ],
+    "correct_option": 4,
+    "explanation": "Corticosteroids remain the mainstay of treatment for polymyalgia rheumatica (PMR).\nThe starting dose depends on patient's weight and severity of symptoms. The optimum duration of treatment is uncertain and islargely guided by response to therapy.\nCalcium and vitamin D supplementation should be initiated for all patients with PMR who are starting corticosteroid therapy.Bisphosphonates should be added for long term steroid therapy.\nThe usual starting dose is 15 mg prednisolone per day. Patients should expect relief of symptoms within 24-72 hours. The doseshould be increased if symptoms are not well controlled within one week. The effective starting dose should be maintained for twoto four weeks after the patient becomes asymptomatic.\nGenerally, the daily dose can be lowered by 1.0-2.5 mg every two to four weeks to ﬁnd the minimum dose needed to maintainsymptom suppression. Once the patient is reduced to 10 mg per day, the daily dose can be tapered by 1 mg every four weeks.\nTapering should be guided by clinical response.\nNormalisation of inﬂammatory markers (especially erythrocyte sedimentation rate [ESR]) are helpful but should not set theguidelines for decreasing or stopping the treatment. An isolated increase of ESR without symptoms during the course of treatmentis not a valid reason to increase corticosteroid dose; however, a temporary delay in dosage reduction may be necessary.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "38e72fcf-0b0b-40a8-9719-0097b3e66b78",
+    "stem": "A 37-year-old woman presents with dry cough, recurrent episodes of sinusitis, and weight loss for last few weeks. This has failed to respondto several courses of antibiotics.\nOn admission, she has a temperature of 37°C, BP 178/98 mm Hg, and pedal oedema. A urine dipstick shows blood 3+, protein 3+. She hasbloody nasal discharge.\nRecent tests show:\nHb 121 g/L(115-165)\nWBC 12.0 ×10/L (4-11)\nNeutrophils88% (40-75)\nPlatelet490 ×10/L (150-400)\nESR 89 mm/hr(0-20)\nNa+ 138 mmol/L(137-144)\nK+ 5.1 mmol/L(3.5-4.9)\nUrea 11.2 µmol/L(2.5-7.5)\nCreatinine119 µmol/L(60-110)\nCRP 104 mg/L(<10)\nCXR, ultrasound abdomen and pelvis are normal.\nANCA positive (cytoplasmic pattern)\nAnti-proteinase 3 antibodypositive\nAnti-nuclear antibodynegative\nWhich of the following is the next step in her management?",
+    "options": [
+      "Corticosteroids - oral",
+      "Renal biopsy",
+      "Methotrexate- oral",
+      "Azathioprine - oral",
+      "Cyclophosphamide - IV"
+    ],
+    "correct_option": 0,
+    "explanation": null,
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "be4bd6c1-3ec7-4342-9953-fdfe060dada6",
+    "stem": "A 25-year-old woman with SLE (antinuclear antibody positive [1:6400], anti-dsDNA antibody positive) presents with a few months history offeeling generally unwell, tiredness, malar rash, and marked pedal oedema. There is no history of breathlessness.\nOn examination, the BP is 130/90 mm Hg, and there are 4+ protein and 2+ haematuria in her urine. She has normal heart sounds and,reduced breath sounds at both lung bases. \nBloods show a creatinine of 147 and she undergoes a renal biopsy which shows widespread deposition of IgG within the glomeruli.\nWhich of the following is the most likely cause of these ﬁndings?",
+    "options": [
+      "Membranous glomerulonephritis",
+      "IgA nephropathy",
+      "Diffuse proliferative glomerulonephritis",
+      "Mesangial glomerulonephritis",
+      "Focal proliferative glomerulonephritis"
+    ],
+    "correct_option": 2,
+    "explanation": "The combination of peripheral oedema and marked proteinuria in this patient indicates the presence of nephrotic syndrome\nThe renal manifestations of systemic lupus erythematosus (SLE) are highly variable, ranging from mild asymptomatic proteinuriaand/or haematuria to rapidly progressive uraemia. The various presentations are diﬃcult to classify into clinical syndromes andhistological classes. Although lupus nephritis affects a third of patients early in the disease it is frequently unrecognised untilnephritic and/or nephrotic syndrome with renal failure occur.\nHistologically, a number of different types of renal disease are recognised in SLE, with immune-complex mediated glomerulardisease being the most common. The up to date International Society of Nephrology/Renal Pathology Society 2003 classiﬁcationdivides these into six different patterns:I - minimal mesangialII - mesangial proliferativeIII - focalIV - diffuseV - membranousVI - advanced sclerosis\nGlomeruli appear normal by light microscopy in minimal mesangial lupus nephritis, but immunoﬂuorescence demonstratesmesangial immune deposits.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "9419d041-8d1f-41a0-9bc8-95b90d9fe6a7",
+    "stem": "A 65-year-old woman with SLE is diagnosed with class IV SLE nephritis.\nThe renal physician plans to start her on i.v. methylprednisolone (1 gm/day for three days) followed by oral prednisolone 1 mg/kg/day, andfortnightly i.v. cyclophosphamide.\nWhich of the following drugs does not need to be co-prescribed with these two agents?",
+    "options": [
+      "Omeprazole",
+      "Co-trimoxazole",
+      "Atorvastatin",
+      "Calcium + vitamin D",
+      "Alendronic acid"
+    ],
+    "correct_option": 2,
+    "explanation": "This patient is at risk of P. jirovecii pneumonia. She requires co-trimoxazole for prophylaxis against P. jirovecii pneumonia.\nShe is on steroids and cyclophosphamide both of which increase the risk of P. jirovecii pneumonia.\nAmong other things, corticosteroids cause peptic ulcer, and osteoporosis.\nTherefore she requires omeprazole for gastro-protection from corticosteroids, and she requires both a bisphosphonate, and calcium+ vitamin D for prophylaxis against osteoporosis as she is ≥ 65-years-old.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "02c21857-1fe6-48f8-abe2-29e04dc300fb",
+    "stem": "A 46-year-old man has for three days had a painful, swollen right knee and diﬃculty in walking.\nOn examination, his temperature is 36.8°C. The right knee is red, swollen, warm and tender and has restricted movement.\nThe knee aspirate shows no organisms on Gram stain, plenty of leucocytes, and weakly positively birefringent crystals on polarised lightmicroscopy. A knee radiograph shown linear meniscal calciﬁcation.\nThe results of recent blood test are:\nHb 123 g/L(130-180)\nWBC 14.3 ×10/L (4-11)\nNeutrophils 88% (40-75)\nPlatelet 340 ×10/L (150-400)\nESR 79 mm/hr(0-15)\nCorrected calcium2.80 mmol/L(2.20-2.60)\nPhosphate 0.78 mmol/L(0.8-1.4)\nAlkaline phosphatase90 U/L (45-105)\nUrea, electrolytes and creatinine are normal.\nWhat is the aetiology of acute monoarthritis in this man?",
+    "options": [
+      "Paraneoplastic",
+      "Myeloma",
+      "Hyperparathyroidism",
+      "Preceding infection",
+      "Osteoarthritis"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "82e994ae-8546-47e8-b777-13d5e88d0259",
+    "stem": "A 25-year-old Caucasian farmer presents to the outpatient department complaining of a two month history of lower back pain which is worstﬁrst thing in the morning. He reports intermittent pain and swelling of his right ankle, although he did sustain an injury to this whilst runninga year ago.\nTwo weeks ago he was seen in the Emergency department with a painful red eye for which he was treated with eye drops. He is a heavysmoker of 45 cigarettes a day and consumes ﬁve pints of beer every weekend. He denies any skin rashes or mucosal ulceration. His mothersuffered from rheumatoid arthritis and his father had severe gout. On direct questioning he admits to being diagnosed with chlamydia fourmonths ago.\nOn examination his right ankle was swollen at the site of Achilles' tendon insertion but all the other joints were unremarkable. Flexion of thelumbar spine was reduced.\nWhat is the most likely diagnoses in this man?",
+    "options": [
+      "Rheumatoid arthritis",
+      "Polymyalgia rheumatica",
+      "Behçet's syndrome",
+      "Gout",
+      "Ankylosing spondylitis"
+    ],
+    "correct_option": 4,
+    "explanation": "The history is most suggestive of a spondyloarthritis.\nThis is a group of related but phenotypically distinct disorders including:Ankylosing spondylitisReactive arthritisPsoriatic arthritis, andA subgroup of juvenile idiopathic arthritis.\nHLA-B27 is a predisposing factor for all these disorders and is present in 90% of patients with ankylosing spondylitis and 75% withreactive arthritis. It is present in only 8% of the normal Caucasian population.\nAnkylosing spondylitis is a very disabling form of spondyloarthritis and its diagnosis should always be considered in these cases. Themain symptom is inﬂammatory spinal and with time ankylosing and spinal immobilitiy develops. The pathology mainly affects theentheses. TNF-antagonists are the major treatment advance although physiotherapy and non-steroidal anti-inﬂammatory agentsstill have a role.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "b8944356-1005-4839-a912-16c37b1f34e3",
+    "stem": "A 23-year-old teacher with ankylosing spondylitis presents with headache. She has a painful right eye, and also reports cloudy vision.\nOn examination, the eye is red, photophobic, pupils are small, and the pupillary reﬂex is sluggish. Although the visual ﬁelds are normal, shereports cloudy vision. Recent FBC, UEC and liver function tests are normal.\nWhat is the diagnosis?",
+    "options": [
+      "Conjunctivitis",
+      "Uveitis",
+      "Scleritis",
+      "Blepharitis",
+      "Corneal melts"
+    ],
+    "correct_option": 1,
+    "explanation": "Patients with ankylosing spondylitis (AS) are at risk of uveitis.\nBlepharitis (inﬂammation of eyelid) and conjunctivitis lead to mild symptoms.\nCorneal melts (perforating corneal ulceration) is the end stage of keratitis which is seen typically in rheumatoid arthritis. Patientswith corneal melts have corneal opacities and ulceration which leads to scotomata.\nScleritis presents as dusky blue discoloration of the sclera, with associated pain, and tenderness, but does not lead to photophobia,or sluggish pupillary reﬂex.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "bbf4adef-8d42-4431-bd1b-93df8be57493",
+    "stem": "A 33-year-old teacher presents with a three week history of dry cough, low grade fever, and erythematous nodular lesions on the cheek,nose, forehead and chin.\nSystemic examination is normal.\nA chest x ray showed bilateral hilar adenopathy. The lesions on her face were biopsied and showed multiple non-caseating granulomata.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Sarcoidosis",
+      "Lymphoma",
+      "Granulomatosis with polyangiitis",
+      "SLE",
+      "Tuberculosis"
+    ],
+    "correct_option": 0,
+    "explanation": "This patient has got lupus pernio, a skin manifestation that is speciﬁc to sarcoidosis.\nDifferential diagnosis of bilateral hilar adenopathy includes:SarcoidosisLymphomaTuberculosisPneumoconiosisBerylliosis, andFungal diseases like histoplasmosis.\nUnlike in sarcoidosis, the granulomata in tuberculosis show caseating necrosis.\nThe differential diagnosis of lupus pernio includes:Granulomatosis with polyangiitisLymphoma cutis, andCutaneous lupus.\nThe clinical presentation helps differentiate some lesions, but a biopsy may be required.\nGranulomatosis with polyangiitis patients usually present with symptoms of sinusitis, otitis, or nasal ulceration. The skin lesionsinclude ulcers, nodules, and granuloma formation.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "754bafcc-4d6b-4345-a4de-c38109b6a52a",
+    "stem": "A 62-year-old woman with knee OA and a history of peptic ulcers, presents with a one week history of worsening left knee pain. The pain isincreased by walking, climbing stairs, and is debilitating her. There is no history of knee swelling, or injury.\nThe pain is partially controlled by co-codamol (30/500 mg) two tablets up to four times a day, NSAID gel, and fentanyl patches.\nOn examination, she is overweight. There is crepitus in her right knee and no knee effusion. \nWhat is the next step in her management?",
+    "options": [
+      "Oral Cox-2 inhibitors",
+      "Intra-articular corticosteroid injections",
+      "Oral NSAIDs",
+      "Acupuncture",
+      "Oral corticosteroids"
+    ],
+    "correct_option": 1,
+    "explanation": "This patient is having a ﬂare of osteoarthritis (OA) related knee pain.\nThere is no role for acupuncture or oral corticosteroids in controlling such pain.\nSuch ﬂares are common, and may be controlled by opiates, non-steroidal anti-inﬂammatory drugs (NSAIDs)/Coxibs or intra-articularcorticosteroid injections. Of these, intra-articular long acting corticosteroid injections are most effective.\nThe need for intra-articular long acting corticosteroid injections should be guided by symptoms, and not by the presence or absenceof joint effusion.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "1688d55d-c8dd-477e-9dd9-b28ce5d11c28",
+    "stem": "A 55-year-old lady with RA (RF positive, anti-CCP positive) presented with multiple well deﬁned ulcers on her legs.\nShe was on methotrexate 20 mg/week, folic acid 5 mg/day and sulfasalazine 1 gm/day. Her arthritis is well controlled, with no swollen ortender joints.\nHer blood tests showed leucopenia - see below, and the methotrexate, sulfasalazine were stopped for two weeks. Repeat blood tests did notshow any improvement in WBC count.\nInvestigations show:\nHb 129 g/L(115-165)\nWBC 1.4 ×10/L (4-11)\nNeutrophils39% (40-75)\nPlatelet166 ×10/L (150-400)\nESR 26 mm/hr(0-30)\nCRP 13 mg/L(<10)\nUrea, electrolytes and creatinine are normal.\nAnti-nuclear antibody: negative.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Felty's syndrome",
+      "Side effect from sulfasalazine",
+      "Rheumatoid vasculitis",
+      "SLE",
+      "Side effect from methotrexate"
+    ],
+    "correct_option": 0,
+    "explanation": "Patients with rheumatoid arthritis (RA) frequently develop neutropenia.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a7852f1f-e098-42ab-92f2-6c9f1393e9d3",
+    "stem": "With which of the following diseases is this appearance associated?",
+    "options": [
+      "Poorly controlled diabetes mellitus",
+      "Hypertriglyceridaemia",
+      "Chronic lymphocytic leukaemia",
+      "Paget's disease of bone",
+      "Acquired Immune deﬁciency syndrome"
+    ],
+    "correct_option": 3,
+    "explanation": "The slide shows angioid streaks, caused by breaks in Bruch's membrane.\nAngioid streaks may be associated with pseudoxanthoma elasticum, Ehlers-Danlos syndrome, sickle cell disease, acromegaly (andother pituitary disorders), and Paget's disease.\nA useful mnemonic for angioid retinal streak is SLAPPERS:S - SickleL - Lead poisoming",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "b4fe7b25-90ff-4386-8e02-1d4b630ca4a5",
+    "stem": "A 22-year-old man with known hereditary angioneurotic oedema (HAO) presents with a recurrent fever, arthralgia and a rash on the face andthe upper chest.\nDespite treatment for his HAO, he has always been troubled by recurrent attacks and has required adrenaline on several occasions. His C4levels have been persistently reduced secondary to his HAO.\nWhat is the most likely cause for his current symptoms?",
+    "options": [
+      "Psoriasis with arthropathy",
+      "Systemic lupus erythematosus",
+      "Drug rash",
+      "Dermatomyositis",
+      "Viral illness"
+    ],
+    "correct_option": 1,
+    "explanation": "HAO is characterised by deﬁciency of C1 esterase inhibitor.\nThis leads to persistent activation of the classical complement pathway and C4 levels are frequently low secondary to activation andconsumption.\nIf treatment fails to normalise the C4 levels and they remain persistently low; these patients are at an increased risk of developingSLE.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "6eed8a2d-1f4a-4c65-b0e9-e961c458fb59",
+    "stem": "01:19\nWhat is the diagnosis?",
+    "options": [
+      "Psoriatic arthropathy",
+      "Tophaceous gout",
+      "Sarcoidosis",
+      "Osteoarthritis",
+      "Rheumatoid arthritis"
+    ],
+    "correct_option": 1,
+    "explanation": "The slide shows the typical appearance of chronic tophaceous gout.\nChronic tophaceous gout has the features of asymmetrical joint swellings, tophi and progressive cartilage and bone destruction.This condition can occur after several years of persistent gout.\nTypically present are tophi - solid deposits of monosodium urate crystals in the joints, cartilage, bones and elsewhere in the body.The tophi can occasionally break through the skin and appear as yellowish/white chalky nodules that have been described aslooking like crab eyes.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "3b01c6d2-51d6-43cf-bcc2-614b9e5f644d",
+    "stem": "An 82-year-old gentleman is referred to your outpatient clinic by his GP. He gives a two month history of proximal muscle stiffness, especiallyin the morning. He denies any weakness.\nWhat is the next best investigation?",
+    "options": [
+      "Electromyography",
+      "Erythrocyte sedimentation rate",
+      "Plasma creatine kinase",
+      "Antinuclear antibody",
+      "Muscle biopsy"
+    ],
+    "correct_option": 1,
+    "explanation": "The brief history is suggestive of polymyalgia rheumatica: proximal muscle stiffness but not weakness in an elderly patient.Weakness and muscle pain are the predominant features of polymyositis.\nWhile each of the other tests listed might be relevant in the broad work-up of this patient, a high ESR would prompt immediatetreatment with steroids.\nPolymyalgia is often associated with giant cell arteritis - prompt treatment may prevent blindness.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "9ec879b9-2209-4cd4-bec2-d6868f93216c",
+    "stem": "A 37-year-old woman who recently started gardening presents with pain on the lateral aspect of her right wrist. This is worsened by making aﬁst, and by using heavy gardening tools.\nOn examination, there is tenderness, and swelling around the lateral margin of the right wrist, extending a few centimeters proximally.Finkelstein's test is positive. Recent FBC, UEC, LFTs and rheumatoid factor have been negative. MARKEDMARKEDMARKED \nWhat is the diagnosis?",
+    "options": [
+      "Preiser's disease",
+      "DeQuervain's tenosynovitis",
+      "Keinbock's disease",
+      "Dupuytren's contracture",
+      "Intersection syndrome"
+    ],
+    "correct_option": 1,
+    "explanation": "DeQuervain's tenosynovitis occurs in the ﬁrst extensor compartment on the back of the thumb. It involves abductor pollicis longusand extensor pollicis brevis tendons. There is localised pain, worsened by aggravating motion and swelling. Localised tendernessmay be present.\nFinkelstein's test - exacerbation of symptoms on ﬂexion of thumb, and ulnar deviation of wrist - may be present but is notpathognomonic of DeQuervain's tenosynovitis.\nIntersection syndrome is tenosynovitis of the extensor carpi radialis tendons, where these tendons are crossed by abductor pollicislongus and extensor pollicis brevis tendons. The pain and swelling is present 4 cm proximal to the wrist joint.\nPreiser's disease and Kienbock's disease are avascular necrosis of scaphoid and lunate bones respectively, and present with pain andswelling in the wrist joint.\nDupuytren's contracture is a condition of nodular hypertrophy and contractures of the superﬁcial palmar fascia. Patients presentwith pitting, and nodule and thickening of the fascia of the hand. MARKEDMARKED",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d52330f2-d5f9-41d7-8b08-419a26b26ff2",
+    "stem": "A 44-year-old man has a one month history of painful, and swollen right hand index, and middle ﬁnger distal interphalangeal joint. Herecounts a few episodes when one of the ﬁngers in his left hand swelled up. However, they subsided completely after a week.\nHe drinks 6 units of alcohol/week and has just returned from USA. There is no signiﬁcant past or family history except that his sister haspsoriasis.\nOn examination there are swollen and tender distal interphalangeal joints in right hand index and middle ﬁnger.\nThe results of a recent blood test are as follows:\nHaemoglobin130 g/L(130-180)\nWBC 10.9 ×10/L (4-11)\nNeutrophils6.8 ×10/L (1.5-7)\nESR 45 mm/hr(0-15)\nUrea, electrolytes and creatinine are normal\nRheumatoid factor - negative\nWhat is the most likely diagnosis?",
+    "options": [
+      "Gout",
+      "Palindromic rheumatism",
+      "Reactive arthritis",
+      "Rheumatoid arthritis",
+      "Psoriatic arthritis"
+    ],
+    "correct_option": 4,
+    "explanation": "This patient has psoriatic arthritis.\nIn the absence of psoriasis, a positive family history of psoriasis in a ﬁrst degree relative supports the diagnosis of psoriatic arthritis.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "3f26922c-4643-486f-aca2-177e457aa924",
+    "stem": "A 68-year-old woman presents with pain at the base of her right thumb. There is tenderness and swelling of the right ﬁrst carpometacarpaljoint.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Psoriatic arthritis",
+      "Rheumatoid",
+      "Osteoarthritis",
+      "De Quervain's tenosynovitis",
+      "Avascular necrosis of the scaphoid"
+    ],
+    "correct_option": 2,
+    "explanation": "The ﬁrst carpometacarpal joint is a frequent site of osteoarthritis in postmenopausal women. Clinical features include tenderness,stiffness, crepitus, swelling and pain on abduction of the thumb. Squaring of the hand, caused by swelling, radial subluxation of themetacarpal and atrophy of the thenar muscles, is a characteristic clinical sign.\nScaphoid fractures are relatively common, typically occurring following a fall onto outstretched hand. The proximal portion lacks itsown blood supply, so avascular necrosis can occur if a fracture leaves it isolated from the remainder of the scaphoid. This producespain and tenderness of the radial side of the wrist, classically in the anatomical snuffbox rather than the base of the thumb,exacerbated by wrist movement.\nDe Quervain's tenosynovitis disease is a common pathology which consists of a stenosing tenosynovitis of the ﬁrst dorsalcompartment of the wrist. It typically presents with pain on the radial aspect of the wrist, with associated swelling and tenderness.Treatment is with splinting, with or without corticosteroid injection.\nReference:1. Ilyas AM, at al. De quervain tenosynovitis of the wrist. J Am Acad Orthop Surg. 2007;15:757-64.2. Peter JB, Marmor L. Osteoarthritis of the ﬁrst carpometacarpal joint. Calif Med. 1968;109:116-20.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "f7d46427-fd15-4e36-9ec8-9d653f7de70d",
+    "stem": "A 29-year-old woman was referred to clinic for an opinion regarding a three month history of fatigue, generalised weakness, easy bruisingand joint pains. On examination she appeared pale.\nThe spleen was palpable 3 cm below the left costal margin. The remainder of the examination was normal.\nInvestigations showed:\nHaemoglobin95 g/L(115-165)\nMCV 95 fL (80-96)\nWhite cell count2.1 ×10/L (4-11)\nPlatelets 55 ×10/L (150-400)\nWhat is the most likely diagnosis?",
+    "options": [
+      "Felty’s syndrome",
+      "Systemic lupus erythematosus",
+      "Acute myeloid leukaemia",
+      "Idiopathic thrombocytopenic purpura",
+      "Myelodysplastic syndrome"
+    ],
+    "correct_option": 1,
+    "explanation": "The combination of pancytopenia, arthralgia and splenomegaly makes SLE the most likely diagnosis.\nAcute leukaemias are associated with elevated white cell counts often accompanied by leukaemia and thrombocytopenia;hepatosplenomegaly is usually a feature of ALL rather than AML.\nITP may be associated with thrombocytopenia and splenomegaly, but is not associated with penias of myeloid and lymphoid celllines.\nPatients with longstanding rheumatoid arthritis may develop Felty's syndrome (leucopenia and splenomegaly; often accompaniedby anaemia and thrombocytopenia) but this follows years of active rheumatoid disease.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "bc20feae-9f8b-43d6-9b6d-fbe9a35c59c2",
+    "stem": "A 66-year-old man has had a painful, swollen right knee and diﬃculty walking over the last three days. He has had two self-limiting episodesof severe pain and swelling in the right big toe in the last year.\nA knee aspirate shows leucocytes but no organisms on Gram stain, and negatively birefringent crystals on polarised light microscopy. Recentblood tests show normal renal function, and a raised serum urate 452 µmol/L (210-415 µmol/L).\nWhat is the next step in his long term management, once the current episode of acute synovitis has settled?",
+    "options": [
+      "Allopurinol",
+      "Ibuprofen",
+      "Dietary advice",
+      "Febuxostat",
+      "Corticosteroids"
+    ],
+    "correct_option": 0,
+    "explanation": "The British Society of Rheumatology guidelines state that the plasma urate should be maintained below 300 µmol/L in themanagement of gout.\nDrug therapy (allopurinol in the ﬁrst instance) is indicated to achieve this if:A second attack occurs within one year of the initial presentationTophi are presentThe patient has renal insuﬃciencyThere are also uric acid stones, andDiuretics cannot be stopped.\nHowever, it is important to remember that commencement of uric acid lowering drug therapy should be delayed until one to twoweeks after the initial episode has resolved. Colchicine should be co-prescribed for the ﬁrst six months.\nFebuxostat is a non-purine selective inhibitor of xanthine oxidase. that reduces serum uric acid concentration. NICE guidancerecommends its use only in patients who are intolerant of allopurinol or for whom allopurinol is contraindicated.\nOral, intramuscular or intra-articular corticosteroids are effective in the control of acute gout, however prolonged use is associatedwith signiﬁcant side effects and they are therefore not indicated in the long term management.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d8ffd2a5-3fcb-43db-a224-3d5ad3843b76",
+    "stem": "A 50-year-old man presented with a six week history of general malaise and a two day history of a right foot drop, a left ulnar nerve palsy anda widespread purpuric rash.\nHe complained of arthralgia but had no clinical evidence of inﬂammatory joint disease.\nInvestigations revealed:\nESR 100 mm/hr(0-20)\nANCA Negative\nANA Negative\nRheumatoid factorStrongly positive\nC3 0.8 g/L(0.75-1.6)\nC4 0.02 g/L(0.14-0.5)\nUrine dipstickBlood ++, No protein\nAn echocardiogram was normal and two sets of blood cultures were negative.\nWhat is the most likely diagnosis?",
+    "options": [
+      "ANA negative SLE",
+      "Rheumatoid arthritis",
+      "Polyarteritis nodosa",
+      "Cryoglobulinaemia",
+      "Infective endocarditis"
+    ],
+    "correct_option": 3,
+    "explanation": "The history is strongly suggestive of systemic vasculitis with mononeuritis multiplex, purpuric rash and haematuria.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "596e8325-6fdb-4455-add5-c88facb74544",
+    "stem": "A 62-year-old woman with knee OA, past history of peptic ulcers, and ischaemic heart disease presents with a one year history of worseningbilateral, anterior knee pain. The pain is increased by walking and climbing stairs.\nThere is no history of knee swelling. The pain is partially controlled by co-codamol (30/500 mg), two tablets up to four times a day, NSAID gel,and capsaicin cream.\nOn examination, she is overweight. There is crepitus and during active and passive movement of both knees. There is no knee effusion.\nWhat is the next step in her management?",
+    "options": [
+      "Oral tramadol",
+      "Oral celecoxib",
+      "Chondroitin sulphate",
+      "Oral diclofenac",
+      "Acupuncture"
+    ],
+    "correct_option": 2,
+    "explanation": "This patient has knee pain resistant to several simple analgesics. The next step in her treatment is to start her on stronger opiates.\nThere is not enough evidence that acupuncture or chondroitin sulphate is clinically or cost effective in osteoarthritis (OA).\nNon-steroidal anti-inﬂammatory drugs (NSAIDs) may be used for short term pain relief of severe symptomatic knee OA, however, theuse of NSAIDs for long term pain control in OA is discouraged.\nLong term oral NSAIDs are potentially dangerous as they may lead to renal failure, ﬂuid retention, peptic ulcers, and arecontraindicated in this patient as she has a history of peptic ulcers.\nCox-2 inhibitors have a much lower risk of gastrointestinal bleed. However, as they increase the risk of cardiovascular events, theyshould not be prescribed to those with cardiovascular disease, or in those with high risk of cardiovascular disease.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "74e6b6be-f632-4063-96ad-b1a3bd4c953c",
+    "stem": "A 25-year-old Caucasian farmer presents to the outpatient department complaining of a two month history of generalised aches and pains.\nHe used to be an active runner but says a hip injury forced him to give up competitive running a year ago. Two years ago he was seen in theEmergency department with a painful red eye for which he was treated with eye drops. He is a heavy smoker of 45 cigarettes a day andconsumes ﬁve pints of beer every weekend. He denies any skin rashes or mucosal ulceration. His mother suffered from rheumatoid arthritisand his father had severe gout.\nOn examination, the left ﬁrst metatarsophalangeal joint was swollen and tense, but all the other joints were unremarkable. Rotation of thelumbar spine was restricted.\nWhich of the following tests would be most useful in establishing the diagnosis?",
+    "options": [
+      "HLA-B27 antigen typing",
+      "HLA-B5 antigen typing",
+      "Serial serum uric acid levels",
+      "Rheumatoid factor",
+      "Examination of joint ﬂuid for crystals"
+    ],
+    "correct_option": 0,
+    "explanation": "A history of joint pains, in particular that of the lumbar spine, ocular involvement (uveitis) and the absence of mucosal ulceration in amale would suggest a differential diagnosis of ankylosing spondylitis and reactive arthritis.\nThe earliest radiographic change in ankylosing spondylitis is usually sacroiliitis, which may also be seen in reactive arthritis.\nHLA-B27 antigen typing is present in 90% of patients with ankylosing spondylitis and 75% with reactive arthritis.\nHowever, it is present in only 8% of the normal Caucasian population.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "31a75d0d-2ec1-46da-90eb-784fb1874b82",
+    "stem": "A 54-year-old patient with tophaceous gout developed hypersensitivity reaction to allopurinol tablets. He is offered long-term urate-loweringtreatment with febuxostat.\nWhich of the following best describes the mechanism of action of febuxostat?",
+    "options": [
+      "Xanthine oxidase analogue",
+      "GLUT - 9 inhibitor",
+      "URAT -1 inhibitor",
+      "Xanthine oxidase inhibitor",
+      "Xanthine oxidase stimulator"
+    ],
+    "correct_option": 3,
+    "explanation": "Febuxostat is a non-purine, selective inhibitor of xanthine oxidase; unlike allopurinol, which is a purine analogue inhibitor of xanthineoxidase.\nUricosuric agents, like probenecid and benzbromarone, work by blocking the anion exchanger URAT-1 at the apical brush bordermembrane of the proximal tubule in kidneys.\nThey also block urate reabsorption at the basolateral membrane of these cells by blocking GLUT 9 - the electrogenic glucose andfructose transport facilitator.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d942831d-6f27-4394-ab1e-cd347644b0b6",
+    "stem": "A 64-year-old patient with sero-positive erosive RA has active inﬂammatory arthritis despite treatment with methotrexate (20 mg/week), andsulfasalazine (1 gram bd).\nHe is offered treatment with biological agents. Of the various options available, he chooses to stat abatacept.\nWhich of the following best describes the mechanism of action of abatacept?",
+    "options": [
+      "Anti-IL 6 antibody",
+      "Anti-CD 20 antibody",
+      "Anti-TNF alpha antibody",
+      "CTLA4 homologue",
+      "Anti-IL 1 antibody"
+    ],
+    "correct_option": 3,
+    "explanation": "Abatacept is a cytotoxic lymphocyte antigen 4 (CTLA 4) homologue - licensed for RA treatment.\nAdalimumab, etanercept, inﬂiximab, golimumab, and certolizumab are anti-TNF alpha agents.\nRituximab is an anti-CD 20 antibody - licensed for RA treatment.\nAnakinra is an anti-IL 1 antibody.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "c075ee99-e40c-4784-a2d9-06937a79e821",
+    "stem": "A 65-year-old woman presents with deteriorating wheeze and dyspnoea.\nShe has been diagnosed with asthma over the last 15 years and is treated with inhaled salbutamol, inhaled ﬂuticasone and has receivednumerous courses of prednisolone. Currently, she is receiving 15 mg of prednisolone daily as a reducing dose.\nFour years ago, she had also received cyclical hormone replacement therapy (HRT) for post-menopausal ﬂushes but this was stopped afterone year of therapy when she developed a deep vein thrombosis.\nWhat treatment would you select as prophylaxis against osteoporosis?",
+    "options": [
+      "Calcium and ergocalciferol",
+      "Raloxifene",
+      "Salmon calcitonin",
+      "Calcium",
+      "Alendronate"
+    ],
+    "correct_option": 4,
+    "explanation": "This patient is at high risk of developing osteoporosis being post-menopausal and receiving high doses of steroids.\nOf the therapies listed the most appropriate is the bisphosphonate, alendronate. NICE guidelines suggest the use ofbisphosphonates where steroids are used over the longer term for the prevention of osteoporosis. This treatment should be for 3-5years and patients should be made aware that it is not preventative but reduces risk.\nCalcitonin is administered subcutaneously and is not appropriate.\nRaloxifene is a selective estrogen receptor modulator (SERM) and is an appropriate therapy for the prevention and treatment ofpost-menopausal osteoporosis but like HRT may be associated with an increased risk of thromboembolism and should not be usedin this case.\nCalcium and vitamin D are useful adjuncts but would not prevent steroid induced osteoporosis.\nReference:\nNICE. Osteoporosis: assessing the risk of fragility fracture (CG146).",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "2b0cd7ac-e2fc-4d37-9b09-1972ba7fedec",
+    "stem": "A 47-year-old woman with longstanding diabetes presents with a painful, stiff left shoulder of three weeks duration.  The pain is dull, achingand present at rest. Shoulder movements are reduced. There is no history of trauma, temperature, or night pain.\nOn examination, the shoulder movements are globally restricted. There is no evidence of shoulder effusion. Cervical spine movements arenormal. Recent FBC, UEC, LFT, and bone proﬁle are normal.\nWhat is the most likely cause of her shoulder symptoms?",
+    "options": [
+      "Rotator cuff tear",
+      "Glenohumeral osteoarthritis",
+      "Acromioclavicular joint osteoarthritis",
+      "Adhesive capsulitis",
+      "Subacromial bursitis"
+    ],
+    "correct_option": 3,
+    "explanation": "This patient has adhesive capsulitis. Adhesive capsulitis (synonym, frozen shoulder) is common in diabetics.\nIn this condition there is a fairly acute onset of dull pain, and global restriction of shoulder movements. Pain is frequently present atrest. External rotation is the most severely affected movement.\nSubacromial bursitis presents with shoulder pain when trying to reach above the head. During examination, pain is present in themid arc of shoulder abduction. There is usually no rest pain. Active shoulder abduction is limited by pain. However, there is full rangeof shoulder abduction passively.\nRotator cuff tears present with symptoms similar to subacromial impingement. There may be weakness in speciﬁc shouldermovements in full thickness rotator cuff tears. \nOsteoarthritis at glenohumeral and acromioclavicular joints usually presents with gradually worsening, generalised shoulder, orshoulder tip pain, in older people, or in those with physically demanding jobs.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a41fa679-891d-4e6d-93c7-7c1c27f91dde",
+    "stem": "A 42-year-old female presented with acute back pain after lifting a chair. The pain is intense, increases on movement, and radiates bilaterallyto the hypochondriacal region. Upon questioning she denied previous fractures, but admitted to a gradual loss of height (5 cm from heryoung adult height) and occasional self-limiting back pain.\nPast medical history included spontaneous menopause at the age of 37. She had never taken any regular medications, calcium or vitamin Dsupplements in the past.\nExamination revealed a thin woman who had a dorsal hyperkyphosis. Severe back pain was ellicited on movement and local percussion.\nInvestigations showed:\nBone mineral density (BMD) was assessed by dual-energy x ray absorptiometry at the hip and the lumbar spine (L1-L4).\nBMD T-score at lumbar spine− 3.0\nBMD T-score at total hip− 2.8\nWhat is the diagnosis?",
+    "options": [
+      "Osteopenia",
+      "Post menopausal osteoporotic vertebral fractures",
+      "Osteomalacia secondary to Vitamin D or calcium deﬁciency",
+      "Vertebral fractures secondary to malignant inﬁltration",
+      "Senile osteoporosis"
+    ],
+    "correct_option": 1,
+    "explanation": "This lady has several risk factors for post-menopausal osteoporosis, includingEarly onset (<45 years) menopauseAbsence of hormone replacement therapy, calcium and vitamin D supplemention andLow body weight.\nPatients with osteoporosis may have no warning signs until the ﬁrst fracture occurs. Gradual height loss and dorsal kyphosis mayresult from microfractures or complete fractures of vertebral bodies.\nA T-score refers to the difference in standard deviation (SD) from the mean bone mass.\nThe World Health Organisation (WHO) criteria for the diagnosis of osteoporosis is as follows:",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d30be8f6-7574-4725-b611-94195755d2d3",
+    "stem": "A 66-year-old man has had a painful right knee and diﬃculty in walking for three years. He had diabetes, hypertension, CKD 3 (eGFR 45ml/min).\nHe is on aspirin, amlodipine, metformin, and citalopram.\nDuring routine tests, his serum urate was checked. This was 521 μ mol/L (210-415).\nWhat is the next step in his management?",
+    "options": [
+      "Allopurinol",
+      "None of the above",
+      "Low protein diet",
+      "Low purine diet",
+      "Repeat serum urate"
+    ],
+    "correct_option": 1,
+    "explanation": "Uric acid is the ﬁnal product of purine metabolism. Raised levels are most commonly associated with gout, but more recently theyhave been identiﬁed as a marker for a number of metabolic and haemodynamic abnormalities (including ischaemic heart disease,diabetes mellitus, hypertension and hyperlipidaemia).\nBlood levels depend of the rate of breakdown and excretion, and most cases of hyperuricaemia are associated with defectiveelimination.\nCauses of hyperuricaemia include:\nUnderexcretion:Renal impairmentMetabolic syndromeDrugs, e.g. diuretics, low-dose aspirin, cyclosporin, tacrolimus, pyrazinamide, ethambutol, levodopa, nicotinic acidAcidosisPre-eclampsia and eclampsiaHypothyroidism, hyperparathyroidismSarcoidosisFamilial juvenile gouty nephropathyChronic lead intoxicationTrisomy 21Idiopathic.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "917a7cb9-e9e6-4a25-b7f7-f45923284fd6",
+    "stem": "A 40-year-old insulin-dependent man with poorly controlled diabetes presents with an acutely erythematous and swollen right mid footwhich he has experienced for the last three weeks. He drinks alcohol socially, and has had no recent injuries to the foot.\nOn examination, the mid foot is warm. Pedal pulses are intact. There is sensory loss in a glove and stocking distribution bilaterally.\nRecent blood tests show a normal FBC, CRP, and UEC, and a foot radiograph is normal.\nWhat is the next step in his management?",
+    "options": [
+      "None of the above",
+      "Antibiotics",
+      "CT foot and ankle",
+      "Immobilise in a plaster cast",
+      "High potency vitamin B"
+    ],
+    "correct_option": 3,
+    "explanation": "In patients with long-standing diabetes and peripheral neuropathy, a red hot swollen foot should raise suspicion of Charcotneuroarthropathy.\nCharcot neuropathy presents as a warm, swollen, erythematous foot and ankle, and infection is important to exclude. The majority ofpatients are in their 50-60s, and they often present in the latter stages of the disease. It can occur in association with a variety ofconditions, including leprosy, poliomyelitis, rheumatoid arthritis, although today the most common cause is diabetes mellitus.\nThe pathophysiology of Charcot neuroarthropathy is not completely understood, but is thought to start with peripheral neuropathy.The lack of pain sensation may mean that patients subject the foot joints (commonly the mid foot) to stress injuries that lead to theCharcot process. It is important to note however that about half of patients present with pain.\nFour stages of Charcot neuropathy are recognised:Stage 0 (inﬂammation) - characterised by erythema and oedema, but no structural changes.Stage 1 (development) - bone resorption, fragmentation and joint dislocation. Swelling, warmth and erythema persist butthere are also radiographic changes such as debris formation at the articular margins, osseous fragmentation and jointdisruption.Stage 2 (coalescence) - bony consolidation, osteosclerosis and fusion are all seen on plain radiographs.Stage 3 (reconstruction) - osteogenesis, decreased osteosclerosis, progressive fusion. Healing and new bone formation occur,and the deformity becomes permanent.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "7c493c5c-931c-43b8-b690-30f846cc8ac1",
+    "stem": "A 25-year-old lady presents with multiple ill-deﬁned, polycyclic erythematous rash on face, neck, and trunk.\nSome of the rash is papular with scaling. Some of these have healed without any scarring. These are exacerbated by exposure to sunlight.There is no other signiﬁcant history.\nHer blood tests are as follows:\nHb 111 g/L(115-165)\nWBC 8.9 ×10/L (4-11)\nNeutrophils89% (40-75)\nPlatelet166 ×10/L (150-400)\nESR 16 mm/hr(0-20)\nCRP 3 mg/L(<10)\nUrea, electrolytes and creatinine are normal.\nAnti-nuclear antibodypositive 1:320\nAnti-dsDNA antibodynegative\nAnti-Ro antibodypositive\nAnti-La antibodynegative\nWhat is the diagnosis?",
+    "options": [
+      "Discoid lupus erythematosus",
+      "Subacute cutaneous lupus erythematosus",
+      "Acute cutaneous lupus erythematosus",
+      "Bullous lupus erythematosus",
+      "Systemic lupus erythematosus"
+    ],
+    "correct_option": 1,
+    "explanation": "This patient has classic subacute cutaneous lupus erythematosus (SACLE).",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "93aea2ca-ae24-4074-9663-82e9123fada0",
+    "stem": "A 68-year-old male smoker presents with progressive diﬃculty in climbing stairs. He also has diﬃculty in picking things off the shelf.\nHe has 4/5 power proximally, with intact reﬂexes and downward going plantars.\nPolymyositis was diagnosed based on the following blood tests, and muscle biopsy:\nHb 121 g/L(130-180)\nWBC 7.8 ×10/L (4-11)\nNeutrophils84% (40-75)\nPlatelet180 ×10/L (150-400)\nESR 66 mm/hr(0-20)\nCK 220 IU/L(24-195)\nCRP 135 mg/L(<10)\nUrea, electrolytes and creatinine are normal. CXR is also normal.\nAnti-nuclear antibodynegative 1:6400\nAnti-ENA antibodynegative\nWhich of the following is the most appropriate next investigation?",
+    "options": [
+      "Ultrasound abdomen and pelvis",
+      "ECG",
+      "CT chest, abdomen pelvis",
+      "Echocardiogram",
+      "CT abdomen and pelvis"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "94b6089b-6beb-41ec-96cd-8983389def8d",
+    "stem": "A 70-year-old retired sea captain develops weakness of the shoulders and hips over a four month period. He has also noticed weak ﬁngerﬂexors with normal strength in straightening them. He has had some diﬃculty swallowing liquids.\nThere is no past medical history, apart from a sexually transmitted disease picked up in the South Paciﬁc some forty years before. This wastreated with antibiotics and he is not sure of the diagnosis.\nHe smokes a pipe and drinks one or two tots of rum at the weekend.\nA creatine kinase level comes back at 120.\nWhich investigation is most likely to give a deﬁnite diagnosis?",
+    "options": [
+      "24 hour urine collection for myoglobin",
+      "Muscle biopsy with electron microscopy",
+      "CT scan of the chest",
+      "Anti Jo 1 antibody titres",
+      "EMG"
+    ],
+    "correct_option": 1,
+    "explanation": "The diagnosis is inclusion body myositis (IBM). This is an inﬂammatory condition that affects the over 50s.\nProximal muscles and ﬁnger ﬂexors are predominantly involved, but distal muscle groups may also be involved. The onset of muscleweakness in IBM is generally gradual (over months or years).\nIBM occurs more frequently in men than women. Creatine kinase (CK) may be normal.\nJo 1 titres are often raised in dermatomyositis associated with lung disease.\nElectromyogram (EMG) shows a similar pattern in polymyositis and IBM - small short duration motor unit arrythmias can complicatepolymyositis and dermatomyositis, but not IBM.\nThere is no association of IBM with malignancy.\nPolymyositis and dermatomyositis show a much better response to steroids than IBM.\nBiopsy in IBM shows intranuclear or cytoplasmic tuboﬁlaments on electron microscopy.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "695d077e-b158-4402-8252-43f5ed495b83",
+    "stem": "A 30-year-old male company director is referred to you from the Emergency department with a 24 hour history of a painful and swollen leftknee.\nHe denies any history of trauma and does not have any previous history of joint problems. Over the last two days, he has also noticed rednessand soreness in both eyes. He is married, a non-smoker and consumes about 10 units of alcohol weekly. He has returned from a business tripto Amsterdam a fortnight ago.\nOn examination, his temperature is 38.5°C. His eyes are red and he has a brown macular rash on the soles of his feet. His left knee is hot,swollen and tender to palpate. No other joint appears to be affected.\nInvestigations show:\nHb 129 g/L (130-180)\nWBC 14.0 ×10/L (4-11)\nPlatelets 200 ×10/L (150-400)\nESR 75 mm/hr (0-15)\nPlasma sodium140 mmol/L(137-144)\nPlasma potassium4.1 mmol/L(3.5-4.9)\nPlasma urea5.6 mmol/L(2.5-7.5)\nPlasma creatinine100 µmol/L(60-110)\nBlood culturesNo growth after 48 hours\nUrinalysis No blood, glucose or protein detected\nKnee x ray Soft tissue swelling around left knee\nWhat is the most likely diagnosis?",
+    "options": [
+      "Viral arthritis",
+      "Gout",
+      "Gonococcal arthritis",
+      "Reactive arthritis",
+      "Rheumatoid arthritis"
+    ],
+    "correct_option": 3,
+    "explanation": null,
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "6a88a0a9-206b-4861-ba3f-d085e081d87d",
+    "stem": "A 54-year-old man with RA was commenced on methotrexate six months ago. His joint symptoms have improved considerably.\nHe is currently on methotrexate 15 mg/week, folic acid 5 mg/day, and hydroxychloroquine 200 mg bd. Regular monitoring blood tests havebeen normal till now.\nThese are the results of a recent blood test:\nHaemoglobin131 g/L(130-180)\nWBC 8.2 ×10/L (4-11)\nNeutrophils 5.1 ×10/L (1.5-7)\nPlatelets 280 ×10/L (150-400)\nAST 185 IU/mL(1-31 U/L)\nALT 220 IU/ml(5-35 U/L)\nBilirubin 34 μ mol/L(1-22)\nAlkaline phosphatase85 U/L (45-105 U/L - over 14 years)\nUrea, electrolytes and creatinine: normal\nWhat is the most likely cause of his deranged liver function tests?",
+    "options": [
+      "Primary biliary cirrhosis",
+      "Hydroxychloroquine",
+      "Rheumatoid arthritis",
+      "Auto immune hepatitis",
+      "Methotrexate"
+    ],
+    "correct_option": 4,
+    "explanation": null,
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "014e1094-0c86-4e82-96bf-c0faa521025e",
+    "stem": "A 56-year-old man with acute polyarticular gout was commenced on colchicine (500 mcg b.d).\nTwo weeks after the acute attack subsided he was commenced on allopurinol (300 mg/day), and the colchicine was continued. His othermedicines included aspirin, omeprazole, furosemide, and insulin.\nA few weeks later, he saw his GP with widespread non-blanching purpuric rash, fever, and malaise.\nThe following are the results of his recent blood tests:\nHaemoglobin121 g/L(130 - 180)\nWBC 11.9 ×10/L (4-11)\nNeutrophils 6.1 ×10/L (1.5-7.0)\nLymphocytes2.1 ×10/L (1.5-4.0)\nEosinophils 3.0 ×10/L (0.04-0.4)\nPlatelets 480 ×10/L (150-400)\nAST 185 IU/L(1-31)\nALT 220 IU/L(5-35)\nBilirubin 34  μ mol/L(1-22)\nAlkaline phosphatase85 IU/L(45-105)\nUrea, electrolytes and creatinine: normal\nWhat is the next step in his management?",
+    "options": [
+      "Discontinue colchicine",
+      "Discontinue allopurinol",
+      "Start antihistamines, prednisolone and continue current medicines",
+      "Stop, and restart allopurinol once blood tests normalise",
+      "Stop, and restart colchicine once blood tests normalise"
+    ],
+    "correct_option": 1,
+    "explanation": null,
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "8ef15c99-fbed-46ee-b845-0e2f48bf0c85",
+    "stem": "A 58-year-old man presents with Raynaud's phenomenon and progressive diﬃculty in climbing stairs. He has also noticed cracking andpeeling of the skin on the ﬁngertips and on the lateral aspect of his hands.\nOn examination, the power is 4/5 proximally, with intact reﬂexes and downward going plantars.\nRecent blood tests are as follows:\nHb 131 g/L(130-180)\nWBC 9.9 ×10/L (4-11)\nNeutrophils88% (40-75)\nPlatelet196 ×10/L (150-400)\nESR 66 mm/hr(0-20)\nCK 1200 IU/mL(24-195)\nCRP 131 mg/L(<10)\nUrea, electrolytes and creatinine are normal.\nLiver function testsnormal\nAnti-nuclear antibodynegative\nAnti-dsDNA antibodynegative\nAnti-Ro/La antibodynegative\nAnti-Jo1 antibodypositive\nWhat is the diagnosis?",
+    "options": [
+      "SLE",
+      "Inclusion body myositis",
+      "Anti-synthetase syndrome",
+      "Dermatomyositis",
+      "Polymyalgia rheumatica"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "493bc916-1aff-49cc-9f98-807ce704ac6f",
+    "stem": "A 65-year-old lady with RA (RF positive, anti-CCP positive) presented with headache, and blurred vision in the right eye.\nShe is on methotrexate 20 mg/week and folic acid 5 mg/day. Her arthritis is well controlled, with no swollen or tender joints.\nOn examination, the right eye is red, there is a corneal opacity, and there is intense photophobia in the right eye. Her FBC, U&E, and LFTs arenormal. CRP is 120 mg/L. A swab of the corneal lesion did not grow any organisms.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Caplan syndrome",
+      "Felty's syndrome",
+      "Corneal melts",
+      "Scleritis",
+      "Episcleritis"
+    ],
+    "correct_option": 2,
+    "explanation": "Patients with RA frequently have eye complications. These include:Episcleritis (red, tender, superﬁcial painful lesions, well localised)Scleritis (blue dusky, tender, painful lesions)Keratitis (photophobia, visual disturbance), andCorneal ulcers.\nIn severe cases there may also be scleromalacia perforans or corneal melts.\nFelty's syndrome is a triad of splenomegaly, rheumatoid arthritis, and pancytopenia (predominantly neutropenia) in someone withlongstanding seropositive RA.\nCaplan's syndrome is co-existence of pulmonary nodulosis and pneumoconiosis.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "5792505b-1653-407a-9054-445d79efe4ff",
+    "stem": "A 22-year-old patient with SLE for last six years presents with sudden onset shortness of breath for last two days.\nOn examination, the pulse is 105/min, BP 110/70 mm Hg, SaO of 93% on air.\nOther organ system examination is normal. FBC, U&E, INR are normal. D-dimers are positive. A chest radiograph and ECG are normal.\nWhich of the following is the most appropriate investigation?",
+    "options": [
+      "PET scan",
+      "Echocardiogram",
+      "HRCT chest",
+      "CTPA",
+      "Pulmonary function test"
+    ],
+    "correct_option": 3,
+    "explanation": "Patients with systemic lupus erythematosus (SLE) are at risk of anti-phospholipid antibody syndrome (APAS).\nAPAS is present if the patient hasAnticardiolipin antibodies or lupus anticoagulant on two occasions over a period of 12 weeks\nand either has hadA thrombus, or A history of recurrent less than 10 week pregnancy loss orOne pregnancy loss greater than 10 weeks in gestation\nwhen other causes of pregnancy loss have been excluded. \nPatients with APAS and another autoimmune condition are said to have secondary APAS, while those with APAS where noassociated autoimmune condition can be identiﬁed are said to have primary APAS.\nOther causes of shortness of breath in SLE, like shrinking lung syndrome, and pneumonitis do not present acutely, and thereforepulmonary function test or HRCT are unlikely to be of any beneﬁt.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "37ea8760-e7eb-490c-89e5-3ca2f07e8828",
+    "stem": "A 65-year-old man presented with a four week history of pleuritic chest pain associated with shortness of breath and dry cough. He alsoreported weight loss of nearly 10 kg in the past six months.\nHe had a past history of myocardial infarction 20 years earlier from which he had made a good recovery. He did not suffer from any exertionalchest pain subsequently.\nHe lived alone and had not seen his general practitioner for two years. He seldom saw his general practitioner, but had attended the surgerytwice recently with mild recurrent pain in his left knee that responded well to treatment with simple analgesia. He was an ex-smoker of 15cigarettes per day, having given up smoking 10 years previously. His only medication was aspirin.\nOn examination of his chest he had reduced expansion, dull percussion note and decreased breath sounds on the right. A chest x rayconﬁrmed a right-sided pleural effusion.\nAnalysis of a pleural aspirate revealed:\nPleural ﬂuid protein content42 g/L\nPleural ﬂuid glucose2.0 mmol/L\nWhat is the likely diagnosis?",
+    "options": [
+      "Tuberculosis",
+      "Bronchial carcinoma",
+      "Cardiac failure",
+      "Rheumatoid arthritis",
+      "Mesothelioma"
+    ],
+    "correct_option": 1,
+    "explanation": "The pleural ﬂuid protein is greater than 35 g/L which demonstrates it is an exudate and effectively excludes cardiac failure.\nIf pleural ﬂuid protein is 25-35 g/L then Light's criteria are more accurate in determining whether the effusion is an exudate ortransudate. It is an exudate if one or more of the following criteria are met1. Pleural ﬂuid protein divided by serum protein greater than  0.52. Pleural ﬂuid lactate dehydrogenase (LDH) divided by serum LDH greater than 0.63. Pleural ﬂuid LDH greater than 2/3rds upper limits of normal serum LDH.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "85ae2234-7b90-4b4a-82ee-2809abef82ad",
+    "stem": "A 51-year-old female is referred by her GP over concerns about osteoporosis.\nShe had a hysterectomy and oophorectomy because of uterine ﬁbroids one year ago, after which she developed hot ﬂushes that persist andare troublesome. Her elderly mother recently fractured the neck of her femur and the patient is worried about the possibility that she too willfracture her hip later in life.\nShe is otherwise well, is a non-smoker drinks about ﬁve units of alcohol weekly and has a healthy diet.\nExamination reveals a ﬁt thin female with a BMI of 18 kg/m, her blood pressure is 122/88 mmHg and breast examination is normal.\nWhich of the following would you recommend for her?",
+    "options": [
+      "Unopposed oestrogen therapy",
+      "Bisphosphonates",
+      "Combined oestrogen and progesterone therapy",
+      "Calcitonin",
+      "Vitamin D"
+    ],
+    "correct_option": 0,
+    "explanation": "This patient has a risk for osteoporosis being thin and recently having had oophrectomy.\nDepartment of Health guidelines would support the use of oestrogen replacement as ﬁrst-line therapy in such patients.\nUnopposed oestrogen therapy is most appropriate as the patient has had a hysterectomy and combined hormone replacementtherapy (HRT) is unnecessary.\nTibolone, raloxiﬁne and bisphosphonates are recommended as second-line agents where HRT may be poorly tolerated or contra-indicated.\nAlthough things are continuing to change with regard to publications such as Women's Health Study and Million Women Study, thefact remains that in symptomatic patients, HRT offers the best therapeutic option and in the absence of any cardiovascular riskfactors is recommended. The guidelines state that hormone therapy be used at the lowest doses for the shortest duration needed toachieve treatment goals.\nReferences:\nWomen's Health Institute: Risks and Beneﬁts of Hormone Therapy",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "cb43c82a-869b-4b9a-87aa-7ca22586deed",
+    "stem": "This 53-year-old woman presented to hospital with haematemesis.\nShe had been hospitalised six months previously following a similar episode.\nWhat is the diagnosis?",
+    "options": [
+      "Pseudoxanthoma elasticum",
+      "Zollinger-Ellison syndrome",
+      "Ehlers-Danlos syndrome",
+      "Chronic hepatitis B",
+      "Haemachromatosis"
+    ],
+    "correct_option": 0,
+    "explanation": "The slide shows 'plucked chicken skin' appearance of skin folds in the neck. Elastic ﬁbres in the skin degenerate and calcify, leadingto this characteristic appearance.\nPatients are predisposed to peripheral and coronary arterial disease, and to upper and lower gastrointestinal haemorrhage.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "f86abd18-b51c-49ed-916b-21e4b4502a2a",
+    "stem": "A 24-year-old construction worker presents after an accident at work. He has suffered a crush injury when a digger rolled onto his leg. He wastrapped for approximately one hour.\nAfter review by the orthopaedic team he was cleared of any fractures, but because of concerns regarding compartment syndrome,fasciotomies were performed on the injured leg.\nHis urine output over the last four hours was 35 mL despite a mean arterial pressure of 70 mmHg.\nHis blood results were as follows:\nCreatine kinase7503 u litre\nPotassium5.6 mmolL\nUrea 17 mmolL\nCreatinine167 mmolL\nHaemoglobin140 g/L\npH 7.35\nWhat is the most important management plan to initiate?",
+    "options": [
+      "Aggressive ﬂuid resuscitation",
+      "Renal replacement therapy",
+      "Furosemide to achieve urine output of 3 ml/kg/hour",
+      "Urinary alkalisation",
+      "Mannitol to achieve urine output of 3 ml/kg/hour"
+    ],
+    "correct_option": 0,
+    "explanation": null,
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "de4a123c-78e6-4ed5-8d85-0a18b307b81a",
+    "stem": "A woman on a camping holiday to central Europe, presented with fever, myalgia, and had a history of a centrally clearing rash. A diagnosis ofLyme's disease was made and she was treated with a prolonged course of antibiotics, making an unremarkable recovery.\nWhich of the following ticks is the predominant vector, responsible for the transmission of Lyme disease to this patient?",
+    "options": [
+      "Ixodes scapularis",
+      "Ixodes dammini",
+      "Ixodes paciﬁcus",
+      "Ixodes ricinus",
+      "Borrelia burgdorferi"
+    ],
+    "correct_option": 3,
+    "explanation": "Borrelia burgdorferi causes Lyme disease and Ixodes ricinus is predominantly responsible for its transmission in Europe.\nIxodes paciﬁcus and Ixodes scapularis are the ticks responsible for transmission of Lyme disease in the USA.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "3263e5d1-67cd-44a9-bc14-4221ec7051f4",
+    "stem": "A 31-year-old man known to be HIV positive presents to clinic complaining of xerophthalmia, xerostomia, abdominal pain, weakness andexertional dyspnoea.\nHe is noted to have marked bilateral facial swelling and hepatomegaly. Auscultation of his chest reveals a few ﬁne scattered crepitations.\nInvestigations show:\nRheumatoid factorNegative\nAntinuclear antibodyNegative\nExtractable nuclear antigens (ENA)Negative\nWhat is the most likely diagnosis?",
+    "options": [
+      "Mumps",
+      "Lymphoma",
+      "Systemic lupus erythematosus",
+      "Diffuse inﬁltrative lymphocytic syndrome",
+      "Sjogren's syndrome"
+    ],
+    "correct_option": 3,
+    "explanation": "Inﬁltrative lymphocytic syndrome (DILS) can present like Sjogren's syndrome with parotid gland enlargement and sicca symptoms. Extraglandular manifestations are common and it is rare for the patient to have positive autoantibodies unlike Sjogren's syndrome.\nThe weakness is due to a peripheral motor neuropathy.\nAseptic meningitis and cranial nerve palsies can also occur.\nLymphocytic interstitial pneumonitis is the most serious complication of DILS.)",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "ed2e908c-0a85-4eb0-ba3e-2c4bc36db280",
+    "stem": "A 50-year-old woman presents with dry eyes, a dry mouth, an erythematous rash and polyarthralgia.\nInvestigations show:\nAnti-nuclear antibodyStrongly positive (1:1600)\nAnti-Ro/SSA antibodiesStrongly positive\nRheumatoid factorPositive\nIgG 45 g/L (<15)\nIgM Normal\nIgA Normal\nKappa/lambda ratioNormal\nWhat is the most likely diagnosis?",
+    "options": [
+      "Primary Sjögren's syndrome",
+      "Systemic lupus erythematosus",
+      "Myeloma associated vasculitis",
+      "Hyperviscosity syndrome",
+      "Rheumatoid arthritis with secondary Sjögren's syndrome"
+    ],
+    "correct_option": 0,
+    "explanation": "The clinical features and the serology are typical of primary Sjögren's syndrome (occurs alone and more likely to have positive antiRo SSA antibodies than secondary Sjögren's).\nHypergammaglobulinaemia is present in 80% of individuals.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "e47df23d-a4ac-4e62-9710-8a73194595e8",
+    "stem": "A 52-year-old female presents with tiredness, weight loss, anxiety and diﬃculty sleeping. She was receiving a combined cyclicaloestrogen/progesterone hormone replacement therapy.\nExamination revealed a thin patient with a pulse of 110 beats per minute, a ﬁne tremor and proximal myopathy. Her spleen tip was barely felt.\nInitial investigations showed:\nSerum free thyroxine41 pmol/L(9-23)\nPlasma TSH <0.1 mU/L(0.4-5.0)\nSerum alkaline phosphatase202 U/L(45-105)\nSerum gamma glutamyl transferase40 U/L(4-35)\nThe general practitioner commenced carbimazole 20 mg twice daily together with propranolol. On review six weeks later she lookedeuthyroid. Repeat investigations showed:\nSerum free thyroxine30 pmol/L\nPlasma TSH 2.2 mU/L\nSerum alkaline phosphatase160 U/L\nSerum gamma glutamyl transferase35 U/L\nThe dose of carbimazole was decreased to 20 mg daily. After one year's treatment where the patient felt increasingly tired, the GP decided torefer her to the medical outpatient. Two weeks prior to her appointment she had developed a chest infection for which her GP hadprescribed erythromycin. At clinic the following results were noted:\nSerum free thyroxine9.5 pmol/L\nPlasma TSH 10.2 mU/L\nSerum alkaline phosphatase102 U/L\nSerum gamma glutamyl transferase36 U/L\nWhat is the cause of her elevated alkaline phosphatase?",
+    "options": [
+      "Oestrogen therapy",
+      "Thyrotoxicosis",
+      "Paget's disease",
+      "Progestogen therapy",
+      "Osteoporosis"
+    ],
+    "correct_option": 1,
+    "explanation": null,
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "4e9eea44-8834-4e7c-9515-6702ee59c987",
+    "stem": "A 40-year-old non-smoking woman presents with weakness in right upper limb (power 3/5), and right sided lower facial drooping. Thesesymptoms resolve in an hour, soon after being examined by the admitting doctor.\nApart from this, she was in sinus rhythm, had normal heart sounds and peripheral pulses. As a part of her work up she has some blood tests,and other investigations.\nResults of these investigations are as follows:\nHb 128 g/L(115-165)\nWBC 9.9 ×10/L (4-11)\nNeutrophils74% (40-75)\nPlatelet80 ×10/L (150-400)\nESR 10 mm/hr(0-15)\nINR 1.1 (<1.4)\naPTT 49 seconds(30-40 seconds)\naPTT did not normalise after addition of plasma.\nBlood ﬁlm shows thrombocytopenia, no schistocytes.\nUrea, electrolytes and creatinine are normal. CT head and echocardiogram are also normal.\nWhat is most likely cause of her symptoms?",
+    "options": [
+      "Antiphospholipid antibody syndrome",
+      "Thrombotic thrombocytopenic purpura",
+      "Paroxysmal atrial ﬁbrillation",
+      "Idiopathic thrombocytopenic purpura",
+      "Protein C/ protein S deﬁciency"
+    ],
+    "correct_option": 0,
+    "explanation": null,
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "6e19c829-89be-40a9-bcae-c73ddaf4df6f",
+    "stem": "A 68-year-old woman notices an acute severe sharp pain in the middle of her back when trying to lift a suitcase.\nOn examination, she has some tenderness over the thoracic spine.\nInvestigations showed:\nHb 112 g/L (115-165)\nWCC 5.9 ×10/L (4-11)\nPlatelets 400 ×10/L (150-400)\nESR 6 mm/hr (0-30)\nPlasma sodium 138 mmol/L(137-144)\nPlasma potassium4.1 mmol/L (3.5-4.9)\nPlasma urea 5.0 mmol/L (2.5-7.5)\nPlasma creatinine85 µmol/L (60-110)\nPlasma calcium 1.75 mmol/L(2.2-2.6)\nPlasma phosphate0.7 mmol/L (0.8-1.4)\nPlasma alkaline phosphatase386 U/L (45-105)\nPlasma aspartate transaminase20 U/L (5-35)\nSerum parathyroid hormone14.5 pmol/L (0.5-5.4)\nx Ray of spine Compression fracture of T10 vertebral body\nWhich of the following is the most likely diagnosis?",
+    "options": [
+      "Primary hyperparathyroidism",
+      "Multiple myeloma",
+      "Paget's disease",
+      "Vitamin D deﬁciency",
+      "Osteoporosis"
+    ],
+    "correct_option": 3,
+    "explanation": null,
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "6dc93aaf-876d-4dfa-812f-9203babecacf",
+    "stem": "A 45-year-old man with RA, on s.c. adalimumab (40 mg/2week), methotrexate 15 mg/week, folic acid 5 mg/day, and prednisolone 5 mg/daypresents to the MAU with a painful swollen right ankle.\nHe is unable to weight bear on the right leg. There are no drug allergies.\nOn examination, his temperature is 38.8 ℃ , BP is 90/60 mm Hg, and pulse is 110/min. The right ankle is warm, tender, and there is a tensejoint effusion. You have collected bloods including blood cultures, and have started ﬂuid resuscitation.MARKED\nWhich of the following is the most appropriate step in his management?",
+    "options": [
+      "Urgently arrange ankle aspiration",
+      "Administer i.v. ﬂucloxacillin, and arrange bone scan",
+      "Administer i.v. ﬂucloxacillin, and arrange joint aspiration urgently",
+      "Administer i.v. ﬂucloxacillin, and arrange MRI of right ankle",
+      "Administer i.v. ﬂucloxacillin, and arrange joint aspiration next day"
+    ],
+    "correct_option": 2,
+    "explanation": "Septic arthritis must be excluded in an individual with acute monoarthritis.\nSeptic arthritis may be oligo- or polyarticular in the immunosuppressed, and may present without pyrexia.\nJoint aspiration, followed by microscopy and culture of the synovial ﬂuid is critical to the diagnosis of septic arthritis, and should becollected prior to giving antibiotics. However, this patient has septic shock, and administration of antibiotics takes precedence overcollection of synovial ﬂuid, especially if the latter is likely to delay the administration of antibiotics.\nMRI will show a wide range of non-speciﬁc changes in this scenario, for example, effusion, synovial proliferation, bone marrowoedema, none of which is speciﬁc to septic arthritis.\nA bone scan will show increased uptake at the inﬂamed joint, and will not allow differentiation between infective and other causes.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "71010caf-93ca-417b-aa22-57a81821dbed",
+    "stem": "A 67-year-old Caucasian with Granulomatosis with polyangiitis is treated with monthly i.v. cyclophosphamide and oral prednisolone for sixmonths.\nHis vasculitis is well controlled, and the plan is to commence him on azathioprine.\nHe has normal full blood count, urea electrolytes and creatinine, and liver function tests.\nWhat screening test is required before commencing him on azathioprine?",
+    "options": [
+      "Sperm count",
+      "Blood for thiopurine methyltransferase",
+      "Serum electrophoresis",
+      "Chest x ray",
+      "Serum urate"
+    ],
+    "correct_option": 1,
+    "explanation": "Blood for thiopurine methyltransferase should be checked prior to starting azathioprine.\nAzathioprine is converted to 6-mercaptopurine (6-MP) in vivo. 6-MP may be metabolised to inactive 6-methyl mercaptopurine, ormay be methylated to active compounds by the enzyme thiopurine methyltransferase (TPMT).\nAmong Caucasians, 89% percent have normal or high levels, 11% have low levels, and 0.3% people are deﬁcient in TPMT. \nAs a result, if azathioprine is given to those deﬁcient in TPMT (undetectable levels), it results in severe side effects, for example,myelosuppression.\nPatients with normal or high levels of TPMT may be safely commenced on azathioprine, while those with low levels of TPMT may begiven low doses of azathioprine under expert supervision.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "6635062b-37ae-4295-a086-578cadcad866",
+    "stem": "A 60-year-old man with Granulomatosis with polyangiitis, previously treated with cyclophosphamide, and pulse methylprednisolone is oncyclosporine (100 mg/day), and on a reducing course of oral prednisolone (15 mg/day to 7.5 mg/day) for the last two months.\nHis vasculitis is well controlled. He was found to have worsening hypertension, despite starting on amlodipine and doxazosin. Urine dipstickand renal ultrasound are normal. He has normal inﬂammatory markers and FBC over the last few months.\nHis blood tests are as follows:\n  0 week2 weeks6 weeks8 weeks\nBP (mmHg)140/90145/95150/100160/110\nNa (mmol/L)142 140 141 139\nK (mmol/L)4.5 4.7 5.0 5.0\nUrea (µmol/L)10.2 12.4 12.6 14.2\nCreat (µmol/L)110 135 170 190\nWhat is the most likely cause for deteriorating renal function?",
+    "options": [
+      "Cushing's syndrome",
+      "Glomerulonephritis due to vasculitis",
+      "Delayed reaction to cyclophosphamide",
+      "Cyclosporine toxicity",
+      "Hypertension"
+    ],
+    "correct_option": 3,
+    "explanation": "Serious side effects of cyclosporine include hypertension, and renal impairment.\nDiﬃcult to control hypertension and an increase in creatinine by more than 30% from baseline are indications for stoppingcyclosporine treatment.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "64260423-ebbe-46e1-b0c3-2224b3a6d422",
+    "stem": "A 25-year-old lady gives birth to a baby with complete heart block who subsequently requires pacemaker insertion.\nWhich of the following antibodies is most likely to be detected in the maternal serum?",
+    "options": [
+      "Anti-SCL70 antibodies",
+      "Anti-Ro/SSA antibodies",
+      "Anti-dsDNA antibodies",
+      "Anti-endomysial antibodies",
+      "Rheumatoid factor"
+    ],
+    "correct_option": 1,
+    "explanation": "The majority of cases of congenital heart block are due to the presence of anti-Ro/SSA antibodies in the maternal serum.\nThe mother may have no evidence of a connective tissue disorder.\nThe risks of congenital heart block in mothers with anti-Ro/SSA antibodies remains very small (less than 3%) but the correlationbetween the presence of anti-Ro/SSA antibodies and congenital heart block is very strong.\nThe heart block is generally permanent (unlike other features of neonatal lupus) and insertion of a permanent pacemaker isfrequently required.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "9781b3b4-3326-427d-a3e4-9e8d6a970d14",
+    "stem": "A 58-year-old man presents with a few weeks history of progressive diﬃculty in getting up and down stairs, and in getting up from chairs. Healso notices that picking things off the shelf are diﬃcult for him.\nOn examination, the power is 4/5 proximally, with intact reﬂexes and downward going plantars.\nRecent blood tests are as follows:\nHb 121 g/L(130-180)\nWBC 7.8 ×10/L (4-11)\nNeutrophils84% (40-75)\nPlatelet180 ×10/L (150-400)\nESR 66 mm/hr(0-20)\nCK 350 IU/L(24-195)\nCRP 135 mg/L(<10)\nUrea, electrolytes and creatinine are normal.\nAnti-nuclear antibodypositive 1:6400\nAnti-ENA antibodynegative\nWhat is the diagnosis?",
+    "options": [
+      "Polymyositis",
+      "Dermatomyositis",
+      "Inclusion body myositis",
+      "SLE",
+      "Polymyalgia rheumatica"
+    ],
+    "correct_option": 0,
+    "explanation": "This man has polymyositis. He does not have any rash.",
+    "tags": [
+      "Rheumatology"
+    ],
+    "source": "BMJ OnExamination"
+  }
+]

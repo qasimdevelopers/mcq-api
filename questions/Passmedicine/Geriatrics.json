@@ -1,0 +1,665 @@
+[
+  {
+    "id": "f30df112-f55a-413b-8199-4bcbd6809d10",
+    "stem": "A elderly lady patient presents with arthritic pains. At the end of the consultation she tells you she has been to see a doctor at the memory clinic who diagnosed her with Alzheimer's dementia. She cannot remember why she was not given any tablets to help with this. Which of the following would represent a relative contraindication to donepezil prescription?",
+    "options": [
+      "Patient on warfarin",
+      "Mild Alzheimer's dementia",
+      "Stage II renal impairment",
+      "Resting bradycardia",
+      "Mini-mental state examination (MMSE) score of 18"
+    ],
+    "correct_option": 3,
+    "explanation": "Resting bradycardia\nDonepezil is generally avoided (relative contraindication) in patients with bradycardia and is used with caution in other cardiac abnormalities.\n\nPatient on warfarin\nThere is no interaction between donepezil and warfarin according to the BNF.\n\nMild Alzheimer's dementia\nIt is licenced for use in mild to moderate Alzheimer's dementia (as indicated by an MMSE score of 18 in this question).\n\nStage II renal impairment\nDonepezil is not renally excreted and is therefore safe to give in renal failure.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "d04865ee-3443-4b85-969e-0efde12e4ea0",
+    "stem": "A 78-year-old man is admitted from a nursing home with multi-infarct dementia, chronic obstructive pulmonary disease and biventricular failure. You are asked to assess his risk of pressure sores and need for referral to the tissue viability team during his inpatient stay. Which of the following is most useful in determining the risk of pressure sores?",
+    "options": [
+      "Glasgow criteria",
+      "Rankin scale",
+      "Ranson criteria",
+      "Waterlow scale",
+      "Townsend scale"
+    ],
+    "correct_option": 3,
+    "explanation": "Waterlow scale\nThe Waterlow scale was developed in 1985 to assess the risk of pressure sore development, helping to drive level of nursing intervention and use of special mattresses to reduce risk. Potential scores range from 1-64. A score greater than 10 indicates an increased risk of pressure sore development, with scores >15 indicating high risk and >20 indicating very high risk. A number of factors are taken into account when assessing patients using the scale including body habitus, continence status, malnutrition, mobility, neurological status and presence of major trauma.\n\nGlasgow criteria\nThe Glasgow and Ranson criteria were drawn up to stratify risk in patients presenting with acute pancreatitis, with respect to identifying those at increased risk of mortality, and those who need to be treated in a high dependency area.\n\nRankin scale\nThe Rankin scale relates to the degree of disability in patients post stroke.\n\nRanson criteria\nThe Glasgow and Ranson criteria were drawn up to stratify risk in patients presenting with acute pancreatitis, with respect to identifying those at increased risk of mortality, and those who need to be treated in a high dependency area.\n\nTownsend scale\nThe Townsend scale is an indicator of deprivation.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "2891797a-3b39-4d63-9dd7-124a3978e819",
+    "stem": "A GP receives a shared care document from the dementia specialist team, asking him to take over the prescribing of donepezil for a patient with Alzheimer's disease. Which other medication if present on the patient's repeat prescription may represent the strongest potential contraindication to donepezil?",
+    "options": [
+      "Tiotropium",
+      "Verapamil",
+      "Omeprazole",
+      "Trimethoprim",
+      "Glyceryltrinitrate spray"
+    ],
+    "correct_option": 1,
+    "explanation": "Verapamil\nOne of the important possible side effects of the acetylcholinesterase inhibitors (donepezil, rivastigmine and galantamine) is bradycardia (or SA block or AV block). Hence these medications might be contraindicated or should be started with caution in patients with conduction abnormalities or those already taking negatively chronotropic medications such as beta blockers, rate-limiting calcium channel blockers or digoxin.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "2d6a4637-7413-478d-a71f-7fba9152e203",
+    "stem": "A 78-year-old woman with known Lewy body dementia presents to the clinician with her husband. The husband is concerned as his wife is having increasingly more visual hallucinations and paranoid delusions. She believes that her husband is an imposter and has been increasingly aggressive. At her last clinic review, 2 months previously, her dose of carbidopalevodopa was increased to target her resting tremor and overall bradykinesia. Which of the following is the next best step in the management of this patient?",
+    "options": [
+      "Decrease the dose of carbidopa-levodopa",
+      "Discontinue carbidopa-levodopa",
+      "Start clonazepam",
+      "Start haloperidol",
+      "Start tranylcypromine"
+    ],
+    "correct_option": 0,
+    "explanation": "Decrease the dose of carbidopa-levodopa\nDecreasing the dose of carbidopa-levodopa is likely to improve the patient's hallucinations and delusional thinking. This patient's worsening hallucinations are likely to be driven by an increase in dopamine in the mesolimbic pathway from her recent medication change.\n\nDiscontinue carbidopa-levodopa\nAbrupt discontinuation of carbidopa-levodopa has been reported to cause parkinsonism-hyperpyrexia syndrome, which is similar to the neuroleptic malignant syndrome and therefore should be avoided.\n\nStart clonazepam\nClonazepam is a benzodiazepine used in the treatment of panic attacks and seizure disorders. It facilitates GABA-A action by increasing the frequency of chloride channel opening resulting in hyperpolarization of the neurons thereby producing a calming effect on the brain by reducing the excitability of the neurons.\n\nStart haloperidol\nHaloperidol is an antipsychotic and should be avoided when possible as many patients with Lewy body dementia are known to have extreme sensitivity to neuroleptics. If antipsychotics are required, low-dose second-generation antipsychotics such as clozapine, quetiapine, and aripiprazole are preferred.\n\nStart tranylcypromine\nTranylcypromine is a monoamine oxidase inhibitor and should be avoided when possible as many patients with Lewy body dementia are known to have extreme sensitivity to neuroleptics. If antipsychotics are required, low-dose second-generation antipsychotics such as clozapine, quetiapine, and aripiprazole are preferred.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "55dbfa93-b363-4fff-b38f-b337a1f8a423",
+    "stem": "A 78-year-old woman is seen in a memory clinic. She has longstanding cognitive impairment and memory loss associated with her AD. Her husband who has accompanied her to clinic report that she spends the whole night wandering around and hardly sleeps. He wonders if one of her drugs may have caused her to have insomnia. On examination, she looks lethargic and tired, otherwise, the examination is unremarkable. Which one of the following drugs may be responsible for her insomnia?",
+    "options": [
+      "Memantine",
+      "Temazepam",
+      "Zopiclone",
+      "Donepezil",
+      "Suvorexant"
+    ],
+    "correct_option": 3,
+    "explanation": "Donepezil\nDonepezil, an acetylcholinesterase inhibitor, used as the first line drug in the management of AD is associated with insomnia.\n\nMemantine\nMemantine is an NMDA receptor antagonist used in the management of Alzheimer's disease (AD) if anticholinesterases are ineffective or contraindicated. Its side effects include sleepiness. It is not known to cause insomnia.\n\nTemazepam\nTemazepam, zopiclone and suvorexant are used to treat insomnia, therefore, are incorrect answers.\n\nZopiclone\nTemazepam, zopiclone and suvorexant are used to treat insomnia, therefore, are incorrect answers.\n\nSuvorexant\nTemazepam, zopiclone and suvorexant are used to treat insomnia, therefore, are incorrect answers.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "6d05f93e-dc15-43cc-a751-a4835c84b1fa",
+    "stem": "A 72-year-old woman presents to her GP with a one-year history of progressive memory loss, confusion, and difficulty with daily tasks, such as managing finances and following familiar recipes. Her family notes she frequently misplaces items and struggles to recall recent conversations. She has also become withdrawn, showing less interest in social activities. Cognitive testing reveals issues with short-term memory, language comprehension, and problem-solving. There is no family history of dementia. What APOE polymorphic allele is most associated with this patient's condition?",
+    "options": [
+      "ε1 allele",
+      "ε2 allele",
+      "ε3 allele",
+      "ε4 allele",
+      "ε5 allele"
+    ],
+    "correct_option": 3,
+    "explanation": "ε4 allele\nThe ε4 allele of the APOE gene is the correct answer, as it represents the most significant genetic risk factor for sporadic Alzheimer's disease, which is the probable diagnosis in this scenario. This patient's clinical presentation of progressive memory loss, confusion, and difficulties with daily activities is consistent with the cognitive decline characteristic of Alzheimer's disease. Carriers of one ε4 allele have an elevated risk of developing Alzheimer’s disease; this risk is further increased in individuals with two copies, who may also experience earlier onset. The ε4 allele affects cholesterol metabolism and amyloid plaque formation in the brain, both implicated in neurodegeneration. A lack of a familial dementia history further suggests sporadic Alzheimer's disease, wherein the ε4 allele plays a pivotal role.\n\nε1 allele\nThe ε1 allele of the APOE gene is incorrect because, while it is thought to play a role in lipid metabolism similar to other APOE alleles, its specific functions are not as well-studied as those of ε2, ε3, and ε4. Importantly, the ε1 allele does not appear to significantly contribute to the risk of developing Alzheimer's disease.\n\nε2 allele\nThe ε2 allele is not associated with an increased risk for Alzheimer's disease; rather it appears to play a role in lipid metabolism and may even confer some protection against the development of Alzheimer’s disease.\n\nε3 allele\nSelection of the ε3 allele is incorrect as it has a neutral effect on Alzheimer's disease susceptibility. Despite its involvement in lipid metabolism, carrying this allele does not increase Alzheimer’s risk comparably to other alleles. While it may modify disease progression when present alongside an ε4 allele, by itself, it does not act as an independent risk factor.\n\nε5 allele\nChoosing the ε5 allele is incorrect because such an allele does not exist within recognised classifications related to APOE polymorphism and Alzheimer’s disease. Only alleles ε2, ε3, and ε4 are relevant when considering genetic risks associated with this condition.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "4db7f7ba-291b-4df9-8e82-c29d0d3bbb1d",
+    "stem": "A 64-year-old man who is under investigation for parkinsonian symptoms is brought to the GP by his wife. She is concerned her husband is becoming increasingly agitated. The GP prescribes haloperidol. One week later the GP is called out to see the patient as his parkinsonian symptoms have deteriorated markedly. What is the most likely underlying diagnosis?",
+    "options": [
+      "Lewy body dementia",
+      "Normal pressure hydrocephalus",
+      "Progressive supranuclear palsy",
+      "Multiple system atrophy",
+      "Dementia pugilistica"
+    ],
+    "correct_option": 0,
+    "explanation": "Lewy body dementia\nThe correct answer is Lewy body dementia. Lewy body dementia (LBD) is a type of progressive dementia that leads to a decline in thinking, reasoning and independent function due to abnormal microscopic deposits that damage brain cells over time. Parkinsonian symptoms such as bradykinesia, rigidity and tremor are common in LBD. Additionally, patients with LBD can have significant neuropsychiatric symptoms including agitation. Importantly, these patients are extremely sensitive to neuroleptic drugs like haloperidol and can experience severe exacerbation of their parkinsonian symptoms when exposed to these medications.\n\nNormal pressure hydrocephalus\nNormal pressure hydrocephalus presents with the triad of gait disturbance, urinary incontinence and cognitive impairment. Although parkinsonian features may be seen, they are not as prominent as in LBD. Also, this condition does not typically present with agitation or marked sensitivity to neuroleptics.\n\nProgressive supranuclear palsy\nProgressive supranuclear palsy is characterised by early onset of postural instability leading to falls, vertical supranuclear gaze palsy and cognitive dysfunction. Agitation is not a typical feature and there is no known sensitivity to neuroleptics.\n\nMultiple system atrophy\nMultiple system atrophy presents with autonomic failure (including urinary incontinence), poorly levodopa-responsive parkinsonism and cerebellar ataxia. Again, agitation is not a typical feature and there is no known marked sensitivity to neuroleptics.\n\nDementia pugilistica\nDementia pugilistica, also known as chronic traumatic encephalopathy (CTE), results from repeated head injuries often seen in professional boxers. It presents with behavioural changes, memory loss followed by parkinsonism but the history usually provides clues towards the diagnosis and it does not show marked sensitivity to neuroleptics like haloperidol.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "d89570ea-db33-4967-938a-f821c278438f",
+    "stem": "A 90-year-old man presents with worsening confusion. He is a nursing home resident and is dependent on carers for most activities of daily living. He is usually able to have short interactions with members of staff, though often struggles remembering names and naming objects. Carers are concerned as he appears less alert than usual. He needs significant prompting at mealtimes and remains incontinent of urine. On examination, he scores 12/15 on the Glasgow coma scale. Which factor would suggest a diagnosis of delirium rather than dementia?",
+    "options": [
+      "Difficulty with day-to-day tasks",
+      "Impairment of conscious level",
+      "Short term memory loss",
+      "Urinary incontinence",
+      "Word-finding difficulties"
+    ],
+    "correct_option": 1,
+    "explanation": "Impairment of conscious level\nDelirium involves an impairment of conscious level and often involves psychotic symptoms. One of the main factors favouring delirium is impairment of consciousness, demonstrated here by the reduced score on the Glasgow coma scale. Other factors which might suggest delirium include a fluctuation in symptoms and hallucinations. An acute confusional state can be caused by a number of physical health problems, such as dehydration, constipation or a urinary tract infection. It can also be precipitated by medication changes or being in an unfamiliar environment. Delirium is more common among elderly patients, especially those with poor hearing/eyesight or pre-existing memory problems.\n\nDifficulty with day-to-day tasks\nThe other options listed, including difficulty with day-to-day tasks, are more typical of dementia and, in this scenario, they are premorbid signs.\n\nShort term memory loss\nThe other options listed, including short term memory loss, are more typical of dementia and, in this scenario, they are premorbid signs.\n\nUrinary incontinence\nThe other options listed, including urinary incontinence, are more typical of dementia and, in this scenario, they are premorbid signs.\n\nWord-finding difficulties\nThe other options listed, including word-finding difficulties, are more typical of dementia and, in this scenario, they are premorbid signs.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "768a7f48-0c44-403c-a664-73a2b9c955f6",
+    "stem": "A 69-year-old man who is known to have Alzheimer's disease is reviewed in clinic. His latest Mini Mental State Examination (MMSE) score is 18 out of 30. What is the most appropriate management?",
+    "options": [
+      "Supportive care + memantine",
+      "Supportive care + trial of citalopram",
+      "Supportive care",
+      "Supportive care + donepezil + low-dose aspirin",
+      "Supportive care + donepezil"
+    ],
+    "correct_option": 4,
+    "explanation": "Supportive care + donepezil\nThe correct answer is Supportive care + donepezil. Donepezil is a cholinesterase inhibitor which is recommended by the National Institute for Health and Care Excellence (NICE) guidelines in the UK for the treatment of mild to moderate Alzheimer's disease, which this patient has based on his MMSE score. The goal of treatment with donepezil is to improve cognitive function and slow down the progression of symptoms. Supportive care, including psychosocial support, should be provided alongside pharmacological therapy.\n\nSupportive care + memantine\nSupportive care + memantine is incorrect because memantine is not first-line treatment for mild to moderate Alzheimer's disease. Memantine, an NMDA receptor antagonist, is recommended for severe Alzheimer's disease or for patients with moderate disease who cannot tolerate or have not responded to cholinesterase inhibitors like donepezil.\n\nSupportive care + trial of citalopram\nThe option Supportive care + trial of citalopram is also incorrect. Citalopram, a selective serotonin reuptake inhibitor (SSRI), may be used in patients with Alzheimer's disease to manage neuropsychiatric symptoms such as depression and anxiety but it does not have a direct effect on the progression or symptoms of Alzheimer's itself.\n\nSupportive care\nThe choice Supportive care, without any pharmacological intervention, would be inappropriate given that this patient has symptomatic Alzheimer's disease that could potentially benefit from medications like donepezil.\n\nSupportive care + donepezil + low-dose aspirin\nSupportive care + donepezil + low-dose aspirin would also be incorrect. While low-dose aspirin may be indicated in certain patients for cardiovascular protection, there's no evidence that it offers any benefit in slowing down cognitive decline or improving symptoms in Alzheimer's disease. Therefore, its addition here would not represent optimal management according to current guidelines.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "9cafc5bc-53b2-4106-aeb1-1c7c3fc1dc21",
+    "stem": "A 52-year-old woman presents to the emergency department with a 2-day history of fever and general malaise. Her medical history includes multiple sclerosis, diet-controlled type 2 diabetes mellitus and asthma, for which she recently completed a rescue pack for an infective exacerbation. She is bedbound and doubly incontinent. A thorough examination reveals pressure ulcers on both sides of her buttocks. There is surrounding erythema, and the ulcers are warm to the touch. What is the biggest predisposing factor to findings on her buttocks?",
+    "options": [
+      "Age",
+      "Diabetes mellitus",
+      "Double incontinence",
+      "Female sex",
+      "Steroid use"
+    ],
+    "correct_option": 2,
+    "explanation": "Double incontinence\nDouble incontinence heightens the potential for skin compromise and the subsequent formation of pressure ulcers due to continual exposure to moisture, alongside irritation from both urine and faeces.\n\nAge\nWhile age per se is not a direct risk factor for pressure ulcers, the often accompanying decline in mobility with advancing years can indeed augment the risk.\n\nDiabetes mellitus\nIn relation to diabetes, there is an unequivocal elevation in risk for pressure ulceration, especially when blood glucose levels are poorly controlled. Nonetheless, even optimally managed diabetes may elevate the risk due to complications such as peripheral neuropathy and impaired wound healing capabilities.\n\nFemale sex\nFemale sex has not been identified as a risk factor for the development of pressure ulcers; males and females have an equal likelihood of developing these ulcers.\n\nSteroid use\nSteroids, too, are acknowledged as a contributing factor for pressure ulcer development. Nonetheless, in this clinical context, double incontinence poses a more immediate threat for initiating pressure ulceration.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "cc1a484c-9c2d-46c4-9e8f-cef1f346610e",
+    "stem": "An 80-year-old man is investigated for progressive cognitive impairment. Which one of the following features is most suggestive of Lewy body dementia?",
+    "options": [
+      "Disinhibition",
+      "Emotional lability",
+      "Symptoms worsen with neuroleptics",
+      "Urinary incontinence",
+      "Paucity of extrapyramidal signs"
+    ],
+    "correct_option": 2,
+    "explanation": "Symptoms worsen with neuroleptics\nThe correct answer is Symptoms worsen with neuroleptics. Lewy body dementia (LBD) is characterised by fluctuating cognitive impairment, visual hallucinations, parkinsonism and a pronounced sensitivity to neuroleptics. This sensitivity can manifest as a severe worsening of motor symptoms or the development of Neuroleptic Malignant Syndrome (NMS), a potentially fatal condition characterised by hyperthermia, altered mental state, autonomic dysregulation and generalised muscle rigidity.\n\nDisinhibition\nDisinhibition is not typically associated with LBD. Disinhibition, which refers to poor impulse control resulting in inappropriate social behaviour, is more commonly seen in frontotemporal dementia (FTD). FTD also presents with personality changes and language impairment but lacks the characteristic features of LBD such as visual hallucinations and parkinsonism.\n\nEmotional lability\nEmotional lability, defined as rapid, often exaggerated changes in mood, where strong emotions or feelings (uncontrollable laughing or crying) occur. This symptom is not typical of LBD but it's more commonly associated with pseudobulbar affect that may be seen in conditions like amyotrophic lateral sclerosis or multiple sclerosis.\n\nUrinary incontinence\nUrinary incontinence can be present in many types of dementia due to the general loss of brain function affecting bladder control. However, it's not specific to LBD and tends to occur later in the course of most dementias when significant brain damage has occurred.\n\nPaucity of extrapyramidal signs\nPaucity of extrapyramidal signs, meaning few movement disorders relating to Parkinson's disease such as tremors or rigidity are present. This would be unusual for LBD since one of its key characteristics includes symptoms similar to Parkinson's disease such as slowed movement, rigid muscles and tremors.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "c436ceee-f51c-4190-aaa3-c1c58edc2116",
+    "stem": "An 86-year-old gentleman comes to see you with his daughter for a medication review. His memory has been declining recently and he was referred to memory clinic three months ago, where he was diagnosed with Alzheimer's dementia. His other medical history includes chronic back pain secondary to osteoporosis, ischaemic heart disease and atrial fibrillation. Which one of the following medications should you consider stopping?",
+    "options": [
+      "Amitriptyline",
+      "Rivaroxaban",
+      "Atorvastatin",
+      "Alendronic acid",
+      "Aspirin"
+    ],
+    "correct_option": 0,
+    "explanation": "Amitriptyline\nThe STOPP-START Criteria (Gallagher et al., 2008) outlines medications that we should consider withdrawing in the elderly. One example of this is the use of tricyclic antidepressants in patients with dementia, due to the risk of worsening cognitive impairment.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "0c8d7413-6966-4633-9b38-50441b59921c",
+    "stem": "An 84-year-old-woman is found wandering in the street by her neighbours and brought to the emergency department by ambulance. Her past medical history includes osteoarthritis. She takes paracetamol regularly. She does not smoke and lives alone. A collateral history is obtained from her daughter who reports that her mother has had progressive memory loss over the preceding year. She is having difficulty carrying out normal activities of daily living such as cooking, cleaning, washing and is unable to manage her finances. Furthermore, she occasionally doesn't recognise her daughter's face and has become apathetic. Her observations are heart rate 81 beats per minute, respiratory rate 17/minute, oxygen saturations 96% on room air, blood pressure 151/84 mmHg and temperature 36.8ºC. The patient was alert. Cardiovascular, respiratory and abdominal examinations were unremarkable. The six-item cognitive impairment test demonstrated a score of 18/28. Neurological examination was otherwise normal and there was no evidence of bradykinesia, tremor or rigidity. Urinalysis was normal. An ECG demonstrated sinus rhythm with no ischaemic changes. Plain radiography of the chest was normal. Blood tests: Hb 137 g/L Male: (135-180) Female: (115 - 160) Platelets 190 * 109/L (150 - 400) WBC 4.8 * 109/L (4.0 - 11.0) Na+ 136 mmol/L (135 - 145) K+ 4.1 mmol/L (3.5 - 5.0) Urea 5.3 mmol/L (2.0 - 7.0) Creatinine 100 µmol/L (55 - 120) CRP 4 mg/L (< 5) Adjusted calcium 2.42mmol/L (2.2-2.63) TSH 4.1 miU/L (0.2 - 5.5) Free T4 14.2pmol/L (10 - 24.5) What further investigation is required to formalise the likely diagnosis?",
+    "options": [
+      "Electroencephalogram (EEG)",
+      "FDG-PET (fluorodeoxyglucose-positron emission tomography-CT) imaging",
+      "Lumbar puncture",
+      "Magnetic resonance imaging (MRI) of the head",
+      "Dopamine transporter (DaT) scan"
+    ],
+    "correct_option": 3,
+    "explanation": "Magnetic resonance imaging (MRI) of the head\nNeuroimaging is required to diagnose dementia. MRI head is correct. The diagnosis is dementia. The lack of fluctuation and the chronic history make a delirium unlikely. The probable subtype is Alzheimer's disease dementia as evidenced by the insidious onset of memory problems in association with other cognitive deficits such as impaired reasoning and handling of complex tasks, impaired visuospatial abilities and change in personality. There are no specific features to suggest vascular dementia, frontotemporal dementia, dementia with Lewy Bodies or Creutzfeldt-Jakob disease. Structural imaging in the form of CT or MRI head is recommended in the investigation of dementia, both to exclude reversible causes of cognitive decline (i.e. subdural haemorrhage) and assist with subtype diagnosis. MRI features suggestive of a diagnosis of Alzheimer's disease, for example, include mesial temporal lobe atrophy and temporoparietal cortical atrophy.\n\nElectroencephalogram (EEG)\nAn electroencephalogram (EEG) is primarily used in the diagnosis of seizure based disorders and is not required in the diagnosis of dementia. However, if there is suspicion of Creutzfeldt-Jakob disease (CJD), then it can be used to support a diagnosis. CJD is a long latent latency infection caused by a prion. It is associated with rapid cognitive decline, which is absent in this case. The stereotypical EEG in established disease demonstrates disease-typical periodic sharp wave complexes.\n\nFDG-PET (fluorodeoxyglucose-positron emission tomography-CT) imaging\nThis imaging investigation can be used to support a diagnosis of either Alzheimer's disease or frontotemporal dementia if there is diagnostic uncertainty and if classifying a subtype of dementia would change management. It is not a required investigation in the general diagnosis of dementia and should be preceded by structural imaging in the form of MRI or CT head. Features of frontotemporal dementia include predominant behaviour and personality changes, executive function difficulties and a younger age of onset (45-65) with memory loss occurring later in the disease course.\n\nLumbar puncture\nThis is not an obligatory investigation in the diagnosis of dementia. It is an investigation that can be used to exclude causes of delirium if a diagnosis such as encephalitis is suspected or it can be used to support a diagnosis of Alzheimer's dementia if there is diagnostic uncertainty and if classifying the cause of dementia would affect management. Findings in the cerebrospinal fluid that would support a diagnosis of Alzheimer's include total tau, phosphorylated-tau 181, amyloid-beta 1-42 and amyloid-beta 1-40.\n\nDopamine transporter (DaT) scan\nThis investigation can be used to support a diagnosis of Lewy Body dementia if it is suspected and there is diagnostic uncertainty. Features suggestive of Lewy Body dementia include visual hallucinations, sleep cycle abnormalities and features of Parkinson's disease. There is nothing in this scenario that suggests a diagnosis of Lewy Body dementia and therefore this investigation is not required.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "69a84162-4b8b-4da1-9467-dd27547414f5",
+    "stem": "A 60-year-old man presents to his GP accompanied by his wife. He has become intermittently aggressive and made inappropriate remarks to family members. Additionally, he has forgotten significant dates, such as their anniversary, although the rest of his memory is relatively preserved. His past medical history includes hypertension, type 2 diabetes mellitus, hyperlipidaemia, and a family history of Alzheimer's dementia. On examination, he has a masked facial expression with no acute neurological deficit. What is the most likely underlying diagnosis?",
+    "options": [
+      "Alzheimer's dementia",
+      "Creutzfeldt-Jakob disease",
+      "Dementia with Lewy bodies",
+      "Frontotemporal dementia",
+      "Vascular dementia"
+    ],
+    "correct_option": 3,
+    "explanation": "Frontotemporal dementia\nThis patient’s presentation is most consistent with frontotemporal dementia. He demonstrates mild memory impairment alongside marked personality changes, including episodes of aggression and inappropriate remarks towards family members, as described by his wife. Frontotemporal degeneration typically affects individuals under the age of 65 but can also occur in older adults. It is primarily characterised by behavioral changes, disinhibition, and personality changes with relatively preserved memory, which are hallmark features of frontotemporal dementia.\n\nAlzheimer's dementia\nAlzheimer’s dementia is incorrect. Although a family history of Alzheimer’s disease increases risk, Alzheimer’s usually presents at an older age and is primarily associated with progressive memory deficits. Social disinhibition is uncommon in Alzheimer’s disease but more typical of frontotemporal degeneration.\n\nCreutzfeldt-Jakob disease\nCreutzfeldt-Jakob disease is incorrect. While this can present with dementia, the onset is usually rapid and not typically associated with aggression or social disinhibition as seen in this case.\n\nDementia with Lewy bodies\nDementia with Lewy bodies is incorrect. This is often accompanied by motor symptoms such as bradykinesia and cogwheel rigidity, and visual hallucinations, which are not seen in this patient. Furthermore, although this patient displays masked facies, which is a feature sometimes seen in Parkinsonian syndrome, this may also have psychological or social causes. In the absence of other motor symptoms and visual hallucinations as mentioned previously, it would be difficult to diagnose this patient with dementia with Lewy body with simply the presence of masked facies alone. The history of intermittent aggression and social disinhibition further fits more with frontotemporal dementia.\n\nVascular dementia\nVascular dementia does not fit this presentation despite the presence of vascular risk factors. This form of dementia usually manifests as a stepwise decline in cognition, often affecting memory for names or recent events and accompanied by slow thinking, language difficulties, confusion, and impaired planning and reasoning abilities. Significant memory impairment characteristic of vascular dementia is not evident in this patient.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "025b927d-96a7-4464-a403-6811b6f4cc1d",
+    "stem": "An 88-year-old woman visits her GP with a 4-week history of difficulty sleeping. She describes difficulty getting to sleep, as well as waking up early in the morning. This has led her to feel very fatigued. She has never had any problems sleeping before. She is accompanied by her daughter who mentions that her mother was seen in a care of the elderly (COTE) clinic 6 weeks ago for problems with her memory, and was started on a medication. Unfortunately she is unable to recall the name of the the medication. The patient has a past medical history of COPD, restless legs syndrome (for which she takes pramipexole), and ischaemic heart disease. You note from the GP record that she was also treated for an infective exacerbation of COPD 3 weeks ago with amoxicillin. Which medication of those listed below is the most likely cause of the patient's symptoms?",
+    "options": [
+      "Amoxicillin",
+      "Clopidogrel",
+      "Donepezil",
+      "Pramipexole",
+      "Rivastigmine"
+    ],
+    "correct_option": 2,
+    "explanation": "Donepezil\nDonepezil can cause insomnia. This question is testing your knowledge of the side effects of donepezil, an acetylcholinesterase inhibitor used commonly for mild to moderate Alzheimer's disease (AD). Sleep disorders are a common side effect of donepezil. Donepezil can also cause bradycardia, and is contraindicated in patients with pre-existing bradycardia.\n\nAmoxicillin\nAmoxicillin and clopidogrel are not associated with sleep disorders.\n\nClopidogrel\nAmoxicillin and clopidogrel are not associated with sleep disorders.\n\nPramipexole\nPramipexole is a dopamine agonist used to treat Parkinson's disease and restless legs syndrome. It can cause sleep disorders, however it is not the most likely cause in this patient as the past medical history suggests she has been taking it for some time, and the donepezil was started recently.\n\nRivastigmine\nRivastigmine is also an acetylcholinesterase inhibitor used to treat AD, but it does not cause sleep disorders.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "dfa0a5b2-43df-4695-b4d2-0bd2137be878",
+    "stem": "You are a doctor on-call overnight. You are called by the nurse about an 82-year-old man on the orthopaedic geriatric ward who has become increasingly confused following his total hip replacement 5 days ago. He was complaining of considerable post-operative pain and has been given regular morphine which is managing his pain. You go to see him and agree he is confused with an abbreviated mental test score (AMTS) of 4/10. He is unable to give you a history but consents to an examination. You assess his wound which is clean, chest is clear and abdomen soft, non-tender. Pupils are equal and reactive. The nurse reports he has been eating and drinking less. Observations are all within normal range. Urine dip negative. Bloods taken yesterday morning demonstrated a long-standing slight normocytic anaemia and his inflammatory markers are coming down since the operation. What is the most likely cause of his symptoms?",
+    "options": [
+      "Alcohol withdrawal",
+      "Constipation",
+      "Extradural haemorrhage",
+      "Nosocomial infection",
+      "Alzheimer's disease"
+    ],
+    "correct_option": 1,
+    "explanation": "Constipation\nConstipation can cause delirium in the elderly. The patient has been on opioids and is likely not mobilising as well since the operation. Both of which can contribute to constipation which can be a cause of delirium.\n\nAlcohol withdrawal\nAlcohol withdrawal typically presents within the first 24 hours of cessation in patients who have abruptly stopped. Acute alcohol withdrawal may present with tremor, nausea, sweating, seizures, hallucination. Delirium tremens may occur typically 3 days in to cessation with global confusion and sympathetic overdrive (fever, tachycardia and hypertension). This is not the case in this patient.\n\nExtradural haemorrhage\nThere is no mention of a fall or sign of infection - both of which are potential reversible causes of delirium.\n\nNosocomial infection\nThere is no mention of a fall or sign of infection - both of which are potential reversible causes of delirium.\n\nAlzheimer's disease\nDementia (e.g. Alzheimer's) is typically a chronic cognitive impairment, the stem describes an acute confusional state.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "064db993-db49-4b9d-9770-5166d90bbce4",
+    "stem": "A 74-year-old woman is referred to the hospital memory clinic by her GP due to a year-long history of worsening memory and difficulty managing finances. Her physical examination is unremarkable. Cognitive testing using the 6CIT reveals impairment, and blood tests exclude metabolic and vitamin deficiencies. The consultant considers a diagnosis of dementia but notes that the subtype remains unclear. According to NICE guidance, which next step should be offered to assist with diagnosis?",
+    "options": [
+      "Structural neuroimaging",
+      "Electroencephalogram",
+      "Repeat cognitive testing in 6 months",
+      "Lumbar puncture",
+      "Referral for occupational therapy assessment"
+    ],
+    "correct_option": 0,
+    "explanation": "Structural neuroimaging\nNeuroimaging is required to diagnose dementia. Structural neuroimaging (such as MRI or CT) is recommended by NICE guidelines in secondary care when diagnosing dementia, particularly if the subtype is unclear or potentially reversible causes need exclusion. Imaging can identify treatable pathologies like subdural haematoma or normal pressure hydrocephalus, as well as provide clues about underlying aetiology (e.g., vascular changes). This step supports accurate classification and management planning.\n\nElectroencephalogram\nElectroencephalogram (EEG) may be considered if there are atypical features such as rapidly progressive cognitive decline or suspicion of seizures/encephalopathy, but it is not routinely required for standard dementia workup according to UK guidelines.\n\nRepeat cognitive testing in 6 months\nRepeat cognitive testing in 6 months would delay diagnosis and management unnecessarily when there is already evidence of progressive impairment; current guidelines recommend further investigation at this stage rather than watchful waiting.\n\nLumbar puncture\nLumbar puncture is reserved for cases where there are diagnostic uncertainties such as suspected encephalitis, rapidly progressive dementia, or possible prion disease. It is not indicated routinely in typical presentations of dementia without red flag features.\n\nReferral for occupational therapy assessment\nReferral for occupational therapy assessment may help assess functional impact but does not contribute directly to establishing the diagnosis or differentiating subtypes. It should follow confirmation of diagnosis rather than precede it.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "eb161b1d-9150-4b2b-a927-50668c3d8cec",
+    "stem": "You are a junior doctor working in the Emergency Department. You have been asked to assess an 84-year-old gentleman who has come in with confusion. There is very little history from the patient but his wife reports that this has been worsening for a week. He has also been very irritable and 'not himself'. He has not drank alcohol for many years. He is responsive to voice and has an AMT of 1. He looks dehydrated and smells strongly of urine. Neurological examination is difficult but he has normal tone and reflexes and his pupils are equal and reactive. What do you think is the most likely cause?",
+    "options": [
+      "Alzheimer's disease",
+      "Frontotemporal dementia",
+      "Delirium",
+      "Korsakoff syndrome",
+      "Acute psychotic episode"
+    ],
+    "correct_option": 2,
+    "explanation": "Delirium\nDelirium involves an impairment of conscious level and often involves psychotic symptoms. The key point here is that this man has an acute confusion with impaired consciousness. Impaired consciousness is seen in delirium but not in dementia. The history is also not long enough to be suggestive of a dementing illness. The dehydration and smell of urine suggest a urinary tract infection which may precipitate an episode of delirium.\n\nAlzheimer's disease\nThe history is also not long enough to be suggestive of a dementing illness (1 and 2).\n\nFrontotemporal dementia\nThe history is also not long enough to be suggestive of a dementing illness (1 and 2).\n\nKorsakoff syndrome\nKorsakoff syndrome (4) is unlikely. It is an amnestic disorder caused by thiamine deficiency associated with prolonged ingestion of alcohol. The main symptoms are amnesia, confabulation, minimal content in conversation, lack of insight and apathy. It is usually the result of untreated Wernicke's encephalopathy. In fact, the symptoms he has come in are more likely to be mistaken for Wernicke's than Korsakoff's.\n\nAcute psychotic episode\nThere is not enough evidence in the question stem to suggest that this man is having an acute psychotic episode (5) as no psychotic features are mentioned.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "1b35b9d2-45ce-4862-8400-225742f821d7",
+    "stem": "An 80-year-old male is referred to the memory clinic after presenting with progressive memory loss. This has been worsening for five months where the patient has been forgetting the names of his family and has been found on several occasions confused and disorientated. An assessment is made and treatment is given to limit the progression of the disease. What enzyme is blocked by the first-line drug for the likely condition?",
+    "options": [
+      "Catechol-O-methyl transferase",
+      "Cholinesterase",
+      "Monoamine oxidase A",
+      "Monoamine oxidase B",
+      "Tyrosine hydroxylase"
+    ],
+    "correct_option": 1,
+    "explanation": "Cholinesterase\nDonepezil - acetylcholinesterase inhibitor Patients with Alzheimer's dementia (the most common type) have reduced amounts of cholinergic neurons. Medications such as acetylcholine inhibitors (AChEI) increase the amount of AChEI in the synaptic cleft leading to increased effects at the postsynaptic receptor. Examples of drugs that are AChEI inhibitors are donepezil, galantamine and rivastigmine. Donepezil is recommended first-line in Alzheimer's disease.\n\nCatechol-O-methyl transferase\nCatechol-O-methyltransferase (COMT) are enzymes that also break down catecholamines. COMT inhibitors such as entacapone and tolcapone stop the peripheral breakdown of levodopa increasing the levels that cross the blood-brain barrier.\n\nMonoamine oxidase A\nMonoamine oxidase (MAO) breaks down monoamines which are neurotransmitters (examples include serotonin, dopamine and norepinephrine). MAO inhibitors are used in the treatment of many conditions including depression and panic disorder.\n\nMonoamine oxidase B\nMonoamine oxidase (MAO) breaks down monoamines which are neurotransmitters (examples include serotonin, dopamine and norepinephrine). MAO inhibitors are used in the treatment of many conditions including depression and panic disorder.\n\nTyrosine hydroxylase\nTyrosine hydroxylase is an enzyme which breaks down catecholamines (dopamine, epinephrine and norepinephrine).",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "02023331-9e53-4be7-bb31-aa81e32ce819",
+    "stem": "An elderly, frail woman is admitted to the ward following a fall at home. What is the most appropriate way to assess her risk of developing a pressure sore?",
+    "options": [
+      "PSST-6 score",
+      "PAST score",
+      "MUST score",
+      "Waterlow score",
+      "Honeywell score"
+    ],
+    "correct_option": 3,
+    "explanation": "Waterlow score\nWaterlow score - used to identify patients at risk of pressure sores. Developed by Judy Waterlow, this scoring system is widely used in the UK to assess a patient's risk of developing pressure ulcers. It takes into account several factors including build/weight for height, skin type, sex/age, malnutrition score, mobility, continence and other special risks such as tissue malnutrition and neurological deficits. A higher score indicates a greater risk of developing pressure sores.\n\nPSST-6 score\nThe PSST-6 score, or Patient Skin Scrutiny Tool-6, is not a recognized tool for assessing the risk of pressure ulcers. This option might have been confused with other tools such as the Braden or Norton scales which are also used for pressure ulcer risk assessment but are not as commonly used in the UK.\n\nPAST score\nThe PAST score is not an established tool in medical practice. It does not exist and thus cannot be used to assess the risk of pressure sores.\n\nMUST score\nThe MUST score, or Malnutrition Universal Screening Tool, while important in assessing nutritional status and identifying those at risk of malnutrition, it does not consider other key factors relevant to pressure sore development like mobility or continence. Therefore, it would not be sufficient on its own to assess pressure ulcer risk.\n\nHoneywell score\nThere is no known tool named the Honeywell score within this context. This could potentially be mistaken with Honey's Wound Assessment Tool (HWAT), but this tool is designed for wound assessment rather than specifically predicting the risk of pressure sores.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "858f78f8-ba30-4016-aa18-498a1aba9c49",
+    "stem": "A 74-year-old man has been referred to the memory clinic with a 1-year history of progressive memory loss, word-finding difficulties and problems with organising his thoughts. His wife mentions that he has been unsteady on his feet in the past year, which they attributed to a fall at home where he did not sustain any significant injuries. He has a history of hypertension and pre-diabetes. On examination, his gait is slightly ataxic but there is no other focal neurological deficit. His blood results are normal and his Montreal Cognitive Assessment (MOCA) score is 22/30. What is the next most appropriate investigation?",
+    "options": [
+      "CT head",
+      "Dopamine active transporter (DAT) scan",
+      "Lumbar puncture",
+      "MRI head",
+      "No further investigations required"
+    ],
+    "correct_option": 3,
+    "explanation": "MRI head\nNeuroimaging is required to diagnose dementia. The latest NICE guidance recommends that neuroimaging should be offered to either rule out reversible causes of cognitive decline (e.g. normal pressure hydrocephalus) or to assist with dementia subtype diagnosis. There are some situations where imaging may not be required, such as when dementia is well-established and the subtype is clear. However, where there are neurological symptoms or signs with no imaging done during the lifetime of the presenting cognitive symptoms, imaging is usually required. In this patient, the presence of ataxia which occurred around the time of a fall, together with his cardiovascular risk factors, suggests that there may be a diagnosis of vascular dementia. Neuroimaging would therefore be appropriate to support this diagnosis. Vascular dementia is the only dementia subtype where MRI is superior to CT, as cortical and subcortical ischaemic lesions are better demonstrated, and some vascular pathologies such as micro-bleeds may be otherwise missed. Therefore, if the dementia subtype is uncertain and vascular dementia is suspected, MRI is the preferred modality.\n\nCT head\nCT head is not the preferred modality for diagnosing vascular dementia, as MRI is superior in demonstrating cortical and subcortical ischaemic lesions and micro-bleeds.\n\nDopamine active transporter (DAT) scan\nA dopamine active transporter (DAT) scan is used as a tool to help diagnose Parkinson's disease, not dementia.\n\nLumbar puncture\nA lumbar puncture is seldom necessary for the diagnosis of dementia.\n\nNo further investigations required\nNo further investigations required is incorrect because neuroimaging is necessary to rule out reversible causes of cognitive decline and to assist with dementia subtype diagnosis.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "412258ba-c11f-40cb-8759-cf9dc7c395e1",
+    "stem": "An 80-year-old woman with Alzheimer's disease is admitted to hospital with a fractured wrist following a fall. On day 2 of admission, she becomes confused and upset, pacing the ward, refusing personal care, and repeatedly attempting to leave. She has visual hallucinations, is disoriented to time and place, and persistently asks staff where she is. When reminded, she briefly follows instructions and sits down, but soon repeats the behaviour, disturbing neighbouring patients. She cannot explain where she is, why she is in hospital, or recall recent events. Which option is the best next immediate step?",
+    "options": [
+      "Arrange urgent CT brain",
+      "Give intramuscular haloperidol",
+      "Offer oral haloperidol and give intramuscularly if refused",
+      "Offer oral risperidone and give intramuscularly if refused",
+      "Use de-escalation techniques and assess for underlying causes"
+    ],
+    "correct_option": 4,
+    "explanation": "Use de-escalation techniques and assess for underlying causes\nUse de-escalation techniques and assess for underlying causes is correct. The most likely diagnosis is delirium superimposed on Alzheimer's dementia. The acute onset of disorientation to time and place, visual hallucinations, agitation (such as pacing and refusing care), impaired attention, and fluctuating behaviour in a patient with preexisting dementia strongly suggest delirium. Management should begin with identifying and treating precipitating factors such as pain, infection, medication side effects, or metabolic imbalances, all common after a fall in older adults. De-escalation strategies, such as calm reassurance, reorientation, and minimising sensory overload, are first-line approaches. While the patient is pacing and agitated, she is compliant with staff instructions, and there is no evidence suggesting she is at immediate risk to herself or to others that would justify antipsychotic use. However, they may be considered if non-pharmacological approaches fail and safety is at risk. Antipsychotics increase the risk of sedation, extrapyramidal symptoms, and mortality in patients with dementia; hence, they are used as a last resort where possible.\n\nArrange urgent CT brain\nArrange urgent CT brain is incorrect because the patient’s symptoms are typical of delirium superimposed on dementia, likely caused by a medical trigger rather than a structural brain lesion. Urgent neuroimaging is not required unless there are focal neurological signs, new seizures, or concern for intracranial haemorrhage. Although the patient has recently fallen, no neurological examination has been described, and an examination is unlikely to be feasible while she remains agitated. CT imaging may be considered later if reversible causes are not identified or if there are new clinical features suggesting stroke or subdural haematoma.\n\nGive intramuscular haloperidol\nGive intramuscular haloperidol is incorrect because antipsychotics in dementia should only be used if the patient poses a risk to themselves or others, or experiences severe psychotic distress. In this case, agitation and pacing are present, but there is no evidence of imminent risk to herself or others, and non-pharmacological measures have not yet been tried. Intramuscular haloperidol carries significant risks in dementia, including extrapyramidal symptoms, sedation, and increased mortality.\n\nOffer oral haloperidol and give intramuscularly if refused\nOffer oral haloperidol and give intramuscularly if refused is incorrect because antipsychotics are only indicated when there is a risk of harm or unmanageable distress, neither of which is present in this scenario. De-escalation and assessment for underlying causes are safer and more appropriate first steps. Forcible administration of intramuscular haloperidol also risks increasing distress. Haloperidol also poses risks of sedation, extrapyramidal side effects, and increased mortality in dementia, and must be reserved for exceptional cases.\n\nOffer oral risperidone and give intramuscularly if refused\nOffer oral risperidone and give intramuscularly if refused is incorrect because although risperidone is licensed for short-term behavioural disturbance in dementia, its use is restricted to cases involving significant risk or distress, which are not evident here. The patient’s behaviour can be managed initially with non-pharmacological strategies and by treating underlying causes. Forcibly administering intramuscular risperidone risks escalating distress and carries adverse effects, including sedation, extrapyramidal symptoms, and increased mortality. Antipsychotics should only be used after other approaches have failed and a clear risk-benefit analysis has been undertaken.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "40cb51b2-ac59-451f-9601-628a51dbc100",
+    "stem": "A 64-year-old man is seen in the memory clinic with an 8-month history of cognitive decline. His wife tells you that he has difficulty remembering basic tasks and is becoming more confused and forgetful than usual. She has also noticed a change in his personality and has caught him swearing more frequently and answering the door naked on multiple occasions. His mother had a similar reputation for being 'too outspoken' in her twilight years. He reports smoking 20 cigarettes/day and drinks 1 glass of wine each evening. What is the most likely diagnosis?",
+    "options": [
+      "Alzheimer's dementia",
+      "Creutzfeldt-Jakob disease",
+      "Frontotemporal dementia",
+      "Lewy body dementia",
+      "Vascular dementia"
+    ],
+    "correct_option": 2,
+    "explanation": "Frontotemporal dementia\nFrontotemporal dementia presents with social disinhibition and often has a family history. This patient has frontotemporal lobar degeneration (FTLD). There are 3 subtypes of FTLD including frontotemporal dementia (or Pick's disease), progressive non-fluent aphasia, and semantic dementia. Of the 3 subtypes, this patient has Pick's disease which is characterised by an insidious onset, commonly before 65 years, and a change in personality and social disinhibition. The positive family history also makes frontotemporal dementia more likely.\n\nAlzheimer's dementia\nAlzheimer's disease is the most common type of dementia. However, unlike this presentation, Alzheimer's dementia presents as a progressive decline in episodic memory. Visuospatial awareness may be impacted. Social disinhibition is not a common presenting feature and suggests an alternative diagnosis.\n\nCreutzfeldt-Jakob disease\nCreutzfeldt-Jakob disease is a very rare condition. It is a type of prion disease that causes rapid and progressive neurodegeneration. Cognitive decline and personality change are features. However, typically additional symptoms such as abnormal jerking movements, loss of coordination, mobility, vision and slurred speech are also present.\n\nLewy body dementia\nLewy body dementia is a type of dementia characterised by fluctuating confusion and hallucinations. There is an overlap with Parkinson's disease and motor symptoms may also be seen such as bradykinesia, tremor and a shuffling gait.\n\nVascular dementia\nVascular dementia is a type of dementia that follows a step-wise progression. Symptoms tend to vary depending on the areas of the brain affected by vascular disease. However, the degree of social disinhibition and positive family history in this case presentation makes vascular dementia less likely.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "837d0428-fdea-4b17-9056-9e932168b102",
+    "stem": "A 78-year-old woman with a background of mild Alzheimer's disease was admitted to the orthopaedic ward 5 days ago after a fall at home resulted in a right neck of femur fracture. She underwent a right hemiarthroplasty 4 days ago. Over the past 3 days she has become more confused. Despite regular visits from family members and 1:1 nursing observation, she is becoming physically aggressive towards staff and has nearly fallen on the ward. What medication would you prescribe to manage her behaviour?",
+    "options": [
+      "Diazepam",
+      "Haloperidol",
+      "Lorazepam",
+      "Morphine",
+      "Risperidone"
+    ],
+    "correct_option": 1,
+    "explanation": "Haloperidol\nHaloperidol is the recommended first-line sedative for delirium when treating the underlying cause and environmental modifications are insufficient, especially when the patient poses a risk to themselves as in this scenario, and/or others. Haloperidol has certain advantages over other antipsychotics. It is available in different formulations (oral, intramuscular, and intravenous routes) and is reported to be associated with a lower risk of sedation and hypotension.\n\nDiazepam\nDiazepam is used for acute anxiety or acute alcohol withdrawal rather than pharmacological management of delirium.\n\nLorazepam\nLorazepam can be used for the management of challenging behaviour associated with delirium but is not first-line and should only be prescribed on the advice of a specialist.\n\nMorphine\nMorphine may be considered if the patient were in severe postoperative pain despite simple analgesia, but carries the risk of exacerbating delirium.\n\nRisperidone\nRisperidone, another antipsychotic, could also be used but is not first-line for pharmacological management of delirium due to the advantages of haloperidol listed above.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "7c136ee4-1780-4386-b43e-9592bf17c8c7",
+    "stem": "A 88-year-old woman is referred to the memory clinic for assessment after her family report that she has become gradually more forgetful over the past few months. Her Mini Mental State Examination (MMSE) score is 15/30. The consultant asks you to start her on an acetylcholinesterase inhibitor. Which of the following medications would you start?",
+    "options": [
+      "Donepezil",
+      "Memantine",
+      "Oxybutynin",
+      "Rotigotine",
+      "Tolterodine"
+    ],
+    "correct_option": 0,
+    "explanation": "Donepezil\nDonepezil is an acetylcholinesterase inhibitor, which along with with galantamine and rivastigmine, are first line for management of mild to moderate Alzheimer's dementia.\n\nMemantine\nMemantine is an NMDA receptor antagonist, used as a 2nd line or 'add on' treatment for mild-moderate Alzheimer's dementia. It may be used 1st line in severe Alzheimer's.\n\nOxybutynin\nOxybutynin is an anti-muscarinic medication used in the treatment of urge incontinence. Immediate release oxybutynin should, however, be avoided in 'frail older women' according to NICE.\n\nRotigotine\nRotigotine is a dopamine agonist used in the treatment of Parkinson's disease and restless legs syndrome.\n\nTolterodine\nTolterodine is an anti-muscarinic medication used in the treatment of urge incontinence.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "0ca40832-5d46-4d8d-9840-529f27388aea",
+    "stem": "The GP is asked to see a 95-year-old man in residential care. Over the last week, his behaviour has changed. He has no previous mental health history. The staff say he now sleeps most of the day, and in the evening he awakens and becomes agitated and aggressive easily. Some days he is much more agitated than others. On examination, he is unkempt. His speech is repetitive and he is disorientated, believing it is 1945 and he is at his son's house. He doesn't respond appropriately to questions and does not recognise the staff around him, despite repeated reminders of their identities. What is the most likely diagnosis?",
+    "options": [
+      "Catatonia",
+      "Delirium",
+      "Dementia",
+      "Depression",
+      "Schizophrenia"
+    ],
+    "correct_option": 1,
+    "explanation": "Delirium\nDelirium is correct. This patient is experiencing an acute confusional state. He is displaying evidence of disordered thinking, labile mood, reversal of the sleep-wake cycle, inattention, disorientation and memory impairment. These symptoms fluctuate throughout the day and from day to day. Symptoms have manifested over a short period, making delirium the more likely diagnosis.\n\nCatatonia\nCatatonia is incorrect. Catatonia characteristically presents with mutism, posturing, staring, rigidity and echopraxia/echolalia.\n\nDementia\nDementia is incorrect. The set of symptoms this patient is experiencing would fit with a diagnosis of dementia, however, the fluctuation of symptoms and the onset over a short period makes delirium the more likely diagnosis.\n\nDepression\nDepression is incorrect. Depression in elderly patients may present with confusion and a decline in functioning (pseudodementia), however, the fluctuation in symptoms and acute onset favours a diagnosis of delirium rather than depression.\n\nSchizophrenia\nSchizophrenia is incorrect. It would be highly unlikely for a first presentation of a primary mental illness at age 95, and again the daily fluctuation of symptoms makes this diagnosis less likely.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "215e6c51-aa0c-4129-8cfe-ee5bc6d62028",
+    "stem": "A 78-year-old man is brought into the memory clinic by his wife, who is concerned that over the past year he has become increasingly forgetful. He frequently stares off into space, and has trouble with planning and organising himself. More recently, he has been talking to people who aren't there, occasionally getting distressed by this. She reports that his mental state will fluctuate from day to day, and sometimes from hour to hour, with episodes of lucidity between. Prior to this, he was well, suffering from mild cataracts and hypertension only. What is the most likely cause of this presentation?",
+    "options": [
+      "Alzheimer's disease",
+      "Charles Bonnet syndrome",
+      "Parkinson's disease",
+      "Dementia with Lewy bodies",
+      "Vascular dementia"
+    ],
+    "correct_option": 3,
+    "explanation": "Dementia with Lewy bodies\nVisual hallucinations with dementia = Lewy body dementia. This man has progressive, fluctuant cognitive decline associated with visual hallucinations, which is a classic presentation of Lewy body dementia. This condition, which is characterised by clumps of proteins being deposited within neurons, can also feature rapid eye movement sleep disorders, parkinsonism, and marked dysautonomia. The exact cause is not yet known. The early development of higher-order functioning, such as planning and organisation, is also characteristic of this condition.\n\nAlzheimer's disease\nAlzheimer's disease is the main distractor here, being more common than Lewy body dementia, and presenting with cognitive decline. However, it is not generally fluctuant and does not commonly cause hallucinations in its early stages. Further, loss of higher-order functions tends to occur after memory loss has become established.\n\nCharles Bonnet syndrome\nCharles Bonnet syndrome (CBS) is a condition whereby people with poor sight develop visual hallucinations. While this patient does have cataracts, CBS would not explain his cognitive decline. Further, his cataracts are only mild, and CBS generally causes non-distressing hallucinations.\n\nParkinson's disease\nParkinson's disease usually starts with motor symptoms (bradykinesia, rigidity, pill-rolling tremor) before dementia begins.\n\nVascular dementia\nVascular dementia is generally seen in patients with vascular disease and results in a stepwise progression following vascular events. Again, it would not normally fluctuate from day to day.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "7f5c5c9a-c461-4d52-9dd2-01f749284933",
+    "stem": "A 79-year-old man with a known history of mixed type dementia (Alzheimer's and vascular) is assessed in memory clinic as his family have noticed a further deterioration in his memory and cognition. His minimental state score is 12 and as such he is commenced on memantine. Which of the following best describes the mechanism of action of memantine?",
+    "options": [
+      "Serotonin receptor agonist",
+      "Dopamine receptor antagonist",
+      "Acetylcholinesterase inhibitor",
+      "Butyrylcholinesterase and acetylcholinesterase inhibitor",
+      "NMDA antagonist"
+    ],
+    "correct_option": 4,
+    "explanation": "NMDA antagonist\nMemantine - NMDA receptor antagonist. In tackling this question it is possible to eliminate two answers easily by recognising that acetylcholinesterase and butyrylcholinesterase inhibition is characteristic of cholinesterase inhibitors, a class of drug that memantine is not part of and instead is occupied by donepezil and rivastigmine (amongst others). From here the other answers are quite tricky in that memantine does act at both the serotonin and dopamine receptors but as an antagonist and agonist respectively rather than the options given. This leaves one answer left, an NMDA antagonist.\n\nSerotonin receptor agonist\nMemantine does not act as a serotonin receptor agonist. It acts as an NMDA receptor antagonist.\n\nDopamine receptor antagonist\nMemantine does not act as a dopamine receptor antagonist. It acts as an NMDA receptor antagonist.\n\nAcetylcholinesterase inhibitor\nMemantine is not an acetylcholinesterase inhibitor. This characteristic is typical of drugs like donepezil and rivastigmine.\n\nButyrylcholinesterase and acetylcholinesterase inhibitor\nMemantine is not a butyrylcholinesterase and acetylcholinesterase inhibitor. This characteristic is typical of drugs like donepezil and rivastigmine.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "6f100707-3dc5-45d2-ada1-013e2e11a55c",
+    "stem": "A 72-year-old female is brought into the general practice by her worried husband. She has been more forgetful over the past few months, on some days more than others, and seems to struggle to keep her focus on simple daily activities and conversations. Her husband is also worried as she occasionally states she is talking to their dog whilst apparently talking alone, although they have never had any pets. She is otherwise well, eating and drinking as usual. Examination and routine blood tests are all unremarkable, and there is no reason to suspect delirium. What is the most likely diagnosis?",
+    "options": [
+      "Alzheimer's disease",
+      "Depression",
+      "Fronto-temporal dementia",
+      "Lewy body dementia",
+      "Vascular dementia"
+    ],
+    "correct_option": 3,
+    "explanation": "Lewy body dementia\nLewy body dementia (LBD) is the most likely diagnosis in a patient with early, fluctuating cognitive impairment and visual hallucinations, particularly if the hallucinations are not unpleasant. Indeed, hallucinations of friendly children and animals are often described, such as in this case. LBD accounts for around 20% of dementia cases. Parkinsonism typically develops later and therefore may not be mentioned on initial presentation. Treatment of LBD is similar to Alzheimer's treatment; both acetylcholinesterase inhibitors and memantine can be used depending on the stages. Antipsychotics should be avoided in LBD as they can precipitate parkinsonism.\n\nAlzheimer's disease\nAlzheimer's disease is a good differential but is less likely to fluctuate and cause visual hallucinations (in this patient's case, talking to a dog). Early impairment in attention and executive function (such as daily tasks and conversations in this case), rather than just memory loss, are characteristic of LBD and can help differentiate it from Alzheimer's.\n\nDepression\nDepression can cause patients to become more forgetful and even hallucinate their loved ones if part of a grief reaction. However, this patient never had a dog, and no other symptoms of depression (such as lack of appetite or poor sleep) are mentioned.\n\nFronto-temporal dementia\nFronto-temporal dementia, also known as Pick's disease, typically causes personality change and impaired social conduct. Other common features include hyperorality, disinhibition, increased appetite, and perseveration behaviours.\n\nVascular dementia\nVascular dementia typically causes a stepwise deterioration, rather than having a fluctuating course, and is less likely to cause hallucinations.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "c9adf78d-bef0-4c64-b1c5-d1383fe5ecab",
+    "stem": "A 60-year-old man is brought in by his daughter. He has recently been fired from his job due to allegations of sexual harassment towards coworkers. His daughter states that he 'hasn't been himself'. He is socially withdrawn and has increased his smoking to ten cigarettes a day. His house is cluttered with newspapers and he has failed to pay his electricity bill on two recent occasions. The patient states he feels fine. His daughter notes that her paternal grandfather developed cognitive difficulty in his sixties. A 10-point cognitive screener test shows mild impairment. What is the most likely diagnosis?",
+    "options": [
+      "Alzheimer's dementia",
+      "Dementia with Lewy bodies",
+      "Frontotemporal dementia",
+      "Major depressive disorder",
+      "Vascular dementia"
+    ],
+    "correct_option": 2,
+    "explanation": "Frontotemporal dementia\nFrontotemporal dementia presents with social disinhibition and often has a family history. This patient has a family history of early-onset dementia and displays deteriorating cognition, disinhibition (socially inappropriate behaviour), apathy, hyperorality (increased cigarette use) and executive dysfunction (unable to plan/pay bills). He likely has behavioural-variant frontotemporal dementia (bvFTD) (previously known as Pick's disease). BvFTD is a common early-onset dementia syndrome characterized by degeneration of the frontal and temporal lobes and manifests clinically as progressive deterioration in behaviour/cognition associated with six clinically discriminating features:\n\nDisinhibition (loss of manners, decorum, socially inappropriate behaviour)\nApathy/inertia\nLoss of sympathy/empathy\nPerseverative/compulsive behaviours (e.g., simple repetitive movements, ritualistic behaviours)\nHyperorality (e.g., oral exploration of objects, increased consumption of alcohol/cigarettes, altered food preferences)\nExecutive dysfunction with relative sparing of memory and visuospatial functions.\n\nMemory difficulties tend to develop later in the disease course. A family history of dementia is present in up to 40% of cases with an autosomal dominant component being present in 10%. This patient's constellation of clinical features suggests bvFTD.\n\nAlzheimer's dementia\nAlzheimer's dementia would likely present with more severe memory loss. This patient's constellation of clinical features suggests bvFTD.\n\nDementia with Lewy bodies\nDementia with Lewy bodies presents with at least 2 of 4 of the following: hallucinations, fluctuating levels of consciousness/cognition ('good and bad days'), REM-sleep behaviour disorder and parkinsonism. This patient's history fits more with FTD.\n\nMajor depressive disorder\nThis patient does not meet the criteria for diagnosis of major depressive disorder. His constellation of clinical features points towards bvFTD.\n\nVascular dementia\nVascular dementia does not present with disinhibition and hyperorality. These point more towards a diagnosis of bvFTD.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "9ee875f2-c05b-4f02-a6bc-b226c075982a",
+    "stem": "A 78-year-old gentleman presents to the memory clinic accompanied by his wife. He is pleasantly confused. His wife reports he is still coping at home fairly independently, although she does have to remind him of things more frequently. He has a known diagnosis of Alzheimer's disease and was started on donepezil and successfully up-titrated to the maximum therapeutic dose. Cognitive testing reveals his mini mental test score to be 21/30. Six months previously his score was 24/30. What is the most appropriate management?",
+    "options": [
+      "Stop donepezil",
+      "Add in memantine",
+      "Switch to rivastigmine",
+      "Continue donepezil",
+      "Add in olanzapine"
+    ],
+    "correct_option": 3,
+    "explanation": "Continue donepezil\nDespite evidence of a small cognitive decline, this gentleman still has 'mild' dementia as reflected by his MMSE and the fact he is coping at home. He has no evidence of significant behavioural or psychological symptoms. As such, continuing donepezil (which he is tolerating) would be the most appropriate answer. A cognitive decline despite initiation of donepezil would be expected due to the progressive nature of the disease. NICE does not recommend stopping acetylcholinesterase inhibitors on the basis of disease severity alone.\n\nStop donepezil\nNICE does not recommend stopping acetylcholinesterase inhibitors on the basis of disease severity alone.\n\nAdd in memantine\nNICE guidelines do not support the use of memantine in mild dementia. Memantine is only recommended in moderate and severe Alzheimer's disease.\n\nSwitch to rivastigmine\nThere is no evidence in this case to support switching to an alternative acetylcholinesterase inhibitor (e.g. rivastigmine) unless there is another reason to do so (e.g. rivastigmine comes in a patch form for those unable to swallow).\n\nAdd in olanzapine\nThere is no role for an anti-psychotic in this case.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "8eb53114-b3e4-43cf-b226-18b0b4ff128c",
+    "stem": "A 76-year-old woman is diagnosed with Alzheimer's disease. Which one of the following could be a contraindication to the prescription of donepezil?",
+    "options": [
+      "History of depression",
+      "Sick sinus syndrome",
+      "Concurrent simvastatin therapy",
+      "Concurrent citalopram therapy",
+      "Ischaemic heart disease"
+    ],
+    "correct_option": 1,
+    "explanation": "Sick sinus syndrome\nDonepezil is generally avoided (relative contraindication) in patients with bradycardia and is used with caution in other cardiac abnormalities. The correct answer is Sick sinus syndrome. Donepezil, a cholinesterase inhibitor, is commonly used in the management of Alzheimer's disease. However, it can increase vagal tone and cause bradycardia. In patients with sick sinus syndrome - a group of heart rhythm disorders where the sinus node doesn't work properly - this could lead to severe symptomatic bradycardia or even sinus arrest. Therefore, donepezil should be used with caution in these patients.\n\nHistory of depression\nHistory of depression is not a contraindication to the use of donepezil. Depression is common in patients with Alzheimer's disease and there is no evidence that donepezil exacerbates depressive symptoms. In fact, some studies suggest that it may improve neuropsychiatric symptoms in some individuals.\n\nConcurrent simvastatin therapy\nConcurrent simvastatin therapy is also not a contraindication. While both drugs are metabolised by cytochrome P450 enzymes, they do not share the same subtypes and therefore significant drug interactions are unlikely.\n\nConcurrent citalopram therapy\nConcurrent citalopram therapy does not contraindicate the use of donepezil either. Although both drugs can cause QT prolongation, their combined use does not typically result in clinically significant arrhythmias unless there are additional risk factors such as electrolyte abnormalities or other QT-prolonging medications.\n\nIschaemic heart disease\nIschaemic heart disease, while requiring careful consideration when prescribing any new medication due to potential cardiac side effects, is not a specific contraindication for donepezil. The primary cardiac side effect of donepezil - bradycardia - may actually be beneficial in some patients with ischaemic heart disease by reducing myocardial oxygen demand. However, each patient's individual risk profile should be taken into account when prescribing this medication.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "c6e21421-0c7d-4e08-ba38-7a0d6c4c7fd1",
+    "stem": "A 75-year-old man presents to memory services. His daughter reports that he has had significant cognitive decline over two years and is now unable to perform self-care. The patient describes visual hallucinations, causing him significant distress. He is not currently prescribed any medications. On assessment, his heart rate is 70bpm and blood pressure is 180/90mmHg. His MRI findings are consistent with Alzheimer's disease and small vessel disease. What medication should be considered with caution in this patient, due to its association with a significant increase in mortality in this condition?",
+    "options": [
+      "Amlodipine",
+      "Donepezil",
+      "Memantine",
+      "Olanzapine",
+      "Rivastigmine"
+    ],
+    "correct_option": 3,
+    "explanation": "Olanzapine\nOlanzapine is an antipsychotic medication. Antipsychotics are associated with a significant increase in mortality in dementia patients and should only be used with caution for patients at risk of harming themselves or others, or when the agitation, hallucinations, or delusions are causing them severe distress as in this case.\n\nAmlodipine\nAmlodipine would be a sensible treatment to start given his raised blood pressure and known small vessel disease. It does not cause increased mortality in dementia.\n\nDonepezil\nDonepezil is relatively contraindicated in patients with bradycardia which does not apply in this case. Donepezil and rivastigmine are acetylcholinesterase inhibitors that are first-line options in managing mild to moderate dementia. This patient has advanced dementia. Additionally, these medications are not associated with increased mortality in dementia.\n\nMemantine\nMemantine is an NMDA antagonist. It would be appropriate in this patient, either as a monotherapy or in conjunction with an acetylcholinesterase inhibitor for severe Alzheimer's.\n\nRivastigmine\nRivastigmine is an acetylcholinesterase inhibitor that is a first-line option in managing mild to moderate dementia. This patient has advanced dementia. Additionally, these medications are not associated with increased mortality in dementia.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "60018bb9-e4a9-46a0-9348-54e0fceb92cd",
+    "stem": "You are a GP reviewing letters for your patients. The next letter you come across is from an elderly gentleman you referred to the memory clinic for increasing forgetfulness. You note that he has been given a diagnosis of vascular dementia. Which of the following treatments is most likely to have been recommended?",
+    "options": [
+      "Tight control of vascular risk factors",
+      "Donepezil",
+      "Fluoxetine",
+      "Cognitive behavioural therapy",
+      "Memantine"
+    ],
+    "correct_option": 0,
+    "explanation": "Tight control of vascular risk factors\nTight control of vascular risk factors, rather than antidementia medication, is recommended by NICE in vascular dementia. NICE recommend tight control of vascular risk factors in order to slow progression of the disease.\n\nDonepezil\nCholinesterase inhibitors are licenced for use in Alzheimer's and mixed dementias. They are not recommended for the treatment of vascular dementia.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "9e9950ed-bcca-465c-9ce9-813c87535c66",
+    "stem": "A 78-year-old man attends memory clinic with his daughter. He has a past medical history of hypertension and he is an ex-smoker. His daughter describes him being stable for many months, then noticing a sudden decline. This has occurred on multiple occasions. Montreal cognitive assessment (MoCA) score is 18/30 and physical examination is unremarkable. He denies visual or auditory hallucinations. What is the most likely underlying diagnosis?",
+    "options": [
+      "Alzheimer's dementia",
+      "Frontotemporal dementia",
+      "Lewy body dementia",
+      "Parkinson's dementia",
+      "Vascular dementia"
+    ],
+    "correct_option": 4,
+    "explanation": "Vascular dementia\nThe stepwise deterioration in cognitive function along with risk factors for cerebrovascular disease (hypertension and smoking) point towards a diagnosis of vascular dementia. In this case, cognitive impairment is caused by ischaemia or haemorrhage secondary to cerebrovascular disease.\n\nAlzheimer's dementia\nAlzheimer's dementia is the most common form of dementia. It usually develops gradually and progresses slowly.\n\nFrontotemporal dementia\nFrontotemporal dementia affects the frontal and temporal lobes of the brain, leading to changes in personality, behaviour, language and attention. Like Alzheimer's, it tends to develop gradually, as those parts of the brain begin to atrophy.\n\nLewy body dementia\nLewy body dementia is typically associated with auditory, visual or even olfactory hallucinations. You may also notice Parkinsonian symptoms such as tremor and bradykinesia.\n\nParkinson's dementia\nParkinson's dementia develops in patients with Parkinson's disease (PD) when their disease begins to impair thought processes, mental function, and memory. You would expect to find signs of PD on physical examination.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "a694fcf5-fba9-4317-a786-c97f1b72aaf1",
+    "stem": "An 80-year-old man with a 10-year history of idiopathic Parkinson’s disease is admitted to the acute medical unit following a fall. He becomes acutely confused and agitated overnight, pulling at his cannula and trying to leave the ward. Non-pharmacological measures have failed to settle him. Which is the most appropriate medication to manage his agitation?",
+    "options": [
+      "Haloperidol",
+      "Olanzapine",
+      "Quetiapine",
+      "Lorazepam",
+      "Risperidone"
+    ],
+    "correct_option": 3,
+    "explanation": "Lorazepam\nLorazepam is correct because benzodiazepines are preferred for managing acute agitation in patients with Parkinson’s disease when nonpharmacological strategies have failed. This is due to their minimal effect on dopamine pathways compared to antipsychotics, which can worsen parkinsonism or precipitate neuroleptic malignant syndrome. NICE guidelines and UK practice recommend lorazepam as first-line pharmacological therapy in this context.\n\nHaloperidol\nHaloperidol should be avoided in Parkinson’s disease because it is a typical antipsychotic that strongly antagonises dopamine D2 receptors, often exacerbating motor symptoms or causing severe rigidity and akinesia. While haloperidol is commonly used for delirium in other patients, it is contraindicated here.\n\nOlanzapine\nOlanzapine, although an atypical antipsychotic, also blocks dopamine receptors and can worsen parkinsonian symptoms. Furthermore, olanzapine has been removed from current UK recommendations for delirium management due to its side-effect profile and risk of worsening movement disorders in Parkinson’s disease.\n\nQuetiapine\nQuetiapine may be considered if there are persistent psychotic features or ongoing need for antipsychotic therapy; however, lorazepam remains first-line for urgent short-term sedation of acute agitation as per guidelines. Quetiapine has less propensity than other antipsychotics to worsen parkinsonism but is not generally used acutely.\n\nRisperidone\nRisperidone should be avoided as it acts on dopamine receptors similar to haloperidol and carries a significant risk of worsening motor symptoms in people with Parkinson's disease.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "bd071431-8f45-4ec3-b7fe-28917d09b277",
+    "stem": "A 70-year-old woman is seen in the clinic as her family reports increasing episodes of restlessness, agitation, and memory issues. The patient is otherwise well and previously independent but she is now considering moving in with her family due to concerns over her deteriorating condition. Several investigations are carried out, including a mini-mental state examination, which is indicative of mild dementia. Several treatment options, as well as the likely progression and prognosis of the condition, are discussed. What treatment is not supported by NICE guidelines for this patient's condition?",
+    "options": [
+      "Donepezil",
+      "Galantamine",
+      "Group cognitive stimulation therapy",
+      "Group reminiscence therapy",
+      "Memantine"
+    ],
+    "correct_option": 4,
+    "explanation": "Memantine\nNICE guidelines do not support the use of memantine in mild dementia. Mild dementia is an early stage of cognitive decline marked by subtle memory lapses and cognitive functional issues that typically do not significantly interfere with daily functioning. Second-line treatment for dementia often involves medications like memantine, which regulates glutamate activity in the brain. While effective in moderate to severe cases, NICE doesn't recommend memantine for mild dementia due to insufficient evidence supporting its efficacy at this stage.\n\nDonepezil\nDonepezil is a cholinesterase inhibitor prescribed for mild dementia, particularly in Alzheimer's disease. It enhances acetylcholine levels, supporting cognitive function and is supported by NICE for use in mild to moderate dementia. Though not a cure, it may temporarily alleviate symptoms and improve the quality of life for individuals with early-stage cognitive impairment.\n\nGalantamine\nGalantamine is a cholinesterase inhibitor as well as a nicotinic receptor modulator, potentially providing a different therapeutic profile compared to other dementia medications. Its use is supported in mild to moderate dementia, particularly in patients with Alzheimer's disease.\n\nGroup cognitive stimulation therapy\nGroup cognitive stimulation therapy (CST) entails structured activities and discussions employed in dementia management. NICE endorses group CST as a non-pharmacological approach, accentuating its role in enhancing the well-being and quality of life of individuals with early-stage dementia.\n\nGroup reminiscence therapy\nGroup reminiscence therapy involves collective recall of past experiences to stimulate memory and enhance well-being in individuals with mild dementia. NICE recommends it as a non-pharmacological intervention, given its evidence to positively impact cognition and patient quality of life.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "66b2b782-40cb-4748-a676-1b1367c131ca",
+    "stem": "A 75-year-old man presents with a 6-month history of worsening short-term memory, frequently misplacing objects and difficulty finding his way home from the shops. He is diagnosed in clinic with mild Alzheimer's disease. What medication would you consider commencing?",
+    "options": [
+      "Amitriptyline",
+      "Galantamine",
+      "Haloperidol",
+      "Memantine",
+      "Pyridostigmine"
+    ],
+    "correct_option": 1,
+    "explanation": "Galantamine\nAs per NICE guidelines, galantamine, as well as donepezil and rivastigmine, are all acetylcholinesterase inhibitors used first-line as pharmacological treatment options for the management of mild Alzheimer's disease.\n\nAmitriptyline\nAmitriptyline is a tricyclic antidepressant that is not used in the management of Alzheimer's disease. It also has anticholinergic side effects and so should be avoided for the treatment of depression in patients with dementia as it may worsen cognitive impairment.\n\nHaloperidol\nHaloperidol is not licensed for the treatment of Alzheimer's dementia but is the first-line pharmacological treatment option for delirium.\n\nMemantine\nNICE guidelines do not support the use of memantine in mild dementia. Memantine, an NMDA receptor antagonist, is specifically licensed for: Severe Alzheimer's disease as monotherapy, or Patients with moderate Alzheimer's who are intolerant of, or have a contraindication to, acetylcholinesterase inhibitors, or As an add-on drug to acetylcholinesterase inhibitors for patients with moderate or severe Alzheimer's disease. NICE guidelines would not support the use of memantine in this patient who has mild dementia, and he has no known contraindications to acetylcholinesterase inhibitors.\n\nPyridostigmine\nPyridostigmine is an acetylcholinesterase inhibitor but is exclusively licensed for the treatment of myasthenia gravis.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "1cb543f7-c2a4-4a1f-9d74-b49f93ce69ea",
+    "stem": "You are the doctor on-call overnight. You are called at 1am by the nursing staff to review an 88-year-old woman who is distressed and 'acting out of character.' The patient underwent a hemiarthroplasty for a fractured neck of femur 12 days ago, and is now having physiotherapy until suitable discharge can be arranged. On arrival at the ward, the patient is trying to get out of bed, despite the reassurance of the nursing staff. She is shouting incomprehensible words and appears to be distressed. You are unable to gain a history from the patient or to examine her, but the nurses tell you that up until this evening she had been her usual self, quiet and well-mannered. Nursing staff manage to take observations: heart rate 85/min, blood pressure 140/85mmHg, oxygen saturations 98% on air, respiratory rate 22/min, temperature 36.5ºC and blood glucose 6.3. From the medical notes, you note the patient has a past medical history of alzheimer's dementia, gout and type 2 diabetes. Her drug chart includes the following medications: codeine 30mg QDS (started on admission), paracetamol 1g QDS, donepezil, allopurinol, metformin, and ondansetron as needed for nausea. The fluid chart shows good oral intake and output. Her stool chart is not completed. Bloods taken earlier in the day: Hb 115 g/L Male: (135-180) Female: (115 - 160) Platelets 250 * 109/L (150 - 400) WBC 8.5* 109/L (4.0 - 11.0) Na 143 mmol/L (135 - 145) K 3.7 mmol/L (3.5 - 5.0) Urea 5.0 mmol/L (2.0 - 7.0) Creatinine 95 µmol/L (55 - 120) CRP 6 mg/L (< 5) Of the options listed below, which is the most likely cause of the patient's presentation?",
+    "options": [
+      "Constipation",
+      "Hypoglycaemia",
+      "Pain",
+      "Progression of Alzheimer's dementia",
+      "Urinary tract infection"
+    ],
+    "correct_option": 0,
+    "explanation": "Constipation\nConstipation can cause delirium in the elderly. This patient has developed an acute confusional state, also known as delirium. This is characterised using the Confusion Assessment Method as an acute onset of a change in mental state from the patient's baseline with inattention, in addition to either disorganised thinking or altered consciousness. Sleep-wake cycle is often reversed. There are many causes of an acute delirium: Pain, Infection, Constipation, Urinary retention, Metabolic: hypercalcaemia, hypoglycaemia, hyperglycaemia, dehydration, Medications: e.g. opioids, Hypoxia. In this case, there is limited information available from the patient, however the medical charts available on the ward can often point to the most likely underlying cause of a delirium. The key to this question is spotting that the patient has been prescribed two highly constipating medications (codeine and ondansetron) without laxatives. Her stool chart does not demonstrate any bowel movements, therefore she is likely to be constipated. This is the most likely cause of the delirium in this case.\n\nHypoglycaemia\nHer observations are stable including blood glucose, therefore hypoglycaemia is not the underlying cause.\n\nPain\nThe patient is 2 weeks post-op, and her pain is likely to have stabilised, which makes this a less likely cause.\n\nProgression of Alzheimer's dementia\nShe is not febrile and her bloods are all within normal limits, which points away from an infectious cause. The patient is 2 weeks post-op, and her pain is likely to have stabilised, which makes this a less likely cause.\n\nUrinary tract infection\nShe is not febrile and her bloods are all within normal limits, which points away from an infectious cause.",
+    "tags": [
+      "Geriatrics"
+    ],
+    "source": "Passmedicine"
+  }
+]

@@ -1,0 +1,1481 @@
+[
+  {
+    "id": "4d3c3485-d4d9-4336-a31e-53b0db78c617",
+    "stem": "It has been hypothesised that using an artificial sweetener that has been available for the past 15 years increases the incidence of type II diabetes. What is the optimal way to study its impact on diabetes risk?",
+    "options": [
+      "12-week intervention study of sweetener vs sugar",
+      "Animal study in rodents of low-dose sweetener",
+      "Cohort study",
+      "Single-dose study in humans with glucose tolerance testing",
+      "Toxicity study in primates"
+    ],
+    "correct_option": 2,
+    "explanation": "Cohort study\nA cohort study is the most appropriate way to study the impact of an artificial sweetener on glucose control over time. Several cohorts exist, which began collecting detailed clinical and lifestyle data many years ago, including data on eating behaviour. It is possible to match consumers of artificial sweeteners vs controls and determine the impact on cardiometabolic outcomes over time.\n\n12-week intervention study of sweetener vs sugar\nAn intervention study of the use of sweetener vs sugar may be difficult to interpret, as protocolising eating sugar vs replacement sweetener is likely to change eating behaviour in a way that makes the data irrelevant to the wider population. There is also no evidence that 12 weeks would be long enough to show an impact on glucose control.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "415d80c1-41a2-4a8a-8f8e-4a405e815f43",
+    "stem": "A 73-year-old man is reviewed in the Parkinson's Clinic because of significant worsening of his motor function. He has had Parkinson's disease for ten years and is now taking three PO medications. A decision is made to treat him with subcutaneous apomorphine. What is the primary mode of action of apomorphine?",
+    "options": [
+      "5-HT2a receptor agonist",
+      "5-HT2a receptor antagonist",
+      "Alpha-2c adrenergic receptor antagonist",
+      "Dopamine D1 and D2 receptor agonist",
+      "Dopamine D1 and D2 receptor antagonist"
+    ],
+    "correct_option": 3,
+    "explanation": "Dopamine D1 and D2 receptor agonist\nApomorphine is a D1 and D2 agonist with a much greater affinity for the D2 receptor. It is used as a subcutaneous infusion for patients with end-stage Parkinson's disease. Prominent side-effects include nausea, vomiting and hypotension, meaning that the dose is carefully titrated to manage these, and apomorphine is given in conjunction with an antiemetic.\n\n5-HT2a receptor agonist\nApomorphine is a 5-HT2a antagonist rather than an agonist. There are a number of partial agonists which have indications for psychosis and depression.\n\n5-HT2a receptor antagonist\n5-HT2a antagonists include a range of agents used in the Psychiatry field such as trazodone. It is used as an antidepressant agent. Apomorphine is a weaker 5-HT2a antagonist, with a Ki of 120; it has most activity at D1 and D2 receptors.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "efb7d397-5518-4773-915c-126c63c3091e",
+    "stem": "A 22-year-old man is referred to the Rheumatology Clinic. He has pain and stiffness in the lumbar spine that is worse for the first 1–2 hours each morning. He says the pain is present, but less severe, after cycling. On examination, there is limited forward and lateral flexion of the lumbar spine. What is the most likely underlying diagnosis?",
+    "options": [
+      "Ankylosing spondylitis",
+      "Degenerative disc disease",
+      "Paget's disease",
+      "Polymyalgia rheumatica",
+      "Spinal stenosis"
+    ],
+    "correct_option": 0,
+    "explanation": "Ankylosing spondylitis\nAnkylosing spondylitis is associated with lumbar spine pain and stiffness, which are worse for the first 1–2 hours each morning. Both lateral and forward flexion of the lumbar spine is limited by pain and stiffness. Pain may be experienced after rest, and movement should be encouraged to delay disease progression. NSAIDs are the initial treatment of choice, with anti-tumour necrosis factor (TNF) agents as the first-choice biologicals for intervention.\n\nDegenerative disc disease\nDegenerative disc disease is most likely to result in nerve root pain, with abnormal sensation and muscle weakness on one side, which can be mapped to one or more nerve roots.\n\nPaget's disease\nPaget's disease affecting a single joint most commonly affects the hip, leading to pain, stiffness and limitation of movement. It is also associated with a significant rise in bony alkaline phosphatase level.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "f68e8369-f430-4be3-8578-76ad1bb35161",
+    "stem": "A 67-year-old man is referred to the Respiratory Clinic with progressive shortness of breath over the past six months. He has failed to respond to high-dose inhaled corticosteroids and a long-acting beta-agonist. He is a retired stonemason and smokes five cigarettes per day. There are inspiratory crackles on auscultation of the chest. Investigations: Investigation Result Normal value Haemoglobin (Hb) 131 g/l 120–160 g/l White cell count (WCC) 7.9 × 10 9/l 4–11 × 10 9/l Platelets (PLTs) 203 × 10 9/l 150–400 × 10 9/l C-reactive protein (CRP) 29 mg/l 0–10 mg/l Sodium (Na +) 140 mmol/l 135–145 mmol/l Potassium (K +) 4.3 mmol/l 3.5–5.0 mmol/l Creatinine (Cr) 112 µmol/l 50–120 µmol/l Peak expiratory flow rate (PEFR) 325 Reticulonodular shadowing, Chest X-ray eggshell lymph node calcification Which of the following is the most likely cause of this patient's shortness of breath?",
+    "options": [
+      "Asbestosis",
+      "Chronic obstructive pulmonary disease",
+      "Idiopathic pulmonary fibrosis",
+      "Sarcoidosis",
+      "Silicosis"
+    ],
+    "correct_option": 4,
+    "explanation": "Silicosis\nGiven this patient's career as a stonemason, it is likely he has come into contact with silica dust. The progressively worsening symptoms of pulmonary fibrosis, coupled with calcified lymph nodes and nodule formation, fit with this as the underlying diagnosis. The constellation of X-ray changes, together with findings from pulmonary function testing consistent with fibrosis, are used to make the diagnosis. Autoimmune profiling may have a role in ruling out other causes of pulmonary fibrosis.\n\nAsbestosis\nWe are given no history of asbestos exposure and pleural plaques rather than the calcification seen here would be expected in association with asbestos exposure.\n\nChronic obstructive pulmonary disease\nChronic obstructive pulmonary disease is not associated with the lung changes seen here on X-ray, and some response to inhaled therapy would be expected. Given the presence of nodules and calcification, silicosis is the most likely diagnosis.\n\nIdiopathic pulmonary fibrosis\nIdiopathic pulmonary fibrosis (IPF) is associated with progressively worsening shortness of breath and fibrosis confirmed on pulmonary function tests and imaging. The calcification seen here is inconsistent with IPF.\n\nSarcoidosis\nSarcoidosis is associated with hilar lymphadenopathy and features of pulmonary fibrosis, but not usually with the calcification seen here. In addition, exposure to stone dust is suggestive of silicosis.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c1fc198b-171c-450d-aa97-f82b69707f0c",
+    "stem": "A 45-year-old man with end-stage alcoholic cirrhosis is brought to the Emergency Department following a seizure. He says he has been drinking 1 litre of whisky per day but gave up 48 hours ago because he ran out of money. His BP is 155/72 mmHg, and his heart rate is 98 bpm and regular. He is sweating and anxious. What is the optimal way to manage this patient's alcohol withdrawal?",
+    "options": [
+      "Chlordiazepoxide",
+      "Chlormethiazole",
+      "Chlorpromazine",
+      "Haloperidol",
+      "Risperidone"
+    ],
+    "correct_option": 0,
+    "explanation": "Chlordiazepoxide\nThis patient has evidence of delirium tremens, which is typical in a habituated drinker who withdraws from alcohol for 48 hours or longer. Symptoms include anxiety, agitation, aggression and sympathetic activation, including hypertension and tachycardia. A reducing dose of benzodiazepines is the treatment of choice, with chlordiazepoxide as the usual favoured option. Thiamine supplementation is also essential, as is monitoring for hypoglycaemia.\n\nChlormethiazole\nAlthough chlormethiazole is an alternative sedative to chlordiazepoxide, it is not recommended because it accumulates in patients with liver disease and may lead to significant sedation.\n\nChlorpromazine\nChlorpromazine is a dopamine antagonist antipsychotic that is not recommended for treatment of delirium tremens. Benzodiazepines, such as chlordiazepoxide, are the preferred intervention.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "6041703c-b93a-4a61-bb36-2f2e3999df1f",
+    "stem": "A 72-year-old man becomes agitated on the Acute Medical Ward where he is being treated for pneumonia and acute kidney injury. He has pulled out his IV lines multiple times, is hitting out at nursing staff and is attempting to bite them. What is the most appropriate way to manage this patient's agitation?",
+    "options": [
+      "Chlordiazepoxide",
+      "Diazepam",
+      "Haloperidol",
+      "Morphine",
+      "Risperidone"
+    ],
+    "correct_option": 2,
+    "explanation": "Haloperidol\nHaloperidol is safe for use in renal impairment. No dosage adjustment is required, although caution is advised. It has the advantage of being given IM in patients who are unwilling to take PO medication. It is preferred to benzodiazepines, which are recognised to accumulate in renal impairment.\n\nChlordiazepoxide\nChlordiazepoxide, like diazepam, accumulates in renal impairment and should not be used here. Haloperidol, which can be delivered IM, is the most appropriate option. Chlordiazepoxide is most commonly used to manage alcohol withdrawal.\n\nDiazepam\nDiazepam, like other benzodiazepines, can accumulate in renal impairment and should not be used here. Haloperidol is the most appropriate option to control agitation.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "804b6b8e-e8de-442e-aae5-0ae8ddc98ed0",
+    "stem": "A 72-year-old man is reviewed on the stroke ward 48 hours after admission. He has loss of pain and temperature sensation on the right-hand side of the face and the left-hand side of the body. He has nystagmus, and when the physiotherapist tries to get him to walk, he falls to the right. Which artery is most likely to have been occluded?",
+    "options": [
+      "Anterior cerebral artery",
+      "Anterior communicating artery",
+      "Middle cerebral artery",
+      "Posterior cerebral artery",
+      "Posterior inferior cerebellar artery"
+    ],
+    "correct_option": 4,
+    "explanation": "Posterior inferior cerebellar artery\nThe clinical features here are consistent with Wallenberg syndrome, which occurs due to occlusion of the posterior inferior cerebellar artery. Loss of sensation occurs on the ipsilateral side of the face and the contralateral side of the body. There is minimal weakness affecting the body. Other features include vertigo with nystagmus, a tendency to fall to the side of the lesion on walking, Horner syndrome, dysphagia and dysphonia.\n\nAnterior cerebral artery\nAnterior cerebral artery occlusion presents with dysarthria, aphasia and unilateral motor weakness affecting the opposite side of the lesion. Any sensory changes are very minor.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "05999585-972f-45c0-bd0f-73702ebd1440",
+    "stem": "A 50-year-old man is reviewed in the Oncology Clinic following a Whipple's procedure for pancreatic cancer. He wants to know how he will be monitored for recurrence of the disease. Which of the following tumour markers is most useful to monitor for recurrence?",
+    "options": [
+      "Beta-human chorionic gonadotrophin",
+      "CA 15-3",
+      "CA 19-9",
+      "CA 125",
+      "Beta-2-microglobulin"
+    ],
+    "correct_option": 2,
+    "explanation": "CA 19-9\nIncreases in CA 19-9 level are seen in pancreatic cancer and cancer of the gall bladder, bile duct and stomach. It is a carbohydrate antigen normally attached to O-glycan on the cell surface. It is primarily used to look for tumour recurrence in pancreatic cancer, rather than used to confirm the initial diagnosis. Levels of CA 19-9 of above 37 KU/l are considered abnormal.\n\nBeta-human chorionic gonadotrophin\nBeta-hCG is a tumour marker for choriocarcinoma and germ cell tumours. The upper end of the normal range in men is 3 IU/l. Its main function is as a hormone that stimulates the corpus luteum to produce progesterone to maintain the pregnancy.\n\nCA 15-3\nCA 15-3 is a tumour marker for breast cancer. It can be used to monitor for tumour recurrence/progression, with levels above 29 kU/l considered abnormal. It is derived from the mucin-1 gene. Levels are not increased in pancreatic cancer.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3a6b4931-fb1c-465c-a9c0-3991414b9b89",
+    "stem": "A 43-year-old man presents to his General Practitioner with complaints of an itchy rash affecting the flexural surface of both wrists for the past few weeks. He also says he has noticed some white plaques in his mouth. He has small papules, which are topped with white streaks on the inside of his wrists and some white plaques on examination of the oropharynx. What is the most likely cause of this patient's symptoms?",
+    "options": [
+      "Candidiasis",
+      "Discoid lupus",
+      "Granuloma annulare",
+      "Lichen aureus",
+      "Lichen planus"
+    ],
+    "correct_option": 4,
+    "explanation": "Lichen planus\nThis patient's symptoms fit with a diagnosis of lichen planus, with typical flexural papules and white plaques in the oropharynx. The exact aetiology of lichen planus is unknown, but it is thought to be a T-cell-mediated autoimmune disease. It is slightly less common in men than in women, and is associated with primary biliary cirrhosis, hepatitis B and hepatitis C. Steroids, either topical or systemic, may be considered for cases where lesions are causing significant symptoms.\n\nCandidiasis\nCandidiasis is a cause of white plaques in the mouth but would not account for the skin lesions seen here. In candidiasis, the fungal infection generates an inflammatory response, which leads to areas of erythema and breaks in the mucosal surface in the mouth.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "dd0f3b8b-5e2b-473e-a44a-db2f22fed1e2",
+    "stem": "A 77-year-old woman develops severe diarrhoea while recovering on the Orthopaedic Ward following an open tibial fracture. She has been treated with multiple courses of antibiotics. A diarrhoea sample is positive for Clostridium difficile toxin. What is the most appropriate intervention for this patient?",
+    "options": [
+      "PO ciprofloxacin",
+      "PO fidaxomicin",
+      "PO metronidazole",
+      "PO rifaximin",
+      "PO vancomycin"
+    ],
+    "correct_option": 4,
+    "explanation": "PO vancomycin\nPO vancomycin is the recommended first-line intervention for treatment of C. difficile infection. A 10-day course of 125 mg four times daily is suggested by the National Institute for Health and Care Excellence (NICE) guidelines. Vancomycin is thought to be more effective than metronidazole in treating C. difficile infection. This may be due to the high concentration of vancomycin achieved within the bowel lumen, as there is minimal absorption from PO administration. It may be combined with metronidazole in complex cases.\n\nPO ciprofloxacin\nCiprofloxacin is not effective in treatment of C. difficile infection. For bacteria, for which it is an effective option, it is not recommended by the Medicines and Healthcare products Regulatory Agency where an alternative is available, because of musculoskeletal and neurological adverse effects.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "f08c55c7-e6ee-44d0-acdf-938a56cd858f",
+    "stem": "A 72-year-old man, who has type II diabetes, presents to the Emergency Department complaining that he is bumping into objects on his right-hand side. Visual field examination reveals a right inferior quadrantanopia. Where is the lesion that has caused this patient's symptoms most likely located?",
+    "options": [
+      "Left parietal lobe",
+      "Left temporal lobe",
+      "Right occipital lobe",
+      "Right parietal lobe",
+      "Right temporal lobe"
+    ],
+    "correct_option": 0,
+    "explanation": "Left parietal lobe\nThe superior fascicle of the optic radiation lies deep within the parietal lobe. This carries visual information from the contralateral inferior quadrant of the visual field. As such, a left parietal lobe lesion leads to right inferior quadrantanopia, as seen here.\n\nLeft temporal lobe\nLeft temporal lobe lesions lead to right superior quadrantanopia, not the inferior quadrantanopia seen here, which is more likely to be related to a parietal lobe lesion.\n\nRight occipital lobe\nOccipital lobe lesions are more likely to lead to hemianopia than the quadrantanopia seen here. A right occipital lobe lesion would be expected to result in left homonymous hemianopia with macula sparing.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "76158e56-c7e4-45b9-b9a5-54b97b95ce84",
+    "stem": "A 67-year-old right-handed man is reviewed by a Speech Therapist four days after suffering an ischaemic stroke. He has anomia with impaired repetition, but his speech is otherwise fluent and he has good reading comprehension. What is the most likely location of the lesion causing this patient's speech disturbance?",
+    "options": [
+      "Left frontal or frontoparietal lesion, including Broca's area",
+      "Left temporoparietal area, including Wernicke's area",
+      "Left temporoparietal area, excluding Broca's and Wernicke's areas",
+      "Right temporoparietal area, including Wernicke's area",
+      "Subcortical lesion near the left superior temporal gyrus"
+    ],
+    "correct_option": 4,
+    "explanation": "Subcortical lesion near the left superior temporal gyrus\nThis patient's symptoms fit best with conduction aphasia where there is anomia, although speech is otherwise fluent, with good oral and written comprehension. Impaired repetition of speech is, however, noted. The area of damage is often adjacent to the left superior temporal gyrus, ie the dominant hemisphere.\n\nLeft frontal or frontoparietal lesion, including Broca's area\nBroca's aphasia leads to anomia for both oral and written language and non-fluent speech. This is characterised by slow, effortful production, short phrase length and reduced use of prepositions and conjunctions. There is good comprehension, but repetition and writing are impaired.\n\nLeft temporoparietal area, including Wernicke's area\nWernicke's aphasia leads to anomia for both oral and written language. Speech appears fluent, taking a number of grammatical forms, but often conveys little meaning. Patients have poor auditory and written comprehension, impaired repetition and errors in reading.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "8f9dd4f5-bb99-4866-8569-866179ee95c1",
+    "stem": "A 72-year-old man, who has type II diabetes, presents to the Emergency Department with acute-onset redness, swelling, heat and stiffness affecting his right knee. Aspiration of the knee reveals neutrophils and needle-shaped crystals which are negatively birefringent. What is the most likely diagnosis?",
+    "options": [
+      "Acute gout",
+      "Osteoarthritis",
+      "Prepatellar bursitis",
+      "Pseudogout",
+      "Septic arthritis"
+    ],
+    "correct_option": 0,
+    "explanation": "Acute gout\nAcute gout is associated with redness, pain and swelling affecting a single joint, most commonly the knee or great toe. The aspirate with uric acid crystals and neutrophils fits with gout as the underlying diagnosis, and patients with type II diabetes often have hyperuricaemia. Management options for acute gout include NSAIDs, corticosteroids and colchicine.\n\nOsteoarthritis\nOsteoarthritis is more likely to be associated with chronic pain rather than with the acute unilateral knee pain and swelling seen here. The findings on aspiration are consistent with acute gout.\n\nPrepatellar bursitis\nPrepatellar bursitis, also known as housemaid's knee, is characterised by inflammation of the bursa at the front of the joint. The findings here are consistent with inflammation within the joint and a diagnosis of gout.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ad5526b7-f33a-48c5-bfcb-369b611440a0",
+    "stem": "A 24-year-old woman is diagnosed with breast cancer and is positive for the BRCA1 gene mutation. Her grandmother never developed breast cancer and died aged 88. One aunt is aged 60 and remains well. Another died aged 35 of breast cancer. The patient's mother died of breast cancer aged 45. Why were some members of the family unaffected by breast cancer?",
+    "options": [
+      "DNA methylation",
+      "Exon skipping",
+      "Genetic anticipation",
+      "Incomplete penetrance",
+      "X-chromosome inactivation"
+    ],
+    "correct_option": 3,
+    "explanation": "Incomplete penetrance\nBreast cancer related to the BRCA1 mutation is an example of a disease that exhibits incomplete penetrance. BRCA1 has a range of functions, including DNA repair, activation of transcription, cell cycle regulation and chromatin remodelling. Where BRCA1 is mutated, unchecked cell growth in breast and ovarian cancer can result. In some patients, however, there is incomplete penetrance, whereby some women may never develop breast cancer during their lifetime. Incomplete penetrance means that a proportion of people who carry the gene mutation may never develop the resultant disease.\n\nDNA methylation\nDNA methylation occurs in response to interaction with the external environment and can be influenced by lifestyle factors, including exercise, eating, smoking and alcohol consumption. It is not responsible for the variable penetrance seen here.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "48e35d17-77bc-4937-ad27-f2c261c18db5",
+    "stem": "A 62-year-old man is referred to the Psychiatric Clinic nine months after retiring from his job as a solicitor. He is agitated, has no interest in activities and worries about his finances, although his wife says they have no issues with money. He appears very flat and his Mini-Mental State Examination is 24/30. Physical neurological examination is normal. What is the most likely diagnosis?",
+    "options": [
+      "Adjustment disorder",
+      "Alzheimer's dementia",
+      "Depressive disorder",
+      "Lewy body disease",
+      "Multi-infarct dementia"
+    ],
+    "correct_option": 2,
+    "explanation": "Depressive disorder\nThis patient has features of depression, with evidence of a flat affect, intrusive thoughts about money and disinterest in daily activities. This may have been triggered by his retirement. Symptoms lasting up to six months may be consistent with adjustment disorder, but in this case, with symptoms persistent nine months after retirement, a diagnosis of depression can be made. Cognitive behavioural therapy, with the addition of a selective serotonin reuptake inhibitor if required, is the intervention of choice. The lower-than-expected cognitive assessment score can be seen in the setting of depression, which should improve with treatment and be rechecked after an interim.\n\nAdjustment disorder\nAdjustment disorder is an emotional or behavioural reaction to a significant life event (such as retirement). Symptoms begin during the first three months after the event and are completed by the 6-month time point. In this case, prolonged symptoms are consistent with depression.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "136ffd50-b633-4a3f-ad94-1c7199183038",
+    "stem": "A 66-year-old woman with chronic obstructive pulmonary disease (COPD) is reviewed in the Oncology Clinic. She has left hilar lung cancer identified on a chest X-ray. She smokes five cigarettes per day and takes dual inhaled therapy for her COPD. Her BP is 122/72 mmHg, and her heart rate is 75 bpm and irregular. Post- pneumonectomy forced expiratory volume in one second (FEV1) is predicted to be 0.75 litres. The ejection fraction is 44%, as measured on ECHO. What is the biggest contraindication to pneumonectomy?",
+    "options": [
+      "AF",
+      "Dual inhaled therapy for COPD",
+      "Ejection fraction of 44%",
+      "Post-pneumonectomy FEV1 of 0.75 litres",
+      "Smoking five cigarettes per day"
+    ],
+    "correct_option": 3,
+    "explanation": "Post-pneumonectomy FEV1 of 0.75 litres\nAlthough assessment of suitability for lung resection should be individualised, a predicted FEV1 of < 0.8 litres post-surgery is considered an absolute contraindication to pneumonectomy. Other factors, including AF, reduced ejection fraction and continued smoking, could complicate recovery, but they are not absolute contraindications to surgery.\n\nAF\nAF is not an absolute contraindication to pneumonectomy. It is important, however, to institute appropriate therapy for rate control before progressing to surgical intervention.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "05fe5f71-fbea-470a-872e-dc6e9e3cc048",
+    "stem": "A 62-year-old man is referred to the Neurology Clinic. He has progressive proximal muscle weakness, which makes it difficult for him to climb the stairs and get up off the sofa. He smokes 20 cigarettes per day and is under investigation for a left hilar mass identified on a chest X-ray. On examination, proximal muscle weakness is confirmed and reflexes are absent. Following a period of muscle activation, lower limb reflexes are present. What is the most appropriate treatment for this patient's muscle weakness?",
+    "options": [
+      "Amifampridine",
+      "Immunoglobulin infusion",
+      "Plasma exchange",
+      "Prednisolone",
+      "Pyridostigmine"
+    ],
+    "correct_option": 0,
+    "explanation": "Amifampridine\nThis patient has signs of underlying small-cell lung cancer and evidence of muscle weakness with potentiation. The pattern of symptoms is suggestive of Lambert–Eaton myasthenic syndrome. Antibodies against voltage- gated calcium channels are thought to be the underlying cause. Treatment of the underlying cancer can lead to improvement in symptoms, and amifampridine (3,4-diaminopyridine) is the treatment of choice to improve muscle strength by increasing acetylcholine concentration at the neuromuscular junction. It is a selective inhibitor of presynaptic fast voltage-gated potassium channels, prolonging cell membrane depolarisation and action potential, and augmenting calcium transport at the neuromuscular junction.\n\nImmunoglobulin infusion\nImmunoglobulin infusion is used for some patients with Lambert–Eaton syndrome who have refractory weakness. Positive effects, however, are short-lived, with the impact on symptoms peaking 2–4 weeks after treatment and waning thereafter.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "14d47e32-fccd-4b6f-bd3b-d49dc99fabec",
+    "stem": "A 36-year-old woman is treated with the first dose of IV immunoglobulin for Guillain–Barré syndrome. She is concerned about the side-effects of therapy. From which of the following is this patient most likely to suffer?",
+    "options": [
+      "Dizziness",
+      "Headache",
+      "Hypersensitivity",
+      "Tremor",
+      "Venous thromboembolism"
+    ],
+    "correct_option": 1,
+    "explanation": "Headache\nHeadaches are the most common adverse effect of immunoglobulin infusion and are very commonly seen, even after a single immunoglobulin infusion. There are several headache types reported, including migraine, sinus headache and tension-type headache. Tremor, dizziness and somnolence are also seen in association with immunoglobulin infusion.\n\nDizziness\nDizziness is uncommon after a single immunoglobulin infusion. With repeated infusions in the same patient, there is an increased risk of dizziness occurring with therapy.\n\nHypersensitivity\nHypersensitivity reactions are uncommonly seen after a single immunoglobulin infusion. Following repeated infusions, however, the risk of hypersensitivity does increase.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "174fb730-a2b1-4df9-9fe8-bcc488a51a77",
+    "stem": "A 42-year-old man has deteriorated some four days after extensive burns and smoke inhalation following a house fire. He is managed on the Specialist Burns Ward, and the nursing staff have noted a significant drop in his oxygenation level. His BP is 132/82 mmHg, and his heart rate is 88 bpm and regular. There are extensive crackles on auscultation of the chest. His respiratory rate is 31 breaths per minute, and his oxygen saturation is 81% on air. What is the most likely cause of this patient's symptoms?",
+    "options": [
+      "Acute respiratory distress syndrome",
+      "Aspiration pneumonia",
+      "Hospital-acquired pneumonia",
+      "Left ventricular failure",
+      "Pulmonary embolism"
+    ],
+    "correct_option": 0,
+    "explanation": "Acute respiratory distress syndrome\nLate-onset acute respiratory distress syndrome (ARDS) occurring within a week after significant smoke inhalation and extensive burns is well described. It fits with the development of hypoxia with inspiratory crackles noted here. Intubation and mechanical ventilatory support are indicated. Patients should be extubated as soon as possible because of the risk of developing secondary pneumonia.\n\nAspiration pneumonia\nAspiration pneumonia is a possible alternative diagnosis, but it is more likely to be associated with right-sided signs of consolidation compared to the bilateral crackles reported here.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ac87c28e-6645-471d-bde0-2b6f2afb6ebc",
+    "stem": "An 18-year-old man is brought to the Emergency Department with headache, neck stiffness and petechial rash. He had two previous episodes of meningitis at the age of 15 and 16 years. His temperature is 38.9 °C; his BP is 90/60 mmHg, and his heart rate is 100 bpm and regular. He has an extensive purpuric rash, with petechial haemorrhages. Investigation Result Normal value Haemoglobin (Hb) 132 g/l 120–160 g/l White cell count (WCC) 15.4 × 10 9/l 4.0–11.0 × 10 9/l C-reactive protein (CRP) 197 mg/l < 10 mg/l Platelets (PLT) 235 × 10 9/l 150–400 × 10 9/l Which component of the immune system is most likely to be deficient?",
+    "options": [
+      "C1 esterase inhibitor",
+      "C4",
+      "C5",
+      "Immunoglobulin A",
+      "Immunoglobulin D"
+    ],
+    "correct_option": 2,
+    "explanation": "C5\nComplement factors C5 to C9 are components of the membrane attack complex, which is a crucial mechanism in combatting capsulated bacterial infection. Absence of C5 therefore can lead to frequent episodes of meningococcal infection, the most likely cause of this patient's symptoms. Where recurrent episodes of meningitis are seen, then prophylactic antibiotics may be considered.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "5fb302fb-e731-4374-acfe-606c4f63de4b",
+    "stem": "A 58-year-old man with type II diabetes presents to the Emergency Department with cellulitis of his forefoot. What is the most appropriate antibiotic intervention?",
+    "options": [
+      "Clindamycin",
+      "Co-amoxiclav",
+      "Doxycycline",
+      "Erythromycin",
+      "Flucloxacillin and gentamicin"
+    ],
+    "correct_option": 1,
+    "explanation": "Co-amoxiclav\nCo-amoxiclav is the intervention of choice for cellulitis related to diabetes mellitus, because it provides a broad spectrum of coverage against Gram-positive and Gram-negative organisms. A dose of 1.2 g IV three times daily is preferred for severe infection. Therapy duration of longer than 14 days is not recommended because of the increased risk of abnormal liver function associated with therapy.\n\nClindamycin\nClindamycin has a high level of bioavailability when delivered PO and good tissue penetration. It is an appropriate alternative for severe cellulitis in patients with penicillin allergy, although it is strongly associated with an increased risk of Clostridium difficile diarrhoea.\n\nDoxycycline\nPO doxycycline characteristically provides good coverage for Staphylococcus aureus cellulitis, but is inadequate for the typical mixed infections seen in diabetes patients. For these patients, a broader-spectrum agent such as co-amoxiclav is preferred.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "1c107c14-ac63-4ce8-be12-883c21f0317f",
+    "stem": "A 74-year-old man is referred to the Gastroenterology Clinic following a barium swallow test, which showed a bird's beak constriction of the distal oesophagus. He has suffered from retrosternal chest pain and regurgitation of undigested food, including both solids and liquids, for the last eight months. His weight is stable, and he has mild iron deficiency anaemia. What is the most appropriate next step investigation?",
+    "options": [
+      "Colonoscopy",
+      "CT of the abdomen",
+      "Lower oesophageal pH monitoring",
+      "Oesophageal manometry",
+      "Upper GI endoscopy"
+    ],
+    "correct_option": 4,
+    "explanation": "Upper GI endoscopy\nThe symptoms and barium swallow finding here are typical of those seen in patients with achalasia. Up to one- third of patients with achalasia may have coexisting malignancy. This prompts carrying out an upper GI endoscopy as the next most appropriate investigative step. Once cleared, then patients may proceed to oesophageal manometry and potentially pH monitoring. Systemic treatments include nitrates and calcium channel antagonists. Both dilatation and botulinum toxin have been used as local interventions.\n\nColonoscopy\nA colonoscopy is usually indicated when iron deficiency cannot be excluded by other causes. In this case, with the barium swallow finding consistent with achalasia, an upper GI endoscopy is more useful at this stage.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b4891e5d-ef9c-4fb4-8b78-673838e38729",
+    "stem": "A 67-year-old man is brought to the Emergency Department with a random blood glucose of 18.2 mmol/l. He presented to his General Practitioner complaining of tiredness, lethargy and genital candidiasis. His BP is 128/82 mmHg, and his heart rate is 88 bpm and regular. His BMI is 33 kg/m 2. Investigation Result Normal value Haemoglobin (Hb) 142 g/l 130–175 g/l White cell count (WCC) 7.1 × 10 9/l 4.0–11.0 × 10 9/l C-reactive protein (CRP) 8 mg/l < 10 mg/l Platelets (PLT) 237 × 10 9/l 150–400 × 10 9/l Sodium (Na +) 142 mmol/l 135–145 mmol/l Potassium (K +) 3.7 mmol/l 3.5–5.0 mmol/l Creatinine (Cr) 110 µmol/l 60–120 µmol/l Sodium bicarbonate 24 mmol/l 22–32 mmol/l Random glucose 14.9 mmol/l < 7.8 mmol/l What is the most appropriate way to treat this patient?",
+    "options": [
+      "Gliclazide",
+      "Insulin",
+      "Metformin",
+      "Semaglutide",
+      "Sitagliptin"
+    ],
+    "correct_option": 2,
+    "explanation": "Metformin\nMetformin is still recommended as the standard first-line therapy for type II diabetes, given that it primarily reduces blood glucose level by acting on hepatic insulin resistance. The increase in glucose level and symptoms are relatively modest in this patient, meaning that insulin therapy is not required. This brings modest positive changes in weight and lipid levels, in addition to glucose control. The dose should be uptitrated slowly from 500 mg twice daily to avoid problems with bile acid diarrhoea. In patients with evidence of heart failure, a sodium–glucose cotransporter 2 (SGLT-2) inhibitor, such as dapagliflozin, can be added in as early combination therapy.\n\nGliclazide\nGliclazide is a sulfonylurea that can result in an increase in weight and risk of hypoglycaemia, in addition to improving glucose control. This means that it is no longer a mainstream option for initial treatment of type II diabetes.\n\nInsulin\nInsulin is not recommended in this patient as there are no symptoms or signs of relative insulinopenia. Adjustments to diet and addition of metformin monotherapy should drive an improvement in glucose control and symptoms.\n\nSemaglutide\nThis patient is obese and may benefit from a glucagon-like peptide 1 (GLP-1) agonist. However, this would not be considered as a standard first-line therapy. In this patient, it may be considered as a second- or third-line intervention after diet, lifestyle and pharmacological interventions have failed to gain glycaemic control.\n\nSitagliptin\nSitagliptin has modest effects on glucose control and promotes a small amount of weight loss. It is usually considered a potential second-line option after metformin, rather than a first-line intervention, for type II diabetes.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c82d5722-9003-4a36-9a9f-a8b2a91f40a3",
+    "stem": "A 22-year-old woman presents to the Emergency Department with dull, aching pain affecting the lateral aspect of her hip and radiating down her thigh. She is training for a half-marathon and says running makes the pain worse. It is also painful when she lies on her side. On examination, there is point tenderness over the greater trochanter. What is the most likely cause of this patient's pain?",
+    "options": [
+      "Avascular necrosis",
+      "Gluteus medius tendonitis",
+      "Iliopsoas tendonitis",
+      "Lumbosacral radiculopathy",
+      "Trochanteric bursitis"
+    ],
+    "correct_option": 4,
+    "explanation": "Trochanteric bursitis\nThe symptoms here are typical of those seen in trochanteric bursitis, with tenderness over the lateral aspect of the hip which is worse on exercise and point tenderness over the greater trochanter. NSAIDs, rest and ice are the initial interventions of choice, with stretching exercises a possibility under the supervision of a physiotherapist. Where there is a poor response to intervention, then local injection of corticosteroids can be considered.\n\nAvascular necrosis\nAvascular necrosis is primarily characterised by a deep aching pain affecting the hip and groin, made worse by weight-bearing. The lateral pain suffered by this patient is more consistent with trochanteric bursitis.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "31b77a9a-3ac2-40ef-8e6f-facaaf059a7e",
+    "stem": "A 24-year-old woman is admitted to the Emergency Department after becoming short of breath while in the crowd at a rock concert. Her BP is 148/82 mmHg, and her heart rate is 89 bpm and regular. She is anxious. Her chest is clear, and her respiratory rate is 35 breaths per minute. She has pins and needles in both hands and around her mouth. What is the most likely cause of this patient's symptoms?",
+    "options": [
+      "Metabolic acidosis",
+      "Metabolic alkalosis",
+      "Nitrous oxide misuse",
+      "Respiratory acidosis",
+      "Respiratory alkalosis"
+    ],
+    "correct_option": 4,
+    "explanation": "Respiratory alkalosis\nThis patient's symptoms of pins and needles in the hands and perioral paraesthesiae fit with a low level of ionised calcium. This is characteristically seen in respiratory alkalosis due to hyperventilation syndrome, which fits with anxiety when the patient was in a crowded space at a rock concert.\n\nMetabolic acidosis\nThere are a range of causes of metabolic acidosis, including renal impairment and tissue hypoxia leading to lactic acidosis, as well as other diagnoses such as diabetic ketoacidosis. The short history here, coupled with pins and needles in the hands and around the mouth, is most consistent with respiratory alkalosis.\n\nMetabolic alkalosis\nMetabolic alkalosis is associated with chronic use of diuretics and also occurs as a compensatory response to respiratory acidosis. In this situation, respiratory alkalosis is the most likely cause of the patient's symptoms.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "5a6bac34-c0b6-4c1c-a27e-8536142185dc",
+    "stem": "A 35-year-old woman is referred to the Dermatology Clinic because of complaints about frequent facial flushing. She says this can happen if she is in a stressful situation at work, or particularly when she drinks alcohol or hot drinks. On examination, she has dry skin, with some evidence of erythema and telangiectasia over the forehead and cheeks. What is the most appropriate initial intervention?",
+    "options": [
+      "Benzoyl peroxide topical",
+      "Brimonidine topical",
+      "Ciclosporin PO",
+      "Oxytetracycline PO",
+      "Propranolol PO"
+    ],
+    "correct_option": 1,
+    "explanation": "Brimonidine topical\nBrimonidine is an alpha-2 adrenergic agonist, which reduces peripheral arteriolar dilatation. This makes it an appropriate treatment for facial flushing which is associated with some more permanent changes such as telangiectasia and lasting erythema. It is given once a day for treatment of rosacea, the diagnosis here, as a 0.5% topical preparation.\n\nBenzoyl peroxide topical\nBenzoyl peroxide is a topical acne treatment, whereas this patient's symptoms are more consistent with rosacea, where the skin is dry and erythematous. In this patient, topical brimonidine is preferred.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "0b0cba18-f7a7-46ef-8dee-8ebc8db6d866",
+    "stem": "A 74-year-old man is referred to the Neurology Clinic with short-term memory loss, gait disturbance and incontinence. A CT scan shows evidence of hydrocephalus. Where is the CSF absorbed?",
+    "options": [
+      "Arachnoid granulations",
+      "Choroid plexi",
+      "Dural venous sinuses",
+      "Foramen of Munro",
+      "Pia mater"
+    ],
+    "correct_option": 0,
+    "explanation": "Arachnoid granulations\nArachnoid granulations play a major role in the transport of CSF. They act as a one-way valve that allows the flow of CSF from the CNS into the circulatory system. The CSF is also thought to reach the circulatory system via the axons of cranial nerve I via their extension through the cribriform plate.\n\nChoroid plexi\nChoroid plexi are responsible for the production, rather than absorption, of CSF. They consist of specialised epithelial tissue known as ependyma that produce CSF. Ion transporters lead to an osmotic gradient, which drives CSF from the circulatory system to the CNS.\n\nDural venous sinuses\nDural venous sinuses lie distal to the arachnoid granulations, which function as a one-way valve, allowing CSF to flow only into the venous system.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b255431e-ea29-4f7d-ad85-3dace2e0d8a0",
+    "stem": "A 70-year-old woman is reviewed in the Fracture Clinic following a left Colles fracture. A bone density scan confirms that her bone density is in the osteoporotic range. A decision is made to treat her with ibandronate. What is the mode of action of ibandronate?",
+    "options": [
+      "Calcimimetic",
+      "Impairment of osteoclast bone adherence",
+      "Inhibition of osteoblast activity",
+      "Increased hydroxylation of vitamin D",
+      "RANK ligand inhibitor"
+    ],
+    "correct_option": 1,
+    "explanation": "Impairment of osteoclast bone adherence\nThe primary mode of action of bisphosphonates is to inhibit osteoclast adherence to bone. They adhere to the hydroxyapatite binding sites on bone, especially where there is active resorption. When they are taken up by osteoclasts, they interfere with the ability of the osteoclasts to form a ruffled border, which is essential for bone resorption, thereby inhibiting osteoclast activity. Bisphosphonates are poorly absorbed, necessitating administration of large doses PO, and have a very prolonged duration of action.\n\nCalcimimetic\nCinacalcet is a calcimimetic used to treat tertiary hyperparathyroidism that is unsuitable for surgical intervention. It does not have a role in treatment of osteoporosis.\n\nInhibition of osteoblast activity\nBisphosphonates inhibit osteoclast activity. Inhibiting osteoblast activity would accelerate the loss of bone mineral density. Teriparatide, a synthetic parathyroid hormone analogue, upregulates osteoblast activity and is used in treatment of severe osteoporosis.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "e9e99e94-7283-4424-ba7a-90f37910d127",
+    "stem": "A 22-year-old man presents to the Emergency Department with severe lethargy, widespread bruising and bleeding from his mouth. He says he has had deteriorating health for the past two months. His temperature is 38.2 °C; his BP is 95/60 mmHg, and his heart rate is 105 bpm and regular. There is extensive bruising and areas of petechial haemorrhage. Abdominal examination reveals splenomegaly. Investigation Result Normal value 7.8 g/l Haemoglobin (Hb) 120–160 g/l Fragmented red cells seen on film 22.9 × 10 9/l White cell count (WCC) 4.0–11.0 × 10 9/l Myeloblasts seen on film Platelets (PLT) 22 × 10 9/l 150–400 × 10 9/l Sodium (Na +) 142 mmol/l 135–145 mmol/l Potassium (K +) 5.2 mmol/l 3.5–5.0 mmol/l Creatinine (Cr) 113 µmol/l 50–90 µmol/l Prothrombin time (PT) 27.2 seconds 12.1–15.3 seconds Activated partial thromboplastin time (APTT) 46.1 seconds 22–36 seconds What is the most likely cause of this patient's symptoms?",
+    "options": [
+      "Acute lymphoblastic leukaemia",
+      "Acute myeloid leukaemia",
+      "Chronic lymphocytic leukaemia",
+      "Chronic myeloid leukaemia",
+      "Non-Hodgkin's lymphoma"
+    ],
+    "correct_option": 1,
+    "explanation": "Acute myeloid leukaemia\nAcute myeloid leukaemia (AML) fits with the picture here of anaemia, low PLT count, a significant rise in WCC with myeloblasts and evidence of disseminated intravascular coagulation. Bone marrow aspiration is used to confirm the diagnosis, and cytochemical staining can confirm the subtype. The usual induction regimen is cytarabine, daunorubicin and mitoxantrone, although acute promyelocytic leukaemia is treated with all-trans- retinoic acid or arsenic trioxide before starting induction therapy.\n\nAcute lymphoblastic leukaemia\nAcute lymphoblastic leukaemia presents with anaemia and thrombocytopenia. WCC may be high, low or normal. Bone marrow aspiration shows > 20% of lymphoblasts.\n\nChronic lymphocytic leukaemia\nChronic lymphocytic leukaemia is associated with a marked increase in peripheral blood lymphocyte count and splenomegaly. It does not fit with the large increase in myeloblasts here, which indicates AML.\n\nChronic myeloid leukaemia\nIn chronic myeloid leukaemia, the peripheral blood smear usually shows an increase in immature granulocytes, eosinophils and basophils. Results of the coagulation studies here are consistent with disseminated intravascular coagulation, and the blasts fit with AML.\n\nNon-Hodgkin's lymphoma\nNon-Hodgkin's lymphoma presents with chronic symptoms, including lymphadenopathy, night sweats and weight loss. The acute presentation here, with evidence of disseminated intravascular coagulation, is more consistent with AML.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "022caea9-f8bc-4a75-b5d7-20484f59798b",
+    "stem": "A 35-year-old man is brought to the Emergency Department with extreme agitation, sweating and central chest pain after spending the day at a music festival. His BP is 162/100 mmHg, and his heart rate is 102 bpm and regular. He has bilateral dilated pupils, and an ECG shows anterior and inferior ST-segment elevation. He has been given aspirin by paramedics. What is the most appropriate next step in managing this patient's chest pain?",
+    "options": [
+      "Bisoprolol",
+      "Clopidogrel",
+      "Glyceryl trinitrate",
+      "Morphine",
+      "Percutaneous coronary intervention"
+    ],
+    "correct_option": 2,
+    "explanation": "Glyceryl trinitrate\nThis patient has signs and symptoms of cocaine overdose, including agitation, chest pain and dilated pupils. He likely has a significant coronary artery spasm, which may well be contributing to the ECG changes seen here. Use of IV glyceryl trinitrate (GTN) should reduce BP and control ischaemic chest pain. Guidelines should still be followed concerning the investigation of ST-segment elevation, meaning that percutaneous coronary intervention is an obvious next step once chest pain and agitation have been controlled.\n\nBisoprolol\nBeta-blockers are not an optimal intervention for patients with likely coronary artery spasm due to cocaine abuse. In this patient, IV GTN or calcium channel blockers are the preferred option.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ac09c926-e9d0-4f12-95c4-04c864834898",
+    "stem": "A 27-year-old woman is reviewed in the Neurology Clinic with an episodic headache. She has left-sided throbbing frontal headaches, accompanied by blurred vision and vomiting, for three days before her menstrual period starts each month. She has failed to respond adequately to conventional analgesics and triptans used acutely. Neurological examination in the clinic is unremarkable. Which is the most appropriate intervention for this patient?",
+    "options": [
+      "Amitriptyline prophylaxis",
+      "Botulinum toxin injections",
+      "Combined oral contraceptive pill",
+      "Rimegepant prophylaxis on the days when migraine is expected",
+      "Zolmitriptan prophylaxis on the days when migraine is expected"
+    ],
+    "correct_option": 4,
+    "explanation": "Zolmitriptan prophylaxis on the days when migraine is expected\nThis patient has menstrual migraine with highly predictable attacks. In this situation of acute episodes not responding adequately to intervention, the National Institute for Health and Care Excellence (NICE) recommends the use of zolmitriptan or frovatriptan as prophylaxis on the days when headache is expected. Given the headaches are predictable, it is illogical to give prophylaxis every day with an agent such as amitriptyline. The oral contraceptive pill is not recommended in this situation because it may increase the risk of stroke in women who have migraine with aura.\n\nAmitriptyline prophylaxis\nAmitriptyline prophylaxis is effective in reducing migraine frequency but can be sedating. It is therefore better to explore alternatives such as limited triptan prophylaxis in this situation, given the episodes are strongly linked to menses.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "9ed50ebd-6233-45f4-a611-14659437fe90",
+    "stem": "A 72-year-old man is referred to the Urology Clinic. He has problems with poor urinary stream and is up four times per night to pass urine. He has occasionally lost control of his bladder and has been incontinent. On examination, he has a smooth, enlarged prostate. His prostate-specific antigen (PSA) level is 4.5 μg/l (< 6.5 μg/l). What is the most appropriate next step?",
+    "options": [
+      "Cystoscopy",
+      "MRI of the prostate",
+      "Post-void residual urine volume",
+      "Transrectal prostate biopsy",
+      "Urodynamic studies"
+    ],
+    "correct_option": 2,
+    "explanation": "Post-void residual urine volume\nThe symptoms here are consistent with overflow incontinence due to benign prostatic hypertrophy and urethral obstruction. As such, the most appropriate next investigation is post-void residual urine volume, which is expected to be increased. Initial interventions of choice include an alpha-blocker, such as tamsulosin, to provide short-term relief of obstructive symptoms, and a 5-alpha reductase inhibitor, such as finasteride, to shrink the prostate size over the medium term.\n\nCystoscopy\nCystoscopy is indicated for suspected carcinoma of the bladder. In this patient, benign prostatic hypertrophy leading to urethral obstruction is the most likely cause of his symptoms.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "70dc3d41-762d-4d50-aeae-1d733ec6f1cf",
+    "stem": "An 18-year-old woman attends the Emergency Department with her parents after a collapse. She has been restricting her eating markedly and increasing her exercise. The patient says there is no problem, and that she is overweight and is dealing with it herself. Her BP is 95/60 mmHg, and her heart rate is 58 bpm and regular. Her BMI is 16 kg/m 2. What is the most likely underlying diagnosis?",
+    "options": [
+      "Anorexia nervosa",
+      "Body dysmorphic disorder",
+      "Bulimia nervosa",
+      "Conversion disorder",
+      "Depression"
+    ],
+    "correct_option": 0,
+    "explanation": "Anorexia nervosa\nThis patient has several features of anorexia nervosa, including a BMI below 17.5 kg/m 2, control of both eating behaviour and physical exercise and denial of an underlying illness. Individual eating disorder-focused cognitive behavioural therapy is the intervention of choice. In cases where patients need to be fed because of severe illness, then this is best accomplished via a specialist Eating Disorder Clinic.\n\nBody dysmorphic disorder\nBody dysmorphic disorder can drive weight loss. However, it is also associated with dislike of other bodily features, such as the shape of the nose, chin or ears, which is absent here.\n\nBulimia nervosa\nBulimia nervosa may be associated with reduced BMI. However, it is also associated with well-defined episodes of binge eating followed by compensatory behaviour, which are absent here.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "2dc3f3a9-c20e-4985-8b78-33b51fda78de",
+    "stem": "A 27-year-old man who has been recently diagnosed with HIV-1 is started on raltegravir. What is the mode of action of raltegravir?",
+    "options": [
+      "CCR5 inhibitor",
+      "Fusion inhibitor",
+      "Integrase inhibitor",
+      "Non-nucleoside reverse transcriptase inhibitor",
+      "Protease inhibitor"
+    ],
+    "correct_option": 2,
+    "explanation": "Integrase inhibitor\nIntegrase inhibitors block the HIV integrase enzyme which is crucial for integration of viral genetic material into human DNA. They bind to the enzyme, stopping further entry of genetic material into the CD4 cell genome. Raltegravir is an example of an integrase inhibitor.\n\nCCR5 inhibitor\nBinding of HIV to CCR5 induces fusion of HIV with the cell membrane. By binding to CCR5, inhibitors such as maraviroc inhibit replication of HIV.\n\nFusion inhibitor\nFusion inhibitors mimic the structure of the HIV gp41 HR2 region. The normal function of gp41 is to allow the viral envelope to fuse with the cell membrane. By binding to the HR1 region of gp41, the inhibitor prevents the HR1 region from binding to the HR2 region and inhibits fusion with the cell membrane. Enfuvirtide is an example.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "9ce7cca1-8838-4bf8-9881-07c8bdb36003",
+    "stem": "A 34-year-old woman attends the Obstetric Clinic with her partner. A recent 12-screening test has indicated a high probability that her child has trisomy 21. She is particularly concerned about potential cardiac complications. What cardiac defect is most commonly found in patients with trisomy 21?",
+    "options": [
+      "Atrial septal defect",
+      "Atrioventricular septal defect",
+      "Coarctation of the aorta",
+      "Persistent ductus arteriosus",
+      "Tetralogy of Fallot"
+    ],
+    "correct_option": 1,
+    "explanation": "Atrioventricular septal defect\nCombined atrial and ventricular septal defects are the most common congenital heart disease manifestations of trisomy 21, seen in approximately 37% of patients. These may be incomplete where the mitral and tricuspid valves form correctly, or complete where only one valve forms. All forms of atrioventricular septal defect, complete and incomplete, require early intervention with cardiac surgery.\n\nAtrial septal defect\nAtrial septal defects, seen in approximately 15% of patients, are less commonly seen than more complex combined atrial and ventricular septal defects. Options for closure include both catheter-based methods of occlusion and open surgery, depending on the complexity of the lesion.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "f09b36d3-214c-4a9a-8b29-931b17a33c99",
+    "stem": "A 24-year-old man is referred to the Dermatology Clinic with several umbilicated papules affecting the lower abdomen and the inside of both thighs. He is usually well, takes no regular medication and plays for a local rugby team. The lesions are not painful or itchy. What is the most likely cause of the lesions?",
+    "options": [
+      "Herpes simplex virus",
+      "Human herpesvirus 6",
+      "Human papillomavirus",
+      "John Cunningham virus",
+      "Molluscum contagiosum virus"
+    ],
+    "correct_option": 4,
+    "explanation": "Molluscum contagiosum virus\nAlthough more common in children than in adults, MCV can spread in adults through sexual contact and contact sports such as rugby. It is characterised by crops of umbilicated papules, which are usually asymptomatic and clear spontaneously over a few months. No treatment is usually required, although where lesions are itchy or there are concerns about cosmetic appearance, topical podophyllotoxin or imiquimod is a potential option.\n\nHerpes simplex virus\nHerpes simplex virus is a cause of cold sores and genital herpes. The skin changes seen here are most consistent with MCV infection, which can be spread in adults by sexual contact and contact sports.\n\nHuman herpesvirus 6\nHuman herpesvirus 6 is a cause of exanthem subitum, a childhood disease associated with a high temperature and an erythematous rash. It can occasionally cause symptoms in immunocompromised adults.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b569d1f4-5cec-4197-b49e-424f6f230cac",
+    "stem": "A couple aged 25 and 27 years are referred to the Genetics Clinic after having a second child with trisomy 21. They plan for a third child. What is the next step in this case?",
+    "options": [
+      "Fetal DNA analysis in early pregnancy",
+      "In vitro fertilisation with embryo selection",
+      "Karyotyping of both parents",
+      "Karyotyping of the mother",
+      "Reassurance"
+    ],
+    "correct_option": 2,
+    "explanation": "Karyotyping of both parents\nKaryotyping of both parents is the most appropriate next step, given that a Robertsonian translocation appears to be the most likely cause of trisomy 21 in their two children. A Robertsonian translocation occurs in chromosomes that have a centromere quite close to the end of the chromosome, resulting in a particularly long arm. These translocations can involve chromosomes 13, 14, 15, 21 and 22. When the long arm of chromosome 21 joins with the long arm of chromosome 14 or 15, then the heterozygous carrier is phenotypically normal, although their offspring can develop an unbalanced translocation and have a trisomy 21 phenotype. A child with trisomy 21 presenting in this way could inherit the extra genetic material from either parent, so karyotyping of both parents is recommended.\n\nFetal DNA analysis in early pregnancy\nFetal DNA can be detected in maternal blood in early pregnancy and used to identify genetic abnormalities. However, it is preferable to identify the potential cause of two cases of trisomy 21 before embarking on another pregnancy.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "fd9d8dd9-145c-4a70-a964-99640ef5fd71",
+    "stem": "A 28-year-old woman, who has severe asthma and had two previous admissions to the Intensive Care Unit, is reviewed in the Respiratory Clinic. She is currently taking high-dose inhaled corticosteroids, an inhaled long- acting beta-agonist and montelukast. She required three courses of rescue PO steroids in the last six months. Her peak flow in the clinic is 380 litres/min (510 predicted). Her eosinophil count is 0.9 × 10 9/l. (normal range 0.05–0.5). What is the most appropriate next intervention?",
+    "options": [
+      "Adalimumab",
+      "Canakinumab",
+      "Mepolizumab",
+      "Risankizumab",
+      "Rituximab"
+    ],
+    "correct_option": 2,
+    "explanation": "Mepolizumab\nMepolizumab is an anti-interleukin-5 monoclonal antibody that lowers the eosinophil count by between 60% and 90% of the baseline, depending on the dose used. This patient has eosinophilic asthma, with a significant number of exacerbations despite optimised asthma therapy, making her an ideal candidate for intervention with mepolizumab. In asthma, the recommended starting dose is 100 mg delivered every four weeks by subcutaneous injection. Therapy should be reviewed after one year and stopped if symptoms have not improved.\n\nAdalimumab\nAdalimumab is an anti-tumour necrosis factor monoclonal antibody. It is used in a range of inflammatory conditions, including rheumatoid arthritis, psoriasis and inflammatory bowel disease.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "7dcfad7e-ad61-4b52-a90a-8dd407c9a482",
+    "stem": "A 62-year-old man is reviewed on the Coronary Care Ward one hour post-percutaneous coronary intervention for anterior myocardial infarction (MI). He has developed a broad complex tachycardia. His BP is 130/70 mmHg, and his heart rate is 140 bpm, with broad complexes seen on the monitor. A 12-lead ECG confirms broad QRS of 170 ms, uniform complexes and atrioventricular dissociation. What is the most appropriate next management step?",
+    "options": [
+      "Amiodarone",
+      "Bisoprolol",
+      "Flecainide",
+      "Lidocaine",
+      "Observation"
+    ],
+    "correct_option": 0,
+    "explanation": "Amiodarone\nAmiodarone is a class III antiarrhythmic agent which prolongs the action potential by blockade of potassium channels. It also has class I and IV effects through blockade of sodium and calcium channels, respectively. It leads to some reduction in BP through adrenergic antagonism, but this is potentially less than with a primary beta-blocker such as bisoprolol. In a post-MI scenario, it is a drug of choice for medical cardioversion of ventricular tachycardia, the most likely diagnosis in this patient. For sustained ventricular tachycardia, a loading dose of 150 mg IV is given over ten minutes.\n\nBisoprolol\nAlthough beta-blockers, such as bisoprolol, are useful in suppressing ventricular arrhythmias, evidence in the post-MI period is stronger for the use of amiodarone. In this patient, bisoprolol runs the risk of precipitating symptomatic hypotension.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "5573002a-33e6-4dfa-b374-a7b150e3dd30",
+    "stem": "A 61-year-old woman is diagnosed with endometrial cancer after presenting to her General Practitioner with post-menopausal vaginal bleeding. She underwent a colectomy for a caecal carcinoma at the age of 44. Her mother died of colon cancer aged 42, and her aunt has suffered from colon and endometrial cancers. Which gene mutation is the most likely cause of this patient's two cancers?",
+    "options": [
+      "APC",
+      "BRCA1",
+      "MLH1",
+      "p53",
+      "RET"
+    ],
+    "correct_option": 2,
+    "explanation": "MLH1\nThis patient has hereditary non-polyposis colon cancer (HNPCC) syndrome, also known as Lynch syndrome. Colon cancers are seen as early as in the fifth decade; uterine cancers are seen later at around the age of 60 years. Screening upper and lower GI endoscopies are recommended from the age of 20 years in individuals who carry the abnormal MLH1 gene which causes the syndrome. MLH1 encodes a DNA mismatch repair gene.\n\nAPC\nAPC mutations are associated with familial adenomatous polyposis and the development of colon cancer at a young age. The APC gene is a tumour suppressor gene.\n\nBRCA1\nThe BRCA1 gene is a tumour suppressor gene, mutations in which can lead to an increased risk of breast and ovarian cancers in women and an increased risk of prostate cancer in men.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "278d3c81-ab12-4df7-956f-dd1096c8b6cf",
+    "stem": "A 74-year-old woman is referred to the Gastroenterology Clinic because of facial flushing, chronic diarrhoea and weight loss. She has hypertension, for which she takes ramipril, and has suffered from recent palpitations but is otherwise well. Her BP is 135/82 mmHg, and her heart rate is 88 bpm and regular. She has a 2-cm liver edge, and her BMI is 20.5 kg/m 2. Investigation Result Normal value Haemoglobin (Hb) 102 g/l 120–160 g/l White cell count (WCC) 7.2 × 10 9/l 4.0–11.0 × 10 9/l Platelets (PLT) 132 × 10 9/l 150–400 × 10 9/l Sodium (Na +) 141 mmol/l 135–145 mmol/l Potassium (K +) 3.1 mmol/l 3.5–5.0 mmol/l Creatinine (Cr) 89 µmol/l 50–90 µmol/l Bicarbonate (HCO 3 −) 24 mmol/l 22–32 mmol/l Alanine aminotransferase (ALT) 181 IU/l 0–35 IU/l Alkaline phosphatase (ALP) 273 U/l 30–130 U/l What is the most likely cause of this patient's symptoms?",
+    "options": [
+      "Carcinoid syndrome",
+      "Colon cancer",
+      "Glucagonoma",
+      "Somatostatinoma",
+      "VIPoma"
+    ],
+    "correct_option": 0,
+    "explanation": "Carcinoid syndrome\nThis patient has the characteristic features of carcinoid syndrome, including facial flushing, palpitations and diarrhoea. The hepatomegaly is suggestive of liver metastases. Measurement of 24-hour urinary 5- hydroxyindoleacetic acid is a key step in confirming the diagnosis, with ultrasound scanning of the liver to confirm the presence of metastases. Treatment is directed at controlling symptoms of diarrhoea and flushing by blocking the release of 5-hydroxytryptamine, the underlying cause, with agents such as octreotide.\n\nColon cancer\nColon cancer is a possible cause of diarrhoea and hepatomegaly. However, symptoms including palpitations and facial flushing are a stronger indicator of carcinoid syndrome.\n\nGlucagonoma\nGlucagonomas are associated with chronic diarrhoea, weight loss and hyperglycaemia. One key feature is the characteristic skin rash of necrolytic migratory erythema, which is not noted in this patient.\n\nSomatostatinoma\nSymptoms of somatostatinoma include diarrhoea, often with the passage of fatty stools. Other symptoms, however, do not fit with this clinical picture. They include development of gallstones and hyperglycaemia. Somatostatin is also a rarer neuroendocrine tumour than carcinoid syndrome.\n\nVIPoma\nAlthough VIPomas can lead to diarrhoea and facial flushing, they also cause significant metabolic acidosis. The HCO 3 - level being in the normal range therefore counts against VIPoma as the most likely diagnosis.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "800e8dd4-5c0d-4811-aecd-08bb9f8e2f1e",
+    "stem": "A clinical trial is launched for a novel beta-3 adrenergic agonist. Where are beta-3 receptors located?",
+    "options": [
+      "Adipose tissue",
+      "Bronchial smooth muscle",
+      "Pancreatic beta cells",
+      "Sinoatrial node",
+      "Ureter"
+    ],
+    "correct_option": 0,
+    "explanation": "Adipose tissue\nBeta-3 adrenergic receptors are found both in adipose tissue and in the bladder smooth muscle. Agonists of the beta-3 receptor, such as mirabegron, are available for treatment of overactive bladder. Attempts to develop these drugs for weight loss have been hampered by systemic side-effects.\n\nBronchial smooth muscle\nBeta-2 receptors have an important role to play in the relaxation of bronchial smooth muscle. This accounts for the use of beta-2 agonists, such as salbutamol, in treatment of asthma.\n\nPancreatic beta cells\nAlpha-2 adrenergic receptors are found on pancreatic beta cells. Alpha-2 agonists have been shown to reduce insulin secretion in response to a glucose stimulus, potentially making more glucose available at a time of sympathetic stimulation.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "91705399-9972-4055-9f20-8db4a4b561c9",
+    "stem": "A 52-year-old woman is referred to the Rheumatology Clinic because of pain affecting the plantar surface of her right foot, around 2 cm distal to the medial calcaneal tuberosity. Pain is made worse by walking, particularly barefoot, and by walking upstairs. It is possible to reproduce the pain by firm palpation over the area. What is the most likely cause of this patient's pain?",
+    "options": [
+      "Achilles tendonitis",
+      "Calcaneal stress fracture",
+      "Plantar fasciitis",
+      "Sever's disease",
+      "Tarsal tunnel syndrome"
+    ],
+    "correct_option": 2,
+    "explanation": "Plantar fasciitis\nThe point tenderness around 2 cm distal to the medial calcaneal tuberosity is consistent with plantar fasciitis. The condition is thought to occur due to a degenerative process with microtears within the fascia. Pain over the area of degeneration is often worse during the first few steps of the day such as when getting up from bed. Areas of calcification are often seen on X-ray of the foot. Stretching exercises may be useful in some patients, as may orthotics. Local corticosteroids may bring only limited short-term relief of symptoms.\n\nAchilles tendonitis\nAchilles tendonitis is more likely to result in pain and stiffness along the whole length of the tendon, particularly in the morning and when jogging/running. The point tenderness on the plantar surface seen here is more consistent with plantar fasciitis.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "d53ab494-f914-44b8-9380-7e92ffbb2e03",
+    "stem": "A 28-year-old man is brought to the Emergency Department (ED) by the police, having smashed the window of an electrical store. He told the police that the government is using mind control via the television to turn him into a robot. He is known to use cannabis and has attended the ED on a previous occasion for acute psychosis. When asked to eat the sandwich placed in front of him, he shouts that he can only see dark walls and a cross on the table. What is the cause of this patient's inability to see the sandwich?",
+    "options": [
+      "Auditory hallucination",
+      "Idea of reference",
+      "Thought broadcasting",
+      "Thought insertion",
+      "Visual hallucination"
+    ],
+    "correct_option": 4,
+    "explanation": "Visual hallucination\nThe patient's inability to see the sandwich, and instead seeing dark walls and a cross on the table, constitutes a visual hallucination. Between 16% and 72% of patients with schizophrenia are thought to experience visual hallucinations, often constituting vivid scenes with family members or religious scenes.\n\nAuditory hallucination\nShouting that he cannot see the sandwich is not an auditory hallucination – it is a response to a visual hallucination. Auditory hallucinations can include non-sensical voices, derogatory comments made by a third person or orders to engage in self-harm.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c0415504-58f9-4506-aeea-929345414b92",
+    "stem": "A 23-year-old man is reviewed in the Endocrine Clinic following admission to the Emergency Department with two episodes of severe headache and palpitations associated with marked hypertension over the past four months. His grandfather died of subarachnoid haemorrhage, and his father has undergone a thyroidectomy for cancer. His BP is 155/95 mmHg, and his BMI is 23 kg/m 2. His abdomen is soft and non-tender, with no masses. Investigation Result Normal value Haemoglobin (Hb) 139 g/l 130–175 g/l White cell count (WCC) 6.9 × 10 9/l 4.0–11.0 × 10 9/l Platelets (PLT) 199 × 10 9/l 150–400 × 10 9/l Sodium (Na +) 142 mmol/l 135–145 mmol/l Potassium (K +) 3.3 mmol/l 3.5–5.0 mmol/l Calcium (Ca 2+) 2.6 mmol/l 2.1–2.65 mmol/l What is the most appropriate intervention to control this patient's BP?",
+    "options": [
+      "Amlodipine",
+      "Bisoprolol",
+      "Phenoxybenzamine",
+      "Ramipril",
+      "Valsartan"
+    ],
+    "correct_option": 2,
+    "explanation": "Phenoxybenzamine\nA history of thyroid cancer in the family and death due to subarachnoid haemorrhage raises the possibility of an underlying cancer syndrome. The episodes of headache and palpitations are consistent with the episodic release of catecholamines. The picture is of multiple endocrine neoplasia type 2a (MEN2a), with medullary",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c6a92e19-159e-4241-a675-b0e63040c9ee",
+    "stem": "A new portable machine is under development for renal replacement therapy. It includes a semipermeable membrane which allows movement of solvent molecules towards a higher concentration of solute. How is this process best described?",
+    "options": [
+      "Active transport",
+      "Osmosis",
+      "Passive diffusion",
+      "Perfusion",
+      "Reverse osmosis"
+    ],
+    "correct_option": 1,
+    "explanation": "Osmosis\nOsmosis is movement of a solvent across a semipermeable membrane towards a higher concentration of solute. In biological systems, the solvent is usually water, but osmosis can occur in other liquids. Semipermeable membranes are a key component of renal replacement therapy.\n\nActive transport\nActive transport involves binding of molecules to membrane proteins, using energy to transport the molecule across the cell membrane. It occurs against a concentration gradient.\n\nPassive diffusion\nDiffusion does not require a semipermeable membrane. Osmosis usually occurs only in a liquid medium, whereas diffusion can occur across all three states: solid, liquid and gas.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "907b9cad-a70f-4a47-b67f-fefa98f26c0a",
+    "stem": "A 21-year-old man presents to the Renal Clinic for review. He has not engaged with medical services before but requests screening for polycystic kidney disease because he has met a new partner. His father and uncle both have the disease. His BP is 152/82 mmHg. What is the most useful screening test for autosomal dominant polycystic kidney disease?",
+    "options": [
+      "24-hour urinary protein",
+      "Abdominal ultrasound",
+      "CT angiography of the brain",
+      "Genetic sequencing",
+      "Urea and creatinine levels"
+    ],
+    "correct_option": 1,
+    "explanation": "Abdominal ultrasound\nFor autosomal dominant polycystic kidney disease type 1, ultrasound scanning of the renal tract has a sensitivity of 100% for detection of renal cystic disease. In cases where there is a positive family history, at least the presence of two renal cysts of above 1 cm in diameter or bilateral cysts is sufficient to make the diagnosis in patients between the ages of 20 and 30 years. CT scanning can detect smaller cysts but involves a significant radiation dose.\n\n24-hour urinary protein\nSignificant proteinuria is usually not a feature of autosomal dominant polycystic kidney disease – haematuria is a more prominent feature. Abdominal ultrasound scanning is the most useful screening test.\n\nCT angiography of the brain\nCT angiography of the brain is not useful as a screening test for autosomal dominant polycystic kidney disease, given that only 6% of patients have associated berry aneurysms.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3ab0064d-31cd-4210-9781-429170110338",
+    "stem": "A 72-year-old woman is reviewed in the Respiratory Clinic for management of her chronic obstructive pulmonary disease (COPD). Despite triple inhaled therapy with a long-acting beta-agonist, a long-acting muscarinic antagonist and an inhaled corticosteroid, she is still short of breath, only being able to climb the stairs once per day and walk around the house. Forced expiratory volume in one second (FEV1) is 40% of predicted. What is the most appropriate next intervention?",
+    "options": [
+      "Benralizumab",
+      "Montelukast",
+      "Omalizumab",
+      "Prednisolone",
+      "Roflumilast"
+    ],
+    "correct_option": 4,
+    "explanation": "Roflumilast\nRoflumilast is a phosphodiesterase type 4 inhibitor that leads to an increase in cyclic adenosine monophosphate, causing anti-inflammatory, anti-emphysema and antibacterial actions in COPD. It is endorsed by the National Institute for Health and Care Excellence guidelines for treatment of COPD in cases where there are two or more exacerbations in the previous 12 months and FEV1 is below 50% predicted while on treatment with triple inhaled therapy.\n\nBenralizumab\nBenralizumab is an anti-interleukin 5 (IL5) monoclonal antibody that depletes eosinophils. Its primary indication is to treat asthma that is resistant to other therapies and associated with a raised eosinophil count.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ad2a22b2-3365-41f5-8d3b-255a104918bc",
+    "stem": "A 28-year-old woman is referred to the Sexual Health Clinic with dysuria. She is 14 weeks pregnant. Nucleic acid amplification testing (NAAT) is positive for chlamydia. What is the most appropriate antibiotic choice?",
+    "options": [
+      "Ofloxacin",
+      "Penicillin V",
+      "Trimethoprim",
+      "Azithromycin",
+      "Doxycycline"
+    ],
+    "correct_option": 3,
+    "explanation": "Azithromycin\nAzithromycin is the treatment of choice in pregnancy for chlamydia infection, as doxycycline is contraindicated. A regimen recommended by the British Association for Sexual Health and HIV is 1 g of azithromycin on the first day, with 500 mg on the next two days. A more prolonged course of erythromycin is an alternative, although nausea may affect compliance. Amoxicillin may be considered under the advice of an Infectious Diseases Specialist, although it can induce latency and reactivation and should therefore be avoided if possible.\n\nOfloxacin\nOfloxacin can be used to treat chlamydia, although it is contraindicated in children and pregnancy. In addition, the Medicines and Healthcare products Regulatory Agency does not recommend the use of quinolones when alternatives are available because of the neurological and musculoskeletal adverse effects of therapy with quinolones.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "7aab7416-730f-4934-aafe-c179a0b00d83",
+    "stem": "A 19-year-old man presents to the Respiratory Clinic with recurrent exacerbations of bronchiectasis and sinusitis. He has required three admissions to hospital over the past six months for IV antibiotic therapy. He is apyrexial and has coarse crackles at both lung bases on auscultation of the chest, consistent with bronchiectasis. His immunoglobulin G2 (IgG2) level is low at 0.9 g/l (normal range 2.4–7.0 g/l). What is the most important long-term intervention?",
+    "options": [
+      "Granulocyte colony-stimulating factor",
+      "Immunoglobulin infusions",
+      "Intranasal corticosteroids",
+      "Prophylactic antibiotics",
+      "Vaccination"
+    ],
+    "correct_option": 4,
+    "explanation": "Vaccination\nPatients with selective IgG2 and immunoglobulin G4 (IgG4) subclass deficiencies are at particular risk of infection from polysaccharide-coated bacteria such as pneumococcus and meningococcus. Vaccination is therefore crucially important to reduce the risk of infection with these organisms with associated morbidity and mortality. Treatment of any underlying respiratory disease, such as asthma, should also be maximised and prophylactic antibiotics considered for patients with recurrent hospital admission.\n\nGranulocyte colony-stimulating factor\nGranulocyte colony-stimulating factor has no role in the treatment of IgG2 deficiency. It is used as a rescue therapy in patients with bone marrow depression after chemotherapy.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "7f0b5826-f828-4309-ab27-a65546fad561",
+    "stem": "A 32-year-old woman is referred to the Neurology Clinic for review a few weeks after hospital admission for headache and loss of vision affecting her left eye over three days. She was treated with high-dose corticosteroids. Visual acuity is significantly decreased at 6/18 in the left eye, with a central scotoma, and the left optic disc is pale. What is the most likely cause of this patient's symptoms?",
+    "options": [
+      "Acute demyelinating optic neuritis",
+      "Anterior communicating artery aneurysm",
+      "Behçet's disease",
+      "Vitamin B 12 deficiency",
+      "Leber's hereditary optic neuropathy"
+    ],
+    "correct_option": 0,
+    "explanation": "Acute demyelinating optic neuritis\nThis patient's age and symptoms, including headache and subacute visual acuity, are consistent with acute demyelinating optic neuropathy. Headache is usually periocular and worse on eye movement and may precede loss of sight. In the early stages, the optic disc may appear normal if demyelination is retrobulbar, although, over a few weeks, pallor develops. High-dose corticosteroids can hasten recovery, although they are not thought to impact visual function over the longer term.\n\nAnterior communicating artery aneurysm\nUnruptured anterior communicating artery aneurysms are associated with headaches and progressive loss of the temporal field of vision because of pressure on the optic chiasm. The picture seen here is more consistent with acute demyelination.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "0849ba1b-5f08-4441-8549-d934537e6ad5",
+    "stem": "A 68-year-old woman with ischaemic heart disease has recently been diagnosed with AF. She also has myasthenia gravis. Which of the following medications is most likely to exacerbate symptoms of muscle weakness?",
+    "options": [
+      "Amiodarone",
+      "Atenolol",
+      "Digoxin",
+      "Indapamide",
+      "Lisinopril"
+    ],
+    "correct_option": 1,
+    "explanation": "Atenolol\nBeta-blockers can directly impair neuromuscular transmission and can precipitate a myasthenic crisis. They should be avoided in favour of alternative classes of antihypertensive medications such as angiotensin- converting enzyme (ACE) inhibitors. A range of other medications, including macrolide and quinolone antibiotics, as well as statins, can also precipitate a crisis.\n\nAmiodarone\nAmiodarone appears to be safe in patients with myasthenia gravis for control of rhythm disturbance. This is in contrast to agents such as quinidine which can lead to a myasthenic crisis.\n\nDigoxin\nAlthough digoxin is used for rate control in patients with AF, it does not carry the same risks as beta-blockade for exacerbating myasthenia gravis.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "62528232-2ab2-45b9-b015-e8fa3f520878",
+    "stem": "A 28-year-old woman is referred to the Cardiology Clinic with progressive tiredness. An ECHO reveals an ostium secundum atrial septal defect. Which of the following is most likely to be found on auscultation?",
+    "options": [
+      "Fixed split second heart sound",
+      "Low-pitched diastolic murmur loudest in the pulmonary area",
+      "Mid-systolic pulmonary flow murmur",
+      "Pansystolic murmur radiating to the axilla",
+      "Reversed split second heart sound"
+    ],
+    "correct_option": 0,
+    "explanation": "Fixed split second heart sound\nFixed splitting of the second heart sound with no respiratory variation is characteristic of atrial septal defects. This is because of a large increase in pulmonary vessel capacitance which does not vary significantly with the respiratory cycle, leading to prolongation of the time between A2 and P2, which hardly varies with breathing. This is more likely to be found in this patient vs mitral or pulmonary murmurs.\n\nLow-pitched diastolic murmur loudest in the pulmonary area\nA low-pitched mid-diastolic murmur implies pulmonary regurgitation related to pulmonary artery dilatation. Given the relatively minor symptoms and the small defect, significant pulmonary hypertension is unlikely.\n\nMid-systolic pulmonary flow murmur\nA mid-systolic pulmonary flow murmur is characteristically seen with moderate to large pulmonary shunts. Given the relatively minor symptoms seen here, it is less likely to be heard vs a fixed split second heart sound.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "d71a3ffb-3700-4a1c-8e75-01e6862e0de2",
+    "stem": "A 42-year-old man, who was diagnosed with type I diabetes 32 years ago, presents to the Emergency Department with a sudden deterioration of vision affecting his right eye. His glycaemic control is poor, with a recent glycated haemoglobin (HbA1c) measured at 68 mmol/mol (< 48 mmol/mol). He smokes ten cigarettes per day. His vision has deteriorated to 6/12 in the right eye. He has a circinate of hard exudates within one disc diameter of the macula. What is the most effective next intervention?",
+    "options": [
+      "Focal laser therapy",
+      "Intravitreal dexamethasone",
+      "Intravitreal teplizumab",
+      "Panretinal photocoagulation",
+      "Smoking cessation"
+    ],
+    "correct_option": 0,
+    "explanation": "Focal laser therapy\nThis patient has evidence of maculopathy, with acute loss of vision and a circinate of hard exudates within one disc diameter of the macula. Focal laser photocoagulation is the intervention of choice, with anti-vascular endothelial growth factor antibodies as a major alternative. Intensification of insulin therapy in the initial stages may worsen the progression of retinopathy. Smoking cessation takes some time to be effective in reducing disease progression but is an important long-term intervention.\n\nIntravitreal dexamethasone\nIntravitreal corticosteroids, such as dexamethasone, can be used in treatment of maculopathy. However they are thought to be less effective than anti-vascular endothelial growth factor agents or focal laser therapy.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "a6c38015-9b1c-4d23-b3c1-f1d3ff5d6967",
+    "stem": "A 17-year-old man presents to the Emergency Department complaining of suprapubic pain and dysuria. He is usually well and has no other illnesses. His temperature is 37.9 °C, and his BP is 118/82 mmHg. Urinnalysis shows > 100 leukocytes and Escherichia coli at 48 hours. He is treated with trimethoprim. What is the most appropriate next step?",
+    "options": [
+      "CT urography",
+      "Micturating cystourethrography",
+      "Reassurance",
+      "Rescue antibiotics in case of further symptoms",
+      "Ultrasound of the renal tract"
+    ],
+    "correct_option": 2,
+    "explanation": "Reassurance\nThis 17-year-old patient is outside the age period recommended by the National Institute for Health and Care Excellence (NICE) guidelines on management of UTIs in children up to the age of 16. As this is an isolated UTI in a patient who is otherwise well and has normal BP, the likelihood of a urinary tract abnormality is very low. Reassurance is therefore appropriate.\n\nCT urography\nCT urography is useful to outline structural abnormalities of the urinary tract. In this case, however, with an isolated UTI, no further investigation is warranted.\n\nMicturating cystourethrography\nMicturating cystourethrography is useful in investigating vesicoureteric reflux and whether there is a significant residual volume of urine in the bladder after voiding. In this case, however, an isolated UTI in a 17-year old does not require further investigation.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "91bc88d1-9b88-4f36-9ed9-4a6f55123027",
+    "stem": "A 29-year-old woman is brought to the Emergency Department with blurred vision, muscle weakness and excessive salivation. According to her friend, they went picking raspberries on a farm that is not open to the public. She has pinpoint pupils. Her BP is 100/70 mmHg, and her heart rate is 45 bpm and regular. What is the most likely cause of this patient's symptoms?",
+    "options": [
+      "Apoplexy",
+      "Cyanide poisoning",
+      "Lewisite poisoning",
+      "Organophosphate poisoning",
+      "Poisonous berry ingestion"
+    ],
+    "correct_option": 3,
+    "explanation": "Organophosphate poisoning\nThis patient's symptoms fit with organophosphate poisoning, which presents with features of excessive cholinergic activity. The pinpoint pupils, excessive salivation, muscle weakness, hypotension and bradycardia are all supportive of the diagnosis. Atropine and pralidoxime, both of which lead to restoration of cholinesterase activity, are the interventions of choice. Staff treating the patient must wear protective clothing to prevent contamination with organophosphates from the patient.\n\nApoplexy\nApoplexy is used to describe haemorrhage into the pituitary gland, which may be linked with a rapidly growing adenoma. It presents with headache and rapidly progressive pituitary failure.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "d63b1e62-750a-46c5-8aca-538fa97ea879",
+    "stem": "A 29-year-old woman is brought to the Emergency Department after collapsing while running for a bus. She was unconscious for approximately 30 seconds. She admits to two previous episodes in the last two years, for which she refused to go to the hospital. Her father died suddenly at the age of 38 years. Her BP is 142/82 mmHg, and her heart rate is 78 bpm and regular. There are no murmurs on auscultation of the chest. Investigation Result Normal value Haemoglobin (Hb) 132 g/l 120–160 g/l White cell count 7.2 × 10 9/l 4.0–11.0 × 10 9/l (WCC) Platelets (PLT) 192 × 10 9/l 150–400 × 10 9/l Sodium (Na +) 142 mmol/l 135–145 mmol/l Potassium (K +) 4.5 mmol/l 3.5–5.0 mmol/l Creatinine (Cr) 86 µmol/l 50–90 µmol/l Left ventricular hypertrophy by voltage criteria, Q waves in ECG leads V5, V6, I, aVL, II, III and aVF What is the most likely cause of this patient's collapse?",
+    "options": [
+      "Brugada syndrome",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Long QT syndrome",
+      "Right ventricular arrhythmogenic cardiomyopathy",
+      "Vasovagal syncope"
+    ],
+    "correct_option": 1,
+    "explanation": "Hypertrophic obstructive cardiomyopathy\nHypertrophic obstructive cardiomyopathy (HOCM) is associated with episodes of collapse linked with exercise and the ECG changes seen here, most likely due to an episode of ventricular arrhythmia. Where there are significant episodes of ventricular arrhythmia, then an implantable cardioverter–defibrillator is required. In earlier stages of the disease, there might not be signs of left ventricular hypertrophy. Familial HOCM is usually associated with an autosomal dominant pattern and could explain the sudden death of this patient's father. An ECHO to assess the degree of septal hypertrophy is diagnostic of the condition, where the septal wall is usually > 15 mm and the ratio of septal wall-to-posterior wall thickness is > 1.4 : 1.\n\nBrugada syndrome\nIn contrast to HOCM, Brugada syndrome is a cause of dead-in-bed syndrome, with episodes of arrhythmia not associated with exercise. The usual ECG pattern is right bundle branch block.\n\nLong QT syndrome\nArrhythmia related to long QT syndrome occurs in association with periods of exercise and episodes of high emotion. However, the ECG changes here are typical of those associated with HOCM, the most likely cause of this patient's collapses.\n\nRight ventricular arrhythmogenic cardiomyopathy\nThe classical ECG findings of right ventricular arrhythmogenic cardiomyopathy are inverted T waves in the right precordial leads (V1–V3). An epsilon wave is also seen after the QRS in lead V1. The condition can be associated with episodes of collapse linked with exercise.\n\nVasovagal syncope\nVasovagal syncope can be seen after periods of sustained exercise, but episodes are more likely to be associated with prolonged standing, excessive heat or periods of intense emotion. The ECG changes here are suggestive of HOCM, which can be heritable.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "6508f680-03ce-4ea7-8d6a-2f29a7871e96",
+    "stem": "A 28-year-old man who has had unprotected sexual intercourse with several partners presents to the Emergency Department with a large, painless ulcer on the glans penis. He says it began as a small red lesion and grew over the past few days. Treponemal enzyme immunoassay is positive for immunoglobulin M, and negative for immunoglobulin G. He is allergic to penicillin. What is the most appropriate intervention?",
+    "options": [
+      "Azithromycin 2 g single dose",
+      "Ceftriaxone 1 g IM single dose",
+      "Co-amoxiclav PO for 14 days",
+      "Doxycycline PO for 14 days",
+      "Levofloxacin PO for 14 days"
+    ],
+    "correct_option": 3,
+    "explanation": "Doxycycline PO for 14 days\nIn patients who are allergic to penicillin but have no contraindication to tetracyclines, doxycycline is the drug of choice for treatment of syphilis. A dose of 100 mg twice daily for 14 days is recommended, but it should not be used in pregnant women who report penicillin allergy. A thorough investigation, including input from an Allergist/Immunologist, is recommended to determine whether the patient can receive penicillin safely. This is because macrolides used as an alternative in early pregnancy have a significant risk of treatment failure.\n\nAzithromycin 2 g single dose\nMacrolide antibiotics, such as azithromycin, are not recommended in the treatment of syphilis because of high rates of treatment failure. For patients who are penicillin-allergic, doxycycline is the intervention of choice.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "85f3998f-ec01-41ab-9205-c2bab8fc4816",
+    "stem": "A 25-year-old woman is referred to the Rheumatology Clinic after a recent episode of anterior uveitis. She also presented with recurrent oral and genital ulceration, erythema nodosum and a left below-knee DVT three months ago. Which of the following human leukocyte antigen (HLA) types is most associated with this patient's symptoms?",
+    "options": [
+      "B27",
+      "B51",
+      "DR1",
+      "DR2",
+      "DR3"
+    ],
+    "correct_option": 1,
+    "explanation": "B51\nThis patient's symptoms with recurrent oral and genital ulceration, uveitis, erythema nodosum and thrombosis are consistent with a diagnosis of Behçet's disease. It is associated with HLA-B51 positivity, and cases are concentrated in the Middle East and Far East. The diagnosis is made clinically rather than by relying on HLA markers. Corticosteroids are the acute intervention of choice.\n\nB27\nHLA-B27 positivity is most associated with inflammatory bowel disease, ankylosing spondylitis and seronegative arthritis. The clinical picture here is most consistent with Behçet's disease.\n\nDR1\nHLA-DR1 is associated with seronegative rheumatoid arthritis, penicillamine-induced myasthenia and schizophrenia. It does not fit with the clinical picture here, which is suggestive of Behçet's disease.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "911f2ab5-1d01-4f27-b728-07fcc5f1cbe0",
+    "stem": "A newborn baby is identified as having neonatal hyperthyroidism. His mother developed Graves' thyroiditis in her first three months of pregnancy. Which antibodies are the most likely cause of neonatal hyperthyroidism?",
+    "options": [
+      "Ro antibodies",
+      "Smooth muscle antibodies",
+      "Thyroglobulin antibodies",
+      "Thyroid peroxidase antibodies",
+      "Thyrotropin receptor antibodies"
+    ],
+    "correct_option": 4,
+    "explanation": "Thyrotropin receptor antibodies\nThyrotropin receptor antibodies (TRAb) bind to the thyrotropin receptor and lead to stimulation of thyroid hormone production, contributing to the symptoms of Graves' disease. TRAb can cross the placenta, which can drive a presentation with neonatal thyrotoxicosis. The titre of antibodies in the mother is linked with a risk of neonatal thyrotoxicosis occurring in the infant. Antithyroid drugs are the mainstay of therapy.\n\nRo antibodies\nRo antibodies are associated with neonatal heart block. They are not linked with an increased risk of neonatal thyrotoxicosis. Anti-Ro antibodies are seen in patients with systemic lupus erythematosus, and when present, intensification of treatment in the mother is indicated.\n\nSmooth muscle antibodies\nAnti-smooth muscle antibodies are characteristic of autoimmune hepatitis and are not linked with thyrotoxicosis, where TRAb are the primary driver of disease.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "0d953be2-e192-4350-8c4e-06b14accf150",
+    "stem": "A 52-year-old man, who has hypertension and is obese, presents to the Emergency Department with severe cellulitis affecting the left leg. He says that he had an insect bite on his left ankle and the inflammation has worsened over the past three days. His temperature is 38.5 °C; his BP is 122/82 mmHg, and his heart rate is 94 bpm and regular. There is erythema to just above the knee, with swelling of the lower portion of the limb and adherent pus over the insect bite. He is allergic to penicillin Which of the following antibiotics is the intervention of choice?",
+    "options": [
+      "IV co-amoxiclav",
+      "IV flucloxacillin",
+      "PO clarithromycin and metronidazole",
+      "PO clindamycin",
+      "Topical fusidic acid"
+    ],
+    "correct_option": 3,
+    "explanation": "PO clindamycin\nPO clindamycin has around 90% bioavailability and excellent tissue penetration. It makes it the ideal intervention for cellulitis, for which penicillin is contraindicated due to allergy. The standard dosing is 150–300 mg every six hours. Clindamycin, however, is associated with a high risk of development of Clostridium difficile, meaning that any reports of diarrhoea should drive a high suspicion of pseudomembranous colitis.\n\nIV co-amoxiclav\nIV co-amoxiclav is the intervention of choice for cellulitis in patients who have diabetes mellitus. It is used at a dose of 1.2 g three times daily. In this case, it is contraindicated because of penicillin allergy, which means that clindamycin is preferred.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "171094e5-95e4-4b57-bdde-2849f7b4f525",
+    "stem": "A 34-year-old woman is reviewed in the Emergency Department after requesting help for worsening of her mood. She has been receiving cognitive behavioural therapy (CBT) and sertraline for the last nine months, and having initially improved, she is now not eating and waking at 0400 h each day. She has thought once about taking an overdose. What is the most appropriate next step?",
+    "options": [
+      "Continue sertraline",
+      "Electroconvulsive therapy",
+      "Switch CBT to counselling",
+      "Switch sertraline to amitriptyline",
+      "Switch sertraline to venlafaxine"
+    ],
+    "correct_option": 4,
+    "explanation": "Switch sertraline to venlafaxine\nThe National Institute for Health and Care Excellence guidelines endorse switching therapy when symptoms worsen on an initial intervention such as with sertraline. Venlafaxine is a selective noradrenaline and serotonin reuptake inhibitor that may be associated with a response to therapy where selective serotonin reuptake inhibitors (SSRIs) have failed to achieve improvement. The number of sessions of CBT could also be increased.\n\nContinue sertraline\nContinuing sertraline, and hoping for improvement, is not an option here. This patient is on stable medication and has deteriorated, suggesting a switch of medication and increasing the frequency of CBT sessions are most appropriate.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "eb4d7f85-79d1-43e9-9692-a61710c2ab72",
+    "stem": "A 57-year-old woman is reviewed in the Endocrine Clinic. She has long-standing hypothyroidism and has recently developed several other illnesses, including cardiovascular disease and epilepsy. Due to a rise in the thyroid-stimulating hormone level and symptoms of lethargy, her thyroxine dose has increased by 50%. Which of the following drugs is the most likely cause of reduced thyroxine absorption?",
+    "options": [
+      "Amiodarone",
+      "Atenolol",
+      "Carbamazepine",
+      "Digoxin",
+      "Omeprazole"
+    ],
+    "correct_option": 4,
+    "explanation": "Omeprazole\nProton pump inhibitors, such as omeprazole, lead to reduced absorption of thyroxine because they increase pH in the stomach. Other drugs known to reduce thyroxine absorption include PO iron, antacids and bile acid resins. If patients require these drugs, then an increase in thyroxine drugs, as seen here, is likely to be required.\n\nAmiodarone\nAmiodarone may reduce deiodination of thyroxine. This leads to reduced effectiveness of thyroid hormones because there is a fall in the production of triiodothyronine.\n\nAtenolol\nLevothyroxine enhances the metabolism of propranolol, atenolol and sotalol, leading to reduced effectiveness of these agents. Beta-blockers do not affect the absorption of levothyroxine from the gut. The effects of sympathomimetic agents are enhanced by the presence of thyroxine.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "34617f25-fabc-4274-ab2f-cb67155113ee",
+    "stem": "A 32-year-old woman is reviewed in the Cardiology Clinic after a third admission to the Emergency Department in the last six months due to supraventricular tachycardia (SVT). This reverted with carotid sinus massage, although she has required adenosine on a previous occasion. She does not want to undergo ablation at this stage. Routine blood testing, including thyroid function, is normal. Her BP is 115/82 mmHg, and her heart rate is 63 bpm at rest. Her body mass index is 23 kg/m 2. What is the most appropriate first-line treatment for this patient?",
+    "options": [
+      "Amiodarone",
+      "Amlodipine",
+      "Flecainide",
+      "Metoprolol",
+      "Propafenone"
+    ],
+    "correct_option": 3,
+    "explanation": "Metoprolol\nBeta-blockers, such as metoprolol, and non-dihydropyridine calcium antagonists, such as verapamil and diltiazem, are the first-choice options for treatment of paroxysmal SVT in cases where patients refuse an ablation procedure. Where beta-blockers are contraindicated due to bronchospasm, then verapamil and diltiazem become default first choices. The dose should be the lowest possible to prevent further episodes of tachycardia.\n\nAmiodarone\nAmiodarone is usually only considered a second- or third-line option for the treatment of paroxysmal SVT on account of its side-effect profile, which includes lung and liver fibrosis, thyroid disorders and photosensitivity.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "91be2cc8-44bd-4ce8-bea1-dec94d232a33",
+    "stem": "A 27-year-old woman, who is currently breastfeeding, presents to the Emergency Department with symptoms of a lower UTI. A urine dipstick reveals red cells, white cells and nitrites. What is the most appropriate antibiotic choice?",
+    "options": [
+      "Cefixime",
+      "Doxycycline",
+      "Erythromycin",
+      "Ofloxacin",
+      "Trimethoprim"
+    ],
+    "correct_option": 0,
+    "explanation": "Cefixime\nCephalosporins have no significant adverse effects in children, making cefixime the most appropriate choice to treat this patient's UTI. Some accumulation in breast milk does occur, which can result in minor GI disturbance in the infant. Typical dosing is 400 mg once daily or 200 mg twice daily by the PO route.\n\nDoxycycline\nDoxycycline can cause tooth staining and affect bone formation in juveniles. Although accumulation is thought to be low in infants who are breastfeeding, avoidance is still recommended if an alternative antibiotic choice is available.\n\nErythromycin\nErythromycin can be used to treat some UTIs. However, it is associated with GI side-effects in infants, making other options such as cefixime a preferred option.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "8dc8cbb3-77e5-44cd-be80-27dbe2ba33b2",
+    "stem": "A 31-year-old man who has ulcerative colitis presents to the Gastroenterology Clinic for review. His bowel symptoms are stable, although he has been feeling tired and suffering from itching over the past few months. He has jaundiced sclerae, scratch marks and a 2-cm liver edge. What is the most useful investigation in this case?",
+    "options": [
+      "CT abdomen",
+      "Endoscopic retrograde cholangiopancreatography",
+      "Liver biopsy",
+      "Magnetic resonance cholangiopancreatography",
+      "Ultrasound abdomen"
+    ],
+    "correct_option": 3,
+    "explanation": "Magnetic resonance cholangiopancreatography\nAround 70% of patients with primary sclerosing cholangitis (PSC), the likely diagnosis here, also have inflammatory bowel disease, with ulcerative colitis being the strongest association. The progressive lethargy and itching, coupled with the jaundiced sclerae and hepatomegaly, are suggestive of PSC. PSC is characterised by intra- and extra-hepatic duct dilatation, fibrosis and stricturing, which is best visualised by magnetic resonance cholangiopancreatography (MRCP). A liver biopsy can also be performed to stage the disease. PSC is a progressive condition, which is associated with the development of cholangiocarcinoma.\n\nCT abdomen\nA CT scan of the liver in PSC demonstrates marked caudate lobe hypertrophy, with atrophy of other portions of the liver. Multiple linear low-density regions can also be seen, which represent dilated bile ducts. MRCP is, however, superior to CT to visualise PSC, making it the preferred investigation.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3061df3b-c308-426c-b709-2577d31ca54b",
+    "stem": "A 36-year-old man is assessed in the Infectious Diseases Clinic having been identified with tuberculosis (TB) presenting as discitis. There are no features of CNS involvement. What is the most appropriate treatment duration for this patient?",
+    "options": [
+      "Three months",
+      "Six months",
+      "Nine months",
+      "12 months",
+      "18 months"
+    ],
+    "correct_option": 1,
+    "explanation": "Six months\nAlthough some guidelines recommend extending treatment for spinal TB beyond six months, treatment extension beyond six months is not recommended by the National Institute for Health and Care Excellence (NICE) guidelines, even if features of vertebral loss are seen on X-ray. A typical four-drug regimen includes rifampicin, isoniazid, pyrazinamide and ethambutol, given for the first two months, then reduced to rifampicin and isoniazid for the remaining four months.\n\nThree months\nThree months is the usual duration of dual therapy in treating latent TB. Rifampicin and isoniazid are a typical combination for latent TB.\n\nNine months\nThe World Health Organization guidelines on TB endorse extending TB therapy for a total of nine months, although this is not endorsed by NICE guidelines.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "55912a85-a8b7-4f04-bea0-443f373a600e",
+    "stem": "A 74-year-old man is referred to the Memory Clinic after experiencing episodes of confusion and drowsiness over the last six months. According to his wife, there has been frequent episodes lasting hours where he has short-term memory loss. His wife reports long-standing restlessness and movements when sleeping. His General Practitioner has also noted that he appears to have a very flat affect and bilateral limb rigidity and bradykinesia, more marked on the left than on the right. Which other feature would you most expect to find?",
+    "options": [
+      "Auditory hallucinations",
+      "Delusions of reference",
+      "Olfactory hallucinations",
+      "Tactile hallucinations",
+      "Visual hallucinations"
+    ],
+    "correct_option": 4,
+    "explanation": "Visual hallucinations\nThe prominent symptoms of episodes of cognitive fluctuations, coupled with relative symptoms of parkinsonism and rapid eye movement (REM) sleep behaviour disorder, fit best with a diagnosis of Lewy body dementia. Lewy body dementia is characteristically associated with visual hallucinations which are often complex and involve figures known to the patient such as their close family. Antipsychotic drugs should be avoided, if possible, as they can significantly worsen the movement disorder and increase the risk of falls.\n\nAuditory hallucinations\nAuditory hallucinations are most commonly seen in conjunction with schizophrenia where up to 75% of patients may experience symptoms. They are also seen less commonly in patients with bipolar disorder, post-traumatic stress disorder and major depression.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "13bc04d2-ca85-4bb9-8ce4-9cc47fb86105",
+    "stem": "A 23-year-old man is diagnosed as a carrier of a gene mutation for hypertrophic obstructive cardiomyopathy (HOCM). His father and uncle died suddenly in their 40s. Which gene mutation is the most common cause of HOCM?",
+    "options": [
+      "ACTC",
+      "MYH7",
+      "MYL2",
+      "TNNT2",
+      "TPM1"
+    ],
+    "correct_option": 1,
+    "explanation": "MYH7\nMutations in the gene coding for myosin heavy chain 7 are a very common cause of HOCM. Together with MYBPC3, which encodes myosin-binding protein C, they make up around 50% of cases of inherited HOCM, which is usually inherited in an autosomal dominant fashion. MYH7 results in symptoms somewhat earlier in life vs other heritable causes of HOCM.\n\nACTC\nMutations in ACTC are a rare cause of HOCM. Mutations in ACTC1 cause myofibrillar and intercalated disc alteration, leading to myocardial hypertrophy and left ventricular dysfunction.\n\nMYL2\nMutations in MYL2, the gene which codes for myosin regulatory light chain, are recognised as a rarer cause of HOCM. They are thought to interfere with myocardial contractility and energetics.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "191cad85-e967-42b0-9b58-0d4697c918d2",
+    "stem": "A 62-year-old man is reviewed in the Diabetes Clinic. He has type II diabetes and peripheral neuropathy, with numbness to the mid shins. A decision is made to start therapy with pregabalin. What is the mode of action of pregabalin?",
+    "options": [
+      "Gamma-aminobutyric acid A receptor agonist",
+      "Gamma-aminobutyric acid B receptor agonist",
+      "Synaptic vesicle protein 2A binder",
+      "Voltage-gated calcium channel inhibitor",
+      "Voltage-gated sodium channel inhibitor"
+    ],
+    "correct_option": 3,
+    "explanation": "Voltage-gated calcium channel inhibitor\nPregabalin is a gabapentinoid, which acts as a voltage-gated calcium channel inhibitor, more specifically the alpha-2-delta subunit of these channels. Although it is a GABA analogue, it does not have any direct agonist effects at the A or B receptors. It does lead to an increase in L-glutamic acid decarboxylase, the enzyme responsible for GABA synthesis.\n\nGamma-aminobutyric acid A receptor agonist\nGamma-aminobutyric acid A (GABA-A) agonists have a range of sedative effects. Examples of GABA-A agonists include alcohol, benzodiazepines and barbiturates. Although pregabalin is a GABA analogue, it does not have direct GABA receptor effects.\n\nGamma-aminobutyric acid B receptor agonist\nPregabalin is not a direct GABA-B agonist. Baclofen is an example of a GABA-B agonist. It is used as a muscle relaxant to reduce spasticity in diseases such as multiple sclerosis.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "73f9b96e-cc39-457b-ad8c-5dcb8daa3f30",
+    "stem": "A 72-year-old man is reviewed in the Pharmacology Clinic for management of hypertension. His BP is persistently above 170/105 mmHg, despite instituting lifestyle measures. He has no significant past medical history. His BMI is 23 kg/m 2. What is the most appropriate initial treatment for this patient's BP?",
+    "options": [
+      "Amlodipine",
+      "Bisoprolol",
+      "Doxazosin",
+      "Indapamide",
+      "Ramipril"
+    ],
+    "correct_option": 0,
+    "explanation": "Amlodipine\nAmlodipine is a dihydropyridine calcium channel antagonist, which is a recommended first-line agent for treatment of hypertension in patients aged above 55 years who do not have type II diabetes and in those of Afro-Caribbean origin of any age. In patients who do not tolerate a calcium channel antagonist, then an angiotensin-converting enzyme (ACE) inhibitor or a thiazide-like diuretic could be considered as an alternative.\n\nBisoprolol\nBeta-blockers, such as bisoprolol, are not recommended early in the treatment of hypertension, unless there are co-morbidities such as heart failure or chronic stable angina.\n\nDoxazosin\nDoxazosin is an alpha-blocker. It is not recommended unless patients have not achieved BP control on multiple PO agents. This is because the drug class is associated with an increased risk of heart failure,with no strong positive effects on cardiovascular outcomes.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "f4952306-12af-499b-a875-490a9dc5c7b3",
+    "stem": "A 25-year-old man was treated for a mediastinal non-seminomatous germ cell tumour with cisplatin-based chemotherapy. Four months after the initial diagnosis, he presents to the Emergency Department with fever, severe lethargy, easy bruising and bleeding from his gums. His BP is 110/70 mmHg, and his heart rate is 95 bpm and regular. There are several bruises and petechiae on examination of the skin. Investigation Result Normal value Haemoglobin (Hb) 84 g/l 130–175 g/l White cell count (WCC) 22.1 × 10 9/l 4.0–11.0 × 10 9/l Platelets (PLT) 34 × 10 9/l 150–400 × 10 9/l Sodium (Na +) 142 mmol/l 135–145 mmol/l Potassium (K +) 5.4 mmol/l 3.5–5.0 mmol/l Creatinine (Cr) 123 µmol/l 60–120 µmol/l What is the most likely cause of the anaemia seen here?",
+    "options": [
+      "Acute myeloid leukaemia",
+      "Cisplatin-related bone marrow suppression",
+      "Chronic lymphocytic leukaemia",
+      "Lymphoma",
+      "Parvovirus B19 infection"
+    ],
+    "correct_option": 0,
+    "explanation": "Acute myeloid leukaemia\nIn mediastinal non-seminomatous germ cell tumours, 1 in 17 patients will develop a haematological malignancy. Case series suggest that acute myeloid leukaemia (AML) is the most common malignancy seen. AML also fits with the severe anaemia and thrombocytopenia seen here.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "66fe8f62-3ab3-47d3-b0e4-276aa274d14d",
+    "stem": "A 22-year-old man is reviewed in the Infectious Diseases Clinic with several erythematous lesions on both lower limbs. Some of these have ulcerated and he says they developed over several weeks. He has recently returned from a trip trekking in South America. What is the most appropriate next step?",
+    "options": [
+      "HIV testing",
+      "Leishmaniasis PCR",
+      "PO miltefosine",
+      "Punch biopsy from the edge of an ulcer",
+      "Topical hydrocortisone"
+    ],
+    "correct_option": 3,
+    "explanation": "Punch biopsy from the edge of an ulcer\nLesions on the lower limbs which begin as erythematous plaques and progressively ulcerate raise the possibility of cutaneous leishmaniasis related to infection via sandfly bites. Although PCR is highly sensitive for leishmaniasis, it is only performed in specialist laboratories. In contrast, a biopsy from the edge of an ulcer can identify Leishmania 85% of the time. The need to treat cutaneous leishmaniasis is a subject of debate, although miltefosine is thought to be effective.\n\nHIV testing\nHIV testing is not necessary in this case, although patients with concurrent HIV and leishmaniasis are thought to be at higher risk of developing acquired immune deficiency syndrome (AIDS).",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "a1d3435d-37e0-48d9-b3c3-6e42fa01311a",
+    "stem": "A 34-year-old woman presents to the Emergency Department with left-sided pleuritic chest pain and shortness of breath over the past 24 hours. She has suffered from small joint polyarthritis over the last three months, which has not responded to ibuprofen, and has a rash affecting sun-exposed areas. Her BP is 148/72 mmHg, and her heart rate is 80 bpm and regular. Her BMI is 23 kg/m 2. Investigation Result Normal value Haemoglobin (Hb) 110 g/l 120–160 g/l White cell count (WCC) 7.2 × 10 9/l 4.0–11.0 × 10 9/l C-reactive protein (CRP) 81 mg/l < 10 mg/l Complement C3 45 mg/dl 90–180 mg/dl Platelets (PLT) 132 × 10 9/l 150–400 × 10 9/l Sodium (Na +) 143 mmol/l 135–145 mmol/l Potassium (K +) 4.5 mmol/l 3.5–5.0 mmol/l Creatinine (Cr) 132 µmol/l 50–90 µmol/l Urine Blood 2+, protein 2+ What is the most likely cause of this patient's symptoms?",
+    "options": [
+      "Behçet's disease",
+      "Rheumatoid arthritis",
+      "Sarcoidosis",
+      "Systemic lupus erythematosus",
+      "Systemic sclerosis"
+    ],
+    "correct_option": 3,
+    "explanation": "Systemic lupus erythematosus\nThe rash on sun-exposed areas, renal impairment and small joint polyarthritis seen here are suggestive of a diagnosis of SLE. Tissue inflammation leads to consumption of complement factors and is likely to be the cause of the low C3 level seen here. Pleuritic chest pain may be indicative of pulmonary embolism. Corticosteroids are the initial mainstay of therapy, with hydroxychloroquine as the intervention of choice for lupus-related joint disease.\n\nBehçet's disease\nBehçet's disease is associated with venous thromboembolism, which may fit with the pleuritic chest pain seen here. It can also lead to arthritis, although the sun-exposed rash is more suggestive of SLE and Behçet's disease is often associated with uveitis.\n\nRheumatoid arthritis\nRheumatoid arthritis is associated with small joint polyarthritis and may be associated with pleuritic chest pain. However, the low C3 level suggests very active tissue inflammation and the sun-exposed rash is more suggestive of SLE.\n\nSarcoidosis\nSarcoidosis is associated with chronic cough and hilar lymphadenopathy seen on chest X-ray. It may also be associated with hypercalcaemia due to increased levels of hydroxylated vitamin D. The photosensitive rash is more consistent with a diagnosis of SLE.\n\nSystemic sclerosis\nSystemic sclerosis is associated with Raynaud's phenomenon, peripheral calcinosis and telangiectasiae. It does not fit with the clinical picture seen here, which is more consistent with SLE.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c789020f-d199-40f0-933a-b8f87d6f8e57",
+    "stem": "A 32-year-old woman is screened for medullary thyroid carcinoma. She is found to have an elevated calcitonin level. Which of the following fits with a normal physiological effect of calcitonin?",
+    "options": [
+      "Inhibits osteoblast activity",
+      "Inhibits osteoclast activity",
+      "Increases appetite",
+      "Increases renal tubular calcium reabsorption",
+      "Increases renal tubular phosphate absorption"
+    ],
+    "correct_option": 1,
+    "explanation": "Inhibits osteoclast activity\nCalcitonin is produced by thyroid C cells, and its level is elevated in patients with medullary carcinoma of the thyroid. Its major effect is to inhibit osteoclast activity, leading to a reduction in bone resorption. It also affects renal tubular reabsorption of calcium and phosphate, and may reduce appetite. Previously used as a treatment for osteoporosis, calcitonin is no longer used because of the risk of osteosarcoma.\n\nInhibits osteoblast activity\nCalcitonin has no significant activity on osteoblasts. Vitamin D stimulates osteoblast activity through driving maturation of immature cells and has a positive effect on bone mineralisation.\n\nIncreases appetite\nIn animal models, including rats and monkeys, calcitonin appears to drive a reduction in appetite. Calcitonin agonists have been explored as weight loss agents.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ebde9f0a-e1b0-4a88-abcf-2d687cdbc59c",
+    "stem": "A 32-year-old man is diagnosed with gastric MALToma and started on imatinib. What is the mode of action of imatinib?",
+    "options": [
+      "Anti-CD3 monoclonal antibody",
+      "CTLA-4 inhibitor",
+      "HER2 antagonist",
+      "PD-1 inhibitor",
+      "Tyrosine kinase inhibitor"
+    ],
+    "correct_option": 4,
+    "explanation": "Tyrosine kinase inhibitor\nImatinib is a tyrosine kinase inhibitor originally developed as a targeted therapy for chronic myeloid leukaemia (CML). In CML, the Philadelphia chromosome leads to generation of a bcr–abl fusion protein with tyrosine kinase activity, which drives increased cell proliferation and reduced apoptosis. Imatinib blocks the activity of this protein. Use has now been extended to several other tumours, including mucosa-associated lymphoid tissue lymphomas.\n\nAnti-CD3 monoclonal antibody\nCD3 is a T-cell surface receptor. By antagonising CD3, teplizumab is thought to downregulate cytotoxic T-cell activity and enhance T-cell regulatory activity. It is licensed for prevention of hyperglycaemia in patients at risk of type I diabetes.\n\nCTLA-4 inhibitor\nCTLA-4, similar to PD-1, is a cell surface immune checkpoint protein. By blocking CTLA-4, the activity of T-cells against a solid tumour is enhanced. Ipilimumab is an example of a CTLA-4 inhibitor.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "73d95efe-baa3-470b-b9c2-9dd9c3e82d40",
+    "stem": "A 32-year-old woman presents to the Gastroenterology Clinic for review. She has Crohn's disease. She is now tapering her dose of PO corticosteroids following a second exacerbation of Crohn's disease in the last seven months. She is opening her bowels three times per day. Her abdomen is soft and non-tender on palpation. Her BMI is 23 kg/m 2. Investigation Result Normal value Haemoglobin (Hb) 99 g/l 120–160 g/l White cell count (WCC) 7.2 × 10 9/l 4.0–11.0 × 10 9/l C-reactive protein (CRP) 23 mg/l < 10 mg/l Platelets (PLT) 192 × 10 9/l 150–400 × 10 9/l What is the most appropriate next step in this patient's management?",
+    "options": [
+      "Azathioprine",
+      "Ciclosporin",
+      "Infliximab",
+      "Methotrexate",
+      "Vedolizumab"
+    ],
+    "correct_option": 0,
+    "explanation": "Azathioprine\nAzathioprine is the disease-modifying agent of choice for Crohn's disease in patients who have two or more exacerbations in a year while maintained on a 5-aminosalicylate (ASA) compound such as mesalazine. Some patients have reduced activity of thiopurine methyltransferase (TMPT), the enzyme that metabolises azathioprine and mercaptopurine. This can lead to significant bone marrow suppression when these drugs are initiated. Testing for TMPT activity is therefore recommended before therapy is initiated.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3b65e814-c95f-432c-9d00-02bfbfa626c3",
+    "stem": "A 72-year-old man is referred to the Neurology Clinic due to difficulty sleeping. He says that he gets discomfort in his legs on most nights when he goes to bed, feels an irresistible urge to move them and has to get up and walk around. His wife is now having to sleep in a separate room. Neurological examination in the clinic is unremarkable, and routine screening bloods are normal. What is the most appropriate initial intervention?",
+    "options": [
+      "Bromocriptine",
+      "Diazepam",
+      "Gabapentin",
+      "Levodopa",
+      "Zolpidem"
+    ],
+    "correct_option": 2,
+    "explanation": "Gabapentin\nAfter ensuring that iron stores are replete and there are no exacerbating factors such as insufficient sleep or antidepressant treatment, gabapentin and pregabalin are both effective in treating restless legs syndrome, the most likely diagnosis in this patient. It was originally developed as an antiepileptic, and its mode of action is to block voltage-gated calcium channels. Doses of 1200 mg per day or higher of gabapentin may be required to control symptoms, although some improvement in symptoms can be seen as early as after seven days of treatment. There is a lower risk of augmentation compared to dopamine agonist therapy.\n\nBromocriptine\nNon-ergot-derived dopamine agonists are recommended for treatment of restless legs syndrome. Bromocriptine is ergot-derived and therefore not recommended because of its side-effect profile. Dopamine agonists are also associated with a high risk of augmentation, meaning, in many cases, gabapentin is now preferred as a first-line agent.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "aaad509e-d8eb-437c-84f8-0437f1082386",
+    "stem": "A 72-year-old woman presents to the General Practitioner with a 2-month history of painless visible haematuria. She reports no associated urinary symptoms, weight loss or abdominal pain. A flexible cystoscopy reveals a mass arising from the bladder mucosa. What is the most likely histology of this patient’s bladder cancer?",
+    "options": [
+      "Adenocarcinoma",
+      "Metastatic colon cancer",
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Urothelial carcinoma"
+    ],
+    "correct_option": 4,
+    "explanation": "Urothelial carcinoma\nUrothelial carcinoma, previously known as transitional cell carcinoma, is the most common type of bladder cancer in the UK and other developed countries, accounting for over 90% of cases. It arises from the urothelial lining of the urinary tract and typically presents with painless visible haematuria, as seen in this patient. Risk factors include smoking, occupational exposure to aromatic amines and prior pelvic radiotherapy. Cystoscopic findings of a mucosal mass support this diagnosis, which is confirmed by histology and may be further subtyped based on architectural patterns and grade.\n\nAdenocarcinoma\nAdenocarcinoma of the bladder is a rare subtype, accounting for only 1–2% of primary bladder cancers. It typically arises from urachal remnants or areas of chronic inflammation, such as in patients with chronic cystitis or bladder exstrophy. These tumours form gland-like structures on histology and may mimic gastrointestinal malignancies. Given the absence of risk factors for glandular metaplasia and the common presentation of painless haematuria, adenocarcinoma is unlikely to be the most appropriate diagnosis in thisChat case.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ab23cd2f-8228-48dc-ad87-d2b4cf9a98dc",
+    "stem": "A 75-year-old man is admitted to the Emergency Department with severe agitation, nausea and vomiting, as well as a distended abdomen. He has metastatic colon cancer and has been receiving end-of-life care at home. What is the most effective way to manage this patient's nausea and vomiting?",
+    "options": [
+      "Cyclizine",
+      "Domperidone",
+      "Haloperidol",
+      "Metoclopramide",
+      "Midazolam"
+    ],
+    "correct_option": 2,
+    "explanation": "Haloperidol\nHaloperidol is the preferred option to manage nausea and vomiting related to bowel obstruction in terminal care. It can be given subcutaneously to patients who are nil by mouth, and rapidly relieves nausea, vomiting and any underlying agitation. Prokinetic agents, such as metoclopramide and domperidone, should be avoided.\n\nCyclizine\nCyclizine is useful for managing vagally mediated nausea and vomiting, and can therefore be used to manage nausea in cases where there is bowel obstruction. It is, however, thought to be less effective than haloperidol and does not impact agitation.\n\nDomperidone\nDomperidone has prokinetic effects and is therefore not a first-line option in this patient with bowel obstruction. Haloperidol is preferred to manage symptoms of nausea, vomiting and agitation.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "654a783a-46da-4ec7-a417-b93b58abc433",
+    "stem": "A 25-year-old woman is referred to the Neurology Clinic because of paralysis of her left leg. She says this occurred suddenly following the death of her father. A positive Hoover's sign on examination is demonstrated on the lower limbs. What is the most likely cause of this patient's limb weakness?",
+    "options": [
+      "Conversion disorder",
+      "Lumbar spine radiculopathy",
+      "Malingering",
+      "Multiple sclerosis",
+      "Spinal stenosis"
+    ],
+    "correct_option": 0,
+    "explanation": "Conversion disorder\nSudden-onset limb weakness in response to a stressful life event, such as this patient's father death, is suggestive of a conversion disorder. The positive Hoover's sign fits with the diagnosis. This is where there is weakness of voluntary hip extension, with normal involuntary hip extension during contralateral hip flexion against resistance. Cognitive behavioural therapy is the initial intervention of choice.\n\nLumbar spine radiculopathy\nLumbar spine radiculopathy is associated with pain, tingling and muscle weakness, which corresponds to a particular nerve root. The complaint of paralysis here is much more consistent with conversion disorder.\n\nMalingering\nMalingering is the voluntary production of symptoms in response to a stimulus which drives the behaviour, for instance wanting to avoid work or a difficult situation.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c722ae21-5b59-41a4-a151-901b1d3b6212",
+    "stem": "A 74-year-old woman, who has had hypertension for 15 years, presents to the Emergency Department with mild confusion. She is currently treated with bendroflumethiazide. Investigation Result Normal value Sodium (Na +) 127 mmol/l 135–145 mmol/l Potassium (K +) 3.3 mmol/l 3.5–5.0 mmol/l Creatinine (Cr) 135 µmol/l 50–90 µmol/l Where is the site of action of bendroflumethiazide?",
+    "options": [
+      "Collecting duct",
+      "Descending limb of the loop of Henle",
+      "Distal convoluted tubule",
+      "Proximal convoluted tubule",
+      "Thick ascending limb of the loop of Henle"
+    ],
+    "correct_option": 2,
+    "explanation": "Distal convoluted tubule\nThiazide diuretics act at the level of the DCT on the thiazide-sensitive sodium–chloride cotransporter. This is the main transporter responsible for sodium reabsorption in the DCT, with around 5% of the total absorbed. Thiazides can be associated with both hyponatraemia and hypokalaemia, and bendroflumethiazide is potentially responsible for the hyponatraemia and confusion seen here.\n\nCollecting duct\nPotassium-sparing diuretics act at the level of the collecting duct. Spironolactone and eplerenone are aldosterone receptor antagonists,, whereas amiloride acts directly at the level of the epithelial sodium channel.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "5c1a7554-d735-431d-8399-63af3925d4e0",
+    "stem": "A 37-year-old man is referred to the Respiratory Clinic with abnormal pulmonary function tests. His tests reveal: Forced expiratory volume in 1 second (FEV1)/forced vital capacity <0.7 Carbon monoxide transfer factor (TLCO) 110% predicted Transfer coefficient (KCO) 132% predicted What is the most likely cause of this patient's symptoms?",
+    "options": [
+      "Asthma",
+      "Emphysema",
+      "Idiopathic pulmonary fibrosis",
+      "Left ventricular failure",
+      "Pulmonary hypertension"
+    ],
+    "correct_option": 0,
+    "explanation": "Asthma\nAsthma is a condition associated with large lung volumes. This leads to an increase in both KCO and TLCO above predicted. Both measures examine the lung diffusing capacity for carbon monoxide, which is increased in asthma. Obesity is also associated with increased KCO and TLCO.\n\nEmphysema\nEmphysema is associated with a reduced area for gas exchange. This leads to a decrease in KCO. Asthma is associated with increased KCO and TLCO.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "2720a8dc-88f1-493f-8862-2b50fb4e4245",
+    "stem": "A 72-year-old man is admitted to the Emergency Department with a GI haemorrhage. He is taking long-term warfarin therapy for an aortic valve replacement. Gamma-carboxylation of which clotting factor is inhibited by warfarin?",
+    "options": [
+      "Factor I",
+      "Factor III",
+      "Factor V",
+      "Factor VII",
+      "Factor VIII"
+    ],
+    "correct_option": 3,
+    "explanation": "Factor VII\nWarfarin acts by inhibiting gamma-carboxylation of glutamic acid residues across a range of clotting proteins, including factors II, VII, IX and X. This drives its properties as an anticoagulant. Consequently, when rapid reversal of warfarin is required, it can be achieved by using prothrombin complex concentrate (PCC), which contains these four clotting factors. Vitamin K is also used to reverse the effects of warfarin, although its effectiveness is delayed, compared to PCC.\n\nFactor I\nFibrinogen is the precursor for fibrin and is also known as clotting factor I. It is not inhibited by warfarin. Produced by the liver, fibrin is responsible for the integrity/stabilisation of blood clots.\n\nFactor III\nFactor III initiates the formation of thrombin from prothrombin. It is a cell surface glycoprotein that binds to factor VII and is not inhibited by warfarin.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "08823b26-6e82-42e3-b488-ea14410ddf83",
+    "stem": "A 27-year-old woman attends the Rheumatology Clinic for review of her systemic lupus erythematosus (SLE). She is taking hydroxychloroquine for her joint disease and required three courses of corticosteroids for flares over the past year. She wants to become pregnant. What should be added to this patient's medications?",
+    "options": [
+      "Azathioprine",
+      "Leflunomide",
+      "Methotrexate",
+      "Mycophenolate mofetil",
+      "Tacrolimus"
+    ],
+    "correct_option": 0,
+    "explanation": "Azathioprine\nExperience with use of azathioprine across a range of inflammatory and autoimmune conditions in pregnancy suggests that it is not associated with an increased risk of congenital malformation. This makes it the default choice for management of conditions such as SLE and inflammatory bowel disease in pregnancy.\n\nLeflunomide\nLeflunomide inhibits the de novo synthesis of pyrimidine ribonucleotide uridine monophosphate, which delivers anti-inflammatory effects across a range of conditions, including rheumatoid arthritis. It has been found to be toxic in juvenile animal studies and is therefore not safe in pregnancy.\n\nMethotrexate\nMethotrexate use in early pregnancy is associated with a range of musculoskeletal and cardiac defects, and therefore should not be used in this case.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "07c828f7-77c7-41f6-95ce-9a30748e3bff",
+    "stem": "A new screening test is under development for hepatitis C. The performance of the test is reported below. Hepatitis C confirmed Hepatitis C negative Test positive 900 100 Test negative 50 1000 What is the specificity of this screening test?",
+    "options": [
+      "4.8%",
+      "90.0%",
+      "90.9%",
+      "94.7%",
+      "95.2%"
+    ],
+    "correct_option": 2,
+    "explanation": "90.9%\nThe value of 90.9% is the specificity, which is calculated as true negatives divided by (true negatives plus false positives). In this case, it is 1000/1100, or 90.9%. Both the sensitivity and specificity are above 90%, implying that this test is adequate as a potential screening test for hepatitis C.\n\n4.8%\nThe value of 4.8% is the false omission rate. This is calculated as (1 minus NPV), or (100% – 95.2%), which is 4.8%.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "bb6264bf-b035-4cd0-b163-49330f931d38",
+    "stem": "A 27-year-old woman is reviewed in the Cardiology Clinic after a third episode of paroxysmal AF in the last six months. She has trialled bisoprolol and flecainide, but was unable to tolerate either medication due to severe lethargy. Her BP is 115/72 mmHg, and her heart rate is 75 bpm at rest. Her BMI is 22 kg/m 2. Routine blood tests and a 12-lead ECG are unremarkable. What is the most appropriate next step?",
+    "options": [
+      "Amiodarone",
+      "Amlodipine",
+      "Radiofrequency ablation",
+      "Radiofrequency ablation combined with pacing",
+      "Verapamil"
+    ],
+    "correct_option": 2,
+    "explanation": "Radiofrequency ablation\nIn this patient, in whom two medications for control of AF have not been tolerated, introduction of a third drug is unlikely to be successful. Given her young age, radiofrequency ablation should be considered as an alternative to long-term medication. Where radiofrequency ablation cannot be performed, then cryoablation or laser balloon ablation could be considered. Risks and benefits should be properly explained, including the fact that relief from episodes of AF may not be permanent.\n\nAmiodarone\nAmiodarone may be effective in preventing further episodes of paroxysmal AF. However, due to side-effects, including photosensitivity, thyroid dysfunction and liver and lung fibrosis, ablation is a more appropriate option.",
+    "tags": [
+      "October 2023"
+    ],
+    "source": "PastPapers"
+  }
+]

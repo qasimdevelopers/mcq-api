@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "15a794f1-8d0e-405e-aafd-226c7a5d34d2",
+    "stem": "A 53-year-old woman has severe emesis as a result of chemotherapy following a left-sided mastectomy. She has already received ondansetron. A plan is made to add lorazepam to her regimen. Which of the following correctly describes the mode of action of lorazepam?",
+    "options": [
+      "Gamma-aminobutyric acid-A (GABA-A) modulation",
+      "GABA-B modulation",
+      "5-HT 3 antagonism",
+      "5-HT 3 agonism",
+      "Beta-3 agonism"
+    ],
+    "correct_option": 0,
+    "explanation": "Gamma-aminobutyric acid-A (GABA-A) modulation\nLorazepam is a GABA-A modulator, which increases the opening frequency for GABA-activated chloride channels. It is thought that, by doing this, lorazepam enhances the effect conventional antiemetics, such as ondansetron. A starting dose of 1 mg lorazepam per day is usually given.\n\nGABA-B modulation\nBaclofen is a GABA-B agonist which is used as a muscle relaxant to relieve spasticity in patients with cerebral palsy and those with post-stroke limb spasticity. GABA-B modulators have been investigated as agents for the treatment of anxiety, and as adjuncts to baclofen.\n\n5-HT 3 antagonism\nOndansetron is one of the 5-HT 3 antagonist class. They are the initial therapy of choice in most guidelines for the treatment of chemotherapy-related emesis. Headaches are very commonly seen in patients prescribed 5HT 3 antagonists. Other rarer effects of therapy include QT prolongation and visual disturbance, seen more often when ondansetron is delivered intravenously.\n\n5-HT 3 agonism\nVarenicline is an example of a 5-HT 3 agonist. It is used to break the cycle of addiction in patients who are trying to quit smoking. A number of other naturally occurring compounds which have psychedelic properties are 5HT 3 agonists.\n\nBeta-3 agonism\nMirabegron is an example of a beta-3 agonist. This agent is used to cause relaxation of the detrusor muscle and is used as a treatment for overactive bladder.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "5fe8b274-a1f8-46d2-a17d-91d3a161e07d",
+    "stem": "A 38-year-old patient attends to see her General Practitioner. She is wheelchair bound as a result of multiple sclerosis and she has a suprapubic catheter. She has been feeling tearful for several weeks since the catheter was inserted, and she feels that she does not enjoy doing any activity anymore. She is diagnosed with depression and started on sertraline. She is already being treated with 100 mg tramadol four times a day for pain, 20 mg amitriptyline at night to help her sleep, and 10 mg metoclopramide three times daily for nausea. Two days later she presents to hospital with a high fever, headache and confusion. On examination she is tachycardic and has myoclonic twitches and hyperreflexia. What is the most likely diagnosis?",
+    "options": [
+      "Acute dystonic reaction secondary to metoclopramide",
+      "Malignant hyperthermia",
+      "Serotonin syndrome",
+      "Sertraline allergy",
+      "Thyroid storm"
+    ],
+    "correct_option": 2,
+    "explanation": "Serotonin syndrome\nIn palliative care, depression causes a further decline in quality of life in addition to the effect of a patient’s underlying condition. More severe symptoms can be treated with antidepressive medications, such as sertraline, a selective serotonin reuptake inhibitor, but caution is needed with polypharmacy. Each of the medications that this patient is taking increase serotonin levels including the most recent treatment for depression and therefore the patient has developed serotonin syndrome.\n\nAcute dystonic reaction secondary to metoclopramide\nExtrapyramidal symptoms may develop after starting metoclopramide due to its blockade of dopamine receptors. This is unlikely in this patient as she was already being treated with metoclopramide and this reaction would not explain her other symptoms.\n\nMalignant hyperthermia\nThis condition may cause fever, rigidity and tachycardia but does not tend to cause myoclonic twitches or hyperreflexia. It is caused mainly by anaesthetic agents which this patient has not been exposed to.\n\nSertraline allergy\nSertraline may cause headaches, fever and confusion but would not cause the myoclonic jerks or hyperreflexia.\n\nThyroid storm\nThyroid storm is a rare complication of hyperthyroidism which causes fever, tachycardia, vomiting, diarrhoea and agitation. This patient does not have a history of hyperthyroidism and the symptoms are more in keeping with serotonin syndrome particularly in the context of her medications.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "7943c2db-449e-4bc1-93c9-9445941e1254",
+    "stem": "A 64-year-old woman with breast cancer complains of a dry cough and severe dyspnoea, which has progressed over the last ten days. The breathlessness has a marked exertional element and is also worse in bed at night. On examination, her pulse is 113 bpm, her blood pressure (BP) is 117/78 mmHg and her jugular venous pressure (JVP) is 6 cm above the sternal angle. Her respiratory rate is 17 breaths per minute and her oxygen saturation is 97% breathing room air. Her heart sounds are quiet; the breath sounds are vesicular. What investigation is most likely to confirm the diagnosis?",
+    "options": [
+      "Chest X-ray",
+      "Positron emmission tomography (PET)-computed tomography (CT) scan",
+      "Electrocardiogram (ECG)",
+      "Echocardiography (ECHO)",
+      "Ventilation/perfusion isotope lung scan"
+    ],
+    "correct_option": 3,
+    "explanation": "Echocardiography (ECHO)\nThe likely diagnosis here is a pericardial effusion. Beck’s triad is comprised of raised JVP, reduced BP and muffled heart sounds. The best diagnostic test would be an ECHO. Malignant pericardial effusions are most often caused by lung cancer, breast cancer, melanoma, lymphoma, and leukaemia.\n\nChest X-ray\nWhile a pericardial effusion may be visible on a chest X-ray, this is not a definitive investigation and may be falsely reassuring.\n\nPositron emmission tomography (PET)-computed tomography (CT) scan\nA PET-CT scan may be helpful in detecting advanced/new disease. However, this presentation is not suggestive of progressive disease.\n\nElectrocardiogram (ECG)\nAlthough an ECG may show electrical alternans in a marked pericardial effusion, or low-voltage QRS complexes, ECG changes are not always seen.\n\nVentilation/perfusion isotope lung scan.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "aa80b654-45a2-4a58-9604-a4e929649e32",
+    "stem": "Which of the following is the most appropriate next step in controlling his pain?",
+    "options": [
+      "Add morphine for breakthrough pain",
+      "Coeliac plexus block",
+      "Dexamethasone 4 mg bd",
+      "Increase slow-release morphine to 200 mg bd",
+      "Switch morphine to transdermal fentanyl"
+    ],
+    "correct_option": 1,
+    "explanation": "Coeliac plexus block\nA coeliac plexus block is the preferred intervention here. This procedure involves injecting alcohol into the coeliac plexus using endoscopic ultrasound guidance. It can significantly reduce the patient’s pain from pancreatic cancer, and it is also used in the management of chronic pancreatitis-related pain. In this case, it may even allow the patient to down-titrate their morphine dose, which could stimulate appetite.\n\nAdd morphine for breakthrough pain\nThis patient is in significant pain despite being on triple analgesic therapy and a high dose of bd morphine. Increasing his morphine dose at this point may not control his pain and could drive significant drowsiness and constipation. For this reason, a coeliac plexus block is preferred.\n\nDexamethasone 4 mg bd\nHigh-potency corticosteroids are useful to reduce oedema from liver metastases in patients suffering from liver capsule pain and can be of value in relieving nerve compression and superior vena cava obstruction. They are not effective in reducing pain associated with pancreatic carcinoma.\n\nIncrease slow-release morphine to 200 mg bd\nIncreasing the morphine dose here is suboptimal. To control his pain, it is likely that a significantly higher dose will be required, leading to drowsiness and impacting on appetite. Local therapy with a coeliac plexus block is preferred.\n\nSwitch morphine to transdermal fentanyl\nSwitching morphine to transdermal fentanyl might impact favourably on appetite because of a reduction in gastrointestinal adverse events associated with opiate therapy, although it is unlikely to control the patient’s pain. Coeliac plexus block with the potential to reduce the morphine dose is the preferred option.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "a4750ec9-84dc-449d-880d-af7d09b26347",
+    "stem": "An 87-year-old man with Parkinson’s disease is admitted to hospital for the sixth time in six months with aspiration pneumonia. He has also not opened his bowels for seven days. He rapidly becomes drowsy and deteriorates. After discussions with his family, it is agreed that he will be treated symptomatically. After a few hours, the patient is temporarily lucid and complains of nausea. What is the most appropriate antiemetic for him to have?",
+    "options": [
+      "Chlorpromazine",
+      "Cyclizine",
+      "Haloperidol",
+      "Metoclopramide",
+      "Ondansetron"
+    ],
+    "correct_option": 1,
+    "explanation": "Cyclizine\nCyclizine acts on the chemoreceptive trigger zone and has an anticholinergic action that helps to relieve the symptoms of nausea. There is no interaction between cyclizine and Parkinson’s disease. Although constipation is named as an adverse effect on the data sheet for cyclizine, it’s frequency cannot be estimated from available data, meaning it is rare.\n\nChlorpromazine\nChlorpromazine antagonises a range of receptors, including histamine receptors, which leads to its antiemetic effect. It also blocks dopamine receptors which can worsen Parkinson’s symptoms.\n\nHaloperidol\nHaloperidol reduces nausea by acting on the chemoreceptive trigger zone of the brain, but it blocks dopamine receptors and can worsen symptoms in Parkinson’s disease. Therefore, it is contraindicated here.\n\nMetoclopramide\nMetoclopramide is a prokinetic drug which increases the tone of the lower oesophageal sphincter and enhances gastric emptying, but it also blocks dopamine receptors and is contraindicated in Parkinson’s disease.\n\nOndansetron\nOndansetron blocks serotonin receptors in the chemoreceptive trigger zone of the brain resulting in an antiemetic effect. One side-effect of ondansetron is constipation, so it would not be appropriate for a patient who has not opened his bowels in seven days. Anti-Emetics.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "661a37e0-ebf3-4f47-94da-4122f267e01e",
+    "stem": "Which of the following is the most appropriate intervention for this patient’s headache?",
+    "options": [
+      "Increased morphine dose",
+      "Intravenous (IV) dexamethasone",
+      "IV mannitol",
+      "Oral naproxen",
+      "Regular paracetamol"
+    ],
+    "correct_option": 1,
+    "explanation": "Intravenous (IV) dexamethasone\nGiven this patient’s symptoms are driven by cerebral oedema related to his underlying glioblastoma, the most appropriate initial intervention is IV dexamethasone which will significantly reduce oedema surrounding the tumour. An initial dose of 8 mg IV is appropriate. Given the similar bioavailability between oral and IV preparations, further maintenance dexamethasone, at a dose advised by the neurosurgical or oncology teams, could be given orally if this route is available.\n\nIncreased morphine dose\nThe main reason for this patient’s headache is cerebral oedema because of regrowth of his glioblastoma. Increasing his morphine dose will not treat the underlying cerebral oedema and may actually drive a worsening of his headache because of increased drowsiness and hypoventilation.\n\nIV mannitol\nIV mannitol is given as an acute measure for cerebral oedema in patients at imminent risk of coning. This is a usual measure where function is recoverable (for example, in acute cerebral haemorrhage). In this case, use of mannitol would be inappropriate.\n\nOral naproxen\nAlthough oral non-steroidal anti-inflammatory drugs (NSAIDs) are a part of the analgesia ladder in cancer care, in this case IV steroids are more likely to control the patient’s pain. NSAIDs are potentially more useful in patients with bone pain and have a role in analgesia for pancreatic carcinoma.\n\nRegular paracetamol\nRegular paracetamol is highly unlikely to be effective here. It is the first stage of the World Health Organization (WHO) cancer ladder and is usually followed by adding a NSAID and then later adding opiate therapy. In this case, the pressing need is for an intervention to treat cerebral oedema with IV dexamethasone.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "b3ffea7e-ae80-4cd7-b9d8-5c98d3f31454",
+    "stem": "What is the most likely cause of her confusion?",
+    "options": [
+      "Charles–Bonnet syndrome",
+      "Dexamethasone",
+      "Hypocalcaemia",
+      "Hyperglycaemia",
+      "Infection"
+    ],
+    "correct_option": 1,
+    "explanation": "Dexamethasone\nSteroid-induced psychosis more commonly occurs with higher dose steroids, such as dexamethasone. In this patient, the timing of the recent steroid prescription and absence of an alternative cause makes it the likeliest cause of confusion. In any patient with new confusion, reversible causes should be investigated by way of examination and further investigations.\n\nCharles–Bonnet syndrome\nCharles–Bonnet syndrome is a potential cause of hallucinations. However, it occurs in patients with a visual deficit, which this patient has no evidence of, and it is not typically associated with confusion.\n\nHypocalcaemia\nPatients with malignancy are at risk of electrolyte derangements; some of which, such as hypercalcaemia, can cause confusion. This patient is mildly hypocalcaemic which is not a cause of confusion.\n\nHyperglycaemia\nHypoglycaemia is a more common cause of confusion rather than hyperglycaemia (except for hyperosmolar hyperglycaemic syndrome where the glucose level is typically greater than 30 and the onset of confusion is gradual rather than acute).\n\nInfection\nInfection can cause delirium and hallucinations, but there is little evidence of infection in this case. The raised white cell count is unreliable in patients with cancer and those treated with steroids. When examined, there are no clinical signs to indicate an acute infection.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "7174bf5c-2912-48ac-af84-1a84b5a5f5ae",
+    "stem": "Which of the following is the most appropriate next step for his pain relief?",
+    "options": [
+      "Amitriptyline 75 mg nocte",
+      "Fentanyl 25 µg/hour patch",
+      "Morphine slow release 20 mg twice daily (bd)",
+      "Oramorph 5–10 mg every four hours",
+      "Tramadol 50–100 mg four times daily (qds)"
+    ],
+    "correct_option": 4,
+    "explanation": "Tramadol 50–100 mg four times daily (qds)\nIn this situation, with failure to gain adequate control of pain on paracetamol and a non-steroidal antiinflammatory drug (NSAID), a weak opioid is the next most appropriate intervention. Options recommended by the National Institute for Health and Care Excellence guidelines include codeine, dihydrocodeine and tramadol. A dose for tramadol of 50–100 mg qds is recommended as a next step up in pain relief. Medication for constipation may also be required.\n\nAmitriptyline 75 mg nocte\nAmitriptyline is one option for the treatment of neuropathic pain which is not likely to be responsible for this patient’s right leg pain. It is also mildly sedating and can have a role in improving the ability to fall asleep in patients with worries and concerns about their underlying tumour.\n\nFentanyl 25 µg/hour patch\nFentanyl is not appropriate in a patient who is opiate naïve. Even this relatively low fentanyl dose is equivalent to a daily morphine dose of 60–134 mg. Fentanyl should only be instituted once a patient has reached a stable dose of morphine.\n\nMorphine slow release 20 mg twice daily (bd)\nThis morphine dose is a little above the maximal daily dose of codeine phosphate (240 mg/day). In the event that patients are switched from an initial opiate, such as codeine to morphine, a slightly lower dose of 15 mg bd of slow-release morphine would be recommended.\n\nOramorph 5–10 mg every four hours.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "ac6e9b8e-e36b-4a13-80be-f11411fda42d",
+    "stem": "A 45-year-old woman who is currently 4 weeks into a course of post-operative radiotherapy for locally advanced cervical carcinoma is admitted with abdominal pain and diarrhoea. Which one of the following is the most likely cause of the clinical picture?",
+    "options": [
+      "Bowel obstruction",
+      "Bowel perforation",
+      "Complication of surgery",
+      "Local malignant infiltration",
+      "Radiation enteritis"
+    ],
+    "correct_option": 4,
+    "explanation": "Radiation enteritis\nThis lady had abdominal pain and diarrhoea while receiving radiotherapy, so the current treatment is the most obvious cause for her bowel symptoms. The acute picture manifests as inflammation of the ileum and colon, with abdominal pain and diarrhoea. Maintaining adequate hydration is the mainstay of therapy.\n\nBowel obstruction\nBowel obstruction is incorrect. The presence of continuing diarrhoea implies the continued passage of faeces through the GI tract. Absolute bowel obstruction would be associated with a cessation of passage of faeces and flatus.\n\nBowel perforation\nBowel perforation is incorrect. Bowel perforation would present with abdominal pain, but not diarrhoea.\n\nComplication of surgery\nComplication of surgery is incorrect. The clinical picture is unlikely to be due to a surgical complication given the time frame.\n\nLocal malignant infiltration\nLocal malignant infiltration is incorrect. Local malignant infiltration to the bowel is most likely to present with obstruction, not with abdominal pain and diarrhoea.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "9b965399-33cc-4d84-ae04-00605dd47774",
+    "stem": "Which of the following is the most appropriate substitution for codeine in this patient?",
+    "options": [
+      "Amitriptyline 75 mg nocte",
+      "Dexamethasone 4 mg daily",
+      "Fentanyl patch 37 µg/hour",
+      "Slow-release morphine 15 mg twice daily plus top-up morphine",
+      "Tramadol 50 mg four times daily"
+    ],
+    "correct_option": 3,
+    "explanation": "Slow-release morphine 15 mg twice daily plus top-up morphine\nAccording to the National Institute for Health and Care Excellence (NICE) guidelines on opiate use in palliative care, this is an appropriate regimen for initial morphine prescription. The patient is taking up to 240 mg codeine per day, which corresponds to a total daily morphine dose of approximately 20 mg/day. He can be prescribed top-up morphine to gain control of his pain, and the slow-releasing dose can be adjusted after a few days.\n\nAmitriptyline 75 mg nocte\nAmitriptyline may be of value in relieving nerve pain and is associated with somnolence. For this reason, it may be prescribed for patients with pain related to nerve compression because of an underlying tumour. In this case, with bone pain the likely cause of his thigh ache, stronger opiates are likely to be a more useful intervention.\n\nDexamethasone 4 mg daily\nDexamethasone, a potent corticosteroid, is of potential value in control of liver capsule pain, and in management of pain due to nerve compression where it reduces local oedema. It is also of course of value in reducing cerebral oedema due to an underlying tumour.\n\nFentanyl patch 37 µg/hour\nA fentanyl dose of 37 µg/hour corresponds to a morphine dose 135–180 mg/day. It is prescribed for patients who are on large stable doses of morphine. In this case, it would represent a significant overdose.\n\nTramadol 50 mg four times daily\nTramadol 50 mg is likely to offer similar analgesia to codeine phosphate 30 mg. Therefore, it would not offer a step up in analgesia here. It may be of benefit in some patients, particularly those who suffer from constipation or taking codeine or dihydrocodeine for analgesia.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "6fa1be68-6adf-46cf-81a6-7ddf638d37d2",
+    "stem": "A 74-year-old man with metastatic prostate cancer sees his General Practitioner due to low mood and suicidal ideation. He complains of severe back pain which prevents him from sleeping and doing anything he previously enjoyed doing. He has little appetite for food and has not opened his bowels in seven days. Which of the following is a major risk factor for depression in a palliative care setting?",
+    "options": [
+      "Hypocalcaemia",
+      "Male gender",
+      "Older age",
+      "Pain",
+      "Prostate cancer primary"
+    ],
+    "correct_option": 3,
+    "explanation": "Pain\nUncontrolled pain is a major risk factor for depression and suicide in palliative patients with cancer. Other risk factors in this population include younger age, a history of depression and metabolic abnormalities, such as hypercalcaemia.\n\nHypocalcaemia\nPatients with cancer are prone to developing electrolyte abnormalities, including hypercalcaemia, which can cause depression. In this case, the option provided is hypocalcaemia which is not associated with depression.\n\nMale gender\nIn the general population, women are more likely to experience depression than men. In the palliative population, there is no significant gender difference.\n\nOlder age\nPatients who are younger at the time of diagnosis are more likely to become depressed than older patients.\n\nProstate cancer primary\nPatients with cancers which affect the pancreas or head and neck are a higher risk of developing depression than patients with other cancers.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "ad19c016-8c24-4634-bc8f-bb3387e9d913",
+    "stem": "A 28-year-old patient with thrombotic thrombocytopaenic purpura (TTP) presents with right upper abdominal pain, hepatomegaly and ascites. Which one of the following is the most likely diagnosis?",
+    "options": [
+      "Budd–Chiari syndrome",
+      "Gallstones",
+      "Hepatitis B virus infection",
+      "Hepatitis C virus infection",
+      "Pancreatitis"
+    ],
+    "correct_option": 0,
+    "explanation": "Budd–Chiari syndrome\nBudd–Chiari syndrome results from obstruction of venous hepatic outflow, andthe most common cause is thrombosis. Clinical signs include abdominal pain, hepatomegalyand ascites.\n\nGallstones\nGallstones is incorrect. Gallstones would not link in with the known diagnosis of TTP which results in thrombosis.\n\nHepatitis B virus infection\nHepatitis B virus infection is incorrect. Hepatitis B infection would not link in with the known diagnosis of TTP which results in thrombosis.\n\nHepatitis C virus infection\nHepatitis C virus infection is incorrect. Hepatitis C infection would not link in with the known diagnosis of TTP which results in thrombosis.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "c2cafcb2-bb7b-4122-96c0-b819be69c5c5",
+    "stem": "An 87-year-old patient with sepsis is thought to be entering the end of life phase. She is being cared for in a side room and active treatments have ceased; she is only being treated symptomatically. Her daughter is concerned that her mother appears dehydrated and her mouth seems very dry. The patient has not been drinking anything despite being offered sips of water and moist mouth sponges. Her daughter inquires about whether her mother would benefit from intravenous (IV) fluids. Regarding clinically-assisted hydration in end-of-life care, what is recommended in the National Institute for Health and Care Excellence (NICE) guidance?",
+    "options": [
+      "If given, patients should be examined every 24 hours for any change in signs or symptoms",
+      "It may cause problems such as fluid overload",
+      "If not given, death will occur faster",
+      "It will not the signs of dehydration",
+      "If given, it will prolong life"
+    ],
+    "correct_option": 1,
+    "explanation": "It may cause problems such as fluid overload\nClinically assisted hydration is a difficult topic in end-of-life care. Guidelines suggest it may the signs and symptoms of dehydration but will not necessarily have any impact on the rate of deterioration and the timing of death. In addition, it may lead to complications such as fluid overload. This is particularly true when patients have organ dysfunction, such as heart failure or kidney disease.\n\nIf given, patients should be examined every 24 hours for any change in signs or symptoms\nGuidelines suggest patients should be monitored every 12 hours for complications such as fluid overload.\n\nIf not given, death will occur faster\nIt is not certain whether death will be hastened if artificial hydration is not given.\n\nIt will not the signs of dehydration\nIt may signs such as a dry mouth; however, it is also important to note that good mouth care can also symptoms.\n\nIf given, it will prolong life\nIt is uncertain whether artificial hydration affects the timing of death.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "2826b6bc-8b71-41a7-8a11-eac0287c949a",
+    "stem": "A 42-year-old man is diagnosed with Huntington’s disease. He sees his General Practitioner because he is troubled by the impact that the condition will have on his family when it progresses, as he understands it will have an effect on his cognition and mobility. His GP suggests that they discuss the Gold Standards Framework (GSF). Which group of patients does the GSF primarily aim to identify?",
+    "options": [
+      "Patients with genetic disorders",
+      "Patients with life-limiting conditions",
+      "Patients with movement disorders",
+      "Patients with poor cognition",
+      "Patients with poor social support"
+    ],
+    "correct_option": 1,
+    "explanation": "Patients with life-limiting conditions\nThe GSF facilitates the recognition of patients with deteriorating conditions. Patients can make care plans in advance and consider if there are healthcare options that they would not want to receive when they deteriorate, such as receiving intravenous antibiotics and resuscitation.\n\nPatients with genetic disorders\nGSF is appropriate for patients with life-limiting conditions where patients may wish to make care plans in advance. There are many genetic conditions that are not life-limiting; therefore, this answer is incorrect.\n\nPatients with movement disorders\nHuntington’s is a movement disorder. While some patients, such as those with Huntington’s disease, would be appropriate for the GSF because the condition is life-limiting, it is important to know that not every movement condition is life-limiting.\n\nPatients with poor cognition\nPatients with deteriorating cognition may be appropriate for the GSF if they have a life-limiting disease. In principle, however, poor cognition alone does not make a patient suitable for the GSF.\n\nPatients with poor social support\nIt is important to share the outcome of the GSF with family and friends so they are aware of the decisions the patient has made. 0.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "d19a6b91-f2b0-47f5-9f9a-f105492cb770",
+    "stem": "You review a 76-year-old man who complains of symptoms of indigestion. Endoscopy reveals a lesion suspicious of oesophageal carcinoma. Which statement about oesophageal cancer occurring in Western Europe/USA is true?",
+    "options": [
+      "Adenocarcinoma is the rarest type of oesophageal cancer in the USA",
+      "Barrett’s oesophagus is associated with squamous carcinoma",
+      "Dysphagia is an early manifestation",
+      "Most oesophageal cancers are not resectable at presentation",
+      "Oesophageal cancer is most commonly located in the proximal third of the oesophagus"
+    ],
+    "correct_option": 3,
+    "explanation": "Most oesophageal cancers are not resectable at presentation\nMost oesophageal cancers are associated with mild symptoms until very late in the time course of the disease and at the time of diagnosis most are unresectable. Dysphagia is a late symptom. Most patients present with stage 3 disease (late stage) and survival at 5 years is only 9%. In the rare group of patients with stage 1 disease (surgically resectable), survival approaches 80% at 5 years. Oesophageal cancer is only rarely found in the proximal third of the oesophagus. Forty per cent of oesophageal carcinomas occur in the middle third of the oesophagus and are usually squamous-cell carcinomas. Forty-five per cent of cases occur in the lower third and are usually adenocarcinomas.\n\nAdenocarcinoma is the rarest type of oesophageal cancer in the USA\nAdenocarcinoma is the rarest type of oesophageal cancer in the USA is incorrect. The incidence of adenocarcinoma has progressively increased over the past 20 years, representing >50% of all oesophageal cancers (US data).\n\nBarrett’s oesophagus is associated with squamous carcinoma\nBarrett’s oesophagus is associated with squamous carcinoma is incorrect. Barrett’s oesophagus is associated with the development of adenocarcinoma.\n\nDysphagia is an early manifestation\nDysphagia is an early manifestation is incorrect. Dysphagia is a late symptom of oesophageal cancer.\n\nOesophageal cancer is most commonly located in the proximal third of the oesophagus\nOesophageal cancer is most commonly located in the proximal third of the oesophagus is incorrect. Oesophageal cancer is only rarely found in the proximal third of the oesophagus. Oesophageal Tumours A 73-year-old man with end-stage prostatic carcinoma is admitted to the Emergency Department. He has been prescribed 75 µg/hour fentanyl delivered by patch because of constipation caused by morphine and a slow rise in his creatinine. His previous morphine dose was 70 mg morphine twice daily. His BP is 90/60 mmHg, pulse is 65 bpm and regular and his respiratory rate is 13 breaths/minute. He groans incomprehensibly when you try and wake him up. His oxygen (O 2) saturation is measured at 92% on air. Investigations.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "c7ceade9-07de-495c-b8fb-08fa5001c7bd",
+    "stem": "A 74-year-old man has been discharged home as this is his preferred place of death following a severe extradural haemorrhage. He has been discharged with a syringe driver which is providing 150 mg of cyclizine over 24 hours. After two days, his relatives notice redness over the injection site. When the community nurse comes to review the patient, she notes that the area of redness is not warm to touch, and the patient does not have a fever. There is no associated itch. What is the most likely cause of the area of redness?",
+    "options": [
+      "Allergy",
+      "Cellulitis",
+      "Drug irritation",
+      "Heat rash",
+      "Shingles"
+    ],
+    "correct_option": 2,
+    "explanation": "Drug irritation\nSome drugs, such as cyclizine, can cause irritation to the surrounding tissues when given subcutaneously. Cyclizine is highly acidic and can therefore cause damage to the tissues exposed to it. Alternatives include haloperidol which is less likely to cause irritation.\n\nAllergy\nAllergy can cause redness but is often accompanied by itch and would usually present shortly after receiving the first dose.\n\nCellulitis\nThe area of redness is not warm to touch, and the patient does not have a fever, which makes cellulitis less likely.\n\nHeat rash\nHeat can cause skin redness, but there is no evidence that this is the case here.\n\nShingles\nShingles can cause dermatomal skin redness, but this is typically a blistering rash which is intensely itchy. A 67-year-old woman, whose advanced gynaecological cancer is not suitable for surgical resection, is reviewed in the Oncology Clinic. Her current medication includes 150 mg of slow-release morphine per day and regular paracetamol. Her pain is currently controlled, but she feels intermittently drowsy. Her blood pressure is 122/82 mmHg; her pulse is 85 bpm and regular. Her body mass index is 21 kg/m 2. Investigations.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "524a0ec9-766a-44b9-8530-c5b741516a5c",
+    "stem": "A 96-year-old man is admitted to hospital with community-acquired pneumonia. He has a cardiac arrest while on the ward and has a return of spontaneous circulation after 25 minutes of cardiopulmonary resuscitation. He does not regain consciousness and his infection worsens. After three days, a discussion is held with his family where it is agreed that only his symptoms should be treated. He is constantly grimacing and appears to be in discomfort, which worsens if there is any pressure over his chest. A chest X-ray shows multiple fractured ribs. His team plan to commence a subcutaneous syringe driver containing 10 mg of morphine over 24 hours. His daughter is present, and she notes that her father appears to be in pain at that moment and she wonders how quickly he will receive analgesia. What is the most appropriate management of the patient’s acute pain?",
+    "options": [
+      "Advise the family that the syringe driver will take effect imminently",
+      "Increase the dose of morphine to 15 mg over 24 hours",
+      "Insert an intravenous (IV) cannula and prescribe a stat dose of morphine",
+      "Prescribe as-needed subcutaneous morphine injections",
+      "Wait for the pain to subside and then commence the subcutaneous infusion"
+    ],
+    "correct_option": 3,
+    "explanation": "Prescribe as-needed subcutaneous morphine injections\nMedications given in a syringe driver usually take 3–4 hours to achieve a steady serum concentration. Therefore, patients may not feel the effects of the medication for the first few hours. Analgesia given through a syringe driver provides maintenance analgesia, but if the patient has an acute flare of pain, including before the syringe driver is commenced, they should be given a breakthrough dose of analgesia subcutaneously as required.\n\nAdvise the family that the syringe driver will take effect imminently\nAnalgesia in a syringe driver will generally take 3–4 hours to take effect and therefore will not be helpful in acute pain.\n\nIncrease the dose of morphine to 15 mg over 24 hours\nIncreasing the dose of morphine would be appropriate once the infusion has commenced and if the patient is still requiring multiple doses of breakthrough analgesia each day. It would not be appropriate to commence a higher dose as this will not treat the acute pain and risks causing side-effects.\n\nInsert an intravenous (IV) cannula and prescribe a stat dose of morphine\nProviding IV morphine would be a rapid way to provide analgesia, but it is not ideal in palliative care to insert an IV cannula as this procedure alone causes discomfort.\n\nWait for the pain to subside and then commence the subcutaneous infusion\nThis would not be appropriate as the pain could be treated with as-needed breakthrough doses. 17 49.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "67aeea9b-9972-47ec-b762-79735ccd9e00",
+    "stem": "An 85-year-old man is in a side room following a Clostridium difficile infection. He has not improved despite metronidazole and oral vancomycin therapy, and he is now unconscious and appears to be dying. A junior doctor is asked to answer some questions that the patient’s son has. Upon entering the room, the son aggressively shouts that the doctors have ‘killed his father’ because they gave his father antibiotics. What is the appropriate next step for the doctor?",
+    "options": [
+      "Ask the son to discuss his concerns with the Patient Advice Liaison Service (PALS)",
+      "Arrange a meeting with the patient's son and care team in the relatives room",
+      "Advise the son that you are sure this is not the case",
+      "Arrange a meeting between the Palliative Care Nurse and the son",
+      "Ask the son to discuss his concerns with the local Clinical Commissioning Group (CCG)"
+    ],
+    "correct_option": 1,
+    "explanation": "Arrange a meeting with the patient's son and care team in the relatives room\nThe process of dying can be stressful both for patients and relatives. Patients and relatives can become angry and aggressive for a variety of different reasons. The primary aim here would be to firstly listen to the sons concerns, demonstrate empathy and facilitate a two-way conversation to discuss his concerns. Given the gravity of the son's concerns, this conversation should ideally take place with relevant clinical staff, such as the patient’s consultant, accompanied by a lead nurse and occasionally by palliative specialist nurse, in a neutral environment away from the patient’s bedside. Clearly, if the patient had capacity, they need to be offered the chance to be involved in such discussions. This is not the case here.\n\nAsk the son to discuss his concerns with the Patient Advice Liaison Service (PALS)\nPALS offers independent confidential advice on health related matters for National Health Service patients, especially in relation to concerns or complaints that patients and family members may have. While it may be appropriate for this family member to discuss their concerns with the PALS team in future, the majority of concerns can be resolved by a conversation between the care professionals involved and the patient and/or family. Should an understanding not be reached after this, the details of PALS should be provided.\n\nAdvise the son that you are sure this is not the case\nWithout listening to and addressing the concerns that the son has, the doctor is only likely to further inflame the situation and therefore cause further upset and exacerbate the breakdown in communication.\n\nArrange a meeting between the Palliative Care Nurse and the son\nWhile it may be appropriate to involve the Palliative Care team, both to assist with any end-of-life symptoms and assist in the emotional support for grieving family members, it would clearly be inappropriate to do so in this setting. The team primarily responsible for the patient’s care are best placed to discuss and address the concerns. Support around the end-of-life period should be sought thereafter.\n\nAsk the son to discuss his concerns with the local Clinical Commissioning Group (CCG)\nThe local CCG oversee commissioning for secondary care services with primary care services being managed by the devolved NHS region, ie NHS England. Should patients or their families wish to make a complaint about NHS care, they can do so to the appropriate commissioning group. While it may be appropriate for this family member to do this, the majority of concerns can be resolved by a conversation between the care professionals involved and the patient and/or family. Should an understanding not be reached after this, the details of the PALS team should be provided. Following this, a complaint can be made to the commissioning group. 17 52.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "68147596-a909-4829-9511-bb29878f1108",
+    "stem": "A 92-year-old woman is admitted to hospital with urinary sepsis. She has a Glasgow Coma Scale score of 12. On examination, she has abdominal tenderness and her carer reports that she has not opened her bowels in eight days. She is treated with intravenous (IV) co-amoxiclav and lactulose; however, after five days, she has not improved and her inflammatory markers have worsened. After discussion with the patient and her family, she is started on an end-of-life protocol and her antibiotics are stopped but the lactulose is continued. Three days later, she becomes agitated and develops noisy respiratory secretions which distress her. She is prescribed regular glycopyrronium bromide and midazolam as needed. Mouth care is provided with wetted mouth sponges as her oral intake is minimal. The following day, it appears she is struggling with a dry mouth. What is the most likely cause of her dry mouth?",
+    "options": [
+      "Co-amoxiclav",
+      "Glycopyrronium bromide",
+      "Lactulose",
+      "Midazolam",
+      "Urinary sepsis"
+    ],
+    "correct_option": 1,
+    "explanation": "Glycopyrronium bromide\nMany medications can cause a dry mouth in palliative care, including opiates and glycopyrronium bromide. Glycopyrronium bromide blocks muscarinic cholinergic receptors and reduces the production of secretions. Management involves switching to an alternative medication and using wetted mouth sponges to moisten the mucous membranes.\n\nCo-amoxiclav\nCo-amoxiclav is not associated with a dry mouth and it would be unusual for a side-effect to develop 14 days after it was started.\n\nLactulose\nThis patient has been treated with lactulose recently and therefore it might be suspected that is associated with the development of a dry mouth. However, lactulose is not associated with a dry mouth. The side-effects of lactulose include abdominal pain, diarrhoea, flatulence, nausea and vomiting.\n\nMidazolam\nMidazolam has been started at a similar time to the development of the dry mouth, but midazolam is not associated with a dry mouth. The side-effects of midazolam include reduced alertness, confusion, ataxia and dizziness.\n\nUrinary sepsis\nThis patient has urinary sepsis which tends to cause urinary and systemic symptoms. Dry mouth is not included in the symptoms that might occur with urinary sepsis.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "3d5a96dc-393a-4d1c-baed-ffb0cfdb8a59",
+    "stem": "A 76-year-old man is brought to his General Practitioner by his wife. He has multiple myeloma and, recently, he has been forgetting to take his medication. He complains of tiredness and pain in his lower back which he thinks is due to constipation as he has not opened his bowels in the last ten days. On examination, he is tender in his abdomen, although there is no guarding or rebound tenderness. He has point tenderness over the spinous processes of L3–L5. Which blood test will most likely explain his confusion?",
+    "options": [
+      "Haemoglobin",
+      "Calcium",
+      "Serum light chains",
+      "Thyroid function tests",
+      "White cell count"
+    ],
+    "correct_option": 1,
+    "explanation": "Calcium\nIn multiple myeloma, osteolytic bone lesions, such as in the spine, cause a release of the calcium that had been stored in bone into the blood stream. This results in hypercalcaemia which typically causes confusion and constipation.\n\nHaemoglobin\nThe patient is likely to be anaemic as a result of the myeloma. This is unlikely to be contributing significantly towards his confusion.\n\nSerum light chains\nHis serum light chains may be abnormal due to his myeloma, but this diagnosis is already established and is not directly causing his confusion.\n\nThyroid function tests\nHypothyroidism can cause confusion and constipation, but this is unlikely in the context of a patient with multiple myeloma and would not explain his back pain.\n\nWhite cell count\nThe white cell count may be low due to the myeloma which would put him at risk of developing an infection, but there is no evidence that this is currently the case. Calcium Homeostasis,.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "0ff596ea-3f3c-4313-86e3-52b96da53975",
+    "stem": "A 55-year-old woman presents with progressive shortness of breath and ankle swelling. Clinically there is evidence of cardiac failure. Some 15 months ago she was treated with chemotherapy (including doxorubicin) and hormonal therapy for left breast cancer. Given her previous history, what diagnosis would you be particularly concerned about?",
+    "options": [
+      "Cardiomyopathy",
+      "Constrictive pericarditis",
+      "Long-term side-effect of tamoxifen",
+      "Pericardial effusion",
+      "Pulmonary hypertension secondary to multiple pulmonary emboli"
+    ],
+    "correct_option": 0,
+    "explanation": "Cardiomyopathy\nThe most well-known cause of chemotherapy-induced cardiomyopathy is doxorubicin, which is a member of the anthracycline group of agents. The risk of developing cardiomyopathy is dose-related. Other risk factors include mediastinal irradiation, age greater than 70 years and pre-existing cardiac disease. Monitoring of ejection fraction prior to and during treatment is recommended. The clinical manifestations of doxorubicin cardiomyopathy are those of biventricular congestive heart failure (CHF). Symptoms have been reported to occur any time up to months or even years after stopping the drug. Although CHF has been reported to have a high mortality rate, successful treatment is possible and should be managed as for CHF due to other causes.\n\nConstrictive pericarditis\nConstrictive pericarditis is incorrect. This is a fairly common complication of of mediastinal radiation therapy.\n\nLong-term side-effect of tamoxifen\nLong-term side-effect of tamoxifen is incorrect. Although it is associated with an increased risk of thrombosis, tamoxifen is not a cardiotoxic drug.\n\nPericardial effusion\nPericardial effusion is incorrect. Metastasis of the tumour could lead to a pericardial effusion and, although it would be unlikely, this would need to be excluded as a differential diagnosis. Malignant Breast Disease You are asked to review a patient with metastatic lung cancer who has a potassium level of 6.5 mmol/l. He has been receiving palliative treatment only for pain and symptom control and was relatively well until a few weeks ago, although he has recently complained of tiredness and malaise. His BP is a little low at 100/60 mmHg, his creatinine is towards the upper limit of the normal range. He is currently on no medication. A repeat measurement shows his potassium level to be 6.6 mmol/l. Which one of the following might be the cause of his hyperkalaemia?\n\nPulmonary hypertension secondary to multiple pulmonary emboli\nPulmonary hypertension secondary to multiple pulmonary emboli is incorrect. There would be no strong reason to suspect pulmonary emboli from the history.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "5f79876d-334c-4cce-9c33-1fc1723ccfca",
+    "stem": "An 84-year-old man is brought into the Emergency Department (ED) by ambulance. He frequently attends the hospital due to his alcohol-related liver disease, which has progressed to incurable cirrhosis. The patient is often in hospital due to worsening of his ascites or due to hepatic encephalopathy. On this occasion, the patient appears confused and, when nobody is watching, he leaves the ED and wanders down the corridor. He collapses and a passing doctor establishes that the patient is not breathing and has no pulse. The doctor recognises him and thinks the patient has a do not attempt resuscitation (DNAR) from a previous admission but is not confirmed. Upon exposing the patient’s chest to commence cardiopulmonary resuscitation (CPR), the doctor finds the words ‘Do Not Resuscitate’ tattooed across his chest. Which of these actions is most appropriate?",
+    "options": [
+      "Commence CPR",
+      "Contact a relative to ascertain the patient’s wishes",
+      "Obtain the patient’s notes and check for a DNAR form",
+      "Obtain a DNAR form and complete it in concordance with tattoo",
+      "Respect the DNAR tattoo as an Advanced Directive and do not do CPR"
+    ],
+    "correct_option": 0,
+    "explanation": "Commence CPR\nRegardless of how frail a patient appears, there must always be an assumption in favour of performing CPR if DNAR has not been previously clearly established. A DNAR tattoo does not have legal status as an Advanced Directive and therefore, in this situation, it cannot be respected.\n\nContact a relative to ascertain the patient’s wishes\nIn an emergency, there is not enough time to contact a relative even when there is confusion about the patient’s wishes. CPR should be commenced immediately.\n\nObtain the patient’s notes and check for a DNAR form\nIn an emergency, there is not enough time to review the notes to decide about DNAR. If the notes are present, then it would be appropriate to open them and look briefly for a DNAR form, but CPR should not be delayed.\n\nObtain a DNAR form and complete it in concordance with tattoo\nA DNAR form should be written in advance of the event and it would not be appropriate to complete one at this moment. In light of the patient’s tattoo, DNAR should be discussed following the event as soon as it is appropriate.\n\nRespect the DNAR tattoo as an Advanced Directive and do not do CPR.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "8e858a54-7a49-497d-a438-6a817e904a62",
+    "stem": "Which of the following is the most appropriate additional option for analgesia?",
+    "options": [
+      "Ibuprofen",
+      "Naproxen with omeprazole cover",
+      "Meptazinol",
+      "Morphine",
+      "Gabapentin"
+    ],
+    "correct_option": 2,
+    "explanation": "Meptazinol\nMeptazinol is a partial mu opioid receptor agonist; as such, it is an effective opioid analgesic associated with a lower risk of constipation versus other agents such as codeine or morphine.\n\nIbuprofen\nIbuprofen is incorrect. NSAIDs are associated with GI bleeding, fluid overload and cardiovascular morbidity. Given this patient’s age and past history, NSAIDs such as ibuprofen should best be avoided.\n\nNaproxen with omeprazole cover\nNaproxen with omeprazole cover is incorrect. Even with omeprazole cover NSAIDs are best avoided, especially with an elevated creatinine of 133 and a history of ischaemic heart disease. In the event that pain control is not achieved with meptazinol, the risk– benefit of a stronger opiate versus a NSAID could be assessed at that stage.\n\nMorphine\nMorphine is incorrect. Given the patient’s background history of constipation, treatment with constipating agents such as morphine and codeine should be avoided where possible.\n\nGabapentin\nGabapentin is incorrect. Gabapentin is effective in alleviating neuropathic pain such as that caused by diabetic neuropathy and post-herpetic neuralgia. Evidence shows little benefit in other pain conditions, including back pain from fractured vertebrae.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "0f5572c4-6c5d-4339-91a7-9b8e966065a4",
+    "stem": "A 78-year-old man is in hospital due to hyperosmolar hyperglycaemic syndrome. He had been neglecting his own care at home for several days and was found unresponsive by his daughter. He is being treated on the ward and the consultant would like to discuss resuscitation with him. The doctor tells the patient about the potential risks and benefits of resuscitation and after he has finished, the patient says ‘yes’, but looks confused. When asked for his opinion, the patient again looks bewildered. Towards the end of the discussion, his daughter comes to visit him. The patient appears puzzled and does not seem to recognise her. She informs the doctor that over recent months he has become very confused and now cannot recall things such as his date of birth. Which of these indicates this patient does not have capacity?",
+    "options": [
+      "He cannot recall his date of birth",
+      "His decision is wrong",
+      "He does not recognise his daughter",
+      "He has been neglecting his own care at home",
+      "He is unable to weigh up the information"
+    ],
+    "correct_option": 4,
+    "explanation": "He is unable to weigh up the information\nPatients must have capacity to provide their view about their resuscitation. Capacity is situation and time specific and comprises being able to understand, weigh up, retain and communicate their decision. In this situation, it is unclear if the patient understands the information and he certainly cannot weigh up the information. Importantly, patients can have capacity to make specific decisions at one time then lack capacity at others, even at various times within the same day.\n\nHe cannot recall his date of birth\nThis might form evidence that the patient has cognitive impairment but it does not form part of a capacity assessment. Patients can be forgetful but still have capacity for specific decisions.\n\nHis decision is wrong\nIf the patient comes to a decision that differs from the advice of the medical team, this is not evidence of a lack of capacity.\n\nHe does not recognise his daughter\nWhile this is evidence that the patient is confused, he might still have capacity for a specific discussion about cardiopulmonary resuscitation.\n\nHe has been neglecting his own care at home\nAlthough he has been neglecting his own care at home, this on its own is not evidence of a lack of capacity.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "33cc9915-ff64-4d1a-a136-ce56c167c04e",
+    "stem": "You review a 48-year-old man who has a diagnosis of colorectal carcinoma. You are considering oxaliplatin therapy for his case. Which one of the following descriptions best fits with the use of oxaliplatin therapy?",
+    "options": [
+      "Concomitant folinic acid and 5-FU are usually prescribed",
+      "It is commonly used as monotherapy",
+      "Motor neuropathy is a common side-effect",
+      "Ototoxicity is not seen with this platinum derivative",
+      "Renal function monitoring is only advised in severe renal impairment"
+    ],
+    "correct_option": 0,
+    "explanation": "Concomitant folinic acid and 5-FU are usually prescribed\nOxaliplatin is licensed for the treatment of metastatic colorectal carcinoma in combination with fluorouracil and folinic acid and it is therefore not routinely administered as a monotherapy. It is given by intravenous infusion. The dose is limited by neurotoxicity (usually sensory polyneuropathy) and it does not usually cause a motor neuropathy. Other side-effects include GI toxicity, ototoxicity and myelosuppression. Renal function monitoring is advised in cases of moderate renal impairment. NICE guidance (from March 2002) recommends that oxaliplatin use be confined to those patients who have liver metastases only, and which might be amenable to surgical resection after chemotherapy. Irinotecan therapy may be considered in patients who have failed to respond to a platinum-containing therapy.\n\nIt is commonly used as monotherapy\nIt is commonly used as monotherapy is incorrect. Oxaliplatin is not routinely administered as a monotherapy. It is licensed for the treatment of colorectal carcinoma in combination with fluorouracil and folinic acid.\n\nMotor neuropathy is a common side-effect\nMotor neuropathy is a common side-effect is incorrect. Sensory polyneuropathy is commonly seen.\n\nOtotoxicity is not seen with this platinum derivative\nOtotoxicity is not seen with this platinum derivative is incorrect. Ototoxicity, myelosuppression, GI toxicity and neurotoxicity are in fact all seen with oxaliplatin.\n\nRenal function monitoring is only advised in severe renal impairment\nRenal function monitoring is only advised in severe renal impairment is incorrect. Renal function monitoring is advised in cases of moderate renal impairment.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "686ac770-7be6-488e-bfd3-ff878d7635c0",
+    "stem": "A 52-year-old woman is referred to the oncology clinic by the local general surgeon. She has undergone mastectomy for carcinoma of the right breast. Which one of the following factors is associated with a poor prognosis in patients with breast cancer?",
+    "options": [
+      "Low-grade tumour",
+      "Negative lymph node status",
+      "Oestrogen-receptor-positive tumour",
+      "Progesterone-receptor-positive tumour",
+      "Young age"
+    ],
+    "correct_option": 4,
+    "explanation": "Young age\nBreast cancer is the most common cancer in non-smoking women. Poor prognostic factors for breast cancer include: high-grade tumour, positive lymph node status, oestrogen-receptor-negative tumour, progesteronereceptor-negative tumour, young age (< 40 years), premenopausal at diagnosis and increased tumour size. Therefore low grade tumour, negative lymph node status, oestrogen-receptor-positive tumour and progesterone-receptor-positive tumour are incorrect as they are all good prognostic factors. The UK breast screening programme and improvements in therapy have improved survival rates, and more conservative approaches to surgery have vastly improved the psychosexual well-being in women who suffer from the disease. Radiotherapy is given to the conserved breast after wide local excision to reduce the risk of local recurrence; and after mastectomy if there are risk factors such as proximity to surgical margins or lymph node metastases. Adjuvant radiotherapy reduces the risk of local recurrence by 25% and improves survival by 3%. Pre-menopausal patients may be considered for endocrine therapy via oophorectomy, radiation-induced ovarian ablation or the use of a gonadotrophin-releasing hormone (GnRH) analogue, with additional tamoxifen, anti-oestrogens or progesterone. Post-menopausal patients may be given tamoxifen, progesterone or aromatase inhibitors. Chemotherapy is considered for those patients who are unlikely to respond to or fail to respond to hormonal therapy, or are at high risk of recurrence despite other therapies.\n\nLow-grade tumour\nLow-grade tumour is incorrect. High-grade tumour is associated with poor prognosis in breast cancer.\n\nNegative lymph node status\nNegative lymph node status is incorrect. Positive lymph node status is associated with poor prognosis in breast cancer.\n\nOestrogen-receptor-positive tumour\nOestrogen-receptor-positive tumour is incorrect. Oestrogen-receptor-negative tumour is associated with poor prognosis in breast cancer.\n\nProgesterone-receptor-positive tumour\nProgesterone-receptor-positive tumour is incorrect. Progesterone-receptor-negative tumour is associated with poor prognosis in breast cancer.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "435289fd-02a9-4355-82e5-bdb285e46301",
+    "stem": "An 87-year-old woman is admitted to hospital with pulmonary oedema. She has Parkinson’s disease, asthma, liver cirrhosis, heart failure and chronic kidney disease. Following attempts to treat her pulmonary oedema, her kidney function deteriorates and she is commenced on an end-of-life protocol. The Palliative Care team review her and find that she is complaining of aching in her chest. They suggest commencing analgesia via a subcutaneous syringe driver, but inform the team that they should prescribe oxycodone rather than morphine due to her comorbidities. Which comorbidity has primarily meant that oxycodone should be used rather than morphine?",
+    "options": [
+      "Chronic kidney disease",
+      "Asthma",
+      "Heart failure",
+      "Liver cirrhosis",
+      "Parkinson's disease"
+    ],
+    "correct_option": 0,
+    "explanation": "Chronic kidney disease\nMorphine should be avoided in renal impairment. Poor kidney function results in accumulation of morphine and the effects become increased and prolonged. Oxycodone is primarily metabolised in the liver and is therefore commonly used as an alternative when there is renal impairment. Oxycodone may be administered in a syringe driver.\n\nAsthma\nAsthma is not a contraindication for morphine use, but asthmatics should be cautious about using non-steroidal anti-inflammatory drugs (NSAIDs) or beta-blockers as these may induce an acute asthma attack.\n\nHeart failure\nMorphine can sometimes be helpful in treating pulmonary oedema and therefore it is not contraindicated in this case because of the heart failure alone.\n\nLiver cirrhosis\nSome medications such as NSAIDs should be avoided in liver disease. The dose of morphine might need to be reduced in liver failure but would not need to be avoided completely.\n\nParkinson's disease\nAntidopaminergic drugs, such as some antipsychotics and antiemetics, must be avoided in Parkinson’s disease as they block dopamine receptors; however, morphine is safe to give.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "e8105af0-6690-45c2-926f-6293839864cb",
+    "stem": "If there is no return of spontaneous circulation, how long should advanced life support be continued for after the fibrinolytic medication has been administered?",
+    "options": [
+      "Five minutes",
+      "60–90 minutes",
+      "Until the carbon dioxide wave capnography is 2.5 kPa",
+      "Until the venous blood gas result is no longer acidotic",
+      "Until the oxygen saturation reading shows 100%"
+    ],
+    "correct_option": 1,
+    "explanation": "60–90 minutes\nPulmonary embolus is a reversible cause of cardiac arrests. When this is suspected, a fibrinolytic drug should be administered, and cardiopulmonary resuscitation (CPR) should be continued for at least 60–90 minutes (unless there is return of spontaneous circulation sooner) to allow time for the drug to dissolve the embolus.\n\nFive minutes\nThis is an inadequate amount of time to allow a fibrinolytic agent to work. Many intravenous medications work in less time than five minutes (eg the action of intravenous morphine is felt instantaneously). The length of time that CPR must continue after having given a fibrinolytic agent is specifically much longer than this and often surprises doctors when they first encounter this in practice.\n\nUntil the carbon dioxide wave capnography is 2.5 kPa\nWave capnography indicates the efficiency of CPR and a rise in pressure can indicate a return of spontaneous circulation. A pressure of 2.5 kPa is low.\n\nUntil the venous blood gas result is no longer acidotic\nThe acidosis, although severe, does not impact on the time needed for the fibrinolytic agent to work.\n\nUntil the oxygen saturation reading shows 100%\nOther reversible causes of cardiac arrest, including hypoxia, should be optimised, but the CPR should not be stopped simply because this factor has been optimised.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "9c25c17c-b6e0-400b-b2e7-82ee2e1a1727",
+    "stem": "Some 3 months after completing a course of chemotherapy comprising cisplatin, bleomycin and etoposide for testicular cancer, a 24-year-old smoker presents with exertional dyspnoea, wheezing and a persistent nonproductive cough. On examination there are fine bilateral basal crackles. Which one of the following is the most likely diagnosis?",
+    "options": [
+      "Bleomycin toxicity",
+      "Idiopathic pulmonary fibrosis",
+      "Lung metastases",
+      "Multiple pulmonary embolisms",
+      "Tuberculosis"
+    ],
+    "correct_option": 0,
+    "explanation": "Bleomycin toxicity\nTesticular cancer is the most common solid tumour in men between 15 and 35 years of age. It is highly chemosensitive, and even disseminated testicular cancer has an 80% cure rate. Cisplatin is the mainstay of treatment and standard combinations usually include cisplatin, bleomycin and etoposide. Owing to the high cure rate, the issue of long-term complications from chemotherapy (survivorship) becomes important. Chronic lung damage secondary to bleomycin is rare but important as it can progress to pulmonary fibrosis and death. Bleomycin-induced pneumonitis usually occurs during therapy but can occur up to 6 months after therapy. Dyspnoea on exertion and non-productive cough are usually the earliest symptoms. Fine basal crepitations are a typical finding. Infective pneumonitis is the most important differential diagnosis. Although risk factors include smoking and thoracic radiation, the total drug dose is the most important factor.\n\nIdiopathic pulmonary fibrosis\nIdiopathic pulmonary fibrosis is incorrect. The young age of the patient would make idiopathic pulmonary fibrosis unlikely.\n\nLung metastases\nLung metastases is incorrect. The clinical symptoms and signs would be less suggestive of metastases, although these need to be excluded.\n\nMultiple pulmonary embolisms\nMultiple pulmonary embolisms (PEs) is incorrect. The clinical symptoms and signs would be less suggestive of multiple PEs, although these need to be excluded.\n\nTuberculosis\nTuberculosis is incorrect. There is nothing in the history to suggest tuberculosis, which would more commonly be associated with a productive cough, fevers and weight loss. Testicular Tumours A 45-year-old woman with end-stage cervical cancer comes to the Emergency Department complaining of intense itching. Her analgesia has recently been reviewed and she is currently taking regular paracetamol and using a 25 µg/hour fentanyl patch. She is currently taking a programmed cell death protein 1 (PD-1) inhibitor as immunotherapy. Examination reveals scratch marks on her arms, legs, chest and abdomen. Investigations.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "f0f99aab-3c08-4224-b032-59879d997624",
+    "stem": "A 59-year-old woman, who has breast cancer with spinal metastases, has been commenced on gabapentin for neuropathic pain affecting her left leg related to impingement on the L4 nerve root by a metastatic deposit. Which of the following most accurately represents the mode of action of gabapentin?",
+    "options": [
+      "Binds to the GABA-A receptor",
+      "Binds to the GABA-B receptor",
+      "Binds to the alpha-2-delta ( 2 ) of the voltage-gated calcium channel",
+      "Inhibits reuptake of serotonin",
+      "Inhibits acetylcholinesterase"
+    ],
+    "correct_option": 2,
+    "explanation": "Binds to the alpha-2-delta ( 2 ) of the voltage-gated calcium channel\nBinds to the alpha-2-delta ( 2 ) of the voltage-gated calcium channel αδ Gabapentin binds with high affinity to the 2 subunit of voltage-gated calcium channels and it is thought that binding to the 2 subunit may be involved in gabapentin's antiseizure effects in animals. Screening for other mechanisms of action does not suggest any other drug targets other than 2 . It is therefore hypothesised that this is how gabapentin also works in humans. αδ\n\nBinds to the GABA-A receptor\nαδ Binds to the GABA-A receptor Despite its name, gabapentin does not bind to the GABA-A or GABA-B receptor. Agonists at the GABA-A receptor are sedative and may reduce seizure frequency. Barbiturates in high doses, topiramate and zolpidem are examples of GABA-A receptor agonists.\n\nBinds to the GABA-B receptor\nBaclofen is an example of a GABA-B receptor agonist. It is widely used as a muscle relaxant in patients with painful muscle spasms, including in palliative care. Gaba-hydroxybutyric acid (GHB), an illegal recreational drug, is also a GABA-B receptor agonist.\n\nInhibits reuptake of serotonin\nCitalopram and paroxetine are examples of selective serotonin reuptake inhibitors (SSRIs) used in the treatment of depression. A range of SSRIs are licensed for the treatment of depression with some agents also having action on the cholinergic and adrenergic nervous system.\n\nInhibits acetylcholinesterase\nAcetylcholinesterase inhibitors block the breakdown of acetylcholine. They are used in the treatment of dementia (donepezil is an example), and in the treatment of myasthenia gravis (where pyridostigmine is used).",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "61de17f2-6fa0-4f62-bb1f-8f156541edc7",
+    "stem": "Which of the following is the most appropriate way to manage her analgesia?",
+    "options": [
+      "Add in carbamazepine 100 mg twice daily",
+      "Switch to fentanyl patch 37.5 µg/hour",
+      "Switch to meptazinol 200 mg four times daily",
+      "Switch to pregabalin 100 mg three times daily",
+      "Reduce morphine dose to 50 mg twice daily"
+    ],
+    "correct_option": 1,
+    "explanation": "Switch to fentanyl patch 37.5 µg/hour\nPain is a multi-factorial symptom which can be influence by physical, psychological, social and spiritual factors. It may occur in over 70% of patients with advanced cancer. Pain may be persistent or breakthrough (unpredictable or predictable). Pain in palliation may occur due to: direct pain from tumour cancer treatment procedures performed cause unrelated to cancer. A fentanyl patch is considered for patients treated with a stable dose of opiates, as seen here. This patient has stable pain but has increased drowsiness which may be related to morphine accumulation due to her impaired renal function. As such, a switch to fentanyl is appropriate; her morphine dose of 150 mg/day equates to a point in the middle of the 135–180 mg/day range to switch to 37 µg/hour of fentanyl. A typical dose conversion for fentanyl is shown below: 60–134 mg morphine = 25 µg/hour 135–179 mg = 37 µg/hour 180–224 mg = 50 µg/hour 225–269 mg = 62 µg/hour 270–314 mg = 75 µg/hour 315–359 mg = 87 µg/hour 360–404 mg = 100 µg/hour.\n\nAdd in carbamazepine 100 mg twice daily\nCarbamazepine is usually considered a first-line option for treatment of trigeminal neuralgia. It had previously been considered for treatment of painful diabetic neuropathy; however, other therapies, such as amitriptyline, duloxetine or gabapentin, now have much better evidence supporting their use.\n\nSwitch to meptazinol 200 mg four times daily\nMeptazinol is roughly equivalent in analgesic properties to tramadol and therefore would represent a significant step down in analgesia in comparison to the morphine dose used here. It is a partial opioid agonist which may lead to fewer symptoms of constipation in comparison to options such as codeine and dihydrocodeine.\n\nSwitch to pregabalin 100 mg three times daily\nPregabalin is a first-line option for the treatment of diabetic neuropathy and for other causes of neuropathic pain. In this case, there is no indication that this patient’s pain is due to nerve compression, and her pain is controlled. There is therefore no indication for switching to or adding pregabalin to her regimen.\n\nReduce morphine dose to 50 mg twice daily\nAlthough reducing this patient’s morphine dose may combat drowsiness, it may also precipitate a lack of pain control. As such, it is not the most appropriate intervention here. Switching to fentanyl is more appropriate because it should maintain pain control and reduce the likely morphine accumulation here, which is driving her somnolence.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "09f76030-8c44-40ba-aec3-6f7cb6cd2676",
+    "stem": "A 73-year-old man presented with palpitations of 2 days duration. He felt mildly dizzy but had no chest pain or breathlessness. On examination pulse rate was approximately 130bpm, irregularly irregular, and blood pressure was 118/74mmHg. He was diagnosed with fast atrial fibrillation and treated successfully with DC cardioversion. He was discharged on amiodarone to maintain sinus rhythm. Which of the following is a known side effect of amiodarone?",
+    "options": [
+      "Bronchiectasis",
+      "Corneal deposits",
+      "Gallstones",
+      "Retinitis pigmentosa",
+      "Shortened QT interval"
+    ],
+    "correct_option": 1,
+    "explanation": "Corneal deposits\nAmiodarone can cause microdeposits in the cornea; this is also termed vortex keratopathy. They rarely lead to visual impairment. Other well-documented side effects of amiodarone are pulmonary fibrosis, hepatotoxicity, hyper- or hypothyroidism, lengthening of the QT interval, and pancreatitis.\n\nBronchiectasis\nBronchiectasis is incorrect. Amiodarone does have significant pulmonary toxicity, but it causes pulmonary fibrosis, not bronchiectasis. Other well-documented side effects of amiodarone include hepatotoxicity, hyper- or hypothyroidism, lengthening of the QT interval, corneal deposits, and pancreatitis.\n\nGallstones\nGallstones is incorrect. Amiodarone does cause hepatotoxicity but it is via disturbance to lipids, lysosomes and mitochondria (i.e., at a cellular level rather than via the macro level of gallstones). There is no increased risk of gallstones with amiodarone. Well-documented side effects of amiodarone are hepatotoxicity, corneal microdeposits, pulmonary fibrosis, hyper- or hypothyroidism, lengthening of the QT interval, and pancreatitis.\n\nRetinitis pigmentosa\nRetinitis pigmentosa is incorrect. Retinitis pigmentosa is an inherited condition and leads to progressive peripheral visual loss and eventual blindness. It is not an acquired condition, and therefore is not linked to amiodarone therapy. The most common ocular complication of amiodarone is corneal microdeposits (or vortex keratopathy); these rarely cause visual loss. Other well-documented side effects of amiodarone include hepatotoxicity, pulmonary fibrosis, hyper- or hypothyroidism, lengthening of the QT interval, and pancreatitis.\n\nShortened QT interval\nShortened QT interval is incorrect. In fact amiodarone causes a lengthened QT interval, hence its effects as an anti-arrhythmic medication. Other well-documented side effects of amiodarone include corneal microdeposits, hepatotoxicity, pulmonary fibrosis, hyper- or hypothyroidism, lengthening of the QT interval, and pancreatitis.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "95e75cce-abb1-4326-b3b9-6f0bfa906be1",
+    "stem": "A 40-year-old man had a right hemicolectomy for a Dukes C colorectal adenocarcinoma. A complete excision was achieved and he received 6 months of adjuvant chemotherapy treatment. During his routine follow-up what is the most appropriate tumour marker that should be looked for in addition to regular radiological surveillance?",
+    "options": [
+      "Alpha-fetoprotein (AFP)",
+      "CA19-9",
+      "Carcinoembryonic antigen (CEA)",
+      "Prostate specific antigen (PSA)",
+      "Urinary 5HIAA"
+    ],
+    "correct_option": 2,
+    "explanation": "Carcinoembryonic antigen (CEA)\nCEA is the most reliable tumour marker for the detection of colorectal carcinoma and is routinely used in the post surgical follow-up. It may also less commonly be elevated in other gastrointestinal malignancies, as well as some non-neoplastic conditions such as inflammatory bowel disease. Therefore it is not sufficiently specific to be utilised as a screening tool.\n\nAlpha-fetoprotein (AFP)\nAFP is incorrect. AFP is elevated in non-seminomatous germ cell tumours and hepatocellular carcinoma.\n\nCA19-9\nCA19-9 is incorrect. CA19-9 is a carbohydrate cell surface antigen that can be elevated in colorectal carcinoma but is less sensitive than CEA – it is often elevated in tumours of the pancreas and gallbladder and other gastrointestinal tumours.\n\nProstate specific antigen (PSA)\nPSA is incorrect. PSA is a marker for prostate cancer.Urinary 5HIAA\nUrinary 5HIAA is incorrect. Urinary 5HIAA is elevated in some neuroendocrine (carcinoid tumours).",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "ccb99e04-3447-4a3e-9903-884657628f07",
+    "stem": "A 65-year-old man presents to his General Practitioner with worsening shortness of breath, difficulty swallowing and increasing muscle weakness. He has a known diagnosis of motor neurone disease (MND) and is concerned about managing his symptoms as he approaches the end of life. What is the best initial approach to manage his breathlessness?",
+    "options": [
+      "Invasive ventilation",
+      "Non-invasive ventilation",
+      "Opioids for breathlessness",
+      "Percutaneous endoscopic gastrostomy tube insertion",
+      "Riluzole"
+    ],
+    "correct_option": 1,
+    "explanation": "Non-invasive ventilation\nNon-invasive ventilation (NIV), such as bilevel positive airway pressure (BiPAP), can effectively alleviate symptoms of breathlessness without the need for intubation or tracheostomy. It supports respiratory function by delivering air through a mask, which can be more comfortable and less invasive than other methods. For MND patients experiencing significant respiratory distress at end-of-life, NIV often improves comfort and quality of life without extensive intervention.\n\nInvasive ventilation\nInvasive ventilation involves intubation and mechanical support for breathing via a tracheostomy tube. While it can provide respiratory support, it is typically not recommended in MND patients approaching end-of-life due to the invasiveness of the procedure, potential complications, and impact on quality of life.\n\nOpioids for breathlessness\nOpioids effectively manage dyspnoea by reducing the sensation of breathlessness through central mechanisms in the brainstem. They are particularly useful in palliative care settings where non-pharmacological methods have failed to provide relief. However, they should be used with caution due to potential side effects such as sedation or constipation.\n\nPercutaneous endoscopic gastrostomy tube insertion\nPercutaneous endoscopic gastrostomy tube insertion helps with nutrition but does not directly address acute symptoms like shortness of breath or immediate dysphagia management at end-of-life stages in MND patients. It may be considered earlier in disease progression but is not an immediate solution for current symptom management.\n\nRiluzole\nRiluzole is the only medication that has shown efficacy in extending the life of patients with motor neuron diseases. However, it would not immediately address the current problem of shortness of breathing as noninvasive ventilation.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "f5e04ae1-4536-46d8-b3cc-c0bbe78401b3",
+    "stem": "A 49-year-old woman who is 12 months post-chemotherapy for carcinoma of the breast comes to the clinic for review. The regime included use of trastuzumab. She has significant shortness of breath, which has increased over the past 4 weeks. On examination her BP is 135/80 mmHg, pulse 92 bpm regular. Her JVP is raised 6 cm and she has bilateral ankle swelling. Respiratory examination revealed bibasal crackles. Which one of the following is the most likely diagnosis?",
+    "options": [
+      "Chemotherapy-related cardiac failure",
+      "Chemotherapy-related pulmonary fibrosis",
+      "Lymphangitis carcinomatosis",
+      "Malignant pleural effusion",
+      "Radiotherapy-related pulmonary fibrosis"
+    ],
+    "correct_option": 0,
+    "explanation": "Chemotherapy-related cardiac failure\nERB-B2 (HER2) expression may be crucial in preventing the development of dilative cardiomyopathy; hence use of an inhibitor such as trastuzumab is likely to result in increased risk of cardiac failure. Although it would seem somewhat surprising that this woman presented 12 months after chemotherapy, one study showed that patients with early signs of cardiomyopathy developed worsening symptoms of heart failure over time.\n\nChemotherapy-related pulmonary fibrosis\nChemotherapy-related pulmonary fibrosis is incorrect. Chemotherapy-related pulmonary fibrosis is a side-effect of bleomycin chemotherapy which is not indicated in the management of breast cancer.\n\nLymphangitis carcinomatosis\nLymphangitis carcinomatosis is incorrect. If the JVP was not raised then lymphangitis or pulmonary infiltration would have been a consideration.\n\nMalignant pleural effusion\nMalignant pleural effusion is incorrect. Malignant pleural effusion is not in keeping with the examination findings described (bibasal crepitations).\n\nRadiotherapy-related pulmonary fibrosis\nRadiotherapy-related pulmonary fibrosis is incorrect. Radiotherapy-related pulmonary fibrosis could be considered, but there is no description of this patient receiving radiotherapy. Learning objective: Trastuzumab therapy predisposes to the development of left ventricular impairment. Monitoring with echocardiograms is essential before and during therapy, and a high index of suspicion for patients presenting with shortness of breath after previous treatment. Reference: Journal of Clinical Oncology 2007; Volume 25, Number 23, 3525-3533.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "053c6739-78ed-47d8-a415-84519acebe9c",
+    "stem": "A 65-year-old man presents to the General Practitioner with worsening fatigue, weight loss and a persistent cough. He has a history of advanced non-small cell lung cancer and is currently undergoing palliative chemotherapy. On examination, he appears cachectic, with mild jaundice and hepatomegaly. What is the most likely cause of his symptoms?",
+    "options": [
+      "Chemotherapy-induced anaemia",
+      "Hepatic metastases",
+      "Paraneoplastic syndrome",
+      "Pulmonary embolism",
+      "Tumour lysis syndrome"
+    ],
+    "correct_option": 1,
+    "explanation": "Hepatic metastases\nAdvanced non-small cell lung cancer frequently metastasises to the liver, which can result in hepatic dysfunction, leading to jaundice due to impaired bilirubin metabolism. Additionally, hepatomegaly due to metastatic deposits can cause abdominal discomfort or pai,n contributing further to his cachexia (weight loss). The combination of these findings aligns well with the patient's presentation.\n\nChemotherapy-induced anaemia\nWhile chemotherapy can lead to anaemia through bone marrow suppression, it typically presents with symptoms such as pallor, dyspnoea on exertion and generalised weakness rather than jaundice or hepatomegaly. Moreover, anaemia would not explain the weight loss that this patient is experiencing.\n\nParaneoplastic syndrome\nAlthough paraneoplastic syndromes are associated with various malignancies, including lung cancer, they often present with systemic manifestations like endocrinopathies (eg SIADH), neurological syndromes or dermatological conditions that do not usually cause jaundice or significant hepatomegaly.\n\nPulmonary embolism\nPulmonary embolism might present in patients with malignancy due to hypercoagulability, but it primarily manifests as acute onset dyspnoea, chest pain and possibly haemoptysis rather than chronic symptoms like persistent cough over time accompanied by systemic signs such as jaundice or hepatomegaly.\n\nTumour lysis syndrome.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "6edec27d-98f1-437c-a671-5a550545df18",
+    "stem": "A 72-year-old man with widespread bony metastases from prostatic carcinoma is admitted to the Emergency Department for pain control. Current medications include 60 mg of morphine slow release (MST) BD, with paracetamol and naproxen. On examination his BP is 100/60 mmHg, pulse is 85/min and regular; he looks agitated and in pain. His BMI is 21, he is on a pressure-relieving mattress, but there are obvious sores on his back beginning to appear. A decision is taken to switch to a subcutaneous morphine syringe driver over a 24-hour period. Which of the following is the appropriate dose?",
+    "options": [
+      "20 mg",
+      "30 mg",
+      "40 mg",
+      "60 mg",
+      "120 mg"
+    ],
+    "correct_option": 3,
+    "explanation": "60 mg\nGuidance suggests that a dose reduction of 50% is appropriate when morphine is delivered subcutaneously versus orally, to take account of incomplete oral drug absorption. In this case 120 mg of morphine delivered as MST would be reduced to a dose of 60mg S/c per 24 hrs. For calculating dose reduction when oral morphine is converted to subcutaneous diamorphine, the oral morphine dose should be divided by 3 (reduced by 66%). Although this patient is likely to require higher doses to achieve pain control, an accurate estimate of how much to increase the opiate dose by is difficult to provide, given that he has only just arrived in the Emergency Department; a period of clinical evaluation with pain scoring is needed.\n\n20 mg\n20 mg is incorrect. A daily dose of 20 mg would be inadequate.\n\n30 mg\n30 mg is incorrect. A daily dose of 30 mg would be inadequate.\n\n40 mg\n40 mg is incorrect. A daily dose of 40 mg would be inadequate. Analgesia120 mg\n120 mg is incorrect. Although this is the same total daily dose as currently, it would be expected to cause greater opioid effects due to higher bioavailablity after subcutaneous rather than oral administration. This may result in significant opioid toxicity.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "d5afbca0-22a4-4d74-8e12-c7f9fe4b8834",
+    "stem": "A 64-year-old woman is admitted with urosepsis. She has advanced multiple sclerosis and has a suprapubic catheter in situ. She states that she does not want to know if she is dying. Her clinical state worsens despite antibiotic treatment and she appears to enter her final days of life. What is the most appropriate action?",
+    "options": [
+      "Ask a family member to inform the patient about the prognosis",
+      "Ask a nurse to inform the patient about the prognosis",
+      "Assume the patient has no capacity and make a Best Interests Decision in conjunction with the",
+      "Respect the patient’s wishes not to be informed",
+      "Tell the patient the prognosis because she might wish to state her preferred place of death"
+    ],
+    "correct_option": 3,
+    "explanation": "Respect the patient’s wishes not to be informed\nThe National Institute for Health and Care Excellence (NICE) guidance advises that the prognosis should be discussed with dying patients unless they do not wish to be informed. The patient’s reasoning should be explored, and they should be provided with opportunities to change their mind. It is important to ask if information can be shared with the people who are important to them and whether they have an Advanced Directive.\n\nAsk a family member to inform the patient about the prognosis\nA member of the multidisciplinary team should discuss the patient’s prognosis with them unless they do not wish to be informed. It would be inappropriate to ask a family member to do this unless the patient has requested this, and the family member agrees.\n\nAsk a nurse to inform the patient about the prognosis\nThe most appropriate member of the team to be discussing the patient’s prognosis is usually the patient’s consultant who will be best equipped to discuss and answer questions.\n\nAssume the patient has no capacity and make a Best Interests Decision in conjunction with the\nAssume the patient has no capacity and make a Best Interests Decision in conjunction with the family There is no suggestion in this scenario that this patient lacks capacity, although it is always reasonable to check whether a patient has capacity when decision making.\n\nTell the patient the prognosis because she might wish to state her preferred place of death\nThe patient’s wishes should be respected even if the multidisciplinary team or family members disagree with the decision. 18 53.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "6207cd53-0b9b-4e98-bb05-e7b65c58366f",
+    "stem": "Which of the following is the most likely cause of this patient’s itching?",
+    "options": [
+      "Dermatitis artefacta",
+      "Fentanyl",
+      "Paraneoplastic dermatitis",
+      "PD-1 inhibitor related skin disease",
+      "Renal impairment"
+    ],
+    "correct_option": 1,
+    "explanation": "Fentanyl\nFentanyl is well recognised as a cause of generalised itching. In addition to itching, increased sweating and a rash with erythema are also seen. It is thought that fentanyl causes itching in part because of a high level of lipid solubility. Some opiates, including fentanyl, may also promote mast cell degranulation and subsequent skin inflammation.\n\nDermatitis artefacta\nDermatitis artefacta is a condition characterised by skin lesions which are solely produced or inflicted by the patient’s own actions. Examination of the skin often reveals linear scratch marks. It is not suggested here by the presentation with general itching and scattered scratch marks.\n\nParaneoplastic dermatitis\nA number of dermatoses are associated with cancer. With respect to gynaecological cancers, ovarian cancer is associated with dermatomyositis. Haematological malignancies may be associated with a range of skin lesions, including paraneoplastic pemphigus, pyoderma gangrenosum and pityriasis rotunda.\n\nPD-1 inhibitor related skin disease\nAlthough an eczema-like rash is seen in patients prescribed immune checkpoint inhibitors, including phosphodiesterase 1 (PDE-1) inhibitors, itching is very frequently described with fentanyl, and given analgesia has recently been reviewed, this is the most likely cause of the patient’s symptoms.\n\nRenal impairment\nThe elevation in creatinine here is very modest; it is therefore unlikely that renal impairment is likely to be the cause of the patient’s symptoms. Itching related to uraemia is usually seen at much greater levels of renal impairment.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "e8520877-8f52-49d3-a8e2-8ad5cbfc98a5",
+    "stem": "An 82-year-old woman is referred to hospital by her General Practitioner due to pain which has been resistant to oral agents. She has metastatic breast cancer with deposits in her brain which have caused seizures. For the last six months, she has been taking lamotrigine as seizure prophylaxis. Two months ago, she had a trial without the lamotrigine, but she suffered a seizure within 72 hours of stopping the medication. While her analgesia is being uptitrated, she develops hospital-acquired pneumonia which does not with antibiotics. She becomes unresponsive and is commenced on an end-of-life pathway which includes a subcutaneous syringe driver containing morphine sulphate. Her Palliative Care Consultant advises that her lamotrigine should be switched to midazolam for maintenance therapy. What is the most appropriate way to administer her seizure prophylaxis?",
+    "options": [
+      "Add subcutaneous midazolam to existing syringe driver",
+      "Commence a second syringe driver in the other arm containing midazolam",
+      "Intravenous (IV) midazolam",
+      "Buccal midazolam",
+      "Stop subcutaneous morphine sulphate and start subcutaneous midazolam"
+    ],
+    "correct_option": 0,
+    "explanation": "Add subcutaneous midazolam to existing syringe driver\nIn dying patients who are unable to take oral medications, it is preferable for any interventions to be as minimally invasive as possible. It is possible to add midazolam to syringe drivers if it does not interact with other medications. This avoids the need for intravenous cannulation or other more distressing methods of administering medication.\n\nCommence a second syringe driver in the other arm containing midazolam\nMorphine and midazolam are compatible to be given through the same syringe driver and adding a second syringe driver would be an unnecessary invasive procedure.\n\nIntravenous (IV) midazolam\nIt would be unnecessary to insert an IV cannula in this patient who is thought to be in the last days of her life.\n\nBuccal midazolam\nBuccal midazolam is an option in the acute management of seizures when there is no IV access; however, this would not be a good option for chronic seizure prophylaxis. 9 33.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "99fdcdec-0d3a-4f95-b310-bc8e7a7ef9e5",
+    "stem": "A 79-year-old woman is newly diagnosed with metastatic breast cancer. She is offered palliative chemotherapy, but advised that there are no curative options for her and her prognosis is likely to be limited to a few years. She understands her treatment options and declines a palliative care referral. Who out of the following would be the most appropriate person for the patient to have a discussion with regarding a do not attempt to resuscitate (DNAR) form?",
+    "options": [
+      "An accident and emergency doctor on admission to hospital",
+      "The General Practitioner (GP) or specialist managing her condition",
+      "A palliative care consultant",
+      "Resuscitation officer",
+      "Family members"
+    ],
+    "correct_option": 1,
+    "explanation": "The General Practitioner (GP) or specialist managing her condition\nDNAR decisions should be discussed with palliative patients prior to any deterioration when they are able to consider and communicate their wishes. It is most appropriate for a healthcare worker who knows the patient and their condition best to lead the discussion.\n\nAn accident and emergency doctor on admission to hospital\nIdeally, a DNAR decision should be discussed prior to any deterioration but sometimes when this has not been done, the conversation is held upon admission to hospital.\n\nA palliative care consultant\nIf the patient has been seeing the palliative care consultant a lot, then this might be appropriate, but she does not wish to be referred to palliative care. Generally, it would be more appropriate for the GP or specialist managing the condition to have the discussion.\n\nResuscitation officer\nResuscitation officers support hospital teams in the education and practice of advanced life support. For the discussions surrounding DNAR, it is more appropriate for the senior healthcare worker to discuss this with the patient.\n\nFamily members\nDNAR conversations should be led by healthcare workers. It can sometimes be helpful if family members are present (if the patient is agreeable to this) but it would be inappropriate for family members to lead the conversation.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "5a580b2c-654f-4929-bc03-518725357656",
+    "stem": "A 62-year-old woman presents to the Oncology Clinic with chronic pain following left nephrectomy for renal carcinoma. She has bony pain from metastatic disease, and it is planned to start her on meptazinol. Which of the following is the correct advice with respect to potential constipation?",
+    "options": [
+      "Advise increased oral fluids only",
+      "Start regular ispaghula husk",
+      "Start regular lactulose",
+      "Start regular macrogol",
+      "Start regular senna"
+    ],
+    "correct_option": 4,
+    "explanation": "Start regular senna\nA stimulant laxative, such as senna, is the initial preferred intervention for preventing opiate-induced constipation and is recommended by National Institute for Health and Care Excellence (NICE) palliative care guidelines. Lactulose or macrogol can be added to senna in the event that the stimulant laxative alone is inadequate in constipation prevention.\n\nAdvise increased oral fluids only\nNICE palliative care guidelines recommend starting a stimulant laxative at the same time as starting an opiate analgesic because it is easier to manage constipation proactively and prevent its onset rather than give medication once it has occurred. Increasing oral fluids, increasing soluble fibre intake and limiting caffeine are all sensible lifestyle interventions.\n\nStart regular ispaghula husk\nIspaghula husk is a fibre supplement used in the treatment of constipation. It is less effective compared with stimulant alternatives and is not recommended for prevention of constipation in the context of opiate use.\n\nStart regular lactulose\nLactulose is an osmotic laxative; it can be used in conjunction with a stimulant laxative to treat opiate-induced constipation, although it is not a first-line intervention. It is less effective in prevention of opiate-induced constipation in comparison to a stimulant such as senna.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "997a5090-dcfe-47f2-965d-770d650ecb6e",
+    "stem": "A 74-year-old former plumber is admitted to the Emergency Department with severe constipation. He is taking 120 mg slow-release morphine twice daily for pain from a mesothelioma. He has been taking senna but has severe colic and has still been unable to open his bowels. Which of the following is the most appropriate next step?",
+    "options": [
+      "Phosphate enema",
+      "Reduced morphine dose",
+      "Sodium docusate",
+      "Sodium picosulphate",
+      "Switch to fentanyl patch"
+    ],
+    "correct_option": 2,
+    "explanation": "Sodium docusate\nSodium docusate is a wetting agent recommended as additional therapy on top of a stimulant laxative in patients with opiate-induced constipation. An osmotic laxative, such as lactulose, can be added as an alternative.\n\nPhosphate enema\nA phosphate enema should only be considered if addition of a surface-wetting laxative such as sodium docusate or lactulose has been unsuccessful in relieving constipation. In this case, increasing oral therapy first is the preferred next intervention.\n\nReduced morphine dose\nAlthough reducing this patient’s opiate dose will impact on his symptoms of constipation, it is likely to precipitate a worsening of his pain control. Increasing oral medication for constipation is a more appropriate next step.\n\nSodium picosulphate\nSodium picosulphate is used as bowel preparation in patients undergoing colonoscopy. It can precipitate severe loss of fluid and electrolytes into the gastrointestinal (GI) tract. It is not therefore recommended as a treatment for constipation. 2 16.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "66d72426-5c72-4f24-b0ad-115230cb45be",
+    "stem": "Which of the following is the most appropriate anti-emetic intervention?",
+    "options": [
+      "Cyclizine",
+      "Haloperidol",
+      "Metoclopramide",
+      "Ondansetron",
+      "Prochlorperazine"
+    ],
+    "correct_option": 0,
+    "explanation": "Cyclizine\nCyclizine is the recommended antiemetic for patients with intracranial pathology in the National Institute for Health and Care Excellence (NICE) guidelines for palliative care. It can be given orally, subcutaneously and intravenously at a dose of 50 mg to relieve symptoms of nausea and vomiting. It also has the advantage in this patient that it does not lead to QT prolongation.\n\nHaloperidol\nHaloperidol is particularly recommended in NICE guidelines for patients who are vomiting due to hypercalcaemia. This is because hypercalcaemia leads to D2 receptor stimulation, and haloperidol is a potent D2 receptor antagonist. A starting dose of 0.5 mg is recommended.\n\nMetoclopramide\nMetoclopramide is a prokinetic antiemetic. It is known to prolong the QT interval and is contraindicated in patients with inherited long-QT syndrome. It is also not recommended in young patients because of risks of causing acute dystonia. In patients with intracranial disease cyclizine is the preferred intervention.\n\nOndansetron\nOndansetron is contraindicated here because of risks of QT prolongation. In addition, it is less effective versus cyclizine for patients with intracranial pathology.\n\nProchlorperazine\nProchlorperazine is associated with acute dystonic reactions due to its dopamine antagonist effects. It is also known to prolong the QT interval. For both of these reasons, it is not recommended as a treatment option here. Anti-Emetics.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "90978eef-886f-4ddc-b44e-4534adf67eed",
+    "stem": "A 40-year-old man comes to the neurology clinic for review. He has a diagnosis of motor neurone disease and had rapidly deteriorating symptoms. Most recently he complained of snoring and choking at night, and has been given a non-invasive ventilation machine. He asks about possible drug interventions that may prolong his life as he is desperate to spend more time with his children. Which of the following agents has a positive effect on life expectancy?",
+    "options": [
+      "Galantamine",
+      "Memantine",
+      "Natalizumab",
+      "Rabeprazole",
+      "Riluzole"
+    ],
+    "correct_option": 4,
+    "explanation": "Riluzole\nThe exact mode of action of riluzole has not been established, but it is thought to interfere with glutamate action, and glutamate itself is thought to play a role in the pathogenesis of motor neurone disease. In clinical trials riluzole has shown a small impact on survival, conferring on average a further three months’ survival. Riluzole is the only pharmacological disease-modifying therapy (non-invasive ventilation also confers a survival benefit).\n\nGalantamine\nGalantamine is incorrect. It is usually used for mild to moderate cognitive impairment, and does not have any disease-modifying effects in motor neurone disease.\n\nMemantine\nMemantine is incorrect. It is an NMDA receptor antagonist used in moderate to severe dementia. As memantine inhibits the actions of glutamate, it has shown promise in mouse models of motor neurone disease; however, it has not been proved efficacious in human trials.\n\nNatalizumab\nNatalizumab is incorrect. This is a monoclonal antibody therapy (also known as Tysabri) used in multiple sclerosis and occasionally Crohn’s disease. It does not have a role in the treatment of motor neurone disease.\n\nRabeprazole\nRabeprazole is incorrect. It is a proton pump inhibitor and is not used for the treatment of motor neurone disease.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "ce58a646-77e2-414e-853d-30525021d2a4",
+    "stem": "A 67-year-old male presents with a 3-week history of progressive headache and vomiting in the mornings. You suspect he may have glioblastoma multiforme and arrange appropriate imaging. Which is the most likely location of glioblastoma multiforme within the brain?",
+    "options": [
+      "Basal ganglia",
+      "Cerebellum",
+      "Cerebrum",
+      "Pons",
+      "Ventricle wall"
+    ],
+    "correct_option": 2,
+    "explanation": "Cerebrum\nGlioblastoma multiforme occur most often in the subcortical white matter of the cerebral hemispheres; most frequently affected sites are in the temporal (31%), parietal (24%), frontal (23%) and occipital (16%) lobes. A combined frontotemporal location is particularly common.\n\nBasal ganglia\nBasal ganglia is incorrect. For the reasoning as described, the most likely location is the cerebrum.\n\nCerebellum\nCerebellum is incorrect. For the reasoning as described, the most likely location is the cerebrum.\n\nPons\nPons is incorrect. For the reasoning as described, the most likely location is the cerebrum.\n\nVentricle wall\nVentricle wall is incorrect. For the reasoning as described, the most likely location is the cerebrum.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "7281507c-979e-4d0d-9c66-b3247c7a0720",
+    "stem": "A 62-year-old man with non-small-cell lung cancer comes to the multi-disciplinary clinic for assessment with respect to possible right pneumonectomy. According to guidelines, which of the following is likely to represent the most significant barrier to pneumonectomy?",
+    "options": [
+      "FEV1 of 1.7 l",
+      "Hypercalcaemia",
+      "Myocardial infarction 3 years earlier",
+      "Neuropathy",
+      "Syndrome of inappropriate ADH secretion"
+    ],
+    "correct_option": 0,
+    "explanation": "FEV1 of 1.7 l\nFEV 1 of less than 2.0 l for pneumonectomy or less than 1.5 l for lobectomy may significantly impact on ability to proceed to surgery. In this case, with an FEV 1 of 1.7 l, transfer factor assessment is likely to be required, and a shuttle walk test.\n\nHypercalcaemia\nHypercalcaemia is incorrect. Ectopic PTH production causing hypercalcaemia may resolve after removal of the primary tumour and as such should not be a barrier to pneumonectomy.\n\nMyocardial infarction 3 years earlier\nMyocardial infarction 3 years earlier is incorrect. The greatest operative risk occurs in the first 6 weeks after the event.\n\nNeuropathy\nNeuropathy is incorrect. Ectopic PTH production causing neuropathy may resolve after removal of the primary tumour and as such should not be a barrier to pneumonectomy.\n\nSyndrome of inappropriate ADH secretion\nSyndrome of inappropriate ADH (SIADH) secretion is incorrect. Ectopic ADH production causing SIADH may resolve after removal of the primary tumour and as such should not be a barrier to pneumonectomy.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "95e01b8d-4217-4cce-be22-6ddae02207c8",
+    "stem": "Which of the following is the most appropriate intervention for this patient’s pain control?",
+    "options": [
+      "Calcitonin 100 U subcutaneously",
+      "Fentanyl patch 75 µg/hour",
+      "Increased morphine dose to 50 mg bd",
+      "Prednisolone 40 mg orally",
+      "Intravenous (IV) zolendronate 4 mg"
+    ],
+    "correct_option": 4,
+    "explanation": "Intravenous (IV) zolendronate 4 mg\nZolendronate is indicated for use in breast cancer with extensive local disease, where bisphosphonates are thought to delay the development of bony metastases. It is also thought to positively impact on bone pain where patients have metastatic disease related to breast cancer. The specialist dose of 4 mg IV every 3–4 weeks would be indicated here.\n\nCalcitonin 100 U subcutaneously\nThe main use of calcitonin, where it is available, is for the urgent treatment of hypercalcaemia of malignancy. Many breast cancer cell lines express the calcitonin receptor and it is unknown whether calcitonin use may actually increase metastases from a primary tumour. Although the calcium here is raised, it is not raised to precipitously high levels.\n\nFentanyl patch 75 µg/hour\nA fentanyl patch is most useful in patients on stable morphine who cannot continue to take it either because of adverse events or because of a deterioration in renal function. 75 µg/hour corresponds to a morphine dose of between 270 and 314 mg/day; therefore, this option would run the risk of a morphine overdose.\n\nIncreased morphine dose to 50 mg bd\nIncreasing the morphine dose here may pain control, but this will be at the expense of drowsiness and potential gastrointestinal side-effects associated with opiate use. A better solution here is a bisphosphonate which, in a patient with disseminated bony metastases, will reduce bone pain and may slow down progression of disease.\n\nPrednisolone 40 mg orally\nPrednisolone will minimally impact on pain here and will accelerate loss of bone mineral density. It is not useful in treating pain from bony metastases. The main use of corticosteroids in treating cancer pain is in pain related to cerebral oedema, or in liver capsule pain.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "ae150ecb-8cf5-438e-8e52-59f6c70cbeb1",
+    "stem": "A 54-year-old woman with metastatic carcinoma of the breast presents to the clinic with worsening pain in her back and ribs; she has known bony metastases in the area. Current medication includes 100 mg of Morphine slow release (MST) bd with top-up doses of 30 mg oral morphine as required. She also takes regular paracetamol. Which one of the following additional steps would you take next to control her pain?",
+    "options": [
+      "Continue oral morphine and prescribe naproxen",
+      "Increase dose/frequency of oral morphine top-ups",
+      "Increase dose of MST",
+      "Start diamorphine syringe driver",
+      "Start fentanyl patches"
+    ],
+    "correct_option": 0,
+    "explanation": "Continue oral morphine and prescribe naproxen\nGiven guidance on the multi-modal approach to pain relief, addition of a NSAID is the most appropriate next step. They may be particularly effective in managing pain from bony metastases. Depending on how well localised the metastases are, local radiotherapy may also be highly effective in controlling pain.\n\nIncrease dose/frequency of oral morphine top-ups\nIncrease dose/frequency of oral morphine top-ups is incorrect. Increasing the dose or frequency of oral morphine may be effective, but combination of opioids and NSAIDs is more likely to be effective and minimises the dose of opioids required.\n\nIncrease dose of MST\nIncrease dose of MST is incorrect. Increasing the dose of morphine sulfate (MST) would normally only be undertaken once the pain had been stabilised by morphine top-up therapy so that the dose can be ascertained. This is to minimise the risk of overdose due to day-to-day variability in analgesic requirements.\n\nStart diamorphine syringe driver\nStart diamorphine syringe driver is incorrect. A diamorphine syringe driver should normally only be commenced if the patient is unable to tolerate oral analgesia.\n\nStart fentanyl patches\nStart fentanyl patches is incorrect. Fentanyl patches would be an option once the pain had been stabilised through a combination of shorter-acting analgesics so that the optimal daily dose could be ascertained.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "19855892-f084-4ada-8eb3-bbec3f7fcaff",
+    "stem": "A 56-year-old woman has metastatic ovarian cancer. She is admitted to hospital for palliative chemotherapy and complains of persistent nausea and abdominal pain. She has not opened her bowels for five days. She is reviewed by the Palliative Care Clinical Nurse Specialist who thinks that the nausea and abdominal pain is likely due to the large ovarian mass in her abdomen. She suggests commencing metoclopramide subcutaneously over 24 hours. What contraindication should be checked for prior to administering metoclopramide?",
+    "options": [
+      "Bowel obstruction",
+      "Cardiac disease",
+      "Congenital long QT syndrome",
+      "Constipation",
+      "Parkinson’s disease"
+    ],
+    "correct_option": 0,
+    "explanation": "Bowel obstruction\nMetoclopramide is a prokinetic agent and improves nausea by promoting gastric emptying and intestinal motility. If there is a bowel obstruction, increasing intestinal motility would not be helpful and this is thus listed as a contraindication in the British National Formulary.\n\nCardiac disease\nThe antiemetic domperidone is contraindicated in cardiac disease.\n\nCongenital long QT syndrome\nThe antiemetics ondansetron and haloperidol are both contraindicated in patients with congenital long QT syndrome.\n\nConstipation\nConstipation is a common side-effect from ondansetron use and therefore is not advisable if the patient is already constipated. Anti-EmeticsA 45-year-old woman who is currently 4 weeks into a course of post-operative radiotherapy for locally advanced cervical carcinoma is admitted with abdominal pain and diarrhoea. Which one of the following is the most likely cause of the clinical picture?\n\nParkinson’s disease\nHaloperidol can worsen symptoms in Parkinson’s disease and is therefore contraindicated. Prolonged use of metoclopramide may sometimes cause Parkinsonism as a side-effect, but it is not contraindicated if the patient has Parkinson’s disease but should be used with caution due to aggravating symptoms.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "51d07772-1988-4e96-b194-0517d52f1a8d",
+    "stem": "Which of the following is the most appropriate next step with respect to analgesia?",
+    "options": [
+      "Oral dexamethasone",
+      "Diamorphine and midazolam syringe driver",
+      "Diclofenac per rectum (PR)",
+      "Femoral nerve block",
+      "Fentanyl patch"
+    ],
+    "correct_option": 3,
+    "explanation": "Femoral nerve block\nGiven this patient has a limited prognosis and is suffering severe pain from the pathological fracture, a femoral nerve block is the most appropriate option here. The catheter for the nerve block should be tunnelled to reduce risk of infection, and an infusion of local anaesthetic combined with clonidine is usually given.\n\nOral dexamethasone\nOral dexamethasone may reduce tumour-related oedema and has an important role in the treatment of liver capsule pain related to metastases. In this case, local intervention with a nerve block is more appropriate for this patient.\n\nDiamorphine and midazolam syringe driver\nIn the event this patient’s pain can be controlled, he may well have a few weeks left with an acceptable quality of life and a femoral nerve block is likely to achieve pain control for him. A diamorphine and midazolam syringe driver is much more appropriate for end-of-life care when the patient has a prognosis of a few hours.\n\nDiclofenac per rectum (PR)\nDiclofenac PR is not likely to offer incremental analgesia versus the naproxen already prescribed here. PR nonsteroidal analgesia is more useful when extra pain relief is required, and patients are unable to take nonsteroidal anti-inflammatory drugs (NSAIDs) via the oral route.\n\nFentanyl patch\nA fentanyl patch is an appropriate way to deliver stable opiate analgesia, especially in patients with renal failure where there is potential opiate accumulation. In this case, with uncontrolled pain localised to the right femur, a femoral nerve block is more appropriate.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "bd322f5d-9f2d-4885-8936-dc21d033230d",
+    "stem": "A 54-year-old woman is receiving cytotoxic chemotherapy treatment. After several months of treatment she develops shortness of breath on exertion, and is found to have a degree of left ventricular impairment. Which of the following cytotoxic agents is most likely to have caused her cardiomyopathy as a dosedependent side-effect?",
+    "options": [
+      "Bleomycin",
+      "Cytarabine",
+      "Doxorubicin",
+      "Methotrexate",
+      "Paclitaxel"
+    ],
+    "correct_option": 2,
+    "explanation": "Doxorubicin\nDoxorubicin is a member of the anthracycline group of cytotoxic agents. The antitumour activity of doxorubicin partly results from the triggering of topoisomerase II-dependent DNA breaks. Doxorubicin can cause acute cardiac toxicity, including a syndrome characterised by arrhythmias and congestive heart failure. More commonly doxorubicin causes a cumulative, dose-dependent decline in left ventricular ejection fraction, with a higher incidence of myocardial dysfunction seen in patients receiving a cumulative dose of more than 500 mg/m 2.\n\nBleomycin\nBleomycin is incorrect. Bleomycin causes lung toxicity, including pneumonitis, which can progress to interstitial fibrosis.\n\nCytarabine\nCytarabine is incorrect. Cytarabine administered in high single doses (3 g/m 2 or greater) can cause irreversible cerebellar dysfunction; therefore, a neurological examination should be performed daily on patients receiving therapy so that it can be discontinued at the earliest sign of such toxicity.\n\nMethotrexate\nMethotrexate is incorrect. Methotrexate in high doses can cause acute kidney disease due to drug precipitation in the renal tubules.\n\nPaclitaxel\nPaclitaxel is incorrect. The administration of paclitaxel can cause anaphylaxis in response to Cremophor®, the vehicle in which it is delivered, hence, premedication with dexamethasone and antihistamines is required to reduce the risk of adverse reactions.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "545cff68-b8fe-4445-9b56-8bd694a7842e",
+    "stem": "You are considering prescribing an antiemetic for a 38-year-old woman undergoing cancer chemotherapy with a highly emetogenic cytotoxic regimen. Numerous antiemetics are utilised in the management of chemotherapyinduced nausea and vomiting. Which one of the following antiemetics acts via the neurokinin-1 receptor?",
+    "options": [
+      "Aprepitant",
+      "Domperidone",
+      "Hyoscine",
+      "Metoclopramide",
+      "Ondansetron"
+    ],
+    "correct_option": 0,
+    "explanation": "Aprepitant\nAprepitant acts via the nk-1 receptor. It is a member of the class of drugs that leads to inhibition of substance P. It is indicated for the treatment of chemotherapy-related nausea and vomiting.\n\nDomperidone\nDomperidone is incorrect. Domperidone is a dopamine receptor antagonist, used routinely in the treatment of chemotherapy-related nausea and vomiting, including in the management of moderately emetogenic regimens.\n\nHyoscine\nHyoscine is incorrect. Hyoscine is a competitive muscarinic antagonist. It is indicated in the management of motion sickness.\n\nMetoclopramide\nMetoclopramide is incorrect. Metoclopramide is a dopamine receptor antagonist, used routinely in the treatment of chemotherapy-related nausea and vomiting, including in the management of moderately emetogenic regimens.\n\nOndansetron\nOndansetron is incorrect. Ondansetron acts via the 5-HT pathway and is routinely used in the treatment of chemotherapy-related nausea and vomiting, in the management of moderately and highly emetogenic regimens.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "53af9dd3-861c-4cc5-b2ac-d300a07b1932",
+    "stem": "Which of the following is the most appropriate next intervention for pain control?",
+    "options": [
+      "Dexamethasone",
+      "Fentanyl patch",
+      "Increased morphine",
+      "Naproxen",
+      "Selective embolisation"
+    ],
+    "correct_option": 0,
+    "explanation": "Dexamethasone\nThis patient’s pain is most likely to liver capsule pain as a result of oedema related to his hepatic metastases. Although increasing his morphine may control his pain, it may lead to a significant increase in somnolence and clouding of thought. Corticosteroids are a better option, with dexamethasone 4–8 mg/day the recommended dose.\n\nFentanyl patch\nA fentanyl patch is only appropriate for patients who are on a stable dose of morphine and at which their pain is controlled. It is not, therefore, an option here for pain control.\n\nIncreased morphine\nAn increased morphine dose may control this patient’s pain; however, in a patient with hepatic and renal impairment, there may well be accumulation of morphine, leading to confusion and increased somnolence. Alternatives to morphine are therefore preferred.\n\nNaproxen\nNon-steroidal anti-inflammatory drugs are not recommended here because of this patient’s impaired renal function. They are effective in managing liver capsule pain although given the serum creatinine, dexamethasone is preferred here.\n\nSelective embolisation\nSelective embolisation is most useful where there are one or two hepatic lesions and hepatic embolisation coupled with resection of the primary tumour would lead to a significant improvement in quality of life and potential survival. This means that it is most often performed in patients with colon cancer. Here with a very limited life expectancy related to the oesophageal cancer, it is potentially not appropriate.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "8b2ee936-8efd-47d1-a357-395a16c50479",
+    "stem": "An 80-year-old woman with advanced dementia experiences a large right middle cerebral artery infarct and her Glasgow Coma Scale score reduces to 8/15. After a discussion with her family, she is placed on an end-of-life protocol, which focuses on comfort management. The Palliative Care Nurse reviews the patient and notes that she is grimacing due to an acute worsening of long-standing pressure sores. She advises commencing 5 mg morphine through a subcutaneous continuous syringe driver. How often should a new syringe be set up?",
+    "options": [
+      "Every four hours",
+      "Every 24 hours",
+      "Every 72 hours",
+      "There is no need to replace the syringe after the infusion has begun",
+      "When the patient experiences redness or erythema at the injection site"
+    ],
+    "correct_option": 1,
+    "explanation": "Every 24 hours\nMedications run through syringe drivers over 24 hours and are prescribed as such. Patients should therefore have a new syringe set up every 24 hours. After setting up a syringe driver in hospital, palliative care guidelines recommend that it should be reviewed every four hours to check for any precipitation, cloudiness or colour change. The patient should have a new subcutaneous needle every few days, or sooner if they experience redness or erythema at the injection site.\n\nEvery four hours\nAfter a syringe driver medication is commenced in hospital, it should be reviewed every four hours to check for any precipitation, cloudiness or colour change, but there is no need to routinely change the syringe at this point.\n\nEvery 72 hours\nThe patient should have a new subcutaneous needle every few days, but the syringe will be changed more frequently.\n\nThere is no need to replace the syringe after the infusion has begun\nPatients should have a new syringe set up every 24 hours. This is because palliative medicines are administered over 24 hours and a new syringe is therefore required at this interval.\n\nWhen the patient experiences redness or erythema at the injection site\nThe patient should have a new subcutaneous needle inserted at a different site if they experience redness or erythema at the injection site; however, the syringe will need to be routinely changed every 24 hours. 2 11.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "a4caba46-ebee-45d2-8097-2c0c49fc7a43",
+    "stem": "Which of the following is the most appropriate way to manage his mood?",
+    "options": [
+      "Amitriptyline",
+      "Chlorpromazine",
+      "Citalopram",
+      "Diazepam",
+      "Zopiclone"
+    ],
+    "correct_option": 2,
+    "explanation": "Citalopram\nCitalopram is a selective serotonin reuptake inhibitor (SSRI) that is effective in treating depression by increasing serotonin levels in the brain. It has a relatively benign side effect profile compared to tricyclic antidepressants like amitriptyline, particularly in terms of sedation and anticholinergic effects, which makes it more suitable for the patient's current condition. SSRIs are generally considered safer in overdose scenarios, reducing the risk of severe complications if the patient acts on suicidal thoughts. Furthermore, citalopram lacks the significant adverse effects seen with sedatives or antipsychotics, helping to address the patient's mood without exacerbating other symptoms.\n\nAmitriptyline\nWhile it is an antidepressant, it has significant sedative effects, which can exacerbate the patient's difficulty sleeping and overall sedation, particularly when taken with opiates like MST. Amitriptyline can also cause anticholinergic side effects such as urinary retention, dry mouth, and constipation, which would likely worsen the patient's symptoms. In overdose, amitriptyline can be extremely dangerous, leading to life-threatening cardiac arrhythmias and CNS toxicity, which makes it less suitable for a patient expressing suicidal intent.\n\nChlorpromazine\nIt is not primarily an antidepressant but an antipsychotic medication, which is not indicated for treating depressive disorders in this patient. Chlorpromazine is significantly sedating and can potentially cause arrhythmias, limiting its use for this patient's mood disorder. This medication can contribute to daytime drowsiness and worsen sleep disruption. Additionally, chlorpromazine carries a high risk of extrapyramidal side effects, cognitive dulling, and weight gain, which are not suitable for the patient's current health status.\n\nDiazepam\nDiazepam is a benzodiazepine that functions primarily as an anxiolytic and muscle relaxant rather than treating depression. Although it may provide temporary relief for anxiety and insomnia, it does not address the root cause of the patient's depressive symptoms and can contribute to daytime sedation and dependence issues. The potential for abuse or overdose with diazepam in a patient experiencing suicidal ideation is concerning. Furthermore, long-term use of diazepam can lead to tolerance, physical dependence, and withdrawal symptoms, which complicate the patient's existing health problems.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "fc6782cf-b757-4233-a669-c7715aab80da",
+    "stem": "A 30-year-old man completed adjuvant chemotherapy for a stage-I testicular teratoma 1 month ago. He now presents with increasing shortness of breath and a dry cough. You suspect an adverse drug reaction related to one of his chemotherapeutic agents. Which one of the following would be the most likely drug responsible?",
+    "options": [
+      "Bleomycin",
+      "Cisplatin",
+      "Etoposide",
+      "Methotrexate",
+      "Vincristine"
+    ],
+    "correct_option": 0,
+    "explanation": "Bleomycin\nBleomycin can cause pulmonary toxicity, which typically occurs during or shortly after completing treatment. Classical symptoms are shortness of breath, dry cough and fever (particularly in the acute setting). It can result in permanent damage and pulmonary fibrosis.\n\nCisplatin\nCisplatin is incorrect. Cisplatin is used to treat testicular teratoma but does not cause pulmonary toxicity. Cisplatin is associated with peripheral sensory neuropathy.\n\nEtoposide\nEtoposide is incorrect. Etoposide is used to treat testicular teratoma but does not cause pulmonary toxicity.\n\nMethotrexate\nMethotrexate is incorrect. Although methotrexate can cause pulmonary fibrosis, it is rarely seen and is not used in the treatment of teratoma; it is more commonly associated with hepatotoxicity.\n\nVincristine\nVincristine is incorrect. Vincristine does not cause pulmonary toxicity – the common side-effects of this agent are sensory neuropathy and alopecia.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "98328f5a-9ef5-4bba-8a94-e00ac7e4d5a9",
+    "stem": "A 67-year-old man with a bronchial carcinoma with spinal metastases is admitted to the Emergency Department. He can no longer mobilise due to lower back pain and muscle spasms affecting his left leg. He cannot predict when the spasms will occur, and they make him extremely anxious and upset. His current medication includes paracetamol 1 g four times daily and morphine 20 mg twice daily (bd). Which of the following is the best way to control his muscle spasms?",
+    "options": [
+      "Increase dose of morphine",
+      "Start oral diazepam 5 mg three times daily (tds)",
+      "Start subcutaneous hyoscine 20 mg bd",
+      "Start oral ibuprofen 400 mg tds",
+      "Start oral oramorph 4-hourly/as required"
+    ],
+    "correct_option": 1,
+    "explanation": "Start oral diazepam 5 mg three times daily (tds)\nDiazepam is the most appropriate intervention to control this patient’s muscle spasms. Dosing regimens of 2– 10 mg at night or 2–5 mg tds during daytime can be considered. In this case, diazepam is also likely to control anxiety and agitation, and is preferred to baclofen, which may reduce spasms, but will not impact on anxiety.\n\nIncrease dose of morphine\nAlthough increasing this patient’s morphine may reduce his level of pain, it will not reduce the likelihood of muscle spasms occurring. It may be considered in the management of his lower back pain.\n\nStart subcutaneous hyoscine 20 mg bd\nHyoscine is utilised for the treatment of abdominal colic. It is an anticholinergic which reduces smooth muscle spasms, but does not significantly impact on skeletal muscle spasms in comparison to other interventions, such as diazepam.\n\nStart oral ibuprofen 400 mg tds\nAlthough starting a non-specific anti-inflammatory drug may impact on back pain, it will not reduce muscle spasms for this patient. The best way to reduce muscle spasms is to introduce an antispasmodic agent, such as diazepam or baclofen.\n\nStart oral oramorph 4-hourly/as required\nIncreasing the morphine dose to achieve pain control will impact on back pain, but it will not reduce the propensity for spasms to occur. It may be instituted to reduce back pain, but definitive treatment to reduce spasms is also required.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "ac954057-7456-45ee-975d-10b9e9400535",
+    "stem": "An 84-year-old woman is in hospital because she is unable to tolerate any food or drink following chemotherapy and radiotherapy for her throat cancer. She is treated with intravenous fluids, mouthwashes and analgesia, but she is very low in mood because of the effect the cancer has had on her quality of life. She has been prescribed 20 mg morphine sulphate modified release twice a day, but when the doctor comes to see her she begs them to increase the dose to 60 mg so that she may ‘go to sleep and not wake up again’. What is the best way to manage this patient?",
+    "options": [
+      "Agree to prescribe 60 mg if the patient signs a consent form",
+      "Inform the patient that they would need to go to a hospice for this",
+      "Prescribe 60 mg",
+      "Prescribe 20 mg, but ask the nurse to give 60 mg",
+      "Prescribe 20 mg"
+    ],
+    "correct_option": 4,
+    "explanation": "Prescribe 20 mg\nAlthough it might be tempting to prescribe a slightly higher dose, which would not cause the patient to die, this would still be inappropriate because the minimum therapeutic dose should be prescribed to achieve analgesia.\n\nAgree to prescribe 60 mg if the patient signs a consent form\nA consent form would not make this action legal.\n\nInform the patient that they would need to go to a hospice for this\nA hospice would similarly not be able to comply with this request.\n\nPrescribe 60 mg\nIf the doctor were to prescribe 60 mg morphine for this purpose, this would constitute euthanasia, which is illegal. This should be explained to the patient and alternative ways to help should be offered, including psychiatric support for depression. Only the therapeutic dose for treating her pain should be prescribed.\n\nPrescribe 20 mg, but ask the nurse to give 60 mg\nThis would be illegal for multiple reasons. As well as being an act of euthanasia, it would also be an act of fraud for both the doctor and the nurse.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "c7f53d41-3cdc-4013-9868-f086d48c9633",
+    "stem": "A 78-year-old woman with vascular dementia is admitted to hospital after she was found on the floor at home. She lives alone. When the postman came to deliver her post, he saw through the letter box that she was on the floor and he called an ambulance. The ambulance team have raised a safeguarding concern because of the unsanitary and neglected state of the patient’s bungalow. The patient does not have a next of kin and there are no friends or family. The junior doctor on the ward reviews her daily and the sister in charge provides nursing care. On the third day, the consultant on the ward reviews her and says they would like to discuss whether to sign a do not attempt resuscitation (DNAR) form. The patient does not have sufficient capacity to have this discussion. Who is most appropriate to inform the consultant about the patient’s best interests?",
+    "options": [
+      "An independent consultant from another ward",
+      "A consultant on the ward to decide what will be in the patient’s best interests without consulting",
+      "An independent mental capacity advocate",
+      "The sister in charge on the ward",
+      "Social worker"
+    ],
+    "correct_option": 2,
+    "explanation": "An independent mental capacity advocate\nWhere a patient does not have capacity and there is no next of kin or friends to inform the team about the patient’s values to guide what decision will be in their best interests, it is appropriate to appoint an independent mental capacity advocate.\n\nAn independent consultant from another ward\nThis would not be appropriate as a consultant from another ward would not be sufficiently independent to advise about the patient’s best interests.\n\nA consultant on the ward to decide what will be in the patient’s best interests without consulting\nA consultant on the ward to decide what will be in the patient’s best interests without consulting anyone Since the patient does not have capacity themselves, it would be appropriate to gain the input of another person (next of kin, family member, friend or independent mental capacity advocate) to ensure the decision being made is in the patient’s best interests.\n\nThe sister in charge on the ward\nThe sister on the ward would not be sufficiently independent to advise about the patient’s best interests.\n\nSocial worker\nIt would not fall within the remit of a social worker to advise about the patient’s best interests in this discussion about DNAR.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "6d569aa8-4433-408d-ac95-45dac04aaa64",
+    "stem": "Which of the following is the best management plan for the patient's abdominal pain?",
+    "options": [
+      "Add midazolam to the syringe driver",
+      "Increased morphine dose in the syringe driver",
+      "Oral carbamazepine",
+      "Oral gabapentin",
+      "Subcutaneous hyoscine"
+    ],
+    "correct_option": 4,
+    "explanation": "Subcutaneous hyoscine\nHyoscine is the intervention of choice here. It is an anticholinergic, antispasmodic agent which can significantly reduce symptoms of colic when used in patients with subacute bowel obstruction. Initially, it can be used at a dose of 10–20 mg subcutaneously every two hours, then converted to a syringe driver dose over 24 hours.\n\nAdd midazolam to the syringe driver\nMidazolam is ideal for patients with severe agitation and anxiety, or in those who appear to be suffering from seizures in the end-of-life period. There is no evidence to support its use here as it has no significant effect on colicky pains compared to other options, such as hyoscine.\n\nIncreased morphine dose in the syringe driver\nAn increased morphine dose will this patient’s overall pain symptoms, but it is also likely to worsen their drowsiness and will not reduce this patient’s colic. As such, it is not the optimal intervention here.\n\nOral carbamazepine\nThe main use of carbamazepine is in the treatment of trigeminal neuralgia. It does not have a place in the treatment of colic. In the cancer setting, it may have a role in relieving neuropathic pain. Oral absorption of any medication is usually poor in patients with subacute bowel obstruction; this is the case here.\n\nOral gabapentin\nGabapentin is a first-line option for the treatment of neuropathic pain. It has no role in the management of colicky abdominal pain. For the treatment of neuropathic pain, it can be uptitrated slowly from an initial starting dose of 100 mg three times daily. AnalgesiaA 73-year-old man presented with palpitations of 2 days duration. He felt mildly dizzy but had no chest pain or breathlessness. On examination pulse rate was approximately 130bpm, irregularly irregular, and blood pressure was 118/74mmHg. He was diagnosed with fast atrial fibrillation and treated successfully with DC cardioversion. He was discharged on amiodarone to maintain sinus rhythm.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "22d5df84-6906-4562-9d6f-960018d079ac",
+    "stem": "Which of the following is the most appropriate intervention for his constipation?",
+    "options": [
+      "Bisacodyl and sodium docusate",
+      "Lactulose",
+      "Phosphate enema",
+      "Senna",
+      "Sodium picosulphate"
+    ],
+    "correct_option": 3,
+    "explanation": "Senna\nSenna is a stimulant laxative. For opiate-induced constipation, the National Institute for Health and Care Excellence (NICE) guidelines on therapy recommend a trial of a stimulant laxative in the first instance. This should be used at the time of prescription of the opiate, rather than waiting until constipation has occurred. Thereafter, an osmotic laxative (such as lactulose or a macrogol) should be added, or if colic is a problem, a surface-wetting laxative (such as docusate).\n\nBisacodyl and sodium docusate\nFor opiate-induced constipation, the National Institute for Health and Care Excellence (NICE) guidelines on therapy recommend a trial of a stimulant laxative in the first instance (such as senna). Thereafter, an osmotic laxative (such as lactulose or a macrogol) should be added, or if colic is a problem, a surface-wetting laxative (such as docusate).\n\nLactulose\nLactulose is an osmotic laxative which is only partially effective in patients with opiate-induced constipation. Where opiates are the underlying cause, it is best used in combination with a stimulant laxative.\n\nPhosphate enema\nA phosphate enema would only be considered in patients who have failed to respond to oral therapy. In severe constipation, where patients fail to respond to dual oral therapy, phosphate enemas are occasionally prescribed, although they are usually considered an option of last resort.\n\nSodium picosulphate\nSodium picosulphate is used as bowel preparation in patients undergoing colonoscopy. It can lead to severe diarrhoea and electrolyte loss and is not a first-line intervention in patients with opiate-related constipation. 1 6.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "69ba5684-433e-408d-ae8d-fe1b43544f2f",
+    "stem": "A 79-year-old man is nearing the end of his life due to metastatic bowel cancer. He is being cared for in a side room and it is felt that he is entering the final days of his life. He has a large family who have been visiting him regularly but after he is told that it is likely that he is entering the final days of his life, he says that he does not want anyone from his family to be in the room from this point onwards. They are devastated by this news, but he is adamant that he does not want their memory of him to include the sight of him dying. He appears to have capacity. The family approach the nurse in charge and ask that they intervene. What is the most appropriate response?",
+    "options": [
+      "Allow the family in the room",
+      "Allow one family member in the room",
+      "Family cannot be present in the room",
+      "Inform the patient they must nominate a friend or staff member to sit in their room instead",
+      "Wait for the patient to lose consciousness and then allow the family to enter"
+    ],
+    "correct_option": 2,
+    "explanation": "Family cannot be present in the room\nIf patients are able to, they should be involved in plans for their end-of-life care. If they have capacity and state their desire not to be visited by their family, this decision should be respected.\n\nAllow the family in the room\nThere is no suggestion that this patient lacks capacity and therefore his decision should be respected. He may change his mind at any point.\n\nAllow one family member in the room\nThis would be against the patient’s wishes.\n\nInform the patient they must nominate a friend or staff member to sit in their room instead\nThere is no rule that a patient must do this, although they may elect to request companionship from a friend or hospital volunteer.\n\nWait for the patient to lose consciousness and then allow the family to enter\nThe patient has been clear about his wishes and this would be disrespectful.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "46a2c667-d5b0-47f3-ab0a-d3bf7bdee9ba",
+    "stem": "A 45-year-old woman with known metastatic breast cancer presents with fatigue, nausea and constipation. Blood tests reveal a calcium level of 3.2 mmol/l (2.2–2.6) with a normal albumin level. How would she be most appropriately treated?",
+    "options": [
+      "Corticosteroids, intravenous hydration with normal saline and furosemide",
+      "Intravenous hydration with normal saline",
+      "Intravenous hydration with normal saline and oral bisphosphonate",
+      "Intravenous hydration with normal saline and subcutaneous calcitonin",
+      "Intravenous hydration with normal saline followed by intravenous bisphosphonate if the calcium"
+    ],
+    "correct_option": 4,
+    "explanation": "Intravenous hydration with normal saline followed by intravenous bisphosphonate if the calcium\nremains elevated Malignant hypercalcaemia is a common sequalae of metastatic cancer. Osteolytic metastases and paraneoplastic syndromes are the most frequent causes of malignant hypercalcaemia. Mild hypercalcaemia (<3.0 mmol/l) may be treated expectantly with increased oral hydration, withholding thiazide diuretics, and appropriately treating the malignancy. Severe hypercalcaemia (>3.0 mmol/l) requires intravenous rehydration and administration of intravenous bisphosphonate post rehydration, typically zolendronic acid. Furosemide may be used as an adjunct to increase urinary calcium excretion once the patient is fully hydrated.\n\nCorticosteroids, intravenous hydration with normal saline and furosemide\nCorticosteroids, intravenous hydration with normal saline and furosemide is incorrect. Corticosteroids can sometimes be used in addition, but only if the underlying tumour is steroid responsive, eg a myeloma or lymphoma.\n\nIntravenous hydration with normal saline\nIntravenous hydration with normal saline is incorrect as it is only part of the appropriate management.\n\nIntravenous hydration with normal saline and oral bisphosphonate\nIntravenous hydration with normal saline and oral bisphosphonate is incorrect. Oral bisphosphonates have a low bioavailability and therefore are not recommended in the acute setting.\n\nIntravenous hydration with normal saline and subcutaneous calcitonin\nIntravenous hydration with normal saline and subcutaneous calcitonin is incorrect. Calcitonin acts quickly, but the effects are not sustained; it is therefore not the drug of choice. Calcium Homeostasis, Vitamin D and HypercalcaemiaA 59-year-old woman, who has breast cancer with spinal metastases, has been commenced on gabapentin for neuropathic pain affecting her left leg related to impingement on the L4 nerve root by a metastatic deposit.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "91cfad77-aae1-46f5-9774-9b511cda4967",
+    "stem": "Which of the following is the most appropriate choice of antiemetic for this patient?",
+    "options": [
+      "Cyclizine",
+      "Haloperidol",
+      "Lorazepam",
+      "Metoclopramide",
+      "Ondansetron"
+    ],
+    "correct_option": 1,
+    "explanation": "Haloperidol\nAccording to the National Institute for Health and Care Excellence (NICE) guidelines, haloperidol is the intervention of choice for nausea and vomiting where there is hypercalcaemia. This is because hypercalcaemia leads to stimulation of D2 receptors as a key driver for nausea and vomiting. Haloperidol is the most potent D2 receptor antagonist available.\n\nCyclizine\nCyclizine is the antiemetic of choice for patients with intracranial pathology as the cause of their nausea and vomiting, in conjunction with dexamethasone where there is evidence of raised intracranial pressure. In this case, hypercalcaemia drives D2 receptor stimulation as a cause of nausea and vomiting, meaning that haloperidol, a D2 receptor antagonist, is a more appropriate intervention.\n\nLorazepam\nLorazepam is used as an adjunct to conventional antiemetics for the treatment of chemotherapy-induced nausea and vomiting. It is a gamma-aminobutyric acid (GABA) receptor modulator, thought to facilitate opening of chloride channels, which has a positive effect on nausea symptoms.\n\nMetoclopramide\nMetoclopramide may be considered as a second-line agent in vomiting due to hypercalcaemia. While it does have action as a D2 receptor antagonist, it is less effective than haloperidol which is the preferred option here. Additionally, side-effects including the risk of acute dystonia and long-term neurological sequalae are associated with its use; however, clearly these are less important in palliative patients. Anti-EmeticsOndansetron\nOndansetron is the first-line antiemetic for the treatment of chemotherapy-induced nausea and vomiting. According to NICE guidelines haloperidol is preferred for the treatment of hypercalcaemia because it is a D2 antagonist.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "0e9412c3-4df9-4a28-9436-14de98d99d2e",
+    "stem": "A 97-year-old woman is admitted to hospital with pulmonary oedema which has been caused by acute-onchronic kidney disease. She is treated with intravenous (IV) furosemide and continuous positive airway pressure in the resuscitation section of the Emergency Department. The consultant believes that, clinically, it would not be appropriate to resuscitate her in the event of a cardiac arrest. They would like to discuss resuscitation with the patient, but she refuses. She permits a discussion with her son, who is next of kin, and he believes that resuscitation would be inappropriate. When the consultant goes back to try and discuss resuscitation with the patient, she again refuses to discuss it. What is the most appropriate action?",
+    "options": [
+      "Ask the son to discuss resuscitation with his mother",
+      "Complete a do not attempt resuscitation (DNAR) form",
+      "Do not complete a DNAR form",
+      "Insist on discussing resuscitation with her now despite her refusal",
+      "Return every day and attempt to discuss resuscitation with her again"
+    ],
+    "correct_option": 1,
+    "explanation": "Complete a do not attempt resuscitation (DNAR) form\nCPR should be discussed with patients with capacity unless they consistently express that they do not want to discuss it. This does not change the fact that DNAR is a clinical decision, and it would still be correct to discuss the decision with the next of kin to ascertain their views before completing the DNAR if necessary.\n\nAsk the son to discuss resuscitation with his mother\nA healthcare professional should lead the discussion about resuscitation with patients. It would be unfair to expect her son to do this.\n\nDo not complete a DNAR form\nPatient refusal to discuss resuscitation does not prevent a DNAR form from being completed.\n\nInsist on discussing resuscitation with her now despite her refusal\nPatients are entitled to refuse to discuss resuscitation and the discussion should not be forced upon them against their wishes.\n\nReturn every day and attempt to discuss resuscitation with her again\nIt would be correct to ask the patient if she has changed her decision after the initial occasion, but a persistent refusal should be respected, and the patient should not be harassed. Further Reading Decisions relating to cardiopulmonary resuscitation: Guidance from the British Medical Association, Resuscitation Council (UK) and Royal College of Nursing (2016).",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "0f0461ee-8ad4-4990-a12f-2e2cfc9f0f98",
+    "stem": "Which of the following is the most appropriate replacement for his oral morphine, once the acute episode of pain has resolved?",
+    "options": [
+      "Fentanyl patch 75 mcg/hour",
+      "600 mg of intravenous meperidine/24 hours",
+      "120 mg SC morphine/24 hours",
+      "360 mg SC oxycodone/24 hours",
+      "36 mg codeine/24 hours"
+    ],
+    "correct_option": 0,
+    "explanation": "Fentanyl patch 75 mcg/hour\nFentanyl lacks active metabolites and is considered safe in the setting of kidney impairment.\n\n600 mg of intravenous meperidine/24 hours\nMeperidine should not be used, since its active metabolite, normeperidine, accumulates with renal dysfunction and can cause serious central nervous system (CNS) toxicity. Given the prevalence of renal dysfunction in the cancer population and the potential for normeperidine toxicity even in those with normal renal function, particularly if the dose is increased to manage poorly controlled pain, meperidine is generally not preferred for cancer pain management.\n\n120 mg SC morphine/24 hours\nMorphine should be avoided in chronic kidney disease. Morphine is metabolized in part to a potent opioid metabolite, morphine-6-glucuronide, and a metabolite, morphine-3-glucuronide, which is associated with neurotoxicity. These metabolites are renally excreted and there is concern that their accumulation in patients with renal insufficiency may lead to unanticipated changes in morphine potency or side effects.\n\n360 mg SC oxycodone/24 hours\nOxycodone should be avoided in patients with chronic kidney disease. It raises concerns about the impact of renally-excreted metabolites that may accumulate in this setting. These metabolites, noroxycodone, and oxymorphone, are produced in the liver and may have a relatively high concentration in patients with advanced kidney impairment.\n\n36 mg codeine/24 hours.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "c4a7fa55-a0a9-4951-b752-db10a62d7f76",
+    "stem": "Which of the following is the most appropriate next step to control his breathlessness?",
+    "options": [
+      "Long-term oxygen therapy",
+      "Low-dose lorazepam",
+      "Increased morphine",
+      "Increased furosemide",
+      "Salbutamol inhaler"
+    ],
+    "correct_option": 1,
+    "explanation": "Low-dose lorazepam\nThis patient is significantly short of breath while managed with maximal therapy for their heart failure. Given the blood pressure and creatinine, there is little room to manoeuvre with respect to further diuretic therapy, meaning that low-dose lorazepam is the best intervention here, given at a dose of 0.5 mg.\n\nLong-term oxygen therapy\nAlthough home oxygen may be prescribed for symptom relief in end stage heart failure, this is not supported by the palliative care section of National Institute for Health and Care Excellence (NICE) heart failure guidelines. It should not therefore be prescribed routinely here.\n\nIncreased morphine\nIncreased morphine dose may have a positive impact on preload, but it may also lead to depressed consciousness and drive CO 2 retention. This patient is also relatively hypotensive, and increased morphine dose may lead to presyncope.\n\nIncreased furosemide\nIncreased furosemide is unlikely to impact on this patient’s symptoms, given that there are no signs of significant fluid overload. The patient is also relatively hypotensive with an elevated creatinine and increasing furosemide may precipitate an acute kidney injury.\n\nSalbutamol inhaler.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "aa6635fd-7d8f-4689-9839-d25b9b4c1351",
+    "stem": "An 88-year-old woman is admitted to hospital after she had a fall at home, she has been slightly confused for a few days according to her daughter. Investigations reveal that the patient is suffering from a urinary tract infection and she is started on antibiotics. When the junior doctor from the medical team comes to clerk her in prior to the consultant post-take, he discusses with her the risks and benefits of resuscitation. The patient firmly says that she does not want to be resuscitated because she would not want to risk a subsequent worsening in her quality of life if she were to survive. Her relatives are sitting with her and they all agree with her decision. Who has overall responsibility for the resuscitation decision?",
+    "options": [
+      "Consultant",
+      "Medical director",
+      "Patient",
+      "Relative",
+      "Junior doctor"
+    ],
+    "correct_option": 0,
+    "explanation": "Consultant\nThe overall responsibility for resuscitation lies with the senior doctor, usually the consultant looking after the patient or the general practitioner in the community. In some hospitals, junior doctors can complete do not attempt resuscitation (DNAR) paperwork, but they must be countersigned by the senior doctor because overall responsibility lies with them.\n\nMedical director\nThe consultant who is looking after the patient directly is responsible, rather than the medical director. The medical director is responsible for departmental policies and the administrative running of a medical department and it is the consultant who is caring for the patient who has overall responsibility for the resuscitation decision.\n\nPatient\nIt is important to ascertain the patient’s views, if an adult patient with the capacity to give or withdraw consent wishes to not be resuscitated, then her wishes should be respected. In this scenario, there is some doubt regarding if the patient currently does have that capacity, as she has an infection and recent confusion (which could be due to delirium). In this instance, where it is not clear if the patient has capacity, the responsibility lies with the consultant.\n\nRelative\nIt is important to ascertain the relative’s views, but the decision is clinical and the responsibility lies with the consultant in this scenario.\n\nJunior doctor\nThe junior doctor may have the initial discussion and sometimes may complete the DNAR paperwork, but the overall responsibility lies with the consultant.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "101ab8e7-6a4c-44e4-993d-8c96381cbcf8",
+    "stem": "You are asked to review a patient with metastatic lung cancer who has a potassium level of 6.5 mmol/l. He has been receiving palliative treatment only for pain and symptom control and was relatively well until a few weeks ago, although he has recently complained of tiredness and malaise. His BP is a little low at 100/60 mmHg, his creatinine is towards the upper limit of the normal range. He is currently on no medication. A repeat measurement shows his potassium level to be 6.6 mmol/l. Which one of the following might be the cause of his hyperkalaemia?",
+    "options": [
+      "Bilateral adrenal metastases",
+      "Bilateral ureteric obstruction",
+      "Haemolysed blood sample",
+      "Septicaemia",
+      "Tumour-lysis syndrome"
+    ],
+    "correct_option": 0,
+    "explanation": "Bilateral adrenal metastases\nThe adrenal glands are the fourth most common site of metastasis after the lungs, liver and bone. The most common primary sites are lung, breast, skin (melanoma), kidney, thyroid and colon. Adrenal metastases may be unilateral or bilateral and the tumours vary in size. Most often, the lesions are clinically silent, but hypoadrenalism does occasionally occur, as described in this case.Features typically include abdominal pains, vomiting, muscular weakness, fatigue, hypotension, hyponatraemia and hyperkalaemia.\n\nBilateral ureteric obstruction\nBilateral ureteric obstruction is incorrect. Bilateral ureteric obstruction can lead to hyperkalaemia by causing kidney disease, but renal function is normal in this case.\n\nHaemolysed blood sample\nHaemolysed blood sample is incorrect. The fact that a repeat blood sample also shows hyperkalaemia makes haemolysis of the blood sample unlikely.\n\nSepticaemia\nSepticaemia is incorrect. Septicaemia can lead to hyperkalaemia by causing kidney disease, but renal function is normal in this case.\n\nTumour-lysis syndrome\nTumour-lysis syndrome (TLS) typically occurs in patients undergoing chemotherapy but can also occur without it, particularly in cases of rapidly proliferating cancers, such as metastatic lung cancer. While TLS is a feasible cause of hyperkalaemia, it is less likely in this patient, given that he is not undergoing chemotherapy. The absence of signs of severe tissue breakdown further reduces the likelihood of TLS in this case.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "abd111b7-7e7f-4d0b-9897-ce079a7f7b6d",
+    "stem": "A 58-year-old man presents to the Emergency Department with confusion and increasing irritability. He has a history of chronic alcohol abuse. On examination, he is jaundiced and has spider naevi on his chest, as well as a distended abdomen with shifting dullness. What is the most likely cause of his current symptoms?",
+    "options": [
+      "Hepatic encephalopathy",
+      "Hepatorenal syndrome",
+      "Portal vein thrombosis",
+      "Spontaneous bacterial peritonitis",
+      "Variceal bleeding"
+    ],
+    "correct_option": 0,
+    "explanation": "Hepatic encephalopathy\nHepatic encephalopathy is a common complication in patients with advanced cirrhosis and liver failure. It results from the liver's inability to detoxify substances like ammonia, leading to neurological dysfunction manifested as confusion or altered mental status. This condition is often precipitated by factors such as GI bleeding, infection or electrolyte imbalances. Given this patient’s history of chronic alcohol abuse and presenting symptoms of confusion and irritability along with physical signs of chronic liver disease like jaundice and spider naevi, hepatic encephalopathy is the most likely cause.\n\nHepatorenal syndrome\nHepatorenal syndrome (HRS) involves renal failure secondary to advanced liver disease but typically presents with oliguria (reduced urine output), azotaemia (elevated blood urea nitrogen), and low urine sodium levels rather than confusion alone. While HRS can coexist with other complications in cirrhotic patients, it would not directly explain the patient's acute change in mental status without additional renal-specific symptoms.\n\nPortal vein thrombosis\nPortal vein thrombosis can complicate cirrhosis but generally presents with worsening ascites, abdominal pain or GI bleeding rather than acute confusion or encephalopathic features alone. This condition could exacerbate portal hypertension but would not directly result in significant neurological changes.\n\nSpontaneous bacterial peritonitis\nSpontaneous bacterial peritonitis (SBP) commonly occurs in patients with ascites due to cirrhosis. If severe, it may present with fever, abdominal pain, or tenderness alongside systemic signs such as hypotension or shock. Although SBP can contribute indirectly to hepatic encephalopathy through systemic inflammation and metabolic disturbances, its primary presentation does not typically centre on altered mental status without accompanying signs suggestive of infection.\n\nVariceal bleeding.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "b021c232-b664-48c5-901e-9eca936c4c86",
+    "stem": "A 34-year-old woman is receiving a cisplatin-based chemotherapy regimen as part of a treatment programme for malignant carcinoma of the ovary. During the consenting process prior to starting chemotherapy she was warned about numerous potential toxicities of the therapy. Which one of the following is a typical side-effect of cisplatin-based chemotherapy?",
+    "options": [
+      "Excessive hair growth",
+      "Hypercalcaemia",
+      "Hypermagnesaemia",
+      "Optic neuritis",
+      "Ototoxicity"
+    ],
+    "correct_option": 4,
+    "explanation": "Ototoxicity\nOtotoxicity is an important concern of cisplatin-based chemotherapy and as yet there is no recognised effective treatment for it. Hypocalcaemia, hypomagnesaemia and hypokalaemia may occur as a result of nephrotoxicity associated with cisplatin. Nausea and vomiting are often seen, but can be managed with effective antiemetics. Myelosuppression and associated risks of neutropaenic sepsis, anaemia and haemorrhage are also common toxicities.\n\nExcessive hair growth\nExcessive hair growth is incorrect. Alopecia, rather than excessive hair growth is usually seen.\n\nHypercalcaemia\nHypercalcaemia is incorrect. Hypocalcaemia may occur as a result of nephrotoxicity associated with cisplatin.\n\nHypermagnesaemia\nHypermagnesaemia is incorrect. Hypomagnesaemia may occur as a result of nephrotoxicity associated with cisplatin.\n\nOptic neuritis.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "b83b2041-52df-409b-b163-c2730b6930dd",
+    "stem": "What is the most appropriate analgesic to switch to?",
+    "options": [
+      "Diamorphine",
+      "Fentanyl",
+      "Hydromorphone",
+      "Morphine",
+      "Ketamine"
+    ],
+    "correct_option": 1,
+    "explanation": "Fentanyl\nThe best option for a patient with eGFR < 30 ml/min is fentanyl; it does not accumulate in kidney disease.\n\nDiamorphine\nThe metabolites of diamorphine accumulate in kidney disease; they are also pharmacologically active. Given the evident kidney disease, which is likely to have progressed in the last 12 days, diamorphine is unlikely to be a safe choice.\n\nHydromorphone\nHydromorphone has active metabolites which accumulate in kidney disease. This option would be unsafe.\n\nMorphine\nThe pharmacologically active metabolites of morphine accumulate in kidney disease. In this clinical scenario, morphine is unlikely to be a safe choice.\n\nKetamine\nKetamine is used as an anaesthetic and anti-epileptic and can be given regardless of renal function. There have been a small number of trials reviewing its use in chronic pain, although it does not have a UK licence for this and is not recommended by NICE.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "893c22f5-b382-4f10-98a7-c3f500a019b6",
+    "stem": "A 94-year-old woman is admitted to hospital after she was found collapsed at home. In hospital, she was found to have had a large stroke and is admitted to the Stroke Rehabilitation Unit. Unfortunately, she has a second stroke while on the ward and experiences extensive motor and sensory loss. She does not have a safe swallow but elects for ‘risk feeding’ rather than nasogastric feeding. Within three days, she develops aspiration pneumonia and refuses antibiotics. She expresses her wish to die at home, which her family are keen to support. They are concerned that they may not be able to manage and ask what community support is available to help them. Which United Kingdom professionals can help support patients with all types of terminal illnesses who wish to die at home?",
+    "options": [
+      "Admiral nurses",
+      "Age UK",
+      "Community matron",
+      "Macmillan nurses",
+      "Marie Curie nurses"
+    ],
+    "correct_option": 4,
+    "explanation": "Marie Curie nurses\nMarie Curie nurses can help in care planning for patients who have life-limiting illnesses and wish to die at home. They can be involved in assessing, planning and even providing some aspects of end of life care at home. Marie Curie healthcare assistants are trained to give care as directed by district nursing care plans, assist with personal care needs and provide help in taking routine medications. Access to Marie Curie nurses is provided through district nurses, general practitioners and specialist nurses, depending on availibility in local areas.\n\nAdmiral nurses\nAdmiral nurses are specialist dementia nurses who support patients in hospitals, care homes, hospices and in the community.\n\nAge UK\nAge UK is a charity which provides support for elderly patients. Volunteers provide a variety of services including providing companionship for patients who are alone.\n\nCommunity matron\nCommunity matrons work with complex patients to try and arrange their care in the community.\n\nMacmillan nurses\nMacmillan nurses specifically care for patients who have cancer, providing advice and emotional support.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "7a82b72b-54d1-41f0-85d7-f041efab8805",
+    "stem": "A 62-year-old man presents to the Palliative Care Clinic for review. He has metastatic colon cancer with a number of liver metastases identified on computed tomography (CT) scan. Despite regular paracetamol and slow-release morphine 60 mg twice daily, he has aching right upper quadrant pain, suspected to be liver capsule pain. He is prescribed dexamethasone. What is thought to be the primary mode of action of dexamethasone in liver capsule pain?",
+    "options": [
+      "Decrease in interleukin (IL)-10",
+      "Increased urinary sodium excretion",
+      "Partial opiate receptor agonism",
+      "Reduction in neutrophil count",
+      "Reduction of tumour-related oedema"
+    ],
+    "correct_option": 4,
+    "explanation": "Reduction of tumour-related oedema\nThis is the primary mode of action by which dexamethasone impacts on liver capsule pain. Metastases are typically surrounded by tissue oedema and expansion of liver volume is limited by the liver capsule. Typical dosing of dexamethasone is 4–8 mg/day to control oedema and liver capsule pain.\n\nDecrease in interleukin (IL)-10\nGlucocorticoids actually upregulate IL-10 production, which downregulates the expression of Th1 cytokines, MHC class II antigens, and co-stimulatory molecules on macrophages. This action of glucocorticoids may in part account for their anti-inflammatory effects.\n\nIncreased urinary sodium excretion\nDexamethasone has minimal off-target effects at the mineralocorticoid receptor. Other corticosteroids, such as prednisolone, which do have off-target effects actually promote sodium and water retention.\n\nPartial opiate receptor agonism\nDexamethasone does not have activity at the opiate receptor. An example of a partial opiate receptor agonist is meptazinol, which may be associated with less gastrointestinal adverse events than agents such as codeine and morphine because of this.\n\nReduction in neutrophil count.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "41f486a3-002d-46ae-b6ae-7104156a562f",
+    "stem": "An 84-year-old woman presents to the hospital with obstructive jaundice. Investigations show that she has metastatic pancreatic cancer and a biliary stent is inserted to her jaundice. The Palliative Care team discuss with the patient and her daughter that the condition will progress and will likely lead to her death. The patient is keen to be managed at home and her daughter agrees to provide support to facilitate this. After the conversation, the patient’s daughter follows the Palliative Care team out of the ward and then asks them how she will know that her mother has entered the ‘dying’ phase. Which of these is the most common signs that the patient has entered the terminal phase?",
+    "options": [
+      "Hypertension",
+      "Increased urine output",
+      "Patient refuses food",
+      "Patient feels warm to touch",
+      "Seizures"
+    ],
+    "correct_option": 2,
+    "explanation": "Patient refuses food\nIt is not always clear when a patient has entered the terminal phase, but there are several signs which may indicate it. This includes a decline in the patient’s appetite so that they refuse food and drink. It should be explained to the relatives sensitively that a patient’s metabolic rate slows down, meaning the requirements for energy and hydration are reduced in the normal dying process.\n\nHypertension\nSince a patient’s oral intake tends to decline in the terminal phase, they often become hypotensive rather than hypertensive.\n\nIncreased urine output\nKidney function often deteriorates in the terminal phase and oral intake tends to decline, both of which reduce urine output.\n\nPatient feels warm to touch\nPatients often become cyanosed, feel cold to touch and appear mottled in the terminal phase.\n\nSeizures\nWhile seizures can occur in the process of dying, they typically occur in those who have pre-existing seizure, central nervous system pathology or significant electrolyte disturbances. They are otherwise relatively uncommon in most patients. Seizures at the end of life can be managed with midazolam, sometimes in a syringe driver.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "daa72a94-72c6-4bd3-9316-84aa113a9198",
+    "stem": "A 72-year-old man presents to the Emergency Department with worsening breathing and difficulty swallowing. He has a known diagnosis of Parkinson's disease for the past 10 years, and his family reports that he has been more drowsy and less responsive over the last few days. On examination, he is found to have tachypnoea, rigid posture, bradykinesia, and significant drooling. What is the most likely cause of his current deterioration?",
+    "options": [
+      "Acute stroke",
+      "Aspiration pneumonia",
+      "Medication side effects",
+      "Progression of Parkinson’s disease",
+      "Urinary tract infection"
+    ],
+    "correct_option": 1,
+    "explanation": "Aspiration pneumonia\nAspiration pneumonia is a common complication in patients with advanced Parkinson's disease due to dysphagia (difficulty swallowing), which can lead to the aspiration of food or saliva into the lungs. This patient's symptoms of worsening drowsiness and respiratory distress could indicate an infection like aspiration pneumonia. Given his rigidity, bradykinesia, drooling, and difficulty swallowing, along with increased drowsiness and tachypnoea, aspiration pneumonia is indeed the most likely cause.\n\nAcute stroke\nAcute stroke can present with sudden neurological deficits such as hemiplegia, aphasia, or altered mental status. The absence of focal neurological signs makes acute stroke less likely in this scenario.\n\nMedication side effects\nWhile medication side effects can contribute to confusion or sedation in patients with Parkinson’s disease (such as from dopamine agonists), these usually do not account for new physical findings like drooling or significant changes in respiratory function unless there has been a recent change in medication dose which was not indicated here.\n\nProgression of Parkinson’s disease\nProgression of Parkinson’s disease typically manifests gradually over months to years rather than acutely over days, as described in this patient. While it could explain some aspects, such as rigidity and bradykinesia being worse overall, it does not fully account for the rapid deterioration of respiratory function seen here.\n\nUrinary tract infection\nUrinary tract infections (UTIs), especially when severe enough to cause sepsis, could potentially explain systemic symptoms such as increased confusion or somnolence, particularly among elderly populations; however, given this patient’s specific symptomatology focused on dysphagia-related issues aligning firmly towards respiratory complications makes UTI less fitting compared against other possibilities especially without mention urinary signs/symptoms.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "0f5bdecc-6536-4bc8-b9a3-10a4c4cda6a9",
+    "stem": "Which of the following is the most appropriate step with respect to relieving shortness of breath and pain?",
+    "options": [
+      "Budesonide nebulisers",
+      "Diazepam orally (PO)",
+      "Fentanyl patch",
+      "Morphine and midazolam subcutaneous pump",
+      "Prednisolone PO"
+    ],
+    "correct_option": 3,
+    "explanation": "Morphine and midazolam subcutaneous pump\nA morphine and midazolam pump will deliver adequate opiate analgesia and a benzodiazepine to minimise breathlessness and anxiety at the end of life. The doses of morphine and midazolam can be varied over a 24hour period according to symptoms and can be managed by the Macmillan nurses.\n\nBudesonide nebulisers\nBudesonide nebulisers are used for the treatment of asthma in patients who are unable to manage a pressurised or dry powder steroid inhaler. They are rarely used, given that most patients can manage either with a spacer device and metered dose inhaler or with a modern dry powder inhaler.\n\nDiazepam orally (PO)\nIntermittently prescribed oral diazepam is unlikely to adequately control this patient’s symptoms of breathlessness and anxiety in comparison to continuously delivered midazolam via a subcutaneous pump. As this patient deteriorates, it is also likely that oral intake will become more difficult for her.\n\nFentanyl patch\nAlthough a fentanyl patch is an appropriate way to deliver analgesia for this patient, it is unlikely that opiates alone will control her breathlessness and anxiety. At this stage, it is most appropriate to move to combination opiate and benzodiazepine therapy to control her symptoms.\n\nPrednisolone PO\nPrednisolone is not of value here given that the shortness of breath is likely to be due to tumour progression and is probably not due to an exacerbation of chronic obstructive pulmonary disease. Steroids may be used in end-stage cancer to manage liver capsule pain and symptoms of raised intracranial pressure. BreathlessnessA 67-year-old man, who was stented three months earlier for oesophageal cancer, presents to the Palliative Care Clinic with dull right upper quadrant pain. He is taking 60 mg slow-release morphine twice a day. Examination reveals a blood pressure of 142/82 mmHg; his pulse is 85 bpm and regular. His body mass index is 21 kg/m 2. There is tenderness in the right upper quadrant. Investigations.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "dabf6628-6866-4ec8-a26e-0dde3249429c",
+    "stem": "A 72-year-old lady with confirmed anaplastic thyroid carcinoma is being screened for metastases. Which one of these organs is the most likely to be involved with metastases?",
+    "options": [
+      "Breast",
+      "Kidney",
+      "Lung",
+      "Oesophagus",
+      "Spleen"
+    ],
+    "correct_option": 2,
+    "explanation": "Lung\nAnaplastic carcinoma of the thyroid is the most aggressive primary tumour of the thyroid gland. It represents less than 2% of all thyroid cancers, ranging from 1.2 to 3.8 per 100 000 individuals. Clinically, most patients have a dominant fixed mass of 5 cm or more in diameter, multiple other nodules in both thyroid lobes and enlarged lymph nodes. Around 50% of patients have distant metastases, most commonly in the lungs but also in the bones, liver and brain. Metastases to the breast, kidney, oesophageus and spleen are rare.\n\nBreast\nBreast is incorrect. Metastases to the breast are rare.\n\nKidney\nKidney is incorrect. Metastases to the kidney are rare.\n\nOesophagus\nOesophagus is incorrect. Metastases to the oesophageus are rare.\n\nSpleen\nSpleen is incorrect. Metastases to the spleen are rare.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "dd3713ca-a3a6-4ad9-aef1-974612cec7bb",
+    "stem": "Which of the following is the most likely consequence of hyoscine use in this patient?",
+    "options": [
+      "Bradycardia",
+      "Dry mouth",
+      "Sweating",
+      "Urge incontinence",
+      "Angioedema"
+    ],
+    "correct_option": 1,
+    "explanation": "Dry mouth\nLike tachycardia, a dry mouth is a well-recognised circumstance of anticholinergic use, and patients in trials of hyoscine tablets complain of a dry mouth uncommonly (between 1 in 100 and 1 in 1 000 frequency in clinical trials). This side-effect can be utilised in patients with excess secretions at the end of life to aid such symptoms; care must be taken, however, so as not to dry out thick secretions thereby making them difficult to clear.\n\nBradycardia\nHyoscine is an anticholinergic agent. Rather than leading to bradycardia, it can lead to symptomatic tachycardia in some patients. This is listed as an uncommon event, ie it is seen in between 1 in 100 and 1 in 1 000 patients taking part in clinical trials.\n\nSweating\nSweating is not usually reported as a side-effect of hyoscine therapy. Dyshidrosis is seen, which is characterised by an itchy, blistering rash on the soles of the feet and the palms of the hands. Withdrawal of the medication leads to resolution of the rash.\n\nUrge incontinence\nUrinary retention is seen in patients taking hyoscine related to its anticholinergic effects. Urge incontinence is not seen. Indeed, anticholinergic agents are used as an intervention for overactive bladder.A number of immune phenomena are seen in patients prescribed hyoscine. Urticaria and itching are uncommonly seen. The frequency of rarer immune reactions, such as angioedema and anaphylaxis, is not known.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Pastest"
+  }
+]

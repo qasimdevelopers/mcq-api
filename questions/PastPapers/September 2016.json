@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "0060212d-800c-47ef-8e83-241bbdc26bfe",
+    "stem": "A 45-year-old man with a history of previous intravenous drug abuse presents to the hepatology clinic for follow-up of serology results and a liver biopsy for hepatitis C.He is found to have a genotype 4 hepatitis C virus, with a viral load800 000 and has early cirrhosis on liver biopsy. It is decided to treat him with the combination elbasvir/grazoprevir. Which of the following reflects the mode of action of elbasvir?",
+    "options": [
+      "Inhibitor of HCV NS2",
+      "Inhibitor of HCV NS5A",
+      "Inhibitor of HCV NS5B",
+      "Inhibitor of HCV NS3/4A",
+      "Interferon alpha agonist"
+    ],
+    "correct_option": 1,
+    "explanation": "Elbasvir is an inhibitor of HCV NS5A, which is essential for viral RNA replication and virion assembly.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "6a62733d-cf2c-4fe2-80c8-7cfcffbfd5c3",
+    "stem": "A 29-year-old woman, who has used increasingly large amounts of cocaine over the past few months, comes to the Emergency Department suffering a panic attack. She is extremely anxious as she feels as if there are insects crawling under her skin. Over the past few months she has steadily increased the amount of cocaine that she is taking and is drinking half a bottle of whisky each evening to remain calm. On examination her BP is 155/90, with pulse 97 and regular. She is sweating and tremulous. Which of the following is the likely explanation for her skin sensations?",
+    "options": [
+      "Delusion of reference",
+      "Haptic hallucination",
+      "Illusion",
+      "Insects on her skin",
+      "Peripheral neuropathy"
+    ],
+    "correct_option": 1,
+    "explanation": "Haptic hallucinations are hallucinations involving skin sensation in the absence of stimuli, and are common in situations of alcohol withdrawal and stimulant drug overdose. In this situation medication with a benzodiazepine is the most appropriate intervention. Q.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "717c9f82-12f3-4de5-97f0-45b8edea7f5b",
+    "stem": "A 26-year-old woman with a history of alcoholism presents to the Emergency Department some 48h after an overdose of 20×500 mg paracetamol tablets. She has taken three previous overdoses and is well known to the hospital. On examination her BP is 110/80 and her pulse is 78 and regular. She is tender over the epigastrium and the right upper quadrant of the abdomen, which she attributes to vomiting. Which of the following is the most useful investigation with respect to prognosis?",
+    "options": [
+      "ALT",
+      "Alkaline phosphatase",
+      "APTT",
+      "Bilirubin",
+      "PT"
+    ],
+    "correct_option": 4,
+    "explanation": "Of all of the options listed above, it is prothrombin time that is most closely linked to outcomes. PT as expressed by INR2.0 at or before 48h or3.5 at or before 72 h drives referral to a specialist liver unit. Peak elevation occurs around 72?96 h. Kings College Hospital recommend listing for liver transplantation if PT is100(INR6.5), creatinine is300 μmol/l and there is grade II/IV hepatic encephalopathy all within a 24h period. Arterial pH7.3 or lactate3.0 are other criteria considered as drivers for referral/possible transplantation. Q.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "04f1d9ee-14c1-41f0-8fae-46a41f5d568f",
+    "stem": "A52-year-old man with a history of hypertension and arthritis presents to the Emergency Department for the second time over the last six months with severe shortness of breath, periorbital swelling and tongue oedema. He is also hypotensive and is given subcutaneous adrenalin, and intravenous hydrocortisone and fluids. His medication history includes ramipril, amlodipine, ibuprofen, paracetamol and indapamide. Which of these medications is most likely to be the cause of his presentation?",
+    "options": [
+      "Amlodipine",
+      "Ibuprofen",
+      "Indapamide",
+      "Paracetamol",
+      "Ramipril"
+    ],
+    "correct_option": 4,
+    "explanation": "This man is having episodes of angioedema and, out of the options given,ramipril is the likely culprit. It is important to remember that episodes may occur at any time after starting therapy,not necessarily within the first few weeks of initiation. Angiotensin-converting enzyme inhibitor therapy is responsible for 4-6% of cases of angioedema, and responds poorly to intervention. Discontinuing the medication is the most important next step. Q.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ba799ada-a25d-48f9-b31c-15cc4317e8f1",
+    "stem": "A76-year-old woman is discharged to a nursing home for convalescence after a left hemi-arthroplasty following a fractured femoral neck.You are asked to make a domiciliary visit as she has become unwell. Over the past 48h she has suffered from watery diarrhoea, opening her bowels some six to eight times over the course of the day. Her BP is 115/80,with a postural drop of 20 mmHg. Her abdomen is soft with active bowel sounds, although there is some left-sided tenderness. Investigations reveal an elevated urea and stool is positive for Clostridium difficile toxin. Which of the following is the most appropriate intervention?",
+    "options": [
+      "Oral amoxicillin",
+      "Oral cephalexin",
+      "Oral ciprofloxacin",
+      "Oral trimethoprim",
+      "Oral vancomycin"
+    ],
+    "correct_option": 4,
+    "explanation": "Both oral vancomycin and oral metronidazole are possible interventions for the treatment of C.dificile. It seems that, of the two, oral vancomycin achieves a slightly higher concentration in the mucosa as the diarrhoea resolves, compared to metronidazole, and is therefore associated with lower C.difficile recurrence rates. Q.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "f0594ad5-0211-4fb4-88c8-965311decc80",
+    "stem": "A 65-year-old man presents to the Oncology Clinic for review. He is currently managed with a multi-agent chemotherapy regime for a haematological malignancy and complains of pains, predominantly in his feet, with loss of sensation. On examination, he has a peripheral sensory neuropathy affecting both feet. Which of the following agents is most likely to have been responsible?",
+    "options": [
+      "Cyclophosphamide",
+      "Doxorubicin",
+      "Methotrexate",
+      "Prednisolone",
+      "Vincristine"
+    ],
+    "correct_option": 4,
+    "explanation": "Neuritic pain is seen first in patients with vincristine-related neuropathy. This is followed by sensory loss, paraesthesia, difficulty in walking, slap gait, loss of deep tendon reflexes, ataxia, paresis, foot drop and cranial nerve palsies, especially ocular palsies and laryngeal nerve paralysis. Therapy with vincristine should therefore be discontinued at this point. Q.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "38ceba5d-ae13-4f8b-909b-6c6e071e4abd",
+    "stem": "A19-year-old woman presents to the Emergency Department with nausea, vomiting, a severe left-sided headache and facial weakness.This is the third episode of headache over the past 2 months, and she began the combined oral contraceptive pill some six months earlier. She takes no other regular medication and has no past medical history of note. On examination her BP is 148/88,with pulse 80 and regular. She is very anxious, neurological assessment confirming left-sided facial weakness. This weakness slowly resolves over 3 hours. Which of the following is the most appropriate next step?",
+    "options": [
+      "Amitriptyline",
+      "Atenolol",
+      "Oxygen card allowing her to present as an emergency to A&E",
+      "PRN sumatriptan for her next headache",
+      "Stop the oral contraceptive pill"
+    ],
+    "correct_option": 4,
+    "explanation": "This patient has developed migraine with weakness, associated with use of the OCP. Stopping the OCP is crucial because of the risk of progression to an ischaemic stroke. Q.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "07473153-2e75-478a-bd9c-7e4e55c90821",
+    "stem": "A74-year-old man with a history of biventricular failure comes to the clinic for review.He complains of shortness of breath and decreased exercise tolerance, despite taking regular ramipril 10 mg, bisoprolol fumarate 10 mg,furosemide 40 mg and spironolactone 25mg. His blood pressure is 122/80 mmHg;his pulse is 85 bpm and regular.He has bilateral pitting oedema of both ankles and minor crackles at both lung bases. You plan to start him on ivabradine. Which of the following represents the mode of action of ivabradine?",
+    "options": [
+      "Alpha-1 adrenergic receptor inhibition",
+      "Beta-2 adrenergic receptor inhibition",
+      "lfcurrent inhibition",
+      "Potassium channel activation",
+      "Sodium channel inhibition"
+    ],
+    "correct_option": 2,
+    "explanation": "The l,current controls spontaneous diastolic depolarisation in the sinus node and regulates heart rate. The cardiac effects are specific to the sinus node with no effect on intra-atrial, atrioventricular or intraventricular conduction times, nor on myocardial contractility or ventricular repolarisation. The l, current is present in the retina and is responsible for temporal resolution of vision. This may be partially inhibited by ivabradine leading to visual halo effects. Q.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "fecdd373-10db-47eb-aa85-b7f9fa4e2db6",
+    "stem": "A 29-year-old woman with brittle asthma is admitted to the Emergency Department with a severe acute exacerbation. She has been admitted to the intensive care unit on two previous occasions in the past 18 months. Her peak flow on admission is 145(495 predicted). After 30 min of back-to-back salbutamol and ipratropium nebulisers, her peak flow has fallen to 135.There is poor air entry bilaterally with quiet wheeze. You plan to give her IV magnesium. Which of the following is an effect of magnesium in this situation?",
+    "options": [
+      "Beta 1 receptor agonist",
+      "Beta 2 receptor agonist",
+      "Decreased histamine release",
+      "Promotion of acetylcholine release",
+      "Smooth muscle constriction"
+    ],
+    "correct_option": 2,
+    "explanation": "Magnesium is given at a dose of 2 g IV for patients with acute severe asthma where there has been no response to nebuliser therapy and progression to intubation and ventilation is imminent. Even in patients who eventually require ventilator support,it may reduce their overall stay on the ITU/HDU. Magnesium is thought to inhibit smooth muscle contraction, decrease histamine release from mast cells and inhibit acetylcholine release. Q.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "6791f100-e2df-439a-ac08-d9d4b3a061a5",
+    "stem": "A 25-year-old man comes to the Clinical Pharmacology Clinic for review. He has a history of familial hypercholesterolaemia, and despite maximal statin therapy,his total cholesterol is elevated at 6.9mmol/L. Clinical examination reveals both xanthelasma and arcus senilis. You elect to begin evolocumab therapy. Which of the following reflects the mode of action of evolocumab?",
+    "options": [
+      "Inhibits a-glucosidase",
+      "Blocks Niemann-Pick C1-like protein 1 transporter",
+      "It is an agonist of peroxisome proliferator-activated receptor a",
+      "Prevents low-density lipoprotein receptor degradation",
+      "Inhibits sodium/glucose cotransporter 1"
+    ],
+    "correct_option": 3,
+    "explanation": "Evolocumab is a proprotein convertase subtilisin/kexin type 9(PCSK9)inhibitor. It binds selectively to PCSK9.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "9f6be47f-cd78-41cf-9b7c-8dbea1abb05f",
+    "stem": "A72-year-old man is referred to the neurology clinic by his GP with possible Parkinson's disease. He has had no significant response to levodopa, and you are asked for advice on what to do next. He has not taken his medication on the day he attends the clinic.You note he has a shuffling gait as he walks into the clinic. His wife tells you that, in addition to deterioration in his walking, he has also had difficulties with short-term memory and urinary incontinence. On examination his BP is 148/90, with pulse 72 and regular.You note only mild rigidity, and no tremor on neurological assessment. He appears to have significant slowing of thought. Which of the following is the most appropriate next step?",
+    "options": [
+      "Intraventricular pressure monitoring",
+      "Large-volume lumbar puncture",
+      "Lumbar infusion test",
+      "MRI brain",
+      "Trial of donepezil"
+    ],
+    "correct_option": 3,
+    "explanation": "The triad of gait disturbance, incontinence and memory loss is suggestive of normal pressure hydrocephalus. MRI or CT scanning may show ventricular enlargement out of proportion to sulcal atrophy and periventricular lucency, and is a logical next step before progression to lumbar puncture. Dificulty:Average.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "a198ad08-f111-4a40-899e-1b21d6aa4404",
+    "stem": "A 25-year-old man comes to the Oncology Clinic for review. He has completed treatment including excision of his right testis and intensive chemotherapy for a non-seminomatous germ cell tumour. Clinical examination is unremarkable;his surgical site has healed well and there is no evidence of lymphadenopathy. Which of the following is a useful tumour marker to monitor for recurrence?",
+    "options": [
+      "Alpha-fetoprotein",
+      "β-2 microglobulin",
+      "Calcitonin",
+      "Cancer antigen 19-9",
+      "Cancer antigen 125"
+    ],
+    "correct_option": 0,
+    "explanation": "Serum levels of alpha-fetoprotein and/or β-human chorionic gonadotropin are elevated in 80-85% of men with non-seminomatous germ cell tumours, even when non-metastatic. From the options given, it is therefore the most useful potential tumour marker. Difficuty.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "2feebec2-cb2e-4ffd-ac1d-c440fd1ca947",
+    "stem": "A 48-year-old female, diagnosed with breast cancer, believes that this was the result of an extra-marital affair that she had 10 years ago. She is awaiting surgery in the next few weeks. There is no significant past medical history apart from mild asthma, for which she has been taking a salbutamol inhaler. Examination apart from the left breast lump is entirely normal. Which of the following best describes the belief that her breast cancer is related to the affair?",
+    "options": [
+      "Delusion",
+      "Hallucination",
+      "Illusion",
+      "Somatisation",
+      "Thought insertion"
+    ],
+    "correct_option": 0,
+    "explanation": "This patient's fixed belief that her breast cancer is related to an extra-marital affair is clearly a delusion,an idiosyncratic belief or impression maintained despite being contradicted by reality or rational argument.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "540a2d29-dd49-446f-a7ef-c68a38975826",
+    "stem": "A 32-year-old woman comes to the Diabetes Clinic for review. She has recently been admitted for the third time in the past seven months with diabetic ketoacidosis. This is despite having attended the DAFNE(Dose Adjustment for Normal Eating) course and modulating her insulin dose according to carbohydrate intake and level of exercise. She is becoming increasingly depressed. Current therapy includes basal bolus insulin and ramipril 2.5mg started after she developed microalbuminuria six years earlier. Her blood pressure is 123/72 mmHg;her pulse is 72 bpm and regular;her body mass index is 21 kg/m.Thereis 1+ of protein on the urine dipstick and the most recent glycated haemoglobin(HbAc) is 77 mmol/mol (9.2%). Which of the following is the most appropriate next step?",
+    "options": [
+      "Arrange a 72-hours continuous glucose monitoring system assessment",
+      "Reassure her that things will improve",
+      "Refer her for insulin pump therapy",
+      "Refer her for psychological counselling",
+      "Start her on citalopram"
+    ],
+    "correct_option": 0,
+    "explanation": "Difficulty.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3e7948de-dea1-4182-8bc9-5b354e317f0d",
+    "stem": "A 65-year-old house painter is admitted after fainting at work for the second timein the last few months. He tells you that he has been feeling progressively dizzier when he paints. He is left-handed. Past history of note includes hypertension and a previous inferior myocardial infarction. He smokes 20 cigarettes per week. On examination, his blood pressure is 155/90 mmHg; his pulse is 78 bpm and regular. There are no murmurs. His chest is clear. His abdomen is soft and non-tender, and his body mass index is 24kg/m. You suspect he may have subclavian steal syndrome. Which of the following is a direct branch of the left subclavian artery?",
+    "options": [
+      "Axillary artery",
+      "Basilar artery",
+      "External mammary artery",
+      "Left common carotid artery",
+      "Vertebral artery"
+    ],
+    "correct_option": 4,
+    "explanation": "Difficulty.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "15040e6e-52d2-4c9a-93bb-69ad1cedfed0",
+    "stem": "A 29-year-old man is started on varenicline for smoking cessation. He is intrigued by the data on its central effects and wants to know how it works. What is the mechanism of action for varenicline?",
+    "options": [
+      "Dopamine receptor agonist",
+      "Nicotinic receptor antagonist",
+      "Noradrenaline receptor agonist",
+      "Nicotinic receptor partial agonist",
+      "Selective serotonin reuptake inhibitor"
+    ],
+    "correct_option": 3,
+    "explanation": "Varenicline binds with high affinity and selectivity at the a4β2 nicotinic acetylcholine receptors, where it acts as a partial agonist-a compound that has both agonist activity, with lower intrinsic efficacy than nicotine, and antagonist activity in the presence of nicotine. Its use is associated with four-week quit rates40% versus 17% for placebo. Difficuty.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "45c38de6-35e4-4f2d-98e7-a9a89c634b53",
+    "stem": "A51-year-old woman comes to the clinic for review. She has a history of type 2 diabetes and is currently treated with metformin 1g twice daily. Since beginning therapy, she has experienced a 2kg fall in her weight and a 0.7% reduction in her glycated haemoglobin(HbA1c).On examination, her blood pressure is 132/82mmHg; her pulse is 65bpm and regular. Her body mass index is 30kg/m. Which of the following is the mode of action of metformin?",
+    "options": [
+      "ATP-sensitive potassium channel activator",
+      "Glucagon-like peptide 1 agonist",
+      "Indirect AMP kinase activator",
+      "Peroxisome proliferator-activated receptory agonist",
+      "Sodium/glucose cotransporter 2 inhibitor"
+    ],
+    "correct_option": 2,
+    "explanation": "AMP kinase activation stimulates hepatic fatty acid oxidation, ketogenesis, skeletal muscle fatty acid oxidation and glucose uptake. It inhibits cholesterol synthesis, lipogenesis and triglyceride synthesis, and adipocyte lipolysis and lipogenesis. Metformin is an indirect activator of AMP kinase. Difficuty.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "8025dd8f-b28b-46a1-835f-095986724474",
+    "stem": "A 66-year-old retired stone cutter, who smokes five to ten cigarettes a day, presents with shortness of breath. He mentions that at work he had been exposed to dusts for 20 years or more. His GP has trialled a salbutamol inhaler, which has had little impact on his underlying symptoms.On examination his BP is 138/80, with pulse 80 and regular. He is clubbed, heart sounds are normal and auscultation of the chest reveals fine crackles at both bases. There is mild pitting oedema of both ankles. O saturation at rest is 92% as measured by pulse oximetry. Investigations: Which of the following is the most likely cause of his shortness of breath? Investigation Result Normal Value Haemoglobin 131 g/l 135-175 g/l White Cell Count(WCC) 7.9×109/L 4-11×109/L Platelets 203×10/ 150-400×10/L C-Reactive Protein (CRP) 29 mg/l 0-10 mg/l Sodium(Na+) 140 mmol/L 135-145 mmol/L Potassium (K+) 4.3 mmol/L 3.5-5.0 mmol/l Creatinine 112 μmol/L 50-120 μmol/L Peak Expiratory Flow Rate (PEFR) Chest X-ray reticulonodular shadowing, egg shell lymph node calcification",
+    "options": [
+      "Asbestosis",
+      "COPD",
+      "Idiopathic pulmonary fibrosis",
+      "Sarcoidosis",
+      "Silicosis"
+    ],
+    "correct_option": 4,
+    "explanation": "The history of significant exposure to stone dust, coupled with the relatively modest reduction in PEFR and.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "916197bb-955f-4801-8165-40e0cc3d2c36",
+    "stem": "A 62-year-old man with a history of type 2 diabetes controlled with metformin and long-acting insulin comes to the Diabetes Clinic for review. Over the past three months, he has developed burning pain which keeps him from sleep every night, affecting both feet. He says that his feet feel hot and he has continuous pins and needles in them every night. Other past history of note includes two episodes of urinary retention On examination, his blood pressure is 142/89 mmHg; his pulse is 74 bpm and regular. His heart sounds are normal, his chest is clear and there is no ankle swelling. His abdomen is soft and non-tender, his body mass index is 32 kg/m.There is obvious decreased fine touch and vibration sense affecting both feet. Investigations: Investigation Result Normal Value Haemoglobin 124 g/l 135-175 g/l White Cell Count (WCC) 7.0×10/L 4-11×10/L Platelets 203×10/L 150-400×10/L Sodium(Na+) 140 mmol/L 135-145 mmol/L Potassium(K+) 4.3 mmol/l 3.5-5.0 mmol/l Creatinine 112 μmol/L 50-120 μmol/L HbA1c 70 mmol/mol 53 mmol/mol (7.0%) Which of these is the most appropriate intervention for his neuropathy?",
+    "options": [
+      "Amitriptyline",
+      "Duloxetine",
+      "Paracetamol",
+      "Pregabalin",
+      "Tramadol"
+    ],
+    "correct_option": 3,
+    "explanation": "Pregabalin is compound related to gabapentin but with a less frequent dosing regimen. Urinary retention is.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "8f40bcb9-73bd-4f1f-b94a-eb3ef6db8f8b",
+    "stem": "A73-year-old woman presents with worsening episodes of withdrawal and irritability. She has suffered from memory loss for some months. On examination, she is alert, fully oriented, displays good eye contact and normal psychomotor activity, but her short-term memory is poor and she has dificulty naming objects. Her score on the mini mental state examination is 20/30. She mislabels three of the numbers in the clock- drawing task. Her BP is 148/85, with pulse 70 and regular.The chest is clear, the abdomen soft and non- tender, and BMI of 22. Routine bloods are unremarkable, and a CT scan of the brain shows mild cerebral atrophy. What drug should be prescribed?",
+    "options": [
+      "Aspirin",
+      "Donepezil",
+      "Fluoxetine",
+      "Risperidone",
+      "Simvastatin"
+    ],
+    "correct_option": 1,
+    "explanation": "The picture here is consistent with Alzheimer's disease, with cerebral atrophy on CT scan and clinical.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "bd248b62-cd8f-4542-9884-555e19024f7d",
+    "stem": "You are examining the performance of a new screening test for pancreatic carcinoma in patients presenting with epigastric pain and weight loss. It has a very high level of specificity. What does this mean?",
+    "options": [
+      "The probability that patients with a positive screening test have pancreatic cancer is high",
+      "The probability that patients with a negative screening test do not have pancreatic cancer is high",
+      "The proportion of negatives that are correctly identified is high",
+      "The proportion of positives that are correctly identified is high",
+      "The proportion of negatives and positives that are correctly identified is high"
+    ],
+    "correct_option": 2,
+    "explanation": "Specificity (also called the true negative rate) measures the proportion of negatives that are correctly.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "cf701c32-cdf9-4a7a-9a5d-34c330e4de70",
+    "stem": "A 62-year-old woman is reviewed in the rheumatology clinic. She has been managed in the clinic for some time with gradually deteriorating respiratory function due to pulmonary fibrosis, gastro-oesophageal reflux disease and Raynaud's phenomenon. Over the past few months she has developed increasingly painful proximal muscle weakness. On examination her BP is 128/82, with pulse 78 and regular. You can hear fine crackles on auscultation of the chest. There is obvious 4/5 proximal muscle weakness affecting the hip and shoulder girdle. Investigations: Investigation Result Normal Value Haemoglobin 109 g/l 115-155 g/L White Cell Count(WCC) 8.1×10/L 4-11×10/L Platelets 201×10/L 150-400×10/L Sodium(Na+) 140 mmol/L 135-145 mmol/l Potassium(K+) 4.9 mmol/L 3.5-5.0 mmol/L Creatinine 123 μmol/L 50-120 μmol/l Creatine Kinase(CK) 1121 IU/L 23-175 IU/L Which of the following autoantibodies is most likely to be positive?",
+    "options": [
+      "Anti-hPMS1",
+      "Anti-Jo1",
+      "Anti-MDA5",
+      "Anti-Mi2",
+      "Anti-p140"
+    ],
+    "correct_option": 1,
+    "explanation": "Anti-Jo1 is present in approximately 20% of patients with myositis (the likely diagnosis here) and is seen.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "afd32bf2-a0a1-4207-932d-864776282d7e",
+    "stem": "You are asked to review a 74-year-old woman in the Emergency Department who is currently being treated by her GP for a urinary tract infection with trimethoprim. She also has a history of hypertension for which she takes the combination of ramipril and indapamide. He has referred her in because of a rise of 30 in her creatinine. On examination her BP is 124/82 and there is no postural drop. Pulse is 70 and regular. The chest is clear. There is minor suprapubic tenderness, thought to be related to the UTI. Investigations: Investigation Result Normal Value Haemoglobin 129 g/l 115-155 g/l White Cell Count (WCC) 11.3×10/L 4-11×10/L Platelets 203×10/L 150-400×10/L C-Reactive Protein(CRP) 88 mg/l 0-10 mg/L Sodium(Na+) 140 mmol/L 135-145 mmol/L Potassium (K+) 4.5 mmol/L 3.5-5.0 mmol Creatinine 152μmol/L 50-120 μmol/L Urea 7.1 mmol/L 2.5-6.5 mmol/L Which of the following is the most likely cause of the elevated creatinine?",
+    "options": [
+      "Acute tubular necrosis",
+      "Post-renal failure",
+      "Pre-renal failure",
+      "Ramipril",
+      "Trimethoprim"
+    ],
+    "correct_option": 4,
+    "explanation": "Trimethoprim reduces secretion of creatinine in the proximal tubule,resulting in an increase in serum.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "278aebce-2ee1-49e1-8b9f-82c48c0bb37a",
+    "stem": "A 17-year-old man is admitted to the Emergency Department following resuscitation after he suffered a cardiac arrest while playing soccer. He apparently gave no warning and collapsed on the soccer field. He was found to be in ventricular tachycardia and was defibrillated on the scene. According to relatives who accompanied him to the hospital, his father passed away suddenly from a cardiac arrest at the age of 42.On examination in the Emergency Department, his blood pressure is 122/82 mmHg and his pulse is 82 bpm and regular. His chest is clear, although he is complaining of soreness over his sternum. The ECG reveals a QT of 520 ms. What cardiac myocyte ion channel defect is most likely to be found in this patient?",
+    "options": [
+      "Calcium",
+      "Chloride",
+      "Magnesium",
+      "Potassium",
+      "Sodium"
+    ],
+    "correct_option": 3,
+    "explanation": "Type 1 Long QT syndrome (LQT) accounts for 30-35% of cases of LQT, the most likely diagnosis here. It is.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ed09d65d-4a60-4649-adbd-488ac7f862f5",
+    "stem": "A 30-year-old man presents to the Emergency Department with progressive weight loss, night sweats and a chronic cough. He tells you he is feeling increasingly tired and is finding it hard to hold down his job as the administrator of a local charity. He has worked in a shipyard in previous years and smokes ten cigarettes per day. He has not travelled outside of the UK for several years though he was originally born and lived in the Philippines. He denies any history of tuberculosis or exposure to tuberculosis. On examination his BP is 122/80, with pulse 80 and regular. There is decreased air entry at the right lung base. The abdomen is soft and non-tender, and his BMI is 22. Investigations: Investigation Result Normal Value Haemoglobin 117 g/l 135-175 g/l White Cell Count(WCC) 11.9×10/L 4-11×10/L Platelets 203×109/L 150-400×10/L Sodium(Na+) 137 mmol/L 135-145 mmol/L Potassium(K+) 4.5 mmol/L 3.5-5.0 mmol/L Creatinine 100 μmol/L 50-120 μmol/L C-Reactive Protein(CRP) 122 mg/L 0-10 mg/l hilar lymphadenopathy, patchy shadowing Chest X-Ray affecting the right upper and mid zones, small right pleural effusion Which of the following is the most likely diagnosis?",
+    "options": [
+      "Bronchial carcinoma",
+      "Lymphoma",
+      "Mesothelioma",
+      "Sarcoidosis",
+      "Tuberculosis"
+    ],
+    "correct_option": 4,
+    "explanation": "Whilst patients may genuinely feel they have never been exposed to tuberculosis,migration from a country with high incidence is a significant risk factor-the Philippines has one of the highest in the world at 554/100,000 and over half of their population is under the age of 25.Moreover, the CXR changes suggestive of the condition and raised CRP,coupled with weight loss and night sweats make tuberculosis the most likely diagnosis. Mantoux and sputum testing are both reasonable next steps. Treatment can be started while awaiting culture results if suspicion of active disease is high, and PCR testing for TB is now also available from a number of centers.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "a7259409-17a1-4d1f-afc0-32a3bad0d636",
+    "stem": "A52-year-old man comes to the Emergency Department with acute inflammatory arthropathy affecting his right big toe. He has been diagnosed with gout some seven months earlier and is currently taking allopurinol 200mg per day. You confirm an acute episode of gouty arthropathy. Which of the following cytokines is most associated with acute gout?",
+    "options": [
+      "Interleukin 1",
+      "Interleukin 2",
+      "Interleukin 6",
+      "Interleukin 10",
+      "Interleukin 13"
+    ],
+    "correct_option": 0,
+    "explanation": "It is thought that acute episodes of gout are triggered by an increase in interleukin 1(IL-1), associated with hypertriglyceridaemia against a background of elevated urate. For this reason, IL-1 inhibitors such as canakinumab are used in the treatment of acute episodes.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "be06331e-de88-48cf-93a1-b924e653ba95",
+    "stem": "A 74-year-old woman is referred for post-mortem after dying suddenly at home. She had a history of Parkinson's disease and Lewy body dementia.You attend the post-mortem for teaching purposes. What do you expect to find as the main constituent of Lewy bodies?",
+    "options": [
+      "Alpha-synuclein",
+      "Beta-amyloid",
+      "Globulin",
+      "Prion protein",
+      "Tau protein"
+    ],
+    "correct_option": 0,
+    "explanation": "Alpha-synuclein(AS) is a protein that is abundant in the human brain. It is found mainly in the pre-synaptic terminals of neurones; it is found in particularly high levels in the substantia nigra.Lewy bodies are aggregates of AS that occur in cells affected by Parkinson's disease.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b8984445-4c1e-4756-ace7-274fea9e5a73",
+    "stem": "A 67-year-old woman is started on chewable calcium carbonate tablets by the staff in the Emergency Department having suffered a left Colles'fracture. She has a history of ischaemic heart disease, hypothyroidism and type ll diabetes and takes a number of medications. Which of these medications should she not take at the same time as the calcium carbonate tablets?",
+    "options": [
+      "Amlodipine",
+      "Gliclazide",
+      "Levothyroxine",
+      "Ramipril",
+      "Simvastatin"
+    ],
+    "correct_option": 2,
+    "explanation": "The efficacy of levothyroxine can be reduced by the concurrent use of calcium carbonate, due to decreased levothyroxine absorption. Administration of calcium carbonate and levothyroxine should be separated by at least 4 hours. Calcium salts may also decrease the absorption of iron, zinc and strontium ranelate and quinolone antibiotics.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "86145fbc-66df-4dfb-a655-6ba92884c383",
+    "stem": "A74-year-old man comes to the clinic for review. He complains of persistent shortness of breath and ankle swelling despite being treated with ramipril, furosemide and bisoprolol fumarate for his cardiac failure. On examination, his blood pressure is 132/80mmHg;his pulse is 64bpm and regular. There are bilateral crackles at both lung bases, and pitting oedema of both ankles. You plan to add spironolactone to his regimen. Where is the primary site of action of spironolactone?",
+    "options": [
+      "Proximal portion of the proximal convoluted tubule",
+      "Thick ascending limb of the loop of Henle",
+      "Distal convoluted tubule",
+      "Juxtaglomerular apparatus",
+      "Distal portion of the proximal convoluted tubule"
+    ],
+    "correct_option": 2,
+    "explanation": "Spironolactone is a competitive inhibitor of aldosterone receptors found in the distal portion of the distal convoluted tubule; this drives great excretion of salt and water. Thiazide diuretics also act on the distal convoluted tubule via the sodium chloride symporter.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "d4209e7f-beb6-41f4-b5de-cbc34a3bf26a",
+    "stem": "A 26-year-old African-American woman comes to the Genetics Clinic with her husband who is of similar ethnicity. She has been identified as having haemoglobin genotype AS, or sickle cell trait. Which of the following haemoglobin genotypes in her husband mean that 75% of her offspring would suffer from sickle cell disease?",
+    "options": [
+      "Haemoglobin AA",
+      "Haemoglobin AS",
+      "Haemoglobin SC",
+      "Haemoglobin SE",
+      "Haemoglobin S/HPHP"
+    ],
+    "correct_option": 2,
+    "explanation": "This is a situation where the carrier is a double heterozygote for haemoglobin(Hb) S and Hb C with intermediate clinical severity. This couple's offspring would therefore have a 25% chance of being SC,25% chance of being AS,25% chance of being AC and a 25% chance of being SS. Although SC and AC phenotype is milder than SS-they would have some clinical symptoms and propensity to sickling. Therefore,75% would have sickle phenotype.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "cb166d80-3431-4631-9935-d7880b18247a",
+    "stem": "A 42-year-old woman presents to her GP complaining of a swelling on the left side of her neck. She has been suffering from night sweats and increasing aches and pains over the past few months which she thought were due to the menopause, and she has been treated with amoxicillin for a recent episode of pneumonia. She is a non-smoker who drinks three glasses of wine per week. On examination, she is pyrexial at 37.6℃;her blood pressure is 110/70 mmHg and she has a large left supraclavicular lymph node. Her chest appears clear on auscultation. She also has blue-tinged fingertips. Investigations: Investigation Result Normal Value Haemoglobin 104 g/l 115-155 g/L White Cell Count (WCC) 9.8×10/L 4-11×10/L Platelets 182×10/L 150-400×10/L Sodium(Na+) 138 mmol/L 135-145 mmol/L Potassium(K+) 4.4 mmol/L 3.5-5.0 mmol/L Creatinine 110 μmol/L 50-120 μmol/L Erythrocyte Sedimentation Rate (ESR) 92 mm/h 0-10 mm in the 1st hour Cold agglutinins positive Which one of the following is the most likely diagnosis?",
+    "options": [
+      "Bronchial carcinoma",
+      "Hodgkin's lymphoma",
+      "Mycoplasma pneumoniae",
+      "Non-Hodgkin's lymphoma",
+      "Systemic amyloidosis"
+    ],
+    "correct_option": 3,
+    "explanation": "Painless, slowly progressive peripheral lymphadenopathy is the most common clinical presentation of non- Hodgkin's lymphoma.The presence of peripheral cyanosis implies the presence of cold agglutinins. Lymph node excision or core biopsy is the investigation of choice because the architecture of the node is important in determining the prognosis.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "1d174c3a-aee0-4550-9fc3-47f3c8f898ae",
+    "stem": "A 29-year-old man comes to the Emergency Department complaining of pleuritic chest pain. He has been suffering from a flu-like illness over the past 3 days and says that the chest pain is central, retrosternal and is relieved by sitting forward. On examination, his blood pressure is 125/72 mmHg;his pulse is 75 bpm and regular. There is a pericardial friction rub; there are no signs of left ventricular failure or consolidation on auscultation of the chest. What ECG changes would you classically expect in this situation?",
+    "options": [
+      "T-wave inversion",
+      "ST elevation (convex upwards)",
+      "ST elevation (concave upwards)",
+      "ST depression",
+      "Normal 12-lead ECG"
+    ],
+    "correct_option": 2,
+    "explanation": "This history and the finding of a pericardial friction rub are classical for a diagnosis of viral pericarditis, likely to be related to the flu-like illness described here. Concave or saddle-shaped ST elevation is well described, and elevated troponin or creatine kinase-MB is likely to be found. Rest accompanied by the use of non- steroidal anti-inflammatory drugs are the intervention of choice.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "7e3e277f-1e86-4094-b9ac-eacf41f4860c",
+    "stem": "You are asked to see a 72-year-old man who is recovering on the stroke ward having suffered a subarachnoid haemorrhage thought to be related to chronic hypertension. The nurses are noting wild fluctuations in body temperature and are concerned that this may be related to his brain haemorrhage. Which of the following areas is most likely to have been affected?",
+    "options": [
+      "Anterior hypothalamic nucleus",
+      "Lateral preoptic nucleus",
+      "Paraventricular nucleus of the hypothalamus",
+      "Supraoptic nucleus of the hypothalamus",
+      "Suprachiasmatic nucleus of the hypothalamus"
+    ],
+    "correct_option": 0,
+    "explanation": "The anterior hypothalamic nucleus plays a crucial role in thermoregulation and circadian rhythms. It is situated at the inferior border of the paraventricular nucleus.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "8d7bf736-8839-4981-97d7-5e76dba5dfae",
+    "stem": "You are telephoned by a local GP who is concerned about thyroid function test results for a patient who has become progressively more lethargic with marked weight gain over the past few months. Her thyroid- stimulating hormone is markedly elevated at 12.5mU/L,T3 and T4 are both below the lower limit of normal. You are asked to give advice about initiation of thyroxine replacement. In which situation is it most important to increase the thyroxine dose very gradually?",
+    "options": [
+      "Neuropathy",
+      "Cirrhosis",
+      "Anaemia",
+      "Increased age",
+      "Chronic obstructive pulmonary disease"
+    ],
+    "correct_option": 3,
+    "explanation": "In the older population,the recommended initial dose of levothyroxine is 25μg once daily, adjusted in steps of 25μg every four weeks according to response. This is because of significantly increased risk of cardiac arrhythmia in older patients.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "cef11cbd-46c8-4a8f-b147-607033f6eb4b",
+    "stem": "A54-year-old man comes to the Cardiology Clinic for review some six weeks after discharge following an inferior ST elevation myocardial infarction. Current medication is bisoprolol fumarate, ramipril, atorvastatin, clopidogrel and aspirin. His main complaint is a constant, niggling,dry cough. On examination,his blood pressure is 122/82 mmHg; his pulse is 62 bpm and regular. His chest is clear and there is no evidence of peripheral oedema. His peak flow is 500 L/min (515L/min predicted). Which of the following is the most likely cause of his cough?",
+    "options": [
+      "Beta blocker-related asthma",
+      "Increased angiotensin l",
+      "Increased angiotensin I",
+      "Increased bradykinin",
+      "Increased natriuretic peptide"
+    ],
+    "correct_option": 3,
+    "explanation": "Angiotensin-converting enzyme(ACE) inhibitors interfere with the metabolism of bradykinin, leading to increased levels. Increased bradykinin is thought to drive the niggling,dry cough associated with ACE inhibitor use. Increased bradykinin is not seen in association with angiotensin II receptor blockers.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c6062387-0a89-4212-adc4-31f50f964cf9",
+    "stem": "A 25-year-old man explains that he has experienced episodes where he is unable to move just before onset of sleep, and just after waking. Each time it occurs it leaves him feeling frightened and anxious. It is sometimes associated with visual disturbances. He has no past medical history of note. Examination in the clinic reveals nil of note, with general physical and neurological assessments entirely normal. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Panic disorder",
+      "Sleep paralysis",
+      "Hypokalaemic periodic paralysis",
+      "Night terrors",
+      "Frontal lobe epilepsy"
+    ],
+    "correct_option": 1,
+    "explanation": "Sleep paralysis is common, and is seen more frequently in younger versus older individuals. It is associated with poor sleep hygiene and, if patients are particularly troubled by it, they are encouraged to take measures such as fixing a sleep time and minimising consumption of alcohol and/or stimulants such as caffeine. It may rarely be associated with other more significant sleep disorders such as narcolepsy.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "fba5709c-3bed-4061-888b-a13f2217156b",
+    "stem": "A 19-year-old student is reviewed in the Emergency Department with increasing tiredness, lethargy, multiple small joint pains and a central, dull chest ache. He attended his GP a few days earlier and was diagnosed with a Streptococcus pyogenes throat infection. On examination, he is pyrexial 38.2°C.His blood pressure is 110/80 mmHg; his pulse is 79 bpm and regular. He has a pansystolic murmur that is loudest over the mitral area. His chest is clear and there is no ankle swelling. Investigations: Investigation Result Normal Value Haemoglobin 109 g/L 135-175 g/l White Cell Count(WCC) 11.2×10/L 4-11×10/L Platelets 119×10/L 150-400×10/L C-Reactive Protein (CRP) 210 mg/L 0-10 mg/l Erythrocyte sedimentation rate(ESR) 78 mm/h 0-10 mm in the 1st hour Sodium (Na+) 138 mmol/L 135-145 mmol/L Potassium (K+) 4.5 mmol/L 3.5-5.0 mmol/L Creatinine 95μmol/L 50-120 μmol/L Urine blood Protein ++ Echocardiography Mitral valve vegetations Which of the following is the most appropriate intervention?",
+    "options": [
+      "Intravenous ceftriaxone",
+      "Intravenous flucloxacillin and gentamicin",
+      "Intravenous linezolid",
+      "Intravenous penicillin and gentamicin",
+      "Intravenous vancomycin"
+    ],
+    "correct_option": 3,
+    "explanation": "Although acute endocarditis due to Streptococcus pyogenes infection is rare, it is reported, and standard intervention is with a combination of intravenous penicillin and gentamicin.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c82bae86-dd9a-4768-abd2-9558d9529554",
+    "stem": "A17-year-old girl who is in the first year of studying for A-levels comes to the Emergency Department having suffered a third seizure in the past 6 months. According to her mother she refused to attend medical services after the first two episodes. She has a good level of school attainment and there are apparently no problems at home. According to the mother she has always been clumsy in the morning, suffering from sudden jerks affecting her hands, leading to frequent spillage of drinks. Apparently the girl's father developed fits at a similar point in his life. Examination in the clinic, including neurological status, is unremarkable apart from minor clumsiness holding a pencil and a cup. Routine bloods are normal. Which of the following is the most likely cause of the seizure?",
+    "options": [
+      "Benign rolandic epilepsy",
+      "Dravet syndrome",
+      "Partial epilepsy with secondary generalised seizures",
+      "Juvenile myoclonic epilepsy",
+      "Psychogenic non-epileptic seizure"
+    ],
+    "correct_option": 3,
+    "explanation": "Q. Answered Flagged The characteristic history for JME, with increasing morning clumsiness associated with the development of fits in the teenage years, points us to the diagnosis. The normal school attainment also steers us away from other causes of epilepsy associated with learning difficulties. JME is inherited in autosomal dominant fashion. Levetiracetam, lamotrigine and sodium valproate are all potential treatment options.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c8264493-df31-4072-b7fb-ea146ae29f8a",
+    "stem": "A 62-year-old man presents with worsening breathlessness, confusion and headaches over the past few weeks. Over three months ago, he began to have progressive exertional dyspnoea, aching in both legs and pain in the left arm after only 50 yards of walking. He has also noted bleeding around his gum line when he cleans his teeth and intermittent blurred vision. He has a history of hypertension for which he takes lisinopril. He smokes ten cigarettes per day and uses an occasional salbutamol inhaler. On examination, his blood pressure is 155/90 mmHg: his pulse is 78 bpm and regular.You notice bruising and petechial haemorrhages over his arms and legs. Auscultation of the chest reveals crackles and wheeze consistent with chronic obstructive pulmonary disease. He has palpable femoral and popliteal pulses. Investigations: Which one of the following is the most likely cause of his presentation? Investigation Result Normal Value Haemoglobin 100 g/l 135-175 g/l White Cell Count (WCC) 9.2×10/L 4-11×10/L Platelets 132×10/L 150-400×10/L Sodium(Na+) 139 mmol/L 135-145 mmol/L Potassium(K+) 4.5 mmol/L 3.5-5.0 mmol/L Creatinine 132 μmol/L 50-120 μmol/L lgA 2.8 g/l 1.0-4.0 g/l IgG 7 g/l 5-16 g/l IgM 24 g/l 0.5-2.0 g/l Erythrocyte Sedimentation Rate(ESR) 90 mm/h 0-10 mm in the 1st hour",
+    "options": [
+      "Atherosclerosis",
+      "Primary polycythaemia",
+      "Secondary polycythaemia",
+      "Waldenstrom's macroglobulinaemia",
+      "Granulomatosis with polyangiitis"
+    ],
+    "correct_option": 3,
+    "explanation": "Waldenstrom's macroglobulinaemia is characterised by the marked increased in viscosity seen here and associated symptoms. The marked elevationin immunoglobulin M is characteristic of the condition. Bone marrow investigation in all symptomatic patients is advised to confirm the diagnosis. For patients with symptoms such as this man, a rituximab-based chemotherapy regimen is instituted. One commonly used triple combination option is rituximab with cyclophosphamide and dexamethasone.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "00b8d9e6-7dfc-4ac9-83af-8060203a0f1c",
+    "stem": "A74-year-old man is referred to the rheumatology clinic for review. He complains of joint pains that have increased over the past six months, particularly affecting his left shoulder and right hip. He takes ramipril and bendroflumethiazide to control his hypertension, simvastatin and aspirin 75mg. On examination, his blood pressure is 138/82 mmHg. His pulse is 70 bpm and regular. Heart sounds are normal, chest is clear, abdomen is soft and non-tender. There is obvious limitation of shoulder extension and abduction, and hip flexion. Investigations: Investigation Result Normal Value Haemoglobin 131 g/l 135-175 g/l White Cell Count (WCC) 7.0×10/L 4-11×10/L Platelets 201×10/L 150-400×10/L Erythrocyte Sedimentation Rate(ESR) 15 mm/h 0-10 mm in the 1st hour Sodium(Na+) 140 mmol/L 135-145 mmol/L Potassium(K+) 5.0 mmol/L 3.5-5.0 mmol/L Creatinine 100 μmol/L 50-120 μmol/L Calcium(Ca+) 2.3 mmol/L 2.20-2.60 mmol/L Alkaline Phosphatase 495 IU/L 30-130 IU/L Phosphate(PO-) 1.0 mmol/L 0.70-1.40 mmol/L Which of the following is the most likely diagnosis?",
+    "options": [
+      "Multiple myeloma",
+      "Osteoarthritis",
+      "Paget's disease",
+      "Primary hyperparathyroidism",
+      "Secondary hyperparathyroidism"
+    ],
+    "correct_option": 2,
+    "explanation": "Clues here towards Paget's include limited joint involvement, normal calcium and phosphate, and raised alkaline phosphatase, in the presence of normal renal function. Imaging is likely to reveal significant joint deformity related to abnormal bone remodelling. Treatment is with bisphosphonates.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "cce79d67-4870-470d-aa24-f8e1c3a685fc",
+    "stem": "A 63-year-old man comes to the Cardiology Clinic some six weeks after an anterior myocardial infarction for which he received two stents. His current medication includes lisinopril, clopidogrel, aspirin, atorvastatin and bisoprolol fumarate. On examination, his blood pressure is 122/80 mmHg;his pulse is 72 bpm and regular. His chest is clear. His abdomen is soft and non-tender;there is mild pitting oedema affecting both ankles. He asks about his prognosis with respect to future cardiovascular events. Which of the following is most associated with a future risk of myocardial infarction if pertaining to this patient?",
+    "options": [
+      "Carotid artery disease",
+      "Consumption of five units per week of alcohol",
+      "Elevated body mass index",
+      "First-degree heart block",
+      "Low high-density lipoprotein cholesterol"
+    ],
+    "correct_option": 0,
+    "explanation": "Q. Answered Flagged Evidence of atherosclerosis affecting more than one vascular bed is strongly associated with a risk of future non-fatal cardiovascular events or cardiovascular death after myocardial infarction according to the REACH (Reduction of Atherothrombosis for Continued Health) registry. Other predictive risk factors include diabetes, smoking, low body mass index, history of atrial fibrillation and cardiac failure.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b6d6e51f-14b0-423b-8d46-3e98829942a2",
+    "stem": "A 27-year-old woman is prescribed oral montelukast to control her asthma due to increased shortness of breath despite maximised inhaled fluticasone propionate and salmeterol. Which of the following correctly reflects the mode of action of montelukast?",
+    "options": [
+      "Corticosteroid",
+      "Leukotriene receptor antagonist",
+      "Long-acting muscarinic antagonist",
+      "Phosphodiesterase-5 inhibitor",
+      "Phosphodiesterase-4 inhibitor"
+    ],
+    "correct_option": 1,
+    "explanation": "Montelukast is indicated in patients who are unable to achieve control of their asthma symptoms despite optimised inhaled corticosteroids and long-acting beta agonists. Montelukast blocks the cysteinyl leukotriene receptor 1 (CysLTR1), responsible for mediating the actions of the CysLTs, and found predominantly in the airway.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "7f79e04b-9646-4c62-bb0c-e108e73da5d6",
+    "stem": "A 41-year-old woman with a history of rheumatoid arthritis comes to the respiratory clinic with increasing shortness of breath, which was unrelieved by salbutamol and beclomethasone inhalers. She has no past respiratory medical history of note, and is a non-smoker. Medication for rheumatoid arthritis includes weekly methotrexate. On examination her BP is 122/82, with pulse 80 and regular. There are fine crackles on auscultation of the chest, and the abdomen is soft and non-tender with no masses. Investigations reveal an FVC 70% of that predicted (a fall of 15% since starting methotrexate therapy). Chest×-ray shows patchy shadowing. Which of the following is the most important intervention?",
+    "options": [
+      "Add inhaled long-acting beta agonist",
+      "Add oral prednisolone",
+      "Increase inhaled corticosteroid dose",
+      "Stop methotrexate",
+      "Start nintedanib"
+    ],
+    "correct_option": 3,
+    "explanation": "This woman has chest X-ray and pulmonary function tests that raise the possibility of methotrexate-related pulmonary fibrosis. In this situation methotrexate must be discontinued and oral corticosteroids initiated.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c000496b-7102-428e-8cdc-1e8bcb72fca1",
+    "stem": "A 42-year-old man who owns a bar in Spain has returned to the UK for the first time in 4 years. He has a 6- month history of polyuria, nocturia and joint pains, and has lost 10kg in weight. He also complains of loss of ibido which is causing significant problems in his relationship. He is a non-smoker who drinks six units of alcohol per week. On examination, he has increased skin pigmentation which he puts down to suntan, and hepatic enlargement on abdominal palpation, although he has no other stigmata of chronic liver disease. Investigations: What investigation is most likely to confirm the underlying diagnosis? Investigation Result Normal Value Haemoglobin 131 g/L 135-175 g/l White Cell Count(WCC) 6.9×10/L 4-11×10/L Platelets 140×10/L 150-400×10/L Sodium(Na+) 139 mmol/L 135-145 mmol/L Potassium(K+) 4.5 mmol/L 3.5-5.0 mmol/L Creatinine 112 μmol/L 50-120 μmol/L Alanine aminotransferase (ALT) 34 IU/L 5-30 IU/L Alkaline phosphatase 190 IU/L 30-130 IU/L Gamma-Glutamyl transferase(YGT) 84 IU/L 5-30 IU/L Albumin 36 g/l 35-55 g/l Glucose 16 mmol/L 3.5-5.5 mmol/L Bilateral knee X-ray Chondrocalcinosis",
+    "options": [
+      "Serum ceruloplasmin",
+      "Serum ferritin",
+      "Serum iron",
+      "Transferrin saturation",
+      "Urinary copper excretion"
+    ],
+    "correct_option": 3,
+    "explanation": "The suspicion, with pigmentation, liver impairment, diabetes, and chondrocalcinosis, raises the possibility of haemochromatosis. Of the options given, transferrin saturation is the most useful initial investigation to confirm haemochromatosis, with a saturation of 45% or greater driving genetic mutation analysis looking for C282Y or H63D mutations.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ea9b937a-dfa3-463f-badd-999410189af2",
+    "stem": "You are planning a procedure to insert a subclavian venous catheterinto a 72-year-old woman who presents with hypotension and urinary sepsis. She is of normal weight. Where is the optimal point of needle insertion?",
+    "options": [
+      "1 cm inferior to the junction of the middle and medial third of the clavicle",
+      "Superior to the clavicle at the deltopectoral groove",
+      "Just medial to the midclavicular line, with the needle perpendicular along the inferior lateral",
+      "Two finger breadths lateral to the angle of the clavicle",
+      "Two finger breadths inferior to the midclavicular line"
+    ],
+    "correct_option": 0,
+    "explanation": "The object is to cannulate the subclavian vein while minimising the risk of arterial puncture. This point of entry minimises the distance from the skin to the vein, and the chance of entering the pleural space.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "a42c3e36-d77b-41db-b1d9-114c5754d5b2",
+    "stem": "A 64-year-old man with proliferative diabetic retinopathy presents to the Emergency Department a few days after receiving intra-ocular anti-VEGF therapy in his left eye for proliferative diabetic retinopathy. He complains of a sudden deterioration in vision, swelling of both eyelids and an acutely red eye. He has a hypopyon, and slit lamp examination reveals severe inflammation in the anterior chamber. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Acute glaucoma",
+      "Anterior uveitis",
+      "Bacterial endophthalmitis",
+      "Episcleritis",
+      "Scleritis"
+    ],
+    "correct_option": 2,
+    "explanation": "The temporal proximity of symptoms to the anti-VEGF injection raises the possibility of bacterial infection. Diagnosis with respect to the underlying bacteria is made by taking a sample of vitreous for culture. At the same time the entire vitreous may be removed to reduce the infectious load.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "604afefa-06c1-457c-91aa-9839ed175dfd",
+    "stem": "A 70-year-old woman with a history of non-valvular atrial fibrillation is treated with rivaroxaban for stroke prevention. You are concerned that she may have poor compliance with her therapy. Which of the following is the best way to monitor rivaroxaban compliance?",
+    "options": [
+      "Activated partial thromboplastin time",
+      "Bleeding time",
+      "Factor VIII",
+      "Fibrinogen",
+      "Prothrombin time"
+    ],
+    "correct_option": 4,
+    "explanation": "Prothrombin time(PT) is influenced by rivaroxaban in a dose-dependent way with a close correlation to plasma concentrations(r=0.98). This makes it the optimal way to measure rivaroxaban compliance. International normalised ratiovalues are only relevant to coumarins.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "348df05d-f11f-4b3d-93c3-08b0649bee36",
+    "stem": "A 39-year-old woman who is treated with long-term lithium therapy for manic depressive disorder comes to the Endocrinology Clinic complaining of polyuria and polydipsia. She complains that she is drinking up to 51 of water per day and waking multiple times in the night to pass urine. On examination, her blood pressure is 125/82 mmHg, with a drop in systolic blood pressure of 20 mmHg on standing. Her body mass index is elevated at 32 kg/m.Routine blood testing reveals an elevated serum osmolality although urine osmolality is decreased. Which of the following is the most likely cause of her symptoms?",
+    "options": [
+      "Aldosterone resistance",
+      "Decreased aquaporin-2 gene expression",
+      "Decreased aquaporin-3 gene expression",
+      "Decreased sodium/glucose cotransporter 2 expression",
+      "Diabetes mellitus"
+    ],
+    "correct_option": 1,
+    "explanation": "Q. Answered Flagged Diabetes Insipidus Media explanations Chronic lithium use is recognised to reduce both cAMP- and non-cAMP-related upregulation of aquaporin-2 gene expression. The role of aquaporin-2 is to drive reuptake of water from the urine, and the number of aquaporin-2 channels is increased in response to vasopressin. Blockade of the upregulation of aquaporin-2 gene expression reduces the effect of vasopressin causing nephrogenic diabetes insipidus.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b13e53da-6827-43a8-8264-2e51435fffd9",
+    "stem": "A30-year-old lady presents with joint pains that have been getting progressively more severe over the past 2 years or more. After clinical examination, blood tests and X-rays, she has been diagnosed with rheumatoid arthritis. Rheumatoid factor is negative and anti-CCP is positive. Hand X-rays show osteopenia and joint erosions. Her symptoms respond well to a course of oral corticosteroids. Which of the following is the poorest prognostic factor for rheumatoid progression in this patient?",
+    "options": [
+      "Anti-CCP positivity",
+      "Joint erosions on hand X-rays",
+      "Osteopenia on hand X-rays",
+      "Response to corticosteroids",
+      "Rheumatoid factor negativity"
+    ],
+    "correct_option": 0,
+    "explanation": "In patients who are rheumatoid factor negative, anti-CCP positivity stratifies more rapid progression and more aggressive joint disease.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ba271661-b65a-417e-995d-cd8d9a3171d1",
+    "stem": "A37-year-old woman comes to the Emergency Department for review. She has been suffering from fevers over the past few days and feels generally unwell. Her main complaint is of multiple erythematous macular lesions that resemble targets. She says these began first on the extensor surfaces of her arms and legs, but have now spread to involve the torso. Mucus membranes appear spared. Which of the following is the most likely cause?",
+    "options": [
+      "Adenovirus infection",
+      "Cytomegalovirus infection",
+      "Herpes simplex virus infection",
+      "Mycoplasma infection",
+      "Parvovirus B19 infection"
+    ],
+    "correct_option": 2,
+    "explanation": "Herpes simplex is the most common cause of erythema multiforme, the likely diagnosis here. The non- specific symptom of fever also fits with the diagnosis of a viral infection.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "fdba3b8e-7fab-4fdb-8567-a995b8bbd0f6",
+    "stem": "A56-year-old man who has lymphadenopathy and splenomegaly has been diagnosed as having follicular B-cell non-Hodgkin's lymphoma. He is attending to begin therapy for the condition. Which of the following receptors is commonly targeted in the therapy for B-cell non-Hodgkin's lymphoma?",
+    "options": [
+      "CD3+",
+      "CD4+",
+      "CD8+",
+      "CD20+",
+      "S100 calcium-binding protein B"
+    ],
+    "correct_option": 3,
+    "explanation": "The CD20+receptor is found on the surface of B lymphocytes and is a target for immune therapies such as rituximab. By targeting the CD20+receptor, cells that express it are depleted. Because there are greater numbers of lymphoma cells, these are depleted most.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "0797cdab-0ef8-42c8-a8d1-200408e94c62",
+    "stem": "A 21-year-old woman with a history of Turner syndrome comes to the Emergency Department complaining of exertional chest pain, shortness of breath and headaches that have worsened over the past few months. She has not engaged with medical services since her original diagnosis as her family have always had an aversion to medical interventions. On examination, her blood pressure is 155/90 mmHg in the right arm and 122/75mmHg in the left arm. She appears to have relatively weak femoral pulses. There is a loud systolic murmur in the left infraclavicular area. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Aortic stenosis",
+      "Coarctation of the aorta",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Mitral regurgitation",
+      "Pulmonary stenosis"
+    ],
+    "correct_option": 1,
+    "explanation": "Coarctation of the aorta is a common cardiovascular abnormality in patients with Turner syndrome; it is found in approximately 15% of patients. Bicuspid aortic valve is found in a similar proportion of patients. Elongation of the aortic arch is more commonly found,in approximately 30% of patients with Turner syndrome. The picture here with hypertension and differential blood pressures fits with coarctation as the underlying diagnosis.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "313510c6-2b95-4028-a404-f30085848102",
+    "stem": "You are the consultant in charge of the hospital's Genetics Clinic and are consulted by a set of parents who have a child with significant congenital defects. The parents want to have a further child and are concerned that the disease may be inherited through the female lineage of the family.Given this history, you suspect there may be a mitochondrial inheritance pattern. Which one of the following features would be typical of a mitochondrial disorder?",
+    "options": [
+      "Optic atrophy",
+      "Hypercholesterolaemia",
+      "Bronchiectasis",
+      "Pseudohypoparathyroidism",
+      "Spina bifida"
+    ],
+    "correct_option": 0,
+    "explanation": "Features of mitochondrial disorders include optic atrophy, neuropathy, diabetes mellitus, epilepsy, diabetes insipidus and sensory neural hearing loss. Mitochondrial dysfunction leads to deficiencies in energy production, which drives the mixed picture of neuronal and muscular dysfunction. Examples include DIDMOAD(Diabetes Insipidus, Diabetes Mellitus, Optic Atrophy, and Deafness) syndrome, Leber's hereditary optic atrophy, mitochondrial myopathy and Leigh syndrome.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "2cc20bff-1d0c-4533-b129-9cf6f57a4a7e",
+    "stem": "A 62-year-old man is reviewed on the ward a few days after suffering a right parietal lobe stroke. His blood pressure is now stable at 135/80 mmHg, his pulse is 75 bpm and regular. He is beginning to mobilise around the ward. Which of the following deficits is most likely to become apparent?",
+    "options": [
+      "Cortical blindness",
+      "Disinhibition",
+      "Deficit in understanding spoken and written language",
+      "Visual memory defect",
+      "Visual-spatial awareness deficit"
+    ],
+    "correct_option": 4,
+    "explanation": "Damage to the right parietal lobe leads to visual-spatial deficits that result in patients being unable to navigate around locations, especially places that are new to them, but also familiar locations.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b1acb114-fb74-41a6-b73f-ad5ea7c6c964",
+    "stem": "A 19-year-old man comes to the Haematology Clinic for review. He has suffered from increasing abdominal pain and fullness after a meal, and has intermittent jaundice that has progressed over the past two years. He tells you that his father and uncle had similar symptoms and both underwent a splenectomy. On examination his blood pressure is 110/70 mmHg; his pulse is 75 bpm and regular. His abdomen is soft and non-tender; there is obvious splenomegaly on palpation. Investigations: Investigation Result Normal Value Haemoglobin 92 g/L (spherocytes and increased 135-175 g/l reticulocytes seen on film) White Cell Count (WCC) 7.1×10/L 4-11×10/L Platelets 203×10/L 150-400×10/L Sodium(Na+) 140 mmol/L 135-145 mmol/L Potassium (K+) 4.8 mmol/l 3.5-5.0 mmol/l Creatinine 90 μmol/L 50-120 μmol/L Alanine Aminotransferase(ALT) 23 IU/L 5-30 IU/L Albumin 40 g/l 35-55 g/L Bilirubin 25μmol/L 2-17 μmol/l Which of the following is the most appropriate intervention?",
+    "options": [
+      "Eltrombopag",
+      "Erythropoietin",
+      "Folate supplementation",
+      "Prednisolone",
+      "Splenectomy"
+    ],
+    "correct_option": 4,
+    "explanation": "This patient has hereditary spherocytosis, an autosomal dominant condition. It results in progressive splenomegaly in some patients, which may lead to the symptoms of abdominal fullness seen here. Intermittent jaundice occurs as a result of haemolysis, which eventually increases the risk of gallstones. Splenectomy is therefore the treatment of choice for patients with severe symptoms.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "cf35279e-a795-4ef5-9b72-2542443b32e4",
+    "stem": "A45-year-old woman who is receiving cycles of chemotherapy for breast cancer comes to the Emergency Department complaining of a fever and a severe sore throat that has increased in severity over the past 24 hours. Sheis allergic to penicillin, having suffered an episode of anaphylaxis after taking amoxicillin some ten years earlier. On examination, she is pyrexial(38.8°C); her blood pressure is 100/70 mmHg and she is tachycardic with a pulse of 110 bpm. There is evidence of pharyngitis and she has an indwelling line for delivery of chemotherapy. Investigations: Investigation Result Normal Value Haemoglobin 88 g/l 115-155 g/l White Cell Count (WCC) 3.4(N O.2)×10/L 4-11×109/L Platelets 89×10/L 150-400×10/L Sodium (Na+) 138 mmol/L 135-145 mmol/L Potassium (K+) 4.5 mmol/L 3.5-5.0 mmol/L Creatinine 142 μmol/L 50-120 μmol/L C-Reactive Protein(CRP) 185 mg/l 0-10 mg/l Which of the following is the most appropriate intervention?",
+    "options": [
+      "Oral ciprofloxacin",
+      "Co-amoxiclav",
+      "Levofloxacin",
+      "Ciprofloxacin and vancomycin with single dose gentamicin",
+      "Piperacillin with tazobactam and gentamicin"
+    ],
+    "correct_option": 3,
+    "explanation": "Guidelines suggest that in high-risk neutropenic patients with sepsis of unknown origin (as it is the case here), combination therapy with ciprofloxacin and vancomycin is appropriate,accompanied by a single dose of gentamicin, where there is severe penicillin allergy.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c5bfc754-bcaf-417c-bddb-3f76b6c049aa",
+    "stem": "A 61-year-old man who is known to suffer from type 2 diabetes and hypertension comes to the Emergency Department with 30 minutes of central crushing chest pain. He has continued to smoke 30 cigarettes per day and is poorly compliant with his diabetes medication. On examination, his blood pressure is 90/60 mmHg; his pulse is 30 bpm and regular. His jugular venous pressure is elevated, his chest is clear and there is no ankle swelling. The ECG reveals complete heart block with inferior ST elevation. Which of the following arteries is most likely to be occluded?",
+    "options": [
+      "Left anterior descending",
+      "Left circumflex",
+      "Left main stem",
+      "Posterior descending",
+      "Right coronary artery"
+    ],
+    "correct_option": 4,
+    "explanation": "In 60% of patients, the AV node is supplied by the right coronary artery, specifically the AV nodal branch artery.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "489e728a-8172-434f-b34d-e55b498d3b6a",
+    "stem": "A71-year-old man presents to the Emergency Department with symptoms of a stroke. He has poor co- ordination affecting his left arm, and cannot sit up without falling to the left. He also has dizziness with a feeling of falling to the left,blurred vision and nystagmus. There is loss of pain and temperature sensation on the left side of the face and the right side of the body, and he has a hoarse voice. Where is the most likely site of the lesion?",
+    "options": [
+      "Pontine artery",
+      "Posterior cerebellar artery",
+      "Posterior communicating artery",
+      "Posterior inferior cerebellar artery",
+      "Superior cerebellar artery"
+    ],
+    "correct_option": 3,
+    "explanation": "The neurological features here are consistent with lateral medullary syndrome, which is caused by interruption of blood supply from the posterior inferior cerebellar artery. Because the small calibre of this artery does not lend itself to revascularisation,in occlusive stroke the only potential option is anti-platelet therapy and control of risk factors.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "f1074b04-28ff-400e-9f19-f0d7c7fb2443",
+    "stem": "A39-year-old woman comes to the Emergency Department complaining of an acutely painful left eye. She is currently undergoing treatment with methotrexate and rituximab for rheumatoid arthritis. On examination there is significant conjunctival injection. Fluoroscein staining reveals a dendritic corneal ulcer. Which of the following is the most appropriate intervention?",
+    "options": [
+      "Oral flucloxacillin",
+      "Oral prednisolone",
+      "Topical acyclovir ointment",
+      "Topical chloramphenicol drops",
+      "Topical steroid eye drops"
+    ],
+    "correct_option": 2,
+    "explanation": "This woman probably has reactivation of a herpes simplex corneal ulcer as a result of her immunosuppressive treatment for rheumatoid arthritis. As such, topical anti-viral therapy with acyclovir is the most appropriate intervention.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "f00c919e-1095-47b8-9f17-785bfc6b240a",
+    "stem": "A 42-year-old woman comes to the Emergency Department having been punctured with a used needle after being threatened during a mugging. The perpetrator of the crime stated the needle had been used by an HIV positive person. She has no past medical history of note and the wound has been well irrigated after the event. Which of the following is the most important next intervention?",
+    "options": [
+      "Start HIV PEP",
+      "Test the patient for hepatitis B virus",
+      "Test the patient for hepatitis C virus",
+      "Test the needle for viral contamination",
+      "Vaccinate the patient against hepatitis B"
+    ],
+    "correct_option": 0,
+    "explanation": "With the proven effectiveness of HIV PEP,there is a strong rationale for starting the recommended combination of Truvada and Raltegravir, in total for 28 days of therapy. It is thought to be useful up to 72h after exposure. In a patient who has no significant past medical history there is little downside risk of treatment. BHIVA guidelines state that a sharps injury from index HIV positive individual should receive PEP, but that it would generally not be recommended if the index was of unknown HIV status.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "de5b80aa-f770-447c-a88d-4f7164383ad1",
+    "stem": "A 39-year-old Asian man who has recently moved to the UK comes to the Emergency Department with a rash affecting his shins (erythema nodosum). He says he has had it for a few weeks and has suffered from intermittent fevers for the past few months. He smokes 30 cigarettes per day and has a cough most mornings. On examination, his blood pressure is 122/82 mmHg;his pulse is 72 bpm and regular. He has an occasional wheeze on auscultation of the chest. His abdomen is soft and non-tender and his body mass index is 22 kg/m. Which of the following is the most important investigation?",
+    "options": [
+      "Autoimmune profile",
+      "Colonoscopy",
+      "Chest X-ray",
+      "Skin biopsy",
+      "Viral serology"
+    ],
+    "correct_option": 2,
+    "explanation": "In an Asian man with a history of chronic cough,fevers and erythema nodosum,it is most important to rule out tuberculosis. As such, a chest X-ray is the most important investigation from those listed. A sputum culture is also advised.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3d313b31-21e2-41ae-8373-234cab3a399b",
+    "stem": "A 56-year-old man with a history of hypertension comes to the Emergency Department with deteriorating vision. He has suffered from increasing headaches for the past 2 weeks which are unrelieved by paracetamol and ibuprofen, He admits to being poorly compliant with his anti-hypertensive medication. On examination his BP is 165/90, with pulse 75 and regular. He also has a left third nerve palsy. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Anterior communicating artery aneurysm",
+      "Anterior cerebral artery aneurysm",
+      "Internal carotid artery aneurysm",
+      "Middle cerebral artery aneurysm",
+      "Posterior cerebral artery aneurysm"
+    ],
+    "correct_option": 2,
+    "explanation": "Unruptured internal carotid artery aneurysm can exert pressure on the oculomotor nerve leading to third nerve palsy. The other common lesion which can result in this deficit is a posterior communicating artery aneurysm.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "6e329a2e-1d57-4474-97ba-286636968f55",
+    "stem": "A51-year-old man comes to the Diabetes Clinic for review. Current therapy includes metformin 1.5 g total daily dose and pioglitazone 30 mg per day. He has a background of diabetic retinopathy and hypertension but is otherwise relatively free of complications related to his diabetes. On examination, his blood pressure is 132/82 mmHg;his pulse is 70 bpm and regular. His chest is clear. His abdomen is soft and non-tender; his body mass index is elevated at 31 kg/m. His creatinine is 122μmol/l and his HbAc is elevated at 63 mmol/mol.",
+    "options": [
+      "Alpha-glucosidase inhibition",
+      "Dipeptidyl peptidase-4 inhibition",
+      "Glucagon-like peptide-1 agonism",
+      "Peroxisome proliferator-activated receptor-y agonism",
+      "Sodium-glucose co-transporter 2 inhibition"
+    ],
+    "correct_option": 1,
+    "explanation": "Dipeptidyl peptidase-4 inhibition reduces the breakdown of endogenous incretin hormones such as glucagon-like peptide-1.This potentiates the incretin effect, improving insulin release in response to a glucose challenge and therefore glycated haemoglobin(HbA1c) control. The class also has minor positive effects on weight.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "aef2744f-747a-47ba-9512-c1ab60511212",
+    "stem": "A 67-year-old man with end-stage cirrhosis related to NASH comes to the Emergency Department with his wife. Over the past 48h he has become increasingly confused with a fever, and his abdomen has become increasingly tense and swollen. His ascites was last drained two months ago, and he received oesophageal banding for varices some three months ago.On examination his GCS is 13,BP is 105/80, and pulse is 88 and regular.His temperature is 38.2℃. There are obvious signs of chronic liver disease,including spider naevi and tense, painful ascites. He has bilateral pitting oedema of the legs. Investigations: Investigation Result Normal Value Haemoglobin 98 g/l 135-175 g/l White Cell Count (WCC) 12.4×10/L 4-11×10/L Platelets 75×10/L 150-400×10/L International Normalised Ratio (INR) Sodium(Na+) 134 mmol/L 135-145 mmol/L Potassium (K+) 3.4 mmol/L 3.5-5.0 mmol/L Creatinine 80 μmol/L 50-120 μmol/L Alanine aminotransferase (ALT) 112 IU/L 5-30 IU/L Alkaline phosphatase 192 IU/L 30-130 IU/L Bilirubin 29 mmol/L 2-17 μmol/L Albumin 22 g/L 35-55 g/L C-Reactive Protein (CRP) 182 mg/l 0-10 mg/l Which of the following is the most appropriate intervention?",
+    "options": [
+      "IV tazocin",
+      "Oral co-trimoxazole",
+      "Oral ciprofloxacin",
+      "Oral metronidazole",
+      "Oral neomycin"
+    ],
+    "correct_option": 0,
+    "explanation": "This patient has spontaneous bacterial peritonitis, to which he is more susceptible as a result of his chronic liver disease. Given his decreased GCS, abdominal pain and marked elevation in CRP, IV therapy is indicated, with tazocin 4.5g TDS the preferred option.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "da6ae0f3-1ab5-49d4-867e-7d1a213bbc57",
+    "stem": "A72-year-old woman with a history of Type 2 diabetes and hypertension comes to the Emergency Department with confusion. Medication for hypertension includes amlodipine 5mg and bendroflumethiazide 5 mg; the dosage was apparently increased a few weeks earlier. On examination her BP is 152/82,with pulse 72 and regular. The chest is clear, there is no ankle swelling and the abdomen is soft and non-tender. BMI is 22. Investigations: Investigation Result Normal Value Haemoglobin 119 g/L 115-155 g/L White Cell Count (WCC) 7.1×10/L 4-11×10/L Platelets 201×10/L 150-400×10/L Sodium(Na+) 126 mmol/L 135-145 mmol/L Bicarbonate(HCO-) 29 mmol/L 24-30 mmol/L Potassium(K+) 3.4 mmol/L 3.5-5.0 mmol/L Creatinine 95μmol/L 50-120 μmol/L Which of the following is the most likely cause of her hyponatraemia?",
+    "options": [
+      "Gitelman syndrome",
+      "ypothyroidism",
+      "Increased distal tubular sodium loss",
+      "Reduced sodium reabsorption in the thick ascending limb",
+      "SIADH"
+    ],
+    "correct_option": 2,
+    "explanation": "The hyponatraemia here is almost certainly due to use of bendroflumethiazide. This causes increased distal tubular sodium loss, against a background of increased ADH, leading to increased water reabsorption against a background of excretion of urine excretion that is high in both sodium and potassium.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "da891557-187e-4a1d-ba14-df87ef24067e",
+    "stem": "A 28-year-old woman presents to the Endocrine Ward. She has symptoms of frequent near syncope, accompanied by sweating and tachycardia, and she claims her symptoms are only really relieved by eating carbohydrates. Because of snacking, her weight has increased by 5 kg over the past three months. On examination, her blood pressure is 110/72 mmHg; her pulse is 67 bpm and regular. Her chest is clear, and her abdomen is soft and non-tender. Her body mass index is 28 kg/m. Investigations: Investigation Result Normal Value Haemoglobin 121 g/L 115-155 g/L White Cell Count (WCC) 7.2×10/L 4-11×10/L Platelets 201×10/L 150-400×10/L Sodium(Na+) 139 mmol/L 135-145 mmol/l Potassium(K+) 4.4 mmol/L 3.5 mmol/L Creatinine 100 μmol/L 50-120 μmol/L Glucose 5.9 mmol/L 3.5-5.5 mmol/L Which of the following is the most useful next investigation?",
+    "options": [
+      "Insulin, glucose and C-peptide during a 72-hour fast",
+      "Insulin tolerance test",
+      "Mixed-meal tolerance test",
+      "Pancreas CT/PET scan",
+      "Pancreas MRI scan"
+    ],
+    "correct_option": 0,
+    "explanation": "Insulinoma explanations Although very rare, the suspicion here is of an insulinoma, and the optimal way to confirm the diagnosis is with a 3-day fast. Hypoglycaemia may be precipitated after an overnight fast and period of exercise, soin practice many patients who are admitted are given a period of exercise (eg on a static bike) each morning,to determine if symptoms can be precipitated.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "09f21243-5f1c-4d18-b4d1-715df9f2c2ad",
+    "stem": "A74-year-old man is admitted to the Emergency Department from home after presenting with a worsening headache, neck stiffness and confusion over the past few days. He saw the GP some 4 days earlier and was prescribed amoxicillin for a respiratory tract infection, but his symptoms gradually deteriorated. On examination he is pyrexial with a temperature of 38.8℃, BP is 105/80 and pulse is 88 and regular. His GCS is 13, he has obvious pain on neck flexion consistent with severe meningism, and bilateral papilloedema on fundoscopy. You can hear signs of left basal consolidation on auscultation of his chest. Investigations: Investigation Result Normal Value Haemoglobin 131 g/l 135-175 g/l White Cell Count (WCC) 15.7×10/L 4-11×109/L Platelets 203×10/L 150-400×10/L Sodium(Na+) 141 mmol/L 135-145 mmol/L Potassium(K+) 4.3 mmol/L 3.5-5.0 mmol/l Creatinine 102 μmol/L 50-120 μmol/L C-Reactive Protein (CRP) 204 mg/l 0-10 mg/l Which of the following is the most appropriate antibiotic choice?",
+    "options": [
+      "Benzylpenicillin",
+      "Chloramphenicol",
+      "Linezolid and vancomycin",
+      "Meropenem",
+      "Vancomycin and ceftriaxone"
+    ],
+    "correct_option": 4,
+    "explanation": "The suspicion here is of pneumococcal meningitis, which is more common in the elderly. Versus N meningitides, where ceftriaxone alone is thought to be adequate, the combination of vancomycin and ceftriaxone is recommended to achieve better coverage and more rapid clearance of underlying bacteraemia.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "978bd9d5-0661-402b-b346-bbd66da47f19",
+    "stem": "A19-year-old man comes to the Endocrine Clinic for review. He has been referred by the Emergency Department after taking an overdose that he describes as a cry for help', because he finds it difficult forming relationships and feels lonely. On examination, he is 1.9m in height. He is slim with a body mass index of 21 kg/m;he has sparse pubic and axillary hair and small, firm testes. Blood tests reveal a testosterone of 5.2 nmol/l and elevated luteinizing hormone and follicle-stimulating hormone. Which of the following is his most likely karyotype?",
+    "options": [
+      "XY",
+      "XXY",
+      "XY/XXY mosaic",
+      "XYY",
+      "YO"
+    ],
+    "correct_option": 1,
+    "explanation": "His symptoms are consistent with a diagnosis of Klinefelter syndrome with tall stature, sparse pubic and axillary hair and small, firm testes. The elevation in gonadotrophins with a testosterone below the normal range for males is typical of the condition. Around 90% of males with Klinefelter syndrome carry the XXY karyotype. Q. Answered Flagged AXY XY is incorrect. Given the phenotype here, the clinical picture is consistent with Klinefelter syndrome. AnXY karyotype with androgen resistance is of course associated with female external genitalia.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "8d058781-bb94-43bd-8f99-5f3aed385bbc",
+    "stem": "A35-year-old man is referred for coroner's post-mortem after suffering a cardiac arrest while playing for his local pub soccer team. He had no previous cardiac history, took no regular medications, had a normal blood pressure according to his GP and his body mass index was 24 kg/m. Which of the following is the most likely cause of his death?",
+    "options": [
+      "Arrhythmogenic right ventricular cardiomyopathy",
+      "Channelopathy",
+      "Congenital coronary artery abnormality",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Myocarditis"
+    ],
+    "correct_option": 3,
+    "explanation": "One-third of cases of sudden death in US athletes (from registry data) could be attributed to a particular cardiovascular cause. Where a cause was identified, 36% of cases were due to hypertrophic obstructive cardiomyopathy.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "cd2b6a44-5f49-4c85-a85c-c7c597d71356",
+    "stem": "A71-year-old woman presents to the gastroenterology clinic for review. She has been referred by general medicine physicians having presented for the fourth time over the past six months with severe iron deficiency anaemia. She has had two upper Gl endoscopies and one colonoscopy,all of which have failed to demonstrate a source for the bleeding. Other past history of note includes Type 2 diabetes and hypertension. On examination her BP is 132/95 and there is an ejection systolic murmur, loudest in the aortic area. Her chest is clear. The abdomen is soft and non-tender with no palpable masses. PR is normal. Investigations: Investigation Result Normal Value Haemoglobin 99 g/l 115-155 g/l Mean Corpuscular Volume (MCV) 78 fl 76-98 fl White Cell Count (WCC) 6.1×10/L 4-11×10/L Platelets 191×10/L 150-400×10/L Sodium(Na+) 140 mmol/L 135-145 mmol/L Potassium (K+) 4.3 mmol/L 3.5-5.0 mmol/L Creatinine 95μmol/L 50-120 μmol/L Alanine aminotransferase (ALT) 23 IU/L 5-30 IU/L Alkaline phosphatase 89 IU/L 30-130 IU/L Bilirubin 8μmol/L 2-17 μmol/L Albumin 40 g/l 35-55 g/l Which of the following is the most appropriate next step?",
+    "options": [
+      "Capsule endoscopy",
+      "Intra-operative enteroscopy",
+      "Labelled red cell scan",
+      "Repeat colonoscopy",
+      "Repeat upper Gl endoscopy"
+    ],
+    "correct_option": 0,
+    "explanation": "In this situation with multiple normal upper endoscopies and a normal colonoscopy, there is little to be gained by repeating these. By contrast, capsule endoscopy may well reveal the source of bleeding. Small bowel angiodysplasia is a possible cause, which may be poorly visualised/inaccessible with conventional imaging. The presence of an aortic stenotic murmur raises the possibility of Heyde syndrome, where bleeding from angiodysplasia improves once the aortic valve is repaired.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "25f56c48-9bc4-4662-976d-fd673fade612",
+    "stem": "A72-year-old woman is admitted to the Emergency Department following a mixed overdose of tramadol and amitriptyline. She required support on the high-dependency unit for a period of 48h, and this is her second overdose over the previous six months. Which of the following is the greatest contributor to risk of future successful suicide?",
+    "options": [
+      "Age 72",
+      "Female sex",
+      "Limited mobility due to osteoarthritis",
+      "Previous low-paid employment",
+      "Recent death of her husband (in the past year)"
+    ],
+    "correct_option": 4,
+    "explanation": "Bereavement is a significant risk factor for successful suicide. The highest suicide risk occurs among those never married, followed in descending order of risk by widowed, separated or divorced; married without children; and married with children. The recent death of her husband adds to feelings of hopelessness.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "4508acc5-36e2-4ad9-ad27-efdde1d0a456",
+    "stem": "A 46-year-old man comes to the Endocrine Clinic to discuss further tests to determine the cause of his weight gain, hypertension and dysglycaemia. He has gained three stones in weight over the last six months He has developed diabetes, which is currently managed with metformin, and hypertension, which is managed with three oral agents. On examination, his blood pressure is 155/90 mmHg; his pulse is 78 bpm and regular. He is obese, with a body mass index of 34kg/m.Urinary free cortisol is elevated on two separate 24-hour collections. Other blood tests are shown in the table. Investigations: Which of the following is the most practical test to differentiate between pituitary-dependent Cushing syndrome and ectopic adrenocorticotropic hormone production? Investigation Result Normal Value Haemoglobin 135 g/l 135-175 g/l White Cell Count (WCC) 7.1×10/L 4-11×10/L Platelets 192×10/L 150-400×10/L Sodium (Na+) 142 mmol/L 135-145 mmol/L Potassium(K+) 3.7 mmol/L 3.5-5.0 mmol/L Bicarbonate(HCO) 31 mmol/L 24-30 mmol/L Creatinine 122μmol/L 50-120 μmol/L Glucose 8.4 mmol/L 3.5-5.5 mmol/L",
+    "options": [
+      "High-dose dexamethasone suppression test",
+      "Inferior petrosal sinus sampling",
+      "Low-dose dexamethasone suppression test",
+      "Plasma adrenocorticotropic hormone",
+      "Plasma corticotropin-releasing hormone"
+    ],
+    "correct_option": 0,
+    "explanation": "The 8mg overnight dexamethasone suppression test and the 48-hour high-dose dexamethasone test may be useful when baseline adrenocorticotropic hormone(ACTH) levels are equivocal with regard to determining the cause of Cushing syndrome. Greater than 90% reduction in basal urinary free cortisol levels supports the diagnosis of pituitary-dependent Cushing syndrome; ectopic ACTH production is associated with lesser degrees of suppression.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "195fe346-40e2-4870-a23c-de66bd0db84f",
+    "stem": "A 69-year-old man is referred to the neurology clinic with worsening symptoms over the past six months from a tremor and rigidity. He has found it increasingly difficult to walk to the local shop and has had to give up handwriting. He has a past history of hypertension and had a previous myocardial infarction some 8 years earlier. On examination you note rigidity and a resting tremor, worse on the right than the left. He has slowed voluntary movements, including reduced arm swing whilst walking, and stops when asked to cross a line painted on the floor. Which of the following initial therapies is most appropriate?",
+    "options": [
+      "Amantadine",
+      "Entacapone",
+      "Levodopa",
+      "Procyclidine",
+      "Rasagiline"
+    ],
+    "correct_option": 2,
+    "explanation": "Q. AnsweredFlagged L-dopa and dopamine agonist therapy are both considered first-line options in the treatment of Parkinson's disease, the most likely diagnosis here. Some physicians institute a dopamine agonist as preferred choice in younger patients although there is little long-term evidence to support one option over the other.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "0160b915-7601-4345-95d9-862b7411edb6",
+    "stem": "2 )·:Y7 Lo Y1 A 25-year-old man presents to the Endocrine Clinic with a hard mass on the left side of his neck. This has enlarged gradually over the past three months. He has a family history of thyroid cancer, but has previously refused all efforts to persuade him to atttend screening. He takes no regular medication and has seen the doctor once in the past five years. On examination, his blood pressure is 155/90 mmHg; his pulse is 78 bpm and regular.You feel a 3-cm thyroid mass on the left side of his neck. Investigations: Investigation Result Normal Value Haemoglobin 130 g/l 135-175 g/l White Cell Count(WCC) 5.9×10/L 4-11×10/L Platelets 201×10/L 150-400×10/L Sodium(Na+) 139 mmol/L 135-145 mmol/L Potassium(K+) 4.3 mmol/L 3.5-5.0 mmol/L Creatinine 100 μmol/L 50-120 μmol/L Corrected Calcium (Ca+) 2.84 mmol/L 2.20-2.60 mmol/L Phosphate(PO-) 0.7 mmol/L 0.70-1.40 mmol/L Which of the following is the most likely diagnosis with respect to his neck mass?",
+    "options": [
+      "Anaplastic thyroid cancer",
+      "Follicular thyroid cancer",
+      "Medullary thyroid cancer",
+      "Papillary thyroid cancer",
+      "Thyroid lymphoma"
+    ],
+    "correct_option": 2,
+    "explanation": "This patient is hypertensive and hypercalcaemic against a background of a familial thyroid cancer. Given all these features, multiple endocrine neoplasia type 2 with hyperparathyroidism, a phaeochromocytoma and possible medullary thyroid cancer fits with the scenario.Thyroidectomy is the only potential intervention, and other relatives in the family should be screened. A phaeochromocytoma must be excluded; if found, it should be appropriately managed with a blockers before surgery is considered.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "76bed1b1-2410-48b4-b4f5-d0d80b272ecd",
+    "stem": "A 60-year-old man with chronic atrial fibrillation is treated with daily warfarin therapy. He has had two unprovoked tonic-clonic seizures that were witnessed by his wife. A brain CT shows only some diffuse ischaemic changes in the white matter. Neurological examination in the clinic is unremarkable. The GP asks about starting him on an antiepileptic drug. Which one of the following antiepileptic drugs does not have important drug interactions with warfarin?",
+    "options": [
+      "Carbamazepine",
+      "Lamotrigine",
+      "Phenytoin",
+      "Phenobarbital",
+      "Primidone"
+    ],
+    "correct_option": 1,
+    "explanation": "Uridine 5'-diphospho-glucuronosyltransferases are responsible for the metabolism of lamotrigine; interactions with agents metabolised by the cytochrome P450 system are not usually seen.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "2b60ebbc-7218-4d4e-b91f-47346ffb95f0",
+    "stem": "A36-year-old woman who is known to have SLE, currently treated with hydroxychloroquine, presents to the rheumatology clinic for review. Despite receiving hydroxychloroquine she still has persistent pain affecting a number of small joints, and a photosensitive rash affecting her face predominantly. Her main concern is that over the past few months she has developed progressive pitting oedema affecting both legs. On examination her BP is 148/85, with pulse 70 and regular. Heart sounds are normal,the chest is clear and you confirm pitting oedema of both legs. Investigations: Investigation Result Normal Value Haemoglobin 101 g/L 115-155 g/l White Cell Count(WCC) 8.3×10/L 4-11×10/L Platelets 95×10/L 150-400×10/L Sodium(Na+) 137 mmol/L 135-145 mmol/L Potassium (K+) 5.0 mmol/L 3.5-5.0 mmol/L Creatinine 132μmol/L 50-120 μmol/L Albumin 24 g/l 35-55 g/l Alanine aminotransferase(ALT) 52 IU/L 5-30 IU/L Bilirubin 8 mmol/L 2-17μmol/L Urine blood Protein +++ Which of the following is the immunosuppressive therapy of choice in this situation?",
+    "options": [
+      "Cyclosporine",
+      "Cyclophosphamide",
+      "Methotrexate",
+      "Mycophenolate",
+      "Tacrolimus"
+    ],
+    "correct_option": 3,
+    "explanation": "This patient most likely has membranous nephropathy as a result of lupus nephritis, and given she has significant protein loss as exemplified by her symptoms and low serum albumin, intervention is warranted. KDIGO guidelines recommend mycophenolate as the initial intervention of choice.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "e2fdf08d-a931-497e-b629-dc5f8bb05ca4",
+    "stem": "A52-year-old man comes to the rheumatology clinic for review. Despite taking allopurinol 300 mg per day, he suffered a third attack of acute gout in the past year some five weeks earlier, affecting his right knee. This settled with NSAIDs, but he is finding the episodes increasingly disabling with respect to continuing his job as a kitchen fitter. He has no other past medical history of note and has reduced his alcohol consumption from four pints of beer per day to six pints of beer per week. Examination in the clinic is unremarkable. Investigations: Investigation Result Normal Value Haemoglobin 130 g/l 135-175 g/l White Cell Count (WCC) 8.2×10/L 4-11×10/L Platelets 203×10/L 150-400×10/L Sodium (Na+) 140 mmol/L 135-145 mmol/L Potassium (K+) 4.5 mmol/L 3.5-5.0 mmol/L Creatinine 123 μmol/L 50-120 μmol/L Uric acid 550 μmol/L 200-430 μmol/L You plan to start benzbromarone. What is its mode of action?",
+    "options": [
+      "Inhibits uric acid reabsorption in the kidney",
+      "Interleukin-1 inhibitor",
+      "Non-steroidal anti-inflammatory agent (NSAID)",
+      "Recombinant urate oxidase",
+      "Xanthine oxidase inhibitor"
+    ],
+    "correct_option": 0,
+    "explanation": "Benzbromarone is a URAT-1 inhibitor which increases the excretion of uric acid. In combination with a xanthine oxidase inhibitor, it further reduces serum uric acid and is therefore an option for patients who fail to achieve uric acid target/suffer further gout episodes despite maximal allopurinol therapy. It may lead to an increase in creatinine and/or increased risk of renal stones in some patients.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "582e8c76-4e6c-4f1d-af82-8ef173873635",
+    "stem": "A 67-year-old man comes to the Emergency Department with a marked increase in his shortness of breath over the past few days. He has a history of mild asthma for which he uses a salbutamol inhaler, and he smokes five cigarettes per day. He also has a history of hypertension for which he takes amlodipine,5 mg per day. On examination his BP is 152/89, with pulse 82 and regular. He has a soft ejection systolic murmur There are scattered crackles on auscultation of the chest and O saturation measured by pulse oximetry is 92% on air. The abdomen is soft and non-tender. Investigations: Investigation Result Normal Value Haemoglobin 109 g/l 135-175 g/l White Cell Count (WCC) 11.1×10/L 4-11×10/L Platelets 203×10/L 150-400×10/L Sodium(Na+) 141 mmol/L 135-145 mmol/L Potassium(K+) 5.0 mmol/L 3.5-5.0 mmol/L Creatinine 167 μmol(up from 119 some six months earlier) 50-120 μmol/L Chest X-ray patchy shadowing affecting both lung fields TLCO significantly elevated Urine blood Protein ++ Which of the following is the most likely cause for his shortness of breath?",
+    "options": [
+      "Cardiac failure",
+      "COPD",
+      "Mycoplasma pneumonia",
+      "Pulmonary fibrosis",
+      "Pulmonary haemorrhage"
+    ],
+    "correct_option": 4,
+    "explanation": "Clues here include the increased TLCO, consistent with blood in the alveolar space; elevated creatinine, blood and proteinuria; and patchy shadowing on CXR consistent with fluid accumulation. It is likely that pulmonary vasculitis is the underlying cause, so tissue biopsy should be carried out to confirm the diagnosis (either from the kidney or via bronchoscopy), and aggressive immunosuppression considered.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "5da6270b-da00-4d3c-ae90-1b06b836a8cd",
+    "stem": "A 67-year-old man presents to the Emergency Department with a severe unremitting headache which has worsened significantly over the past week. He has also become increasingly red in the face and is developing dilated veins over his arms and neck. He smokes 30 cigarettes per day and has a chronic cough, occasionally productive of bloody sputum over the past 6 months. On examination he has mild proptosis, and he has a plethoric face and dilated veins in his neck and over both arms. Both conjunctivae are engorged. On examination his BP is 155/90, with pulse 88 and regular. There is bilateral wheeze on auscultation of the chest. The abdomen is soft and non-tender. Investigations: Investigation Result Normal Value Haemoglobin 109 g/l 135-175 g/l White Cell Count (WCC) 12.1×10/L 4-11×10/L Platelets 132×10/L 150-400×10/L Sodium(Na+) 137 mmol/L 135-145 mmol/L Potassium (K+) 4.5 mmol/L 3.5-5.0 mmol/L Creatinine 122 μmol/L 50-120 μmol/L Erythrocyte Sedimentation Rate 82 mm/h 0-10 mm in the 1st hour (ESR) Chest X-ray right hilar mass consistent with an underlying bronchial carcinoma Which of the following is the most appropriate intervention?",
+    "options": [
+      "Chemotherapy",
+      "IV corticosteroids",
+      "Radiotherapy",
+      "Surgical bypass",
+      "Stenting"
+    ],
+    "correct_option": 4,
+    "explanation": "The most likely diagnosis is bronchial carcinoma with superior vena cava obstruction. Evidence suggests that endovascular stenting to relieve the obstruction achieves rapid resolution of symptoms and preserves the possibility of making a tissue diagnosis later. Stenting is supported by a NICE review.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3bb96d34-2669-49e4-bd54-e37d16818a10",
+    "stem": "2 ):· Lo Y A 58-year-old white man comes to the Emergency Department to get an opinion about starting antihypertensive medication after being recommended to start this therapy by his GP. His blood pressure has been consistently above 155/90 mmHg on the past three visits to the surgery, and is 160/95 mmHg in the Emergency Department. General physical examination is unremarkable, and his body mass index is 24 kg/m. Investigations: Investigation Result Normal Value Haemoglobin 135 g/l 135-175 g/l White Cell Count (WCC) 6.1×10/L 4-11×10/L Platelets 189×10/L 150-400×10/L Sodium(Na+) 140 mmol/L 135-145 mmol/L Potassium(K+) 4.5 mmol/L 3.5-5.0 mmol/L Creatinine 95μmol/L 50-120 μmol/l Chest no focal leison,no signs of cardiac failure ECG normal sinus rhythm, no signs of previous infact Which of the following is the most appropriate intervention?",
+    "options": [
+      "Amlodipine",
+      "Bendroflumethiazide",
+      "Bisoprolol fumarate",
+      "Doxazosin",
+      "Lisinopril"
+    ],
+    "correct_option": 0,
+    "explanation": "It is clear this patient should not have attended the Emergency Department, but NICE guidelines are clear that in patients older than 55 years or those of Afro-Caribbean origin, calcium channel antagonists are the preferred initial intervention.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "a99a0d80-6325-4a57-82dd-fde395ff9d60",
+    "stem": "A52-year-old patient with a history of type 1 diabetes for the past 45 years presents to the clinic for review. He tells you that he is finding it increasingly difficult to manage his blood sugars because of persistent vomiting after meals. He says it is unpredictable and sometimes he can vomit undigested food up to 2h after eating. He takes a basal bolus insulin regimen and his HbA1c has been below 8.5%(69 mmol/mol) over the past few years. He also has peripheral neuropathy and problems with postural hypotension. On examination, his BP is 122/82 and there is postural drop of 20 mmHg on standing. He is slim, with a BMI of 21, and you confirm that he has peripheral sensory neuropathy. Investigations: Investigation Result Normal Value Haemoglobin 121 g/l 135-175 g/l White Cell Count(WCC) 5.9×10/L 4-11×10/L Platelets 201×109/L 150-400×10/L Sodium(Na+) 140 mmol/L 135-145 mmol/L Potassium(K+) 4.5 mmol/L 3.5-5.0 mmol/l Creatinine 112 μmol/L 50-120 μmol/L Which of the following is the most appropriate intervention for his vomiting in the long term?",
+    "options": [
+      "Cyclizine",
+      "Domperidone",
+      "Erythromycin",
+      "Metoclopramide",
+      "Ondansetron"
+    ],
+    "correct_option": 1,
+    "explanation": "Given the duration of Type 1 diabetes and presence of microvascular complications, it is likely this patient has diabetic gastroparesis. Interventions are targeted at reducing nausea and vomiting by a prokinetic mode of action. Domperidone is a dopamine antagonist that reduces nausea and promotes gastric emptying. Although it can raise prolactin levels, its profile is less adverse than metoclopramide for chronic therapy.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "88cca497-b4a7-40c2-8efd-ec2a1528aa96",
+    "stem": "A72-year-old Chinese man comes to the Emergency Department with a generalised, painful, blistering, erythematous rash. He saw his GP two weeks earlier with severe neuropathic pain across his upper chest following a bout of shingles, when he was prescribed oral carbamazepine. Other medication of note includes tramadol, lisinopril and amlodipine. On examination, he has a generalised maculopapular rash with extensive areas that have become necrotic and blistering. He has mucosal involvement leading to multiple blisters forming in the mouth. Which of the following is the most likely cause of the rash?",
+    "options": [
+      "Amlodipine",
+      "Carbamazepine",
+      "Lisinopril",
+      "Tramadol",
+      "Varicella-zoster virus infection"
+    ],
+    "correct_option": 1,
+    "explanation": "This patient presents with Stevens-Johnson syndrome (SJS), and given the proximity to recently starting carbamazepine therapy, this is the most likely cause. SJS is associated with HLA-B1502 positivity, and genotyping is recommended for patients of Chinese origin before starting carbamazepine.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b6e9b760-685d-4585-8fb7-d95ef758dd40",
+    "stem": "A 69-year-old woman presents to the neurology clinic with multiple episodes of pain affecting the left side of her face, below the eye. The episodes last from a few seconds to 2 min in duration, and she says they are sometimes triggered by cleaning her teeth or using a hair dryer when the air flow touches her face. She tells you that the pains are like an electric shock. Physical examination including neurological assessment is entirely normal. Which of the following is the most appropriate intervention?",
+    "options": [
+      "Amitriptyline",
+      "Carbamazepine",
+      "lbuprofen",
+      "Lamotrigine",
+      "Tramadol"
+    ],
+    "correct_option": 1,
+    "explanation": "The history here is typical for trigeminal neuralgia(TG). Carbamazepine has the most evidence for efficacy in treating TG and is therefore the correct option. New forms of the carbamazepine chemical series, such as oxycarbamazepine, do not have randomised controlled trial(RCT) data to support their use.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ec1874c3-f89a-4fc5-a63c-3e73c3431c94",
+    "stem": "A 42-year-old man presents to the Neurology Clinic for review.He has been suffering from headaches on most evenings during the past three months. He tells you they always affect the left side of his face and he last suffered from them about a year earlier, The headache occurs behind the eye, is sharp and penetrating in nature, is associated with tearing and redness of the eye, and lasts in total for 45-90 min. Up to two to three attacks can occur each day. On examination his BP is 122/80, with pulse is 67 bpm and regular. Neurological assessment is entirely normal. Which of the following is the most appropriate long-term intervention?",
+    "options": [
+      "Amitriptyline",
+      "Indomethacin",
+      "Prednisolone",
+      "Sumatriptan",
+      "Verapamil"
+    ],
+    "correct_option": 4,
+    "explanation": "Q. Answered Flagged The history as described here fits with a diagnosis of cluster headache. Prophylaxis of choice is therefore verapamil, starting at a dose of 40 mg BD and slowly titrating it up to gain control of the headache. For acute episodes, oxygen therapy is effective and patients should be given a card to obtain O from an Emergency Department.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "1f58ed16-edae-4b39-b809-7a8e53c1ba49",
+    "stem": "A59-year-old woman who works in a cigarette factory comes to the respiratory clinic for review.She has progressive shortness of breath and wheeze, which has increased over the past 6 months despite having been prescribed a salbutamol and later a salmeterol inhaler by her GP.According to her husband, she coughs for some 15 min each morning. Other past history of note includes hypertension for which she takes indapamide. She smokes 30 cigarettes per day and has done so for 40 years. On examination her BP is 148/88,with pulse 78(atrial fibrillation). Chest expansion is reduced and there is wheeze with bilateral poor air entry on auscultation. She has pitting oedema of both ankles. Investigations: Investigation Result Normal Range Haemoglobin 131 g/l 115-155 g/l White Cell Count(WCC) 7.9×10/L 4-11×10/L Platelets 181×10/L 150-400×10/L Sodium(Na+) 141 mmol/L 135-145 mmol/L Potassium(K+) 4.5 mmol/L 3.5-5.0 mmol/L Creatinine 112μmol/L 50-120 μmol/L Chest X-ray bilateral hyper-expanded lung fields Peak Expiratory Flow Rate(PEFR) 270 (450 predicted) Which of the following is the most appropriate intervention?",
+    "options": [
+      "Beclomethasone inhaler,100 mcg BD",
+      "Fluticasone/salmeterol inhaler,500/50 BD",
+      "Formoterol inhaler",
+      "Ipratropium bromide inhaler",
+      "Trial of oral steroids"
+    ],
+    "correct_option": 1,
+    "explanation": "Given the features on examination, chest×-Ray(CXR) and PEFR, the most likely diagnosis is chronic obstructive pulmonary disease(COPD). As such,from the options given, high-dose inhaled corticosteroid and LABA is the most effective intervention. This reduces exacerbations in clinical trials at the expense of an increase in events of pneumonia.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b43dcd0d-1dd8-489e-8fe9-75fc1957ddba",
+    "stem": "You are asked by the nursing staff to review a 72-year-old man who is recovering on the orthopaedic ward after suffering a left femoral neck fracture. He complains that each evening people wearing brightly coloured clothes are standing outside his hospital room, and that there are geometric patterns painted on the wall at the end of his bed. The nurses tell you there is no one outside the window, and you can see that the wall is painted plain white. Neurological exam reveals that he is unable even to count fingers with either eye, although he can discern the blurred outline of your hand. Mini mental state score is 29/30.BP, pulse and temperature are normal. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Charles Bonnet syndrome",
+      "Delirium",
+      "Depression",
+      "Lewy body dementia",
+      "Psychotic episode"
+    ],
+    "correct_option": 0,
+    "explanation": "CBS is associated with visual hallucinations as a result of significant visual impairment. Patients can complain of visual hallucinations featuring geometric patterns, or complex hallucinations involving objects or people, and these are more common as light begins to fade late in the evening. Patients should be reassured that their hallucinations are not real and that they can be ignored.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "f96e60a7-4ffd-4992-9999-d8b3cd932f59",
+    "stem": "A 45-year-old woman with a history of systemic sclerosis comes to the Emergency Department with a severe headache and tachycardia, coupled with feelings of extreme lethargy. She commenced a course of prednisolone for possible pulmonary fibrosis some 5 weeks previously. On admission her blood pressure is 165/95, with pulse 72 and regular. There are fine inspiratory crackles on auscultation of the chest. The abdomen is soft and non-tender, with no masses.You note sclerodactyly and peripheral calcinosis. Fundoscopy does not reveal evidence of papilloedema. Investigations: Investigation Result Normal Value Haemoglobin 101 g/L 115-155 g/L White Cell Count(WCC) 9.1×10/L 4-11×10/L Platelets 152×10/L 150-400×10/L Sodium(Na+) 141 mmol/L 135-145 mmol/L Bicarbonate(HCO) 21 mmol/L 24-30 mmol/L Potassium (K+) 4.9 mmol/L 3.5-5.0 mmol/L Creatinine 232 μmol/L 50-120 μmol/L Which of the following is the most appropriate intervention?",
+    "options": [
+      "Amlodipine",
+      "Bisoprolol",
+      "Indapamide",
+      "Lisinopril",
+      "Valsartan"
+    ],
+    "correct_option": 3,
+    "explanation": "The clinical picture here, with marked hypertension against a background of steroid use, and deteriorating renal function, is consistent with scleroderma renal crisis. Management of choice is ACE inhibition, and if possible the steroid dose should be tapered/slowly withdrawn.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "70925fc8-7084-4b2d-83a0-be96cc8fc648",
+    "stem": "You are asked to review a 54-year-old woman who is recovering on the surgical ward following a total thyroidectomy. She is very anxious and complaining of pins and needles in her hands, feet and around her mouth, and has had multiple episodes of carpopedal spasm. Her ionised calcium is measured at 0.75 mmol/L using the blood gas analyser. Her QT interval is 520 ms. Which of the following is the most appropriate next step?",
+    "options": [
+      "Intravenous calcium gluconate",
+      "Intravenous magnesium",
+      "Oral calcium carbonate",
+      "Oral calcium and vitamin D",
+      "Reassurance"
+    ],
+    "correct_option": 0,
+    "explanation": "This patient has acute symptomatic hypocalcaemia as a result of her thyroidectomy. She may have transient post-surgical hypoparathyroidism, but intervention is still essential because of her distress and the fact that she is at significant risk of cardiac arrhythmia.The ionised calcium is dangerously low at0.8mmol/L;1-2g of calcium gluconate is usually given over a period of ten minutes.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "bd6fa174-c800-4520-9b4b-1ae2d2af90cf",
+    "stem": "A52-year-old man comes to the Emergency Department with a severe cough productive of rusty sputum; he also has a severe fever and has felt increasingly off his food over the past few days. He smokes five cigarettes per day and drinks no alcohol. He takes a salbutamol inhaler PRN for treatment of asthma. On examination his BP is 122/80, with pulse 90 and regular. His temperature is 38.9℃. He has a large cold sore on his right upper lip. Auscultation of the chest reveals signs of right-sided consolidation. Which of the following is the most likely underlying diagnosis?",
+    "options": [
+      "Chlamydial pneumonia",
+      "Klebsiella pneumonia",
+      "Mycoplasma pneumonia",
+      "Staphylococcal pneumonia",
+      "Streptococcal pneumonia"
+    ],
+    "correct_option": 4,
+    "explanation": "S. pneumoniae is a common cause of community-acquired pneumonia,the most likely diagnosis here, and it is associated with reactivation of Herpes simplex-1 virus, leading to cold sores in up to 40% of cases.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3d48d64f-8473-4a52-b2ee-51413cba7f0f",
+    "stem": "A 34-year-old man with a three-year history of ulcerative colitis is reviewed on the gastroenterology ward. He has been admitted three days earlier with an exacerbation of his UC, opening his bowels some eight to ten times per day with bloody diarrhoea. Despite IV corticosteroids there has been a relatively small impact on his symptoms, with bowels still open six to eight times per day and significant left-sided abdominal pain. On examination his BP is 105/80, with pulse 88 and regular. He complains of generalised abdominal pain particularly marked on the left side. Investigations: Investigation Result Normal Value Haemoglobin 100 g/l 135-175 g/l White Cell Count (WCC) 13.2×10/L 4-11×10/L Platelets 381×10/L 150-400×10/L Sodium(Na+) 141 mmol/L 135-145 mmol/l Potassium(K+) 3.4 mmol/L 3.5-5.0 mmol/L Creatinine 95μmol/L 50-120 μmol/L C-Reactive Protein(CRP) 210 mg/l 0-10 mg/l No significant improvement in either Abdominal x-ray colonic dilation or mucosal oedema Which of the following is the next appropriate intervention?",
+    "options": [
+      "Azathioprine",
+      "Ciclosporin",
+      "Colectomy",
+      "Infliximab",
+      "Tacrolimus"
+    ],
+    "correct_option": 1,
+    "explanation": "This is an effective salvage therapy for patients with severe refractory colitis and it has a rapid onset of action. It reduces the colectomy rate by 50% in the short term but its use is controversial over an extended period. For this reason other therapies such as azathioprine are substituted for the long term. Ciclosporin is administered IV in patients who do not achieve significant improvement after 72 h of corticosteroids.At this point patients should be placed under very close review;in the event of deterioration, surgery is the next step.",
+    "tags": [
+      "September 2016"
+    ],
+    "source": "PastPapers"
+  }
+]

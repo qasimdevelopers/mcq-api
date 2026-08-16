@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "c8cf1bde-0c8b-4363-95ce-f0f68a2ad485",
+    "stem": "A 68-year-old male is referred to the Emergency department with deteriorating breathlessness.\nThis has deteriorated over the last two weeks and he has also noticed leg swelling and discomfort. He has a history of ischaemic heartdisease with congestive cardiac failure, gastro-oesophageal reﬂux and gout.\nHe takes:omeprazole 20 mg dailyallopurinol 100 mg dailyatorvastatin 10 mg dailydigoxin 0,125 mg dailyfurosemide 80 mg dailyspironolactone 10 mg dailycarvedilol 2.5 mg twice dailyramipril 10 mg daily.\nHe has recently commenced trimethoprim 200 mg bd for a urine tract infection.\nExamination reveals him to be slightly breathless at rest with a blood pressure of 108/80 mmHg. His jugular venous pressure is elevated andhe has peripheral oedema up to his knees. Auscultation of the heart reveals a soft systolic murmur at the apex and he has bilateral basalchest crackles.\nInvestigations reveal:\nSerum sodium131 mmol/L(137-144)\nSerum potassium4.0 mmol/L(3.5-4.9)\nSerum urea26.5 mmol/L(2.5-7.5)\nSerum creatinine400 µmol/L(60-110)\nPlasma glucose5.9 mmol/L(3.0-6.0)\nWhich drug does not require dose reduction due to his renal impairment?",
+    "options": [
+      "Digoxin",
+      "Omeprazole",
+      "Trimethoprim",
+      "Allopurinol",
+      "Spironolactone"
+    ],
+    "correct_option": 1,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "622e2e67-89b4-431e-ac21-7a0665567f2e",
+    "stem": "You are asked to see a patient whose bloods have been reported as:\nSodium139 mmol/L(137-144)\nPotassium4.0 mmol/L(3.5-4.9)\nCreatinine95 μ mol/L(60-110)\nANA negative\ncANCApositive\nanti-PR3>100\nanti-MPO3\nWhat is the most likely diagnosis?",
+    "options": [
+      "Microscopic polyangiitis",
+      "Churg-Strauss syndrome",
+      "Polyarteritis nodosa",
+      "Goodpasture's syndrome",
+      "Granulomatosis with polyangiitis"
+    ],
+    "correct_option": 4,
+    "explanation": "Granulomatosis with polyangiitis is an ANCA-associated vasculitis.\nTypically the patient has a positive cANCA, and either the anti-PR3 or anti-MPO antibody is strongly positive.\nUsually the PR3 antibody is associated with Granulomatosis with polyangiitis, whereas the MPO antibody is associated withmicroscopic polyangiitis, which is closely linked.\nOccasionally a patient with Granulomatosis with polyangiitis has a positive anti-MPO and a patient with microscopic polyangiitis has apositive anti-PR3.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "661e1c55-18ff-4c3f-8545-9439794f2399",
+    "stem": "A 69-year-old man presents to the Emergency department with shortness of breath. He has a medical history of end stage renal failuresecondary to hypertension and renovascular disease.\nHe is currently receiving haemodialysis as renal replacement therapy and it has been two days since he last dialysed.\nOn examination he is tachypnoeic, his jugular venous pressure can be seen 1 cm above the clavicle and there are sparse ﬁne crepitations atthe lung bases.\nAn arterial blood gas on air reveals:\npH 7.32 (7.36-7.44)\npO 11.9 kPa(11.3-12.6)\npCO 2.9 kPa (4.7-6.0 kPa)\nBicarbonate12 mmol/L(20-28)\nSodium136 mmol/L(137-144)\nPotassium7.1 mmol/L(3.5-4.9)\nAn ECG reveals ﬁrst degree heart block and peaked T waves.\nWhat is the most appropriate initial management of this patient's hyperkalaemia?",
+    "options": [
+      "Sodium bicarbonate",
+      "Haemodialysis",
+      "Calcium resonium",
+      "Calcium gluconate",
+      "Salbutamol nebulisers"
+    ],
+    "correct_option": 3,
+    "explanation": "This patient has severe and potentially life-threatening hyperkalaemia with changes on the ECG.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d753b120-892f-4be6-891f-d571c6239a98",
+    "stem": "A 53-year-old man presents feeling generally unwell for a number of months.\nHe describes fever, malaise and weight loss. He has had aching muscles and reports that he has had pain in several of his joints though nonehave swollen. More recently he has started to become short of breath and has developed a cough productive of fresh blood.\nHis blood tests reveal:\nHaemoglobin99 g/L (130 - 180)\nWhite cell count9.1 ×10/L (4 - 11)\nPlatelets 134 ×10/L (150 - 400)\nSodium 136 mmol/L(137 - 144)\nPotassium3.9 mmol/L(3.5 - 4.9)\nUrea 28.9 mmol/L(2.5 - 7.5)\nCreatinine412 μ mol/L(60 - 110)\nA urine dipstick reveals 2+ protein and 3+ blood.\nAutoantibodies are sent and the anti-neutrophil cytoplasmic antibody is positive with perinuclear staining. Further testing reveals a raisedMPO (myeloperoxidase) titre at 73 U/ml (<6).\nWhat is the most likely underlying diagnosis?",
+    "options": [
+      "Churg-Strauss syndrome",
+      "Polyarteritis nodosa",
+      "Microscopic polyangiitis",
+      "Granulomatosis with polyangiitis",
+      "Goodpasture's syndrome"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "7f121e8a-ab73-42ca-97e1-6def7aa820cd",
+    "stem": "A 72-year-old woman with longstanding COPD is admitted with a severe pneumonia, complicated by acute kidney injury (AKI).\nHer central venous pressure is 3. Her arterial blood gas shows:\npH 7.26 (7.36-7.44)\nBicarbonate12 mmol/L(21-29)\nBE -10 mmol/L(±2)\npCO2 8.9 kPa (4.7-6.0)\npO2 9.1 kPa4(11.3-12.6)\nVenous bloods show:\nSodium131 mmol/L(137-144)\nPotassium5.7 mmol/L(3.5-4.9)\nUrea 20.9 mmol/L(2.5-7.0)\nCreatinine420 μ mol/L(60-110)\nWhat is the most appropriate treatment?",
+    "options": [
+      "Continuous positive airway pressure (CPAP) ventilation",
+      "Intravenous 1.26% sodium bicarbonate solution",
+      "Haemodialysis",
+      "Oral sodium bicarbonate 1 gram twice daily",
+      "Intravenous 0.9% sodium chloride solution"
+    ],
+    "correct_option": 4,
+    "explanation": "This patient with longstanding chronic obstructive pulmonary disease (COPD) has a mixed respiratory and metabolic acidosis.\nShe likely has a degree of pulmonary hypertension secondary to her COPD and accordingly her normal central venous pressure(CVP) is likely to be high; in this setting she must be grossly ﬂuid deplete to have a CVP of 3 cm (normal range in the spontaneouslybreathing non-ventilated patient 0-6, but range increased to above 8 in sepsis). She needs fast intravenous ﬂuid resuscitation, and",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "0b26b27d-6baf-4699-a310-4530ce68c58b",
+    "stem": "A 64-year-old man with a history of chronic renal failure due to diabetes comes to the clinic for review. He has reported increasing bone andmuscle aches over the past few weeks.\nMedications include ramipril, amlodipine and indapamide for blood pressure control, atorvastatin for lipid management, and insulin forcontrol of his blood sugar.\nOn examination his BP is 148/80 mmHg, his pulse is 79 and regular. His BMI is 28.\nInvestigations show:\nHaemoglobin107 g/L(135-177)\nWhite cell count8.2 ×10/L (4-11)\nPlatelets 202 ×10/L (150-400)\nSerum sodium140 mmol/L(135-146)\nSerum potassium5.0 mmol/L(3.5-5)\nCreatinine192 µmol/L(79-118)\nCalcium 2.18 mmol/L(2.2-2.67)\nPhosphate1.9 mmol/L(0.7-1.5)\nHe has tried following a low phosphate diet.\nWhich of the following would be the next most appropriate step in controlling his phosphate levels?",
+    "options": [
+      "Aluminium hydroxide",
+      "Cinacalcet",
+      "Sevelamer",
+      "Furosemide",
+      "Vitamin D supplementation"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "71216a22-69bb-4381-a863-ee5fe3d3fee4",
+    "stem": "A 48-year-old man with adult polycystic kidney disease who is on maintenance haemodialysis is called for transplantation.\nHe has had his usual dialysis on the evening before. On examination he has a JVP of 3 cm, BP 140/85 mmHg and a clear chest onauscultation. His weight is 1 kg above normal dry weight.\nInvestigations show:\nSerum sodium138 mmol/L(137-144)\nSerum potassium5.5 mmol/L(3.5-4.9)\nSerum bicarbonate19 mmol/L(20-28)\nElectrocardiogramNormal -\nThe transplant is a good match and surgery is planned for later on that day.\nWhat treatment should he receive prior to theatre?",
+    "options": [
+      "Intravenous insulin + dextrose +/- salbutamol",
+      "Two hours of haemodialysis",
+      "Intravenous sodium bicarbonate",
+      "Oral calcium resonium",
+      "Intravenous ﬂuids"
+    ],
+    "correct_option": 1,
+    "explanation": "Haemodialysis will",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "15a51df3-eaaf-439f-97a0-b3fc176f1e97",
+    "stem": "A 32-year-old woman with type 1 diabetes is admitted to hospital with diabetic ketoacidosis.\nShe has no past medical history other than three episodes of retinal photocoagulation for diabetic retinopathy. She makes a good recovery.\nHer blood tests show that she has mild renal impairment with a creatinine of 99 μ mol/L (eGFR 60 ml/min/1.73m). Her blood pressure is\n116/43 mmHg. She has been adequately ﬂuid resuscitated and a renal ultrasound is unremarkable.\nHer only medications are Lantus and NovoRapid insulins.\nA random urine sample is sent to the laboratory for analysis. Microscopy is unremarkable and the urinary albumin:creatinine ratio (ACR) isreported as 17 mg/mmol (<2.5).\nWhat is the most appropriate course of action?",
+    "options": [
+      "Repeat early morning albumin:creatinine ratio",
+      "Reassurance",
+      "Commence ramipril 2.5-10 mg",
+      "Commence bendroﬂumethiazide 2.5 mg",
+      "Check protein:creatinine ratio"
+    ],
+    "correct_option": 0,
+    "explanation": "This patient has type 1 diabetes with a history of related microvascular disease (diabetic retinopathy).\nMicroalbuminuria is deﬁned as an ACR of 2.5-30 mg/mmol in men and 3.5-30 mg/mmol in women. This is roughly equivalent to theloss of 30-300 mg of albumin in the urine per 24 hours.\nIn patients with diabetes, microalbuminuria is used as a therapeutic target that can be modiﬁed by renin-angiotensin-aldosteronesystem blockade with a resulting improvement in clinical outcomes.\nAll patients with diabetes and microalbuminuria should be offered therapy with an ACE inhibitor or angiotensin receptor blockerirrespective of whether they have hypertension. The chosen drug should be started at an appropriate starting (low) dose and titratedupwards to the target dose as tolerated with monitoring of renal function.\nThe predominant protein lost in urine is albumin and the albumin:creatinine ratio is a signiﬁcantly more sensitive test for low levelproteinuria than the protein:creatinine ratio.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "ce12be71-2291-46b2-ad56-d059b15c9659",
+    "stem": "You admit a 48-year-old man who is on daily peritoneal dialysis in his own home. He noticed that his PD ﬂuid looked cloudier than usual thismorning.\nWhich of the following is most likely to be effective at treating the cause for his presentation?",
+    "options": [
+      "Intraperitoneal antibiotics",
+      "Ascitic tap",
+      "Laxatives",
+      "Oral antibiotics",
+      "Intravenous antibiotics"
+    ],
+    "correct_option": 0,
+    "explanation": "This patient had PD-related peritonitis, and the initial treatment of choice would be intraperitoneal antibiotics. These areadministered by adding them to the ﬂuid being instilled into the peritoneal cavity.\nTypically a broad spectrum antibiotic cover is given pending PD ﬂuid culture results. Intravenous antibiotics would be preferable ifthe clinical condition worsened despite intraperitoneal antibiotics, or if there is an associated bacteraemia.\nRemoving the PD catheter should also be considered if the patient fails to settle.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d4c2748e-59d2-48d2-9f78-ecbeb5889b94",
+    "stem": "A 78-year-old Afro-Caribbean woman is concerned that there is a problem with her kidneys and asks for screening for chronic kidney disease.\nAccording to the National Institute for Health and Care Excellence (NICE) guidelines on the identiﬁcation and management of chronic kidneydisease which of the following parameters is a risk factor and an indication to offer screening for chronic kidney disease?",
+    "options": [
+      "Gender",
+      "Family history",
+      "Ethnicity",
+      "Age",
+      "Obesity"
+    ],
+    "correct_option": 1,
+    "explanation": "The National Institute for Health and Care Excellence guidelines on the identiﬁcation and management of chronic kidney diseaserecommend that screening for chronic kidney disease should be offered to patients with:DiabetesHypertensionCardiovascular diseaseStructural renal tract pathologyMultisystem disease with potential renal involvementOpportunistically detected haematuria or proteinuriaA family history of stage 5 chronic kidney disease, orHereditary kidney disease.\nIn the absence of other risk factors the guidelines recommend that age, gender and ethnicity should not be used as risk markers totest people for chronic kidney disease.\nObesity alone should not be used as a risk factor (features of the metabolic syndrome should also be present).\nReference:\nNICE. Chronic kidney disease in adults: assessment and management (CG182).",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "9b59e7a7-2ca6-4885-a5e1-3fb5ba4c5d65",
+    "stem": "A 25-year-old female presents for annual review.\nShe developed diabetes mellitus at the age of 15 and currently is treated with human mixed insulin twice daily. Over the last one year she hasbeen aware of episodes of dysuria and has received treatment with trimethoprim on four separate occasions for cystitis.\nExamination reveals no speciﬁc abnormality except for two dot haemorrhages bilaterally on fundal examination. Her blood pressure is116/76 mmHg.\nInvestigations show:\nHbA 75 mmol/mol(20-46)\n9% (3.8-6.4)\nFasting plasma glucose12.1 mmol/L(3.0-6.0)\nSerum sodium138 mmol/L(137-144)\nSerum potassium3.6 mmol/L(3.5-4.9)\nSerum urea 4.5 mmol/L(2.5-7.5)\nSerum creatinine90 µmol/L(60-110)\nUrinalysis Glucose +\n24 hour urine protein220 mg/24 hrs(<200)\nWhat would be the best therapeutic option to prevent progression of renal disease?",
+    "options": [
+      "Prescribe a low protein diet",
+      "Treat with ACEI",
+      "Treat with prolonged antibiotics",
+      "Improve glycaemic control with insulin",
+      "Treat with steroids"
+    ],
+    "correct_option": 3,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "bdd5cdeb-bd19-43da-b908-f63ddf0effe0",
+    "stem": "A 19-year-old girl is admitted to hospital with an alleged paracetamol overdose three days previously. She is acutely intoxicated with alcohol.\nOn admission to hospital her paracetamol levels are undetectable. She refuses IV ﬂuids overnight but agrees to stay in hospital.\nMorning bloods show:\nCreatinine180 μ mol/L60 - 110\nBicarbonate26 mmol/L20 - 28\nALT 53 U/L 5 - 35\nAlk phos210 U/L45 - 105\nINR 1.1 <1.4\nWhat is the most likely diagnosis ?",
+    "options": [
+      "Dehydration",
+      "Salicylate poisoning",
+      "Acute alcohol intoxication",
+      "Acute liver failure",
+      "Paracetamol nephrotoxicity"
+    ],
+    "correct_option": 4,
+    "explanation": "This patient most likely has paracetamol nephrotoxicity.\nThis can develop later than liver toxicity, and usually the renal function returns to baseline after a few weeks. Haemodialysis may berequired to support the patient during the acute episode.\nRenal dysfunction in paracetamol overdose appears to occur in a dose-dependent manner; it is seen in only a small minority of allpatients, but up to half of those develop fulminant liver failure.\nThe mechanism of kidney injury is similar to that of the liver, but there is little evidence that N-acetyl cysteine confers any renalprotection.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "25117a6e-6ec0-4713-9771-db290a43862b",
+    "stem": "A 56-year-old patient with chronic renal failure was admitted to hospital following a gastrointestinal bleed.\nOn examination, his blood pressure was 148/90 mmHg, pulse 88 beats per minute, regular. Rectal examination revealed melaena stool.\nInvestigations showed:\nHaemoglobin109 g/L(130-180)\nMCV 80 fL (80-96)\nSerum sodium142 mmol/L(137-144)\nSerum potassium5.1 mmol/L(3.5-4.9)\nSerum urea19 mmol/L(2.5-7.5)\nSerum creatinine450 µmol/L(60-110)\nInvestigations two weeks previously at clinic showed:\nHaemoglobin118 g/L(130-180)\nMCV 84 fL (80-96)\nSerum sodium139 mmol/L(137-144)\nSerum potassium4.7 mmol/L(3.5-4.9)\nSerum urea9 mmol/L(2.5-7.5)\nSerum creatinine250 µmol/L(60-110)\nWhich of the following is the most appropriate next step in his management?",
+    "options": [
+      "Observation on medical ward",
+      "Haemodialysis",
+      "Blood transfusion",
+      "NGT insertion",
+      "Hydration with intravenous ﬂuids"
+    ],
+    "correct_option": 4,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "5b3812ef-054d-4eda-9963-b3bd84a210d3",
+    "stem": "An 86-year-old woman with known CKD4 is anaemic with:\nHb 98 g/L (11.5-16.5)\nMCV92 fL (80-96)\nWCC6.4 ×10/L (4-11)\nPlt 351 ×10/L (150-400)\nB , folate and thyroid function are normal.\nWhich of the following is the most appropriate next step?",
+    "options": [
+      "Organise bone marrow biopsy",
+      "Administer erythropoietin",
+      "Administer blood transfusion",
+      "Check iron stores",
+      "Check reticulocyte count"
+    ],
+    "correct_option": 3,
+    "explanation": "This patient most likely has renal associated anaemia due to erythropoietin deﬁciency.\nRenal Association guidance on the management of renal anaemia states that patients should be iron replete before considering anerythropoiesis-stimulating agent so her iron stores should be checked before starting erythropoietin.\nThe reticulocyte count will likely be elevated but this would not change your management of this patient.\nA blood transfusion would certainly increase the haemoglobin transiently but this is not a viable long term solution for managingrenal anaemia.\nA marrow biopsy would likely be normal given the normal white count and platelet count. This could be contemplated if there was alack of response to iron and erythropoietin.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "e3f1c020-baf9-4e95-991f-ed76cd7cabe3",
+    "stem": "A 44-year-old woman with type 1 diabetes mellitus for 25 years has not attended the diabetic clinic for ﬁve years.\nExamination shows no abnormalities.\nInvestigations show:\nHaemoglobin90 g/L (115-165)\nMCV 94 fL (80-96)\nHaematocrit28% -\nCreatinine203 micromol/l(<90)\nHbA 87 mmol/mol(20-42)\n10.1% (3.8-6.4)\nA blood smear shows normochromic, normocytic anaemia.\nWhich of the following is the most likely cause of her anaemia?",
+    "options": [
+      "Chronic lymphocytic leukaemia (CLL)",
+      "Sideroblastic anaemia",
+      "Acute blood loss",
+      "Erythropoietin deﬁciency",
+      "Folate deﬁciency"
+    ],
+    "correct_option": 3,
+    "explanation": "The most likely cause is progressive renal failure which leads to reduced release of erythropoietin from the kidneys. The signiﬁcantlyabnormal creatinine is supportive of this clinical picture. In the ﬁrst instance ferritin and percent hypochromic red cells should bemeasured. This can guide iron replacement before erythropoeitin is considered. \nSideroblastic anaemia (myelodysplasia) is seen in older age groups.\nFolate deﬁciency may lead to macrocytosis and lack of dietary intake is the most common cause.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "bfad16fd-7a87-4d05-9fe0-28f2c9ff4cec",
+    "stem": "A 55-year-old man with presents with left loin pain. His pain radiates to the groin from his left loin and is severe in nature, coming in spasms.\nHe has previously had a resection of small bowel with a jejunocolic anastomosis for Crohn's disease. Prior to admission he had been eatingwell with a normal diet, high in ﬁbre and usually drinks 3 litres of ﬂuid per day.\nHis Crohn's disease had been quiescent for the last twelve months on steroids. His bowel habit was normal for him with two loose stools perday.\nOn examination his blood pressure is 180/70 mmHg. His abdomen is soft, but he is tender in the left loin.\nInvestigations show:\nUrinalysisBlood +++\nNo protein\nNo nitrates\nUrine pH5.5\nA plain abdominal kidney/ureter/bladder (KUB) x ray shows a radio-opaque area over the left ureter. An intravenous urogram (IVU) conﬁrmedthe presence of a small calculi.\nWhat is the most likely cause of his renal stone?",
+    "options": [
+      "Xanthine",
+      "Urate",
+      "Cysteine",
+      "Oxalate",
+      "Calcium"
+    ],
+    "correct_option": 3,
+    "explanation": "Oxalate stones are uncommon in dietary excess of oxalate. However enteric oxaluria may occur in a number of disorders in whichmalabsorption results in excessive colonic absorption of oxalate.\nThese include:",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a992d17e-c96c-4911-8f35-29c2ac4b0f20",
+    "stem": "A 34-year-old man was admitted to hospital with macroscopic haematuria. He had recently arrived in the country from Nigeria.\nHe was not taking any medications, and denied any other symptoms.\nOn examination, his blood pressure was 130/80 mmHg.\nInvestigations showed:\nHaemoglobin114 g/L(130-180)\nMCV 72 fL (80-96 fL)\nReticulocyte count4.9% (0.5-2.4)\nSerum sodium134 mmol/L(137-144)\nSerum potassium3.8 mmol/L(3.5-4.9)\nSerum urea8.0 mmol/L(2.5-7.5)\nSerum creatinine120 µmol/L(60-110)\nC reactive protein8 mg/L (<10)\nUrine dipstickProtein +\nBlood ++++\nWhich of the options is the most likely cause of his haematuria?",
+    "options": [
+      "Analgesic nephropathy",
+      "Papillary necrosis",
+      "Plasmodium infection",
+      "Pyelonephritis",
+      "Loin pain haematuria syndrome"
+    ],
+    "correct_option": 1,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "5d6fb807-7984-46a9-b7b1-1f45c0f49e1b",
+    "stem": "A 53-year-old man presents with massive haemoptysis.\nHe has been feeling generally unwell for a few days. He describes fevers and chills. He has had aching muscles and reports that he has hadpain in several of his joints though none have swollen. More recently he has started to become short of breath and has developed a coughproductive of fresh blood.\nHis blood tests reveal:\nHaemoglobin69 g/L (130-180)\nWhite cell count9.1 ×10/L (4-11)\nPlatelets 134 ×10/L (150-400)\nSodium 136 mmol/L(137-144)\nPotassium3.9 mmol/L(3.5-4.9)\nUrea 28.9 mmol/L(2.5-7.5)\nCreatinine412 μ mol/L(60-110)\nUrine dipstickProtein ++\nBlood +++\nAntiglomerular basement membrane antibodies are positive.\nWhat is the most appropriate initial treatment?",
+    "options": [
+      "Methylprednisolone",
+      "Methotrexate",
+      "Plasmapheresis",
+      "Cyclophosphamide",
+      "Azathioprine"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "94e99c12-4fda-49e9-a2d1-d5704bb175bc",
+    "stem": "A 44-year-old man with type 2 diabetes mellitus is found at a routine diabetes clinic review to have low sodium.\nWhich of the following medications is most likely to be responsible?",
+    "options": [
+      "Ranitidine",
+      "Omeprazole",
+      "Simvastatin",
+      "Metformin",
+      "Clopidogrel"
+    ],
+    "correct_option": 1,
+    "explanation": "Of the above medications omeprazole is the most likely to cause hyponatraemia.\nThis is related to drug-induced SIADH.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "76ec28ad-0f3c-4b0f-9cce-a8e402dc9f3c",
+    "stem": "A 62-year-old painter and decorator comes to the clinic complaining of nausea and lethargy. He is treated by his GP for hypertension withindapamide and amlodipine but has no other history of note.\nOn examination he looks pale. His BP is 150/90 mmHg, his pulse is 75 and regular and his BMI is 21.\nInvestigations show:\nHaemoglobin100 g/L (135-177)\nMCV 77 fL (80-96)\nFilm shows basophilic stippling\nWhite cell count8.8 ×10/L (4-11)\nPlatelets 192 ×10/L (150-400)\nSerum sodium140 mmol/L(135-146)\nSerum Potassium5.3 mmol/L(3.5-5)\nCreatinine 198 µmol/L(79-118)\n24 hour urinary protein1.8 g\nWhich of the following is the most important way to manage his underlying condition?",
+    "options": [
+      "Recommend a change of occupation",
+      "Start prednisolone",
+      "Start ramipril",
+      "Proceed to renal biopsy",
+      "Start cyclophosphamide"
+    ],
+    "correct_option": 0,
+    "explanation": "The answer is recommend a change of occupation.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "cbe78226-10fa-4cd5-a802-509fbca774d6",
+    "stem": "A 19-year-old woman was admitted to hospital unresponsive. No history was available.\nOn examination she was thin and clinically dehydrated. She was afebrile (36.5°C) with BP 100/70 mmHg. A urinary catheter was inserted,yielding 10 ml of dark urine which tested for protein + but was negative for glucose and nitrates. The following results were obtained fromblood drawn on her arrival in hospital.\nInvestigations revealed:\nHaemoglobin175 g/L(115-165)\nWBC 11.7 ×10/L (4-11)\nPlatelets 410 ×10/L (150-400)\nSodium 138 mmol/L(137-144)\nPotassium 2.4 mmol/L(3.5-4.9)\nUrea 12 mmol/L(2.5-7.5)\nCreatinine 220 µmol/L(60-110)\nBicarbonate 45 mmol/L(20-28)\nGlucose 4.9 mmol/L(3.0-6.0)\n24 hour urine calciumNormal\nWhich of the following is the most likely cause of her illness?",
+    "options": [
+      "Hypoadrenalism",
+      "Euglycaemic ketoacidosis",
+      "Gastric outlet obstruction",
+      "Ectopic ACTH production",
+      "Aspirin overdose"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d6cd36d2-9f03-4207-b2c4-5203ca31aabb",
+    "stem": "A 40-year-old male is followed up in the renal clinic.\nHis creatinine clearance (measured) is 76 ml/min. A recent USS of his renal tract shows enlarged kidneys bilaterally, with multiple renal cysts.His father required dialysis at the age of 45 years.\nOn examination, his blood pressure is 149/88 mmHg.\nWhich of the following statements is incorrect?",
+    "options": [
+      "An ACE inhibitor would be appropriate to control his hypertension",
+      "Ciproﬂoxacin should be prescribed for upper urinary tract infections",
+      "He should be informed of the probable need for dialysis in ﬁve years",
+      "Genetic counselling should be offered",
+      "He should have follow up in renal clinic every 6 months"
+    ],
+    "correct_option": 2,
+    "explanation": "This patient has autosomal dominant polycystic kidney disease (ADPKD).\nOn average, patients progress to end stage renal failure between the ages of 40 and 60 years.\nIn these patients the renal function usually deteriorates in a gradual fashion, usually with a drop in creatinine clearance of 5/6ml/min/year (at least 10 years for this patient or possibly sooner if BP not adequately managed).\nTreatment should include a high ﬂuid intake (to prevent the formation of renal stones or blood clots) and regular follow up of bloodpressure and renal function. Loin pain should be treated symptomatically, and hypertension should be managed with standardantihypertensive medications.\nHaematuria should be treated conservatively. Urinary tract infections should be treated with lipophillic drugs (for example,ciproﬂoxacin, trimethoprim-sulphamethoxazole) as they have the best penetration into cyst ﬂuid.\nIt is an autosomal dominant disease, therefore the offspring of an affected patient has a 50% chance of inheriting the disease. Thepatient should be offered genetic counselling, despite the fact that the disease has a variable clinical course even between affectedfamily members.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "c4d74e28-eac8-4f77-972a-a21e2386b044",
+    "stem": "A 60-year-old male patient presents to the Emergency department generally unwell.\nYou note that on his list of medications is acetazolamide, a carbonic anhydrase inhibitor. An arterial blood gas is taken.\nWhat acid/base abnormality does acetazolamide have the potential of causing?",
+    "options": [
+      "Metabolic acidosis with raised anion gap",
+      "Metabolic alkalosis",
+      "Respiratory acidosis",
+      "Metabolic acidosis with normal anion gap",
+      "Respiratory alkalosis"
+    ],
+    "correct_option": 3,
+    "explanation": "Carbonic anhydrase catalyses the ﬁrst part of the reversible reaction in which carbon dioxide and water are converted to carbonicacid (and vice versa):\nCO + HO ←→  H + HCO\nIn the kidney, carbonic anhydrase is found in the proximal convoluted tubule.\nThe equation is normally shifted to the left allowing the formed carbon dioxide to diffuse back into the systemic circulation. In thepresence of a carbonic anhydrase inhibitor, such as acetazolamide, the equation is shifted to the right and more H and HCO isproduced. The H is reabsorbed alongside chloride ions. However, the bicarbonate is passed in the urine as it is not easily absorbed\nin the nephron. This results in a hyperchloraemic, normal anion gap metabolic acidosis.\nThis effect can be used therapeutically to prevent acute mountain sickness. Whereas normally the hypoxic high altitude wouldstimulate ventilation resulting in a respiratory alkalosis, acetazolamide use causes net renal excretion of bicarbonate,",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "dd5510be-fede-4825-ae1c-b5f6d864ee38",
+    "stem": "A 71-year-old man attends his GP complaining of urinary hesitancy that has worsened over a period of months.\nHis GP notes deterioration in his renal function and arranges a renal ultrasound scan which demonstrates bilateral hydronephrosis.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Membranous glomerulonephritis",
+      "Prostate cancer",
+      "Benign prostatic hypertrophy",
+      "Multiple myeloma",
+      "Urinary tract infection"
+    ],
+    "correct_option": 2,
+    "explanation": "This man has lower urinary tract obstruction and his prostate is the most likely candidate from the above list.\nBenign prostatic hypertrophy is commoner than prostate cancer hence is the most likely diagnosis, though it is prudent to considerreferral to a urologist for further evaluation.\nThe patient requires catheterisation to relieve the urinary obstruction.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a2581caa-f572-4d16-942a-c264d9188d08",
+    "stem": "A 30-year-old renal transplant recipient is diagnosed with invasive oesophageal candidiasis, with a recommendation to be started onintravenous ﬂuconazole therapy.\nWhich of the following medications will require increased frequency of therapeutic drug monitoring while on ﬂuconazole?",
+    "options": [
+      "Tacrolimus",
+      "Azathioprine",
+      "Mycophenolate mofetil",
+      "Prednisolone",
+      "Valganciclovir"
+    ],
+    "correct_option": 0,
+    "explanation": "Tacrolimus levels can be affected by concomitant use of other drugs and changes in gut absorption, and so need to be monitoredcarefully.\nA tacrolimus level outwith the therapeutic range can result in injury to, or rejection of, the transplanted kidney.\nNone of the other drugs listed require therapeutic monitoring.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "194eaad9-dd48-4d5b-abdb-77993a3e83f2",
+    "stem": "A 72-year-old man attends his GP for a well person screen and is found to have 3+ proteinuria on dispstick testing.\nHe has a history of hypertension for which he has been prescribed ramipril 10 mg daily, and he has been feeling increasingly under theweather over the past few months and in particular complains of back pain. On examination his BP is 148/90 mmHg, his pulse is 67 andregular.\nInvestigations:\nHaemoglobin108 g/L(135-177)\nWhite cell count8.6 ×10/L (4-11)\nPlatelets 162 ×10/L (150-400)\nSerum sodium138 mmol/L(135-146)\nSerum potassium5.2 mmol/L(3.5-5)\nCreatinine135 μ mol/L(79-118)\nAlbumin 24 g/L (35-50)\nTotal protein60 g/L (62-77)\nUrinary protein2.2 g/24hrs\nWhich of the following is likely to be most closely linked to his prognosis?",
+    "options": [
+      "24 hour urinary protein",
+      "Number of sites on skeletal survey",
+      "Total protein",
+      "Lactate dehydrogenase",
+      "Beta-2 microglobulin"
+    ],
+    "correct_option": 4,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "0f4ca0c5-4faf-4b9e-9100-1fd2e19fd02d",
+    "stem": "01:24\nA 57-year-old woman presents with a two day history of nausea and haemoptysis.\nShe is otherwise feeling well though has noticed that her urine seems pink. Urinalysis demonstrates ++++ blood +++ protein. CXR showsdiffuse bilateral inﬁltrates.\nBloods show:\nSodium141 mmol/L(137-144)\nPotassium4.8 mmol/L(3.5-4.9)\nUrea 35.2 mmol/L(2.5-7.5)\nCreatinine850 μ mol/L(60-110)\nWhich of the following is most likely to be positive?",
+    "options": [
+      "Urine culture",
+      "ANA",
+      "Ziehl-Neelsen staining",
+      "Anti DS-DNA",
+      "Anti-GBM antibody"
+    ],
+    "correct_option": 4,
+    "explanation": "This patient most likely has Goodpasture's syndrome, hence the positive anti-GBM antibody.\nThe ANA and DS-DNA antibodies would suggest lupus nephritis but this short, very acute history is less in keeping with lupusnephritis. The diagnosis of lupus nephritis would of course require conﬁrmation on a renal biopsy.\nThis is not a history of urinary tract infection, and renal tuberculosis would also be very unlikely.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "36ca8272-0672-4bf5-87cc-9d684beeb180",
+    "stem": "A 68-year-old woman is admitted to hospital with transient dysphasia and left sided weakness affecting her face and arm.\nHer past medical history is signiﬁcant for ischaemic heart disease, hypertension, and end-stage renal failure. She has haemodialysis everyMonday, Wednesday and Friday mornings.\nA plain CT scan of the brain is reported as showing no evidence of an acute infarction or haemorrhage.\nYour consultant decides to request further brain imaging, and asks you to liaise with the radiology department.\nWhich of the following statements applies to this patient?",
+    "options": [
+      "She should not receive gadolinium-based contrast",
+      "MRI is contraindicated",
+      "She should not receive iodine-based contrast",
+      "She should not receive any form of contrast",
+      "She will need pre-hydration before she receives any contrast"
+    ],
+    "correct_option": 0,
+    "explanation": "In patients with end-stage renal failure the use of gadolinium has been associated with nephrogenic systemic ﬁbrosis, and it shouldtherefore be avoided.\nRenal failure is not in itself a contraindication to MRI scanning.\nWhen patients are dialysis-dependent it would be potentially dangerous to \"pre-hydrate\" the patient and potentially ﬂuid overloadthem. Dialysis-dependent patients who receive contrast for a CT scan may need haemodialysis to remove the contrast. This isparticularly important when they have some residual renal function that should be preserved as far as possible (as it makes their ﬂuidbalance much easier to manage between dialysis sessions).\nMR contrast tends not to be nephrotoxic and therefore haemodialysis is not usually necessary to remove MR contrast.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "c68515d9-b497-4864-acc8-9ba22e5a7ad6",
+    "stem": "An 82-year-old female is brought to the Emergency department by her family. She had an 'upset stomach' earlier in the week with profusediarrhoea. This has now settled but she remains lethargic, and generally feels weak.\nHer past medical history is signiﬁcant for ischaemic heart disease, type 2 diabetes mellitus (diet controlled) and chronic kidney disease.\nShe is maintained on aspirin 75 mg OD, simvastatin 40 mg nocte, ramipril 10 mg OD and bendroﬂumethiazide 2.5 mg OD. She has continuedtaking her medication during this episode. On examination she is pale and looks unwell.\nGastrointestinal and cardiorespiratory examination are unremarkable besides a resting tachycardia of 105 beats / minute.\nHer bloods are shown below:\n  TodayLast monthNormal Levels\nSodium138 136 135-146 mmol/L\nPotassium6.8 5.4 3.5-5.0 mmol/L\nChloride106 101 97-107 mEq/L\nUrea 18.513.1 10-20 mg/dL\nCreatinine280 176 79-118 μ mol/L\nWhat is the most important step in treating her hyperkalaemia?",
+    "options": [
+      "Arrange urgent haemodialysis",
+      "Give 10 units of Actrapid in 50% dextrose",
+      "Urgent ECG",
+      "Give 10 mg nebulised salbutamol",
+      "Give 1 litre 0.9% saline stat"
+    ],
+    "correct_option": 1,
+    "explanation": "This patient has life-threatening hyperkalaemia in association with acute renal failure, most likely due to dehydration.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "0b17a096-5a7b-4101-b44f-3235805c77dd",
+    "stem": "A 20-year-old male is referred to renal outpatients by his general practitioner.\nHe attends with his mother who explains that his father, from whom she has now separated, has recently been diagnosed with polycystickidney disease and has needed to start haemodialysis. His paternal aunt has kidney disease and suffered a subarachnoid haemorrhage dueto an intracranial aneurysm and his paternal grandfather died of 'kidney problems' aged 64.\nHis blood pressure is 129/64 mmHg, physical examination is unremarkable. His blood tests and urine dip are unremarkable. They wonderabout the possibility of screening for polycystic kidney disease.\nIf desired, which of the following tests is it most appropriate to offer the patient?",
+    "options": [
+      "MRI cerebral angiogram",
+      "Genetic testing",
+      "Abdominal CT",
+      "Intravenous urography",
+      "Renal ultrasound scan"
+    ],
+    "correct_option": 4,
+    "explanation": "The family history is indicative of autosomal dominant polycystic kidney disease.\nRenal ultrasound screening is the test of choice and has 100% sensitivity for PKD1, false negatives may occur below the age of 20.\nIf cysts are not seen the ultrasound should be repeated every ﬁve years until the age of 30. Some authorities advocate commencingscreening at an earlier age (as young as seven to 10 years), this is because early diagnosis and management of hypertension canslow disease progression.\nAbdominal CT is sensitive for the detection of cysts however the high radiation dose, particularly in young patients, means it is notwidely used as a screening test.\nGenetic testing in the setting of autosomal dominant polycystic kidney disease is only used in very particular circumstances - usuallyonly when a deﬁnite diagnosis is required in a young patient (for example, potential living donor). This is because sequence analysiscan identify only around 70% of known mutations and linkage analysis requires the availability of suﬃcient family members.\nThe use of intravenous urography in the diagnosis of polycystic kidney disease is purely historical.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "cda20949-5056-4564-96d9-36eeac0c9efc",
+    "stem": "A 42-year-old woman presents with rapidly worsening lower limb oedema. This is accompanied by dull left loin pain.\nShe has a history of two previous deep vein thromboses, one which occurred after a long plane ﬂight, and the other in her second pregnancy.Her only regular medication is the progesterone only pill.\nOn examination her BP is 150/90 mmHg, her pulse is 72 and regular. You conﬁrm that she has dull left loin pain and bilateral pitting oedemaaffecting both legs.\nInvestigations show:\nHaemoglobin122 g/L (115-165)\nWhite cell count8.8 ×10/L (4-11)\nPlatelets 210 ×10/L (150-400)\nSerum sodium141 mmol/L(135-146)\nSerum potassium5.2 mmol/L(3.5-5)\nCreatinine202 µmol/L(79-118)\nRenal ultrasoundBilateral normal sized kidneys\nUrine Protein ++\nWhich of the following is the most likely diagnosis?",
+    "options": [
+      "Renal vein thrombosis",
+      "Membranous nephropathy",
+      "IgA nephropathy",
+      "Minimal change disease",
+      "Renal artery thrombosis"
+    ],
+    "correct_option": 0,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "116a6196-f2c7-4f52-aa41-d9286a2841c1",
+    "stem": "A 49-year-old woman has been an inpatient for the past 10 days for treatment of a bronchopneumonia. She has developed the onset ofchills, fever, and skin rash over the past two days.\nA peripheral blood ﬁlm reveals eosinophilia. On urinalysis she has ++ proteinuria. There is no past history of renal disease. Her HbA is\nnormal.\nWhich of the following diagnoses would be most strongly suggested by these ﬁndings?",
+    "options": [
+      "Post-streptococcal glomerulonephritis (GN)",
+      "Acute tubular necrosis",
+      "Drug-induced interstitial nephritis",
+      "IgA nephropathy",
+      "Acute serum sickness"
+    ],
+    "correct_option": 2,
+    "explanation": "The ﬁndings are typical of a drug-induced acute interstitial nephritis.\nAcute interstitial nephritis is characterised by interstitial inﬂammation and oedema. Left untreated this results in interstitial ﬁbrosis.A deﬁnitive diagnosis is established by renal biopsy, although eosinophiluria and gallium 67 scanning are also suggestive.\n60-70% of cases of acute interstitial nephritis are induced by exposure to drugs. The mechanism is via a delayed T-cellhypersensitivity or cytotoxic T-cell reaction. This is not typically dose-dependent. Multiple medications have been implicated, andthe presentation and laboratory ﬁndings vary according to the class of drug involved.\nAgents which are commonly implicated are:beta-lactam antibiotics (especially methicillin)sulphonamidesNSAIDsdiuretics (thiazides, furosemide)antivirals (aciclovir, foscarnet)allopurinol, andcyclosporin.\nClassic presenting features include fever, maculopapular rash and arthralgia. Mild eosinophilia is common, and eosinophiuria ispathognomonic.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d406daf9-4654-44d1-bac3-de2df39e4171",
+    "stem": "A 38-year-old woman is being treated on your ward for sepsis. She presented three days ago with fever, anorexia and urinary symptoms, andwas treated empirically with intravenous co-amoxiclav 1.2 grams three times daily.\nBlood cultures subsequently grew an Enterococcus species sensitive to gentamicin, and this was added to her therapy. The latestgentamicin trough was 0.6 mg/L (trough reference range <1.0).\nThe nursing staff are concerned that her urine output has been reducing and ask you to see her.\nYou note her U&E results since admission:\n  AdmissionYesterdayTodayNormal levels\nSerum sodium136 138 143 (135-146 mmol/L)\nSerum potassium3.9 4.1 4.3 (3.5-5.0 mmol/L)\nChloride 101 106 109 (97-107 mEq/L)\nUrea 4.8 7.7 9.1 (10-20 mg/dL)\nCreatinine85 110 145 (79-118 μ mol/L)\nWhich of the following is most likely to improve the patient's renal function?",
+    "options": [
+      "Commence intravenous ﬂuids",
+      "Stop gentamicin",
+      "Commence IV furosemide",
+      "Request renal tract ultrasound scan",
+      "Stop co-amoxiclav"
+    ],
+    "correct_option": 0,
+    "explanation": "This patient is septic and most likely dehydrated with a degree of \"pre-renal failure\". Her admission urea and electrolytes (U&Es) werenormal, and at the time of admission she was noted to have a fever and anorexia, both of which facilitate dehydration. CommencingIV ﬂuids and rehydrating is the most appropriate action to take in the ﬁrst instance.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "5beb4556-50ed-4412-8471-b3cc1ef1ea87",
+    "stem": "A 56-year-old male with a 12 year history of diabetes mellitus presents for annual review.\nHe is currently receiving gliclazide at a dose of 80 mg twice daily. Examination reveals a pulse of 76 beats per minute regular and a bloodpressure of 152/90 mmHg. Fundal examination reveals bilateral dot haemorrhages with scattered hard exudates. He has loss of vibrationsensation in to the ankles but all pulses are palpable.\nInvestigations reveal:\nSerum sodium138 mmol/L(137-144)\nSerum potassium3.8 mmol/L(3.5-4.9)\nSerum urea10.2 mmol/L(2.5-7.5)\nSerum creatinine160 µmol/L(60-110)\nGlucose 12.1 mmol/L(3.0-6.0)\nHbA 9.5% (3.8-6.4)\nCholesterol5.5 mmol/L(<5.2)\nTriglycerides2.8 mmol/L(0.45-1.69)\nWhich of the following measures would you adopt to improve this patient's prognosis?",
+    "options": [
+      "None",
+      "Beta-blocker",
+      "Increased dose of gliclazide",
+      "ACE inhibitor",
+      "Insulin"
+    ],
+    "correct_option": 3,
+    "explanation": "This patient has microvascular complications related to his diabetes particularly nephropathy, neuropathy and retinopathy.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "724919c4-5f3c-43cd-8f31-aaa6ca42f435",
+    "stem": "A 72-year-old patient with chronic kidney disease secondary to renovascular disease attends for review.\nHis blood tests show:\nHaemoglobin102 g/L(130-180)\nMCV 87 fL (80-96)\nSodium 133 mmol/L(137-144)\nPotassium 4.3 mmol/L(3.5-4.9)\nUrea 19.1 mmol/L(2.5-7.5)\nCreatinine 397 μ mol/L(60-110)\nFerritin 150 μ g/L (15-300)\nTransferrin saturation18% (20-40%)\nC reactive protein<5 mg/L(<10)\neGFR is 15 ml/min/1.73 m.\nHe is already taking oral iron supplements and darbepoetin alfa 60 mg weekly.\nWhat is the most appropriate management of his anaemia?",
+    "options": [
+      "Vitamin C supplementation",
+      "Intravenous iron therapy",
+      "Blood transfusion",
+      "Commence haemodialysis",
+      "Increase dose of erythropoietin"
+    ],
+    "correct_option": 1,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "8f9e7d33-a8eb-4104-81b9-67207d975cdf",
+    "stem": "A 35-year-old gentleman, who is an oﬃce worker, is admitted to hospital with fevers, rigors and right-sided ﬂank pain with a urine dipstickpositive for nitrites and leukocytes.\nHis pulse is 120, blood pressure is 140/90 mmHg and temperature is 38.2°C. He is on no regular medications.\nClinically, he is diagnosed with pyelonephritis and is commenced on intravenous antibiotics for a few days. There is no history of childhoodurinary tract infections renal calculi or previous surgical procedures.\nHis admission laboratory results reveal the following:\nHaemoglobin140 g/L(130-180)\nWhite cell count18 ×10/L (4-11)\nC reactive protein130 mg/L(<2)\nCreatinine90 µmol/L(60-110)\nAn ultrasound scan of the renal tract shows multiple cysts in both kidneys, characteristic of polycystic kidney disease. He makes a goodrecovery and is due to be discharged soon.\nHaving read about this condition, the patient asks about whether imaging of the brain is necessary to look for cerebral aneurysms. Thepatient has no history of headache or neurological symptoms, and there is no family history of stroke or aneurysms.\nWhich is the most appropriate management step?",
+    "options": [
+      "CT brain with intravenous contrast as an outpatient",
+      "MRI brain as an outpatient",
+      "MRA of the brain as an outpatient",
+      "CT brain as an inpatient",
+      "No routine imaging is required at this stage"
+    ],
+    "correct_option": 4,
+    "explanation": "It is estimated that up to 8% of patients with adult polycystic kidney disease have cerebral aneurysms.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "0f6591e6-3d57-45a9-8d54-f6073b6b5b0e",
+    "stem": "A 19-year-old woman is seen following recurrent episodes of cystitis despite trimethoprim therapy.\nAs well as these symptoms she has been diagnosed with diabetes mellitus from 12 years of age and receives twice daily mixed insulin. Shealso takes the oral contraceptive for the last two years and smokes 10 cigarettes daily. She has two elder brothers who are both well.\nExamination reveals a thin but well looking female with a BMI of 21.5 kg/m, a blood pressure of 108/76 mmHg and normal cardiovascular,\nrespiratory and abdominal examination.\nInvestigations reveal:\nSerum sodium140 mmol/L(137-144)\nSerum potassium4.5 mmol/L(3.5-4.9)\nSerum urea 5.6 mmol/L(2.5-7.5)\nSerum creatinine95 µmol/L(60-110)\nFasting plasma glucose10.2 mmol/L(3.0-6.0)\nHbA 87 mmol/mol(20-42)\n10.1% (3.8-6.4)\nUltrasound abdomen suggests reﬂux nephropathy.\nWhat is the best treatment to preserve her renal function?",
+    "options": [
+      "ACEi",
+      "Prophylactic antibiotics",
+      "Strict glycaemic control",
+      "Surgical intervention to correct reﬂux",
+      "Stop smoking"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "02e0e39d-9da3-444c-8124-4f03ae8b5cf8",
+    "stem": "A 60-year-old man is found to be hypertensive at 180/100 mmHg and has worsening renal function. He has had a previous transientischaemic attack and smokes 20 cigarettes per day.\nAn ultrasound scan followed by angiography reveals stenosis of the left renal artery.\nWhat proportion of patients with this disease would you expect to be alive at ﬁve years?",
+    "options": [
+      "70%",
+      "50%",
+      "5%",
+      "20%",
+      "95%"
+    ],
+    "correct_option": 3,
+    "explanation": "Renal artery stenosis is a potential cause of hypertension.\nTypically patients are vasculopaths and poor prognosis (80% mortality at ﬁve years) is related to concurrent coronary disease. It isalmost exclusively caused by atherosclerosis, but other causes include ﬁbromuscular dysplasia, vasculitis and external compression.\nTypical ultrasound changes are asymmetrical kidneys; the affected kidney >2 cm smaller than the unaffected kidney.\nACE inhibitors are contraindicated in renal artery stenosis as they inhibit the contraction of the efferent arterioles which promoteglomerular ﬁltration in the disease.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "85722a07-42aa-4560-aaa1-3af06fa10ba9",
+    "stem": "A 34-year-old lady presented to hospital with severe right loin pain, and haematuria. She had noticed some right loin discomfort twenty fourhours previously but acute severe pain started two hours before admission. She denied having any dysuria, fever, or rigors.\nShe had a past history of Crohn's disease, diagnosed when she was 18-years-old. One year previously she had undergone an ileal resectionafter presenting with an acute exacerbation of Crohn's with an intestinal perforation. Her regular medication consisted of azathioprine 150mg daily. She was married with two children and smoked ﬁve cigarettes per day.\nOn examination she was afebrile. Pulse 100 beats per minute, regular. Blood pressure 115/65 mmHg. Heart sounds were normal and thechest was clear. Her abdomen was soft and non-tender, the right loin was tender to palpation.\nInvestigations:\nHaemoglobin115 g/L (115-165)\nWhite cell count8.1 ×10/L (4-11)\nPlatelets 367 ×10/L (150-400)\nSerum sodium139 mmol/L(137-144)\nSerum potassium4.1 mmol/L(3.5-4.9)\nSerum urea6.2 mmol/L(2.5-7.5)\nSerum creatinine89 µmol/L(60-110)\nESR (Westergren)12 mm/1st hour(0-20)\nUrinalysis showed blood and protein but was negative for white cells and nitrates. Microscopy did not demonstrate any white cells ororganisms.\nA plain x ray of the kidneys ureters and bladder (KUB) showed an ovoid opacity approximately 0.8 cm in diameter, adjacent to the rightkidney.\nWhat is the most likely composition of the renal stones?",
+    "options": [
+      "Calcium oxalate",
+      "Calcium phosphate",
+      "Cysteine",
+      "Urate",
+      "Triple phosphate (calcium, magnesium, ammonium)"
+    ],
+    "correct_option": 0,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "9acdcfff-1ae2-4196-a579-45b94975990b",
+    "stem": "An 87-year-old lady is admitted to general medicine wards overnight with a history of vomiting and diarrhoea for 48 hours. She has abackground of osteoarthritis and hypertension and takes the following medications:\nParacetamol1 g qds po\nIbuprofen400 mg tds po\nRamipril2.5 mg od po\nZopiclone3.75 mg od po\nOn examination she appears to be unwell with a temperature of 37.2°C, pulse of 95 and blood pressure of 90/50 mmHg. Her oxygensaturations on air are 92%. Her jugular venous pressure is diﬃcult to visualise lying ﬂat. Her abdomen is soft and her respiratory examinationand chest x ray is normal.\nThe nurses report that she has not passed urine four hours into admission.\nSome of the results of her blood tests are shown below:\nHaemogloblin13.3 g/dL(13-18)\nWhite cell count11 ×10/L(4-11)\nUrea  15 mmol/L(2.5-7.5)\nCreatinine on admission150 µmol/L(60-110)\nCreatinine 3 months ago80 µmol/L(60-110)\nWhich of the following represents the next best management step?",
+    "options": [
+      "Seek surgical opinion soon",
+      "Stop ibuprofen and ramipril and give intravenous ﬂuids over 24 hours and place a urinary catheter to monitor urine output",
+      "Start empirical vancoymcin for likely Clostridium diﬃcile",
+      "Ask for an abdominal x ray",
+      "Give small doses of intravenous furosemide (20 mg) until satisfactory urine output is reached"
+    ],
+    "correct_option": 1,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "67371389-5dbf-454a-9b6c-9ef738234bf0",
+    "stem": "A 19-year-old mentally handicapped man was brought to your clinic by his carers.\nThey had noticed that he had been drinking increasing amounts of ﬂuids.\nHis past history included epilepsy, treated with carbamazepine 600 mg twice a day, and asthma.\nBaseline investigations showed:\nPlasma osmolality279 mosmol/Kg(278-305)\nUrine osmolality165 mosmol/Kg(350-1000)\nFollowing a water deprivation test:\nPlasma osmolality289 mosmol/Kg(278-305)\nUrine osmolality410 mosmol/Kg(350-1000)\nThere was no additional response to intranasal desmopressin.\nWhich of the following is the most likely cause?",
+    "options": [
+      "Compulsive (psychogenic) polydipsia",
+      "Cranial diabetes insipidus",
+      "Syndrome of inappropriate antidiuretic hormone (SIADH)",
+      "Nephrogenic diabetes insipidus",
+      "Carbamazepine"
+    ],
+    "correct_option": 0,
+    "explanation": "This patient has a low normal plasma osmolality and low urine osmolality, which increases during the water deprivation test.\nCarbamazepine causes a syndrome of inappropriate ADH. This would be associated with concentrated urine, and dilute plasma. Theurine osmolality would not change during the water deprivation test.\nCompulsive polydipsia ﬁts with this pattern of ﬁndings. His urine starts to concentrate during the water deprivation test. The changesin his plasma and urine osmolalities following the test are not large. This is because prolonged polyuria leads to the reduction in themaximal concentrating ability of the kidney by removing renal medullary interstitial solute and altering aquaporin 2 function.\nDesmopressin is therefore unable to elicit its maximal effect of increasing water reabsorption.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "517d03cc-8050-4666-b555-f6c01d047998",
+    "stem": "A 72-year-old man undergoes an emergency abdominal aortic aneurysm repair.\nThree days later, you are asked to review him on the surgical high-dependency unit. On examination, he is drowsy but has a Glasgow comascale of 15/15, his blood pressure is 150/90 mmHg and a central venous pressure recording (CVP) is +14 cm HO.\nInvestigations reveal:\nSerum sodium132 mmol/L(137-144)\nSerum potassium5.9 mmol/L(3.5-4.9)\nSerum urea32.8 mmol/L(2.5-7.5)\nSerum creatinine520 µmol/L(60-110)\nUrinary sodium58 mmol/L\nUrine volume320 ml/24 hr\nUrine osmolality280 mOsmol/L\nAn ultrasound scan shows that the left kidney measures 12.7 cm in length and the right kidney 11.5 cm in length.\nWhich one of the following would point to a diagnosis of acute tubular necrosis (ATN) rather than pre-renal failure?",
+    "options": [
+      "Renal USS results",
+      "A serum potassium of 5.9 mmol/L",
+      "Recent surgery",
+      "Urine osmolality 280 mOsm/L",
+      "Serum urea of 32.8 mmol/L"
+    ],
+    "correct_option": 3,
+    "explanation": "Of the acute renal failure seen by physicians 80-90% will fall into the category of pre-renal failure or ATN.\nIn pre-renal failure, the diagnosis is made by rapid resolution of renal impairment with appropriate ﬂuid resuscitation.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "49563834-47e2-4088-af0f-dabf3f799a2b",
+    "stem": "A 49-year-old patient with end-stage renal failure secondary to adult polycystic kidney disease is admitted to the Intensive Care Unit withpossible line sepsis from an indwelling permacath. The patient has previously been ﬂagged as MRSA positive from nasal screening swabs.\nWhich of the following is the most appropriate antibiotic regimen to use in this situation?",
+    "options": [
+      "Meropenem",
+      "Piperacillin/Tazobactam",
+      "Vancomycin + Gentamicin",
+      "Doxycycline",
+      "Flucloxacillin + Gentamicin"
+    ],
+    "correct_option": 2,
+    "explanation": "The antibiotic chosen should have both gram-positive and gram-negative cover, including MRSA. Only vancomycin and doxycyclineare able to treat MRSA, but doxycycline has limited gram-negative cover, unlike gentamicin.\nReference:\nVarley AJ, Sule J, Absalom AR. Principles of antibiotic therapy. Contin Educ Anaesth Crit Care Pain. 2009;9:184-188.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "b758eebd-1bfa-41c9-a1a7-3ea89f972ecc",
+    "stem": "A 90-year-old woman is found by her daughter on the ﬂoor of her ﬂat. She was last seen two days before and reported feeling unwell with aproductive cough.\nShe was taken to the Emergency department, awake and alert, for assessment and treatment. Her vital signs were as follows: temperature37.5°C, pulse 80, BP 100/60 mmHg and oxygen saturations 88% on air.\nOn clinical examination she was mildly dehydrated and had crackles on the right base of her lung on auscultation. A chest x ray conﬁrmed aright lobar pneumonia with no signiﬁcant evidence of heart failure. An electrocardiogram was normal and a renal ultrasound scan showed noevidence of hydronephrosis with normal sized kidneys. Urine dipstick was positive for haematuria only.\nSome of her initial laboratory tests are shown below:\nHaemogloblin110 g/L(130-180)\nWhite cell count18 × 10/L (4-11)\nSodium 145 mmol/L(135-150)\nPotassium 5.5 mmol/L(3.5-5.0)\nUrea 15 mmol/L(2.5-7.5)\nCreatinine on admission220 µmol/L(60-110)\nCreatinine two weeks ago60 µmol/L(60-110)\nCalcium (corrected)2.1 mmol/L(2.2-2.6)\nPhosphate 1.8 mmol/L(0.8-1.2)\nShe is commenced on intravenous ﬂuid replacement and is started on intravenous co-amoxiclav to treat community acquired pneumonia.\nWhich is the next best blood test to ascertain the cause of her renal impairment?",
+    "options": [
+      "Complement studies",
+      "Troponin",
+      "Myeloma screen",
+      "Brain natriuretic peptide",
+      "Creatine kinase"
+    ],
+    "correct_option": 4,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "90a0833d-18ce-483e-930e-5f7369eb7a59",
+    "stem": "A 39-year-old man was referred to the renal clinic.\nTwo weeks previously he had an episode of loin pain, and passed a small renal stone. He had one previous episode three years previously, butdid not seek medical advice. He was otherwise ﬁt and well.\nInvestigations showed:\nHaemoglobin 145 g/L(130-180)\nWhite blood cells7.5 ×10/L (4-11)\nPlatelets 210 ×10/L (150-400)\nSerum sodium137 mmol/L(137-144)\nSerum potassium4.2 mmol/L(3.5-4.9)\nSerum urea 6.1 mmol/L(2.5-7.5)\nSerum creatinine100 µmol/L(60-110)\nSerum corrected calcium2.3 mmol/L(2.2-2.6)\n24 hour urine collection:\nVolume1150 ml/24hr-\nCalcium18 mmol/24hr(2.5-7.5)\nAnalysis of stone showed it to contain mostly calcium.\nWhat advice would you initially give this man?",
+    "options": [
+      "Increase ﬂuid intake",
+      "Decrease dietary protein intake",
+      "Increase dietary protein intake",
+      "Decrease dietary dairy product intake",
+      "Low fat diet"
+    ],
+    "correct_option": 0,
+    "explanation": "This gentleman has had a calcium urinary tract stone. He has normal serum calcium, but raised urinary excretion of calcium.\nIdiopathic hypercalciuria is often familial, the most common cause being increased gastrointestinal (GI) absorption of calcium. Themost common stones are calcium oxalate stones.\nIn this patient, his urinary output is 1150 mls/24hr. He should aim for a daily urinary output in excess of 2000 ml.\nThe",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d4e8f39a-365b-4867-b0f3-bf98b977fea4",
+    "stem": "A renal unit is attempting to reduce the number of line infections related to insertion of temporary dialysis vascular catheters.\nAs part of its approach it creates a checklist of infection control measures that should be adhered to when a practitioner is inserting dialysisvascular catheters. The unit will look at its infection rate over the coming year and perform regular audits to see compliance with theinfection control checklist.\nCompliance with the checklist can be described as what type of measure?",
+    "options": [
+      "Outcome measure",
+      "Balance measure",
+      "Summary measure",
+      "Checking measure",
+      "Process measure"
+    ],
+    "correct_option": 0,
+    "explanation": "In quality improvement terms, adherence to the checklist is a type of process measure. It gives you an indication as to whether coreprocesses of the project are being carried out.\nThis question relates to the topic of quality improvement. There are three types of measures generally used to show whether aproject is working.\nA process measure is a proxy measure of the desired outcome and is the",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "ead47af4-821b-4423-b6e0-9f43b97f41cb",
+    "stem": "A 22-year-old obese man presents with mild ankle oedema and urinalysis shows protein +++ with no blood.\nA diagnosis of nephrotic syndrome is made on the basis of a cholesterol of 6.9, an albumin of 30 g/dL and proteinuria of 8 g/24 hours.\nHe has ankle oedema and a BP of 145/90 mmHg.\nA renal biopsy is arranged for the following week. A protein selectivity index of 15% is found on analysis of his urine. He is empirically startedon prednisolone 60 mg daily.\nHis 24 hour urine collection is repeated prior to the renal biopsy and this shows a reduction in his urine protein output to 1.5 g/24 hours.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Membranoproliferative glomerulonephritis",
+      "Focal segmental glomerulosclerosis (FSGS)",
+      "Minimal change nephropathy",
+      "Amyloid",
+      "Membranous nephropathy"
+    ],
+    "correct_option": 2,
+    "explanation": "In this age group with no haematuria, minimal change nephropathy is the most likely.\nSteriod responsiveness is near 100% in minimal change but only about 40% in FSGS.\nA protein selectivity index of less than 10% is highly selective and is a ratio of serum and urine IgG and albumin.\nHigh selectivity suggests minimal change disease but is less reliable in adults.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "77e1a735-2431-4df9-815d-901d848b9e25",
+    "stem": "Which of the following abnormalities would you expect to ﬁnd in association with this CT appearance?",
+    "options": [
+      "Cushing's syndrome",
+      "Palpitations",
+      "Acanthosis nigricans",
+      "Polymyositis",
+      "Polycythaemia"
+    ],
+    "correct_option": 4,
+    "explanation": "This CT demonstrates a huge left sided renal mass that is extending into the renal vein/IVC and is most likely a renal cell carcinoma.\nOf the conditions listed, polycythaemia is a well recognised complication of hypernephroma due to erythropoietin secretion.\nOthers include:",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "f81bdc46-6a92-41d3-b7c6-855d6b4fb044",
+    "stem": "A 68-year-old man with type 2 diabetes mellitus (insulin controlled) and end-stage renal failure (haemodialysis dependent for four years) wasadmitted to the coronary care unit six hours ago, with an acute inferior myocardial infarction.\nDespite appropriate therapy, including thrombolysis, he continues to have ischaemic symptoms, and is in pulmonary oedema. His lasthaemodialysis session was 48 hours prior to admission. His blood pressure is 86/52 mmHg.\nInvestigations show:\nSerum sodium139 mmol/L(137-144)\nSerum potassium6.7 mmol/L(3.5-4.9)\nSerum urea49 mmol/L(2.5-7.5)\nSerum creatinine950 µmol/L(60-110)\nHaemoglobin108 g/L(130-180)\nTroponin T>25 g/L(<0.04)\nA transthoracic echocardiogram shows a left ventricular ejection fraction of 20%.\nWhich of the following is the most appropriate management strategy?",
+    "options": [
+      "Blood transfusion",
+      "Haemodialysis",
+      "IV furosemide",
+      "Coronary angiography and rescue PCI",
+      "IV beta blocker"
+    ],
+    "correct_option": 3,
+    "explanation": "This patient with multiple cardiovascular risk factors has sustained a large inferior myocardial infarction. Despite appropriatetreatment he continues to exhibit symptoms of ischaemia, and he has cardiogenic shock with pulmonary oedema.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d103125d-d7f3-4cda-9699-8eadf3228ed9",
+    "stem": "A 75-year-old woman with bipolar disorder is admitted from home, unwell and dehydrated. Further history is not available, except that she had a past colonic resection with subsequent ileostomy. \nCurrent medications include lithium bicarbonate, aspirin, and ramipril.\nHer vital signs are within normal range although she appears dehydrated. Her abdomen is soft and there is no evidence of bowel obstruction.Eﬄuent is present in the ileostomy. Blood results are returned with a normal serum blood sugar but high serum sodium. Other laboratoryvalues including renal function and full blood count are awaited.\nParameterValue Normal Value\nSerum sodium165 mmol/L135-150\nA urinary catheter is placed and intravenous ﬂuid replacement is commenced.\nWhich of the following tests would best help to distinguish between renal and extra-renal loss of ﬂuid?",
+    "options": [
+      "Brain natriuretic peptide",
+      "Urine dipstick nitrites",
+      "Serum osmolality",
+      "Urine osmolality",
+      "Urinary protein: creatinine ratio"
+    ],
+    "correct_option": 3,
+    "explanation": "Urine osmolality would help to distinguish the cause of this patient's dehydration as it gives an indication of the whether the kidneyis appropriately concentrating or not.\nBrain natriuretic peptide does not bear direct relevance to the patient's electrolyte inbalance.\nSerum osmolality would be expected to be high as the serum sodium is high and so this test does not help us any further.\nUrinary protein:creatinine ratio is used in the assessment of proteinuria and would not be helpful in this case.\nNitrites on urinary dipstick are more indicative of a urinary infection but do not help in ascertaining source of ﬂuid loss.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "fe9cba00-3770-44c5-aa51-f1af9b1b55cc",
+    "stem": "A 78-year-old man with diabetes had been on regular haemodialysis (four hours three times a week) for twelve years.\nHe presented complaining of increasing muscular aches, numbness and joint stiffness affecting his hands, arms and shoulders. His lowerlimbs were not affected. His medications include calcium carbonate two tablets three times a day with meals, ACE inhibitor, aspirin and 1-alpha calcidol 1 mcg once a day.\nWhich of the following may account for his symptoms?",
+    "options": [
+      "Cerebrovascular disease",
+      "Uraemia",
+      "Diabetic neuropathy",
+      "Amyloidosis",
+      "Aluminium toxicity"
+    ],
+    "correct_option": 3,
+    "explanation": "All the above options can cause neurological abnormalities in patients with renal failure.\nAluminium toxicity can cause twitching, myoclonic jerks, motor apraxia, ﬁts and personality changes. It is now rare, due to treatmentof dialysis water with reverse osmosis, to remove the aluminium, and the use of calcium containing phosphate binders, instead ofaluminium.\nAmyloidosis is a common cause of neurological impairment in patients on longstanding dialysis. It is caused by β 2 microglobulinaccumulation. It causes joint pains and stiffness, usually upper limbs more than lower limbs. The only treatment is renaltransplantation. It can be reduced by using high ﬂux dialysis membranes in patients who are likely to be on dialysis for a prolongedperiod.\nThe above symptoms do not ﬁt with cerebrovascular disease, as the symptoms spare the lower limbs.\nDiabetic neuropathy again does not ﬁt with the above picture of symptoms sparing the lower limbs.\nUraemia may cause neurological symptoms. This is more common in men, and mostly affects the legs. Sensory symptoms(paraesthesia, burning sensations and pain) occur before motor symptoms (muscle atrophy, myoclonus, paralysis). The sensorysymptoms may improve with starting or increasing the frequency of dialysis, but the motor symptoms are not reversible.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "dd6f965d-45ca-4ddc-a240-7f03e1959252",
+    "stem": "A 54-year-old woman with end stage renal failure secondary to hypertension complains of feeling increasingly tired and thirsty. She iscurrently receiving renal replacement therapy via haemodialysis.\nHer current medications include Levemir, NovoRapid, ramipril, aspirin, simvastatin, calcium carbonate and erythropoietin.\nOn examination she appears well, the pulse rate is 84 beats per minute and regular and the blood pressure 138/65 mmHg. The jugularvenous pressure is visible 2 cm above the clavicle (prior to dialysis), the lung bases are clear and there is no evidence of peripheral oedema.There is a functioning radiocephalic arteriovenous ﬁstula in the left arm.\nHer blood tests (pre-dialysis) show:\nHaemoglobin105 g/L(115-165)\nSodium 134 mmol/L(137-144)\nPotassium 4.7 mmol/L(3.5-4.9)\nUrea 34 mmol/L(2.5-7.5)\nCreatinine 437 μ mol/L(60-110)\nCalcium (corrected)2.78 mmol/L(2.2-2.6)\nPhosphate 1.79 mmol/L(0.8-1.4)\nParathyroid hormone724 ng/L(15-65)\n What is the likely diagnosis?",
+    "options": [
+      "Primary hyperparathyroidism",
+      "Iatrogenic hypercalcaemia",
+      "Tertiary hyperparathyroidism",
+      "Secondary hyperparathyroidism",
+      "Hypercalcaemia of malignancy"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "b69cd9b6-1df5-4617-bfb4-dbf73507ace3",
+    "stem": "A 78-year-old woman was admitted to hospital with acute coronary syndrome and was discharged on day six after making a good recovery.\nHer medication on discharge comprised atenolol 50 mg daily, enalapril 10 mg daily, isosorbide mononitrate 30 mg daily, atorvastatin 20 mgdaily and aspirin 75 mg daily.\nInvestigations on admission had shown:\nSerum urea12.4 mmol/L(2.5-7.5)\nSerum creatinine250 µmol/L(60-110)\nShe was re-admitted one week after discharge with deteriorating dyspnoea.\nInvestigations revealed:\nSerum urea28.9 mmol/L(2.5-7.5)\nSerum creatinine600 µmol/L(60-110)\nSerum bicarbonate18 mmol/L(20-28)\nSerum potassium6.0 mmol/L(3.5-4.9)\nThe ECG showed T wave inversion in leads II, III and V5-6.\nWhat is the best course of management if the patient is clinically ﬂuid overloaded?",
+    "options": [
+      "Furosemide infusion",
+      "Insulin dextrose infusion",
+      "Dialysis",
+      "Oral furosemide",
+      "Salbutamol nebulisers"
+    ],
+    "correct_option": 2,
+    "explanation": "This lady is ﬂuid overloaded, running the risk of overt pulmonary oedema, especially in the context of myocardial ischaemia.\nShe is also hyperkalaemic, which potentiates risk of a malignant arrhythmia especially in a patient who is more prone to dysrhythmiaafter MI.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "8293265c-e1c4-46f1-8baf-99b5c020ea01",
+    "stem": "A 72-year-old male diabetic presents with weakness and lethargy.\nHe was diagnosed with type 2 diabetes mellitus 12 years ago and remains on gliclazide and metformin therapy and takes atenolol forhypertension. There is little to ﬁnd on examination.\nBlood pressure 164/88 mmHg lying and standing\nSerum sodium 135 mmol/L(137-144)\nNon-haemolysed serum potassium5.7 mmol/L(3.5-5.5)\nUrea 8.3 mmol/L(2.5-7.5)\nSerum creatinine 141 µmol/L(60-110)\nPlasma glucose 10.1 mmol/L(3.0-6.0)\nHbA 62 mmol/mol(20-42)\n7.8% (3.8-6.4)\nHe has loss of pin prick and vibration sensation to the ankle in both legs and a background diabetic retinopathy.\nWhat is the likely cause for these electrolyte abnormalities?",
+    "options": [
+      "Addison's disease",
+      "Liddle's syndrome",
+      "Acute renal failure",
+      "Hyporeninaemic hypoaldosteronism",
+      "Proximal renal tubular acidosis"
+    ],
+    "correct_option": 3,
+    "explanation": "This patient has chronic kidney disease which is likely to be related to diabetic nephropathy and longstanding hypertension.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "761ca042-8266-437a-8ee9-88feec32af97",
+    "stem": "A male patient with a background of sensorineural deafness is referred to the nephrology clinic due to microscopic haematuria and poorrenal function. He has a family history of kidney disease and a diagnosis of Alport syndrome is made.\nHis partner has just given birth to a boy.\nAssuming the most common mode of inheritance of this condition, what is the likelihood of his son having the disease?",
+    "options": [
+      "100%",
+      "33%",
+      "25%",
+      "0%",
+      "50%"
+    ],
+    "correct_option": 3,
+    "explanation": "Alport syndrome is caused by defects in the synthesis of type IV collagen. Type IV collagen is found in the basement membrane ofthe kidney, inner ear and eye, so therefore extra-renal manifestations include bilateral sensorineural deafness and ocularabnormalities such as corneal dystrophies and lens abnormalities.\nRenal manifestations include microscopic and macroscopic haematuria with or without proteinuria, and eventual progression torenal failure.\nThe disease is X linked in 85% of cases because the most common genetic abnormality is a mutation in the COL4A5 gene (involvedin type IV collagen synthesis) on the X chromosome. COL4A3 and COL4A4 (genes also involved in type IV collagen synthesis) arelocated on chromosome 2, explaining why this disease may also have autosomal recessive or dominant inheritance.\nPatients with Alport syndrome are at risk of developing antiglomerular basement membrane disease (Goodpasture's disease)following transplantation, as their immune systems have never been exposed to type IV collagen and hence lack tolerance.\nAlport syndrome can be autosomal dominant, recessive or a new spontaneous mutation. However in 85% of cases it is X linked.Therefore, as only the Y chromosome is passed from father to son there is no chance of the son having the disease.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "2b42ffcf-0abb-4f94-80e0-53f1731991aa",
+    "stem": "You are seeing a 34-year-old woman as a new patient in the renal clinic.\nShe recently had a renal tract ultrasound scan that was consistent with adult polycystic kidney disease. She tells you her mother and olderbrother have polycystic kidneys, and she is concerned that her 10-year-old son may have the diagnosis too.\nShe has no other past medical history and takes no regular medication. On examination in the clinic her blood pressure is 160/89 mmHg andurinalysis is negative.\nWhich of the following actions is most appropriate?",
+    "options": [
+      "Request MR angiography",
+      "Commence antihypertensive medication",
+      "Organise abdominal ultrasound scan for her son",
+      "Send urine for formal protein quantiﬁcation",
+      "Check liver function tests (LFTs)"
+    ],
+    "correct_option": 1,
+    "explanation": "Patients with adult polycystic kidney disease (APKD) need strict blood pressure control in order to preserve renal function as long aspossible. This lady is hypertensive and accordingly she needs antihypertensive medication.\nHer son is at risk of having APKD (autosomal dominant inheritance) but screening is not recommended until adulthood. He shouldhowever have his blood pressure monitored annually, and if he becomes hypertensive this should be aggressively managed. This isthe case whether or not ultrasound imaging reveals cysts in his kidneys. Formal urine protein quantiﬁcation would not add anythingwith a negative urinalysis.\nAssociated features of APKD include berry aneurysms, cysts in other organs (liver, pancreas, ovaries) and hypertension.\nScreening for aneurysms is routinely considered only in patients with a personal or family history of intracranial haemorrhage.\nThe cysts in other organs are usually inconsequential and therefore checking the liver function tests is unhelpful in this context.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "517751c4-716d-4d9a-95a1-b551118187a7",
+    "stem": "A 60-year-old man, with chronic renal disease, established on peritoneal dialysis, presents to his local renal unit out of hours. He gives ahistory of abdominal pain and nausea. He reports that over the last 12 hours he has had cloudy bags when performing his peritoneal dialysisat home. He has never had this before.\nOn examination he is systemically well. Vital signs are as follows: temperature 37.8°C, pulse 80, blood pressure 130/80 mmHg. His abdomenis soft to examination with no evidence of guarding or rebound. There is no erythema of the skin around the exit site of the peritoneal dialysiscatheter.\nYou suspect a diagnosis of peritoneal dialysis (PD) peritonitis. The renal nurse has already sent PD ﬂuid for microscopy and culture, followingdrainage of the ﬂuid. The patient mentions that he has had an allergy to penicillin since childhood.\nWhich of the following is the most appropriate management?",
+    "options": [
+      "Give intra-peritoneal vancomycin and gentamicin",
+      "Take blood cultures, C reactive protein and full blood count and await results before starting antibiotics",
+      "Give intravenous co-amoxiclav",
+      "Contact surgical team immediately for removal of peritoneal dialysis catheter",
+      "Swab the exit site and commence oral erythromycin"
+    ],
+    "correct_option": 0,
+    "explanation": "PD peritonitis is an emergency and requires prompt broad spectrum antibiotic therapy. Antibiotics delivered through the intra-peritoneal route are preferred to intravenous route.\nIn this case, it is important to recognise that suspected PD peritonitis is an emergency and requires prompt broad spectrumantibiotic coverage. Whilst antibiotic polices differ among hospitals, initial antibiotic regimes should cover Gram positive (includingMRSA) and Gram negative organisms.\nThere is no indication for removal of the PD catheter at this stage as this is the ﬁrst episode of PD peritonitis and the patient does nothave an acute surgical abdomen.\nIntravenous co-amoxiclav does not offer adequate cover and the patient is allergic to penicillin so intravenous co-amoxiclav shouldnot be selected.\nFrom clinical examination there is no evidence of an exit site infection so to swab the exit site and commence oral erythromycin is",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "85e6caad-12d0-4260-acfe-c14f76225365",
+    "stem": "A 47-year-old patient with type 1 diabetes and chronic kidney disease attends for review.\nHis blood tests show:\nHaemoglobin112 g/L(130-180)\nMCV 87 fL (80-96)\nSodium 133 mmol/L(137-144)\nPotassium4.3 mmol/L(3.5-4.9)\nUrea 19.1 mmol/L(2.5-7.5)\nCreatinine267 μ mol/L(60-110)\nFerritin 150 μ g/L (15-300)\nC reactive protein<5 mg/L(< 10)\neGFR is 24 ml/min/1.73 m.\nWhat is the most appropriate management of his anaemia?",
+    "options": [
+      "Renal transplantation",
+      "Commence erythropoetin",
+      "Iron supplementation",
+      "Monitor haemoglobin, no treatment required at present",
+      "Blood transfusion"
+    ],
+    "correct_option": 2,
+    "explanation": "In patients with chronic kidney disease maintaining the haemoglobin level within the normal range is associated with adverseoutcomes. The target haemoglobin range is 100-120 g/L and it is recommended that measures to investigate and manage anaemiarelated to chronic kidney disease should be instigated when the haemoglobin level falls below 110 g/L.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "11024359-8871-4dab-938e-eb6fa0dcd258",
+    "stem": "A 19-year-old man presents with macroscopic haematuria that has been present for the last three days. He reports having a sore throat forthe last week.\nOn further questioning he reveals that a similar episode occurred two years ago but spontaneously resolved. His dipstick is positive for bloodand protein. Urine microscopy demonstrates red cell casts.\nBlood tests reveal:\nSodium136 mmol/L(137-144)\nPotassium4.8 mmol/L(3.5-4.9)\nUrea 9.2 mmol/L(2.5-7.5)\nCreatinine170 μ mol/L(60-110)\nWhat is the most likely ﬁnding on renal biopsy?",
+    "options": [
+      "Podocyte process fusion",
+      "Mesangial cell proliferation",
+      "Diffuse thickening of the basement membrane",
+      "Crescentic glomerulonephritis",
+      "Focal segmental glomerulosclerosis"
+    ],
+    "correct_option": 1,
+    "explanation": "The case described is a classical presentation of IgA nephropathy, also known as IgA nephritis or Berger's disease.\nThe term synpharyngitic nephritis is sometimes used referring to the onset of haematuria and sore throat virtually simultaneously asin this case.\nIn post-streptococcal glomerulonephritis the onset of renal disease is usually some time (weeks) after the upper respiratory illness.\nMesangial widening, inﬂammation and mesangial cell proliferation are common features on renal biopsy in IgA nephropathy.Granular IgA deposits on immunoﬂuorescence are the hallmark of the disease and give it its name.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a8f8064f-6ff5-4213-8a63-202b9dee702d",
+    "stem": "A 68-year-old man with IgA nephropathy is evaluated in the renal dialysis clinic for the ﬁrst time.\nHe is approaching stage 4 kidney disease and his renal physician is preparing him for dialysis in the near future. He is unable to undergoperitoneal dialysis due to a previous history of multiple abdominal surgeries.\nWhich of the answers below is the recommended ﬁrst choice for vascular access for routine haemodialysis?",
+    "options": [
+      "Non-tunnelled venous dialysis catheter",
+      "Tunnelled venous dialysis catheter",
+      "Hickman line",
+      "Arterio-venous graft",
+      "Arterio-venous ﬁstula"
+    ],
+    "correct_option": 4,
+    "explanation": "Current Renal Association guidelines state that an arterio-venous ﬁstula is the ﬁrst choice of vascular access for dialysis.\nPlanning for vascular access in patients with stage 4 kidney disease is essential to avoid the need for emergency dialysis.\nAlthough there are a variety of options for vascular access, arterio-venous ﬁstulas are preferred due to their longevity and lower riskof infection.\nArterio-venous grafts, using prosthetic material, have a reduced longevity compared to arterio-venous ﬁstulas. These are secondchoice preference for vascular access.\nDialysis catheters, tunnelled and non-tunnelled carry a risk of infection and are not preferred as ﬁrst line. They can be used whenemergency dialysis is required, or as an interim measure when awaiting more permanent dialysis access.\nA Hickman line is a permanent single lumen line inserted into the subclavian vein. It is often used to deliver antibiotics orchemotherapeutic agents but is not used for dialysis.\nReference:\nThe Renal Association. Vascular Access for Haemodialysis.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "b112ef17-c0a9-4a9c-b99b-273981adf5fb",
+    "stem": "A 26-year-old female who is 13 weeks pregnant is seen in the outpatient clinic and noted to have a sustained blood pressure of 170/92mmHg. She has no past medical history of note and has otherwise been well and asymptomatic. This is her ﬁrst pregnancy.\nExamination is otherwise generally normal and no abnormalities are noted on fundoscopy. Ultrasound examination of the kidneys showedboth kidneys to be of equal size of 9-10 cm. Urinalysis reveals protein (+) and blood (+).\nWhat is the most likely cause of her hypertension?",
+    "options": [
+      "Pre-eclampsia",
+      "IgA nephropathy",
+      "Reﬂux nephropathy",
+      "Fibromuscular dysplasia",
+      "Membranous glomerulonephritis"
+    ],
+    "correct_option": 1,
+    "explanation": "At 13 weeks of pregnancy, it is too early to present with pre-eclampsia.\nFibromuscular dysplasia does not typically present with dipstick haematuria.\nMembranous GN is associated with a nephrotic syndrome and therefore one would expect more proteinuria and no haematuria.\nThis patient has normal sized kidneys, which would be unusual for reﬂux nephropathy.\nIgA nephropathy can present with all the above features.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d470ae31-a40a-4a39-8e2c-f7111f2f796f",
+    "stem": "A 34-year-old man with a history of autosomal dominant polycystic kidney disease (ADPKD) comes to the Emergency departmentcomplaining of loin pain and haematuria.\nHe is currently managed with ramipril and indapamide for control of his blood pressure.\nOn examination in the department he is apyrexial. His blood pressure is 150/80 mmHg, and he is complaining of right loin pain.\nInvestigations show:\nHaemoglobin114 g/L (135-177)\nWhite cell count8.2 ×10/L (4-11)\nPlatelets 192 ×10/L (150-400)\nSerum sodium141 mmol/L(135-146)\nSerum potassium5.1 mmol/L(3.5-5)\nCreatinine230 µmol/L(79-118)\nUrine red cells++ (no growth after 48 hours)\nWhich of the following is the most appropriate way to manage him?",
+    "options": [
+      "IV ﬂuids, paracetamol and codeine",
+      "Oral co-amoxiclav",
+      "IV ﬂuids, diclofenac",
+      "IV heparin",
+      "Aspirin"
+    ],
+    "correct_option": 0,
+    "explanation": "The answer is IV ﬂuids, paracetamol and codeine.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "66bfc44c-3a0f-407b-8837-560c08eac0d8",
+    "stem": "You are called to a normally ﬁt and well 65-year-old patient on the medical assessment unit. He was admitted earlier in the day withpneumonia and fulﬁlled the criteria for severe sepsis.\nDespite adequate ﬂuid replacement over the course of the day his creatinine is 1200 μ mol/L and his urea is 30 mmol/L.\nWhich of the following would be the most appropriate reason for initiating renal replacement therapy in this patient?",
+    "options": [
+      "Development of refractory ﬂuid overload",
+      "Potassium of 5.0 mmmo/L after optimal medical therapy",
+      "Development of pancreatitis",
+      "Drop in haemoglobin from 100 g/L to 74 g/L",
+      "pH of 7.35 despite ﬂuid replacement"
+    ],
+    "correct_option": 0,
+    "explanation": "The initiation of emergency renal replacement therapy is usually required for:Acute life threatening hyperkalaemia which is resistant to treatment. In this example the potassium is within normal limits.Development of metabolic acidosis which is non-responsive to ﬂuid. In this instance the pH is within normal limits.Development of ﬂuid overload, which may manifest itself as pulmonary oedema.Development of uraemia which may manifest itself as pericarditis (not pancreatitis), neuropathy and confusional state.\nA drop in haemoglobin is not an indication for emergency renal replacement therapy. In this instance it maybe dilutional but sourcesof bleeding should be sought.\nIn chronic renal failure anaemia may result from a lack of erythropoietin production which can be treated with syntheticerythropoietin and iron infusion (not renal replacement therapy).\nReference:\nUpToDate. Renal replacement therapy (dialysis) in acute kidney injury (acute renal failure) in adults: Indications, timing, and dialysisdose.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "8f990424-1464-49b8-83d5-16998dba605e",
+    "stem": "A 60-year-old woman presents with a three day history of nausea.\nShe takes no medication and the only relevant past medical history is diet controlled diabetes mellitus. At her most recent check there wasno clinical evidence of retinopathy or of neuropathy, and her creatinine was 79 µmol/L.\nOn admission to hospital her bloods show:\nNa 139 mmol/L(137-144)\nK 5.3 mmol/L(3.5-4.9)\nUrea 35.5 mmol/L(2.5-7.5)\nCreatinine895 μ mol/L(60-110)\nHb 91 g/L (115-165)\nWhich of the following is most likely to be positive?",
+    "options": [
+      "ANCA",
+      "Anti DS-DNA antibody",
+      "Anti GBM antibody",
+      "HCV PCR",
+      "HIV PCR"
+    ],
+    "correct_option": 2,
+    "explanation": "From the above options this patient with an acute kidney injury and anaemia is most likely to have anti-glomerular basementmembrane disease, otherwise known as Goodpasture's syndrome.\nThe background of diabetes mellitus is a red-herring, and serves only to tell you that her renal function was recently normal.\nPatients presenting acutely with Goodpasture's tend to give a short history and can be systemically relatively well, besides symptomsof uraemia (nausea) and haematuria and/or haemoptysis.\nANCA-associated vasculitis can present in a similar fashion but the history is usually longer and the patient is systemically unwell atthe time of presentation.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "21fa785a-1f57-459e-b210-40f07e578b06",
+    "stem": "A 24-year-old man with chronic renal failure underwent renal transplantation with a matched related donor graft.\nThe immediate post-operative period was uneventful and he was discharged home after two weeks with a fully-functioning graft. One monthlater he presented to the nephrology clinic with a high fever and he was admitted for further investigations.\nHis full blood count showed a marked leukopenia. During the ﬁrst evening of his admission, his clinical condition deteriorated rapidly and hebecame dyspnoeic. On reviewing the other investigations, his liver function tests were noted to be markedly deranged.\nWhich of the following is the most likely cause of his illness?",
+    "options": [
+      "Parvovirus B19",
+      "Inﬂuenza virus",
+      "Adenovirus",
+      "Cytomegalovirus",
+      "Coxsackie virus"
+    ],
+    "correct_option": 3,
+    "explanation": "Cytomegalovirus (CMV) infection is responsible for a substantial fraction of the morbidity and mortality following organtransplantation.\nTwo main factors determine whether a patient will develop CMV infection after transplantation :1. Whether the donor or recipient harbours a latent virus capable of reactivation after transplantation2. The degree of immunosuppression after transplantation.\nPrimary disease is the commonest and most severe type of post-transplant CMV infection. This occurs in individuals who have neverbeen infected with CMV who receive an allograft that contains latent virus from a CMV-seropositive donor.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "56740515-cfef-487a-aec1-30ec8d6bf24b",
+    "stem": "You are asked to prescribe synthetic erythropoietin to a patient on the general medical ward.\nWhich of the following is a relative contraindication?",
+    "options": [
+      "Renal cell carcinoma",
+      "Beta thalassaemia",
+      "Diabetic nephropathy",
+      "Previous renal transplant",
+      "Haemodialysis patient"
+    ],
+    "correct_option": 0,
+    "explanation": "Erythropoiesis-stimulating agents act as a growth factor in the context of active malignancy, and this increases the mortality ofpatients with malignancy who receive erythropoietin. The other major risk factor associated with these drugs is ischaemic stroke.\nDiabetic nephropathy is not a contraindication, and indeed patients with diabetic nephropathy often tend to be relativelyerythropoietin resistant.\nReceiving haemodialysis or having had a renal transplant are not contraindications, and having beta-thalassaemia is irrelevant.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d0328a6f-6b49-4362-b058-4d7f3027e339",
+    "stem": "A 74-year-old man is referred to hospital from his GP.\nHe had been treated for essential hypertension, with bendroﬂumethiazide 2.5 mg and amiloride 10 mg daily. However, a routine check of hisrenal function revealed:\nSerum sodium134 mmol/L(137-144)\nSerum potassium5.9 mmol/L(3.5-4.9)\nSerum urea7.0 mmol/L(2.5-7.5)\nSerum creatinine100 µmol/L(60-110)\nWhen seen in the outpatient clinic, his blood pressure is 134/86 mmHg. A 12 lead electrocardiogram is normal. The GP's letter says that theamiloride was stopped the previous day.\nWhich of these is the most appropriate action?",
+    "options": [
+      "Stop bendroﬂumethiazide",
+      "Give 50% dextrose with twelve units of Actrapid insulin intravenously",
+      "Give 10 ml of 10% calcium gluconate intravenously",
+      "Repeat serum urea and electrolytes (U&E) in one week",
+      "Start low potassium diet"
+    ],
+    "correct_option": 3,
+    "explanation": "Bendroﬂumethiazide, a thiazide diuretic, inhibits sodium and chloride reabsorption in the distal convoluted tubule, resulting inincreased sodium and free water clearance. A secondary effect is the loss of potassium by increased secretion in the distal tubule inresponse to the increased intraluminal sodium. Therefore, bendroﬂumethiazide may cause hypokalaemia.\nAmiloride, a potassium sparing diuretic is occasionally prescribed with thiazide or loop diuretics, to prevent hypokalaemia. It inhibitsthe movement of sodium through channels towards the end of the distal tubule and collecting ducts, preventing the passage ofsodium from the urinary space into the tubular cells. This action causes hyperpolarisation of the apical plasma membrane,preventing the secretion of potassium into the collecting ducts.\nHyperkalaemia is common (more than 5%), and is unaffected by concurrent potassium depleting diuretics.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "c04a1196-1462-4efd-9548-0e8bba148428",
+    "stem": "A 24-year-old man was referred to the renal clinic. He has noticed increased swelling of his ankles over the last six weeks.\nHis blood pressure was 140/80 mmHg.\nInitial investigations by his general practitioner showed:\nSerum sodium140 mmol/L(137-144)\nSerum potassium5.0 mmol/L(3.5-4.9)\nSerum urea 12 mmol/L(2.5-7.5)\nSerum creatinine128 µmol/L(60-110)\nAlbumin 26 g/L (37-49)\nUrine dipstickProtein ++++\nBlood -\n24-hour urine protein:9 g/24hr<0.2 g/24hr)\nPrednisolone 60 mg daily was commenced in clinic. Six weeks later, a 24 hour urine collection was repeated.\n24-hour urine protein:0.8 g/24hr(<0.2 g/24hr)\nWhich of the following would most likely be seen on renal biopsy?",
+    "options": [
+      "IgA glomerulonephritis",
+      "Antiglomerular basement membrane disease",
+      "Minimal change glomerulonephritis",
+      "Membranous glomerulonephritis",
+      "Mesangiocapillary glomerulonephritis"
+    ],
+    "correct_option": 2,
+    "explanation": "This gentleman has a nephrotic syndrome with impairment of his renal function, which improves markedly with oral prednisolone.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "03dd989b-7c5a-4cf0-bd73-dc3a23abfa5a",
+    "stem": "A 72-year-old patient with chronic kidney disease secondary to renovascular disease attends for review.\nHis blood tests show:\nHaemoglobin92 g/L (130-180)\nMCV 87 fL (80-96)\nSodium 133 mmol/L(137-144)\nPotassium 4.3 mmol/L(3.5-4.9)\nUrea 19.1 mmol/L(2.5-7.5)\nCreatinine 397 μ mol/L(60-110)\nFerritin 250 μ g/L (15-300)\nTransferrin saturation22% (2.0-4.0)\nC reactive protein<5 mg/L(<10)\neGFR is 15 ml/min/1.73m.\nHe is already taking oral iron supplements.\nWhat is the most appropriate management of his anaemia?",
+    "options": [
+      "Vitamin C supplementation",
+      "Erythropoietin",
+      "Intravenous iron therapy",
+      "Commence haemodialysis",
+      "Blood transfusion"
+    ],
+    "correct_option": 1,
+    "explanation": "This patient has advanced (stage 4 almost stage 5) chronic kidney disease and his anaemia is almost certainly related to this.\nThe target range for haemoglobin in patients with chronic kidney disease is 100-120 g/L. Action should be taken to",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a40b4cac-39db-4884-95d2-86c98c1899be",
+    "stem": "A 57-year-old lady was admitted to hospital with increasing thirst and generalised abdominal pain. She was diagnosed with breast carcinomathree years previously, and treated with a radical mastectomy.\nInvestigations showed:\nSerum corrected calcium3.5 mmol/L(2.2-2.6)\nSerum alkaline phosphatase1100 IU/L(45-105)\nHer serum calcium was still elevated following 4 litres of 0.9% saline intravenous infusion.\nWhich of the following is the most appropriate next step?",
+    "options": [
+      "Intravenous 0.9% saline infusion over four hours",
+      "Low calcium diet",
+      "Dexamethasone 8 mg",
+      "Pamidronate 60 mg intravenously",
+      "Radiotherapy"
+    ],
+    "correct_option": 3,
+    "explanation": "This lady has hypercalcaemia, which is probably related to bony metastases secondary to breast carcinoma.\nThe calcium is still elevated despite adequate hydration with saline.\nThe most appropriate next step is to give pamidronate, a bisphosphonate, to inhibit bone resorption and formation, thus reducingbone turnover.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "14e0b8fe-71fa-41b6-981b-4d82c97ef433",
+    "stem": "A 25-year-old man attends the renal outpatient clinic for the ﬁrst time.\nHis father has been diagnosed with autosomal dominant polycystic kidney disease (ADPKD). Following further genetic testing, the patientalso has the gene responsible for the disease.\nAs you counsel him about his disease, which of the following statements is most correct?",
+    "options": [
+      "Flying is prohibited for this man",
+      "Approximately half of patients require dialysis by the age of 60",
+      "Routine testing for HIV is required",
+      "His children have a one in four chance of getting the disease",
+      "Yearly MRI brain scans are required to check for the possibility of cerebral aneurysms"
+    ],
+    "correct_option": 1,
+    "explanation": "Approximately half of patients with ADPKD will reach end stage renal failure by the age of 60 and require renal replacement therapy.\nADPKD is an important hereditary renal condition. In this question the candidate's knowledge is tested about the disease includingappropriate counselling measures.\nThere is no speciﬁc prohibition on ﬂying.\nThere is no indication from the question stem that HIV testing is necessary.\nAlthough patients with ADPKD can have associated cerebral aneurysms, the decision to undergo MRI scanning is usually on the basisof personal symptoms or family history of haemorrhagic stroke. There is certainly no need to have yearly MRI brain scanning at thisstage.\nAs an autosomal dominant condition, his children have a 50% chance of inheriting the condition.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "0ca2864d-9457-4da5-883d-066b868af647",
+    "stem": "A patient with stage 5 chronic kidney disease (CKD) attends the outpatient clinic to discuss the possibility of a renal transplant.\nWhich of the following is not a well-recognised side effect of ciclosporin?",
+    "options": [
+      "Gum hypertrophy",
+      "Hypertension",
+      "Nephrotoxicity",
+      "Tremor",
+      "Dupuytren's contracture"
+    ],
+    "correct_option": 4,
+    "explanation": "The immunosuppressant drugs used in transplant recipients can have many unwanted side effects.\nPatient compliance with their immunosuppressants is vital for the survival of the graft, hence patients need to be well informed ofthe likely effects of these drugs as part of the pre-transplant counselling process.\nCiclosporin is not typically associated with the development of Dupuytren's contracture.\nIt is noteworthy that ciclosporin toxicity is itself a cause of renal failure, and is a common cause of end stage renal failure inrecipients of other transplanted organs (pancreas, liver, etc).\nCiclosporin may also be associated with chronic failure of a transplanted kidney.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "265f2108-eff6-488e-a623-79bd4a4881a3",
+    "stem": "A 14-year-old boy is being investigated for nocturnal enuresis.\nHis mother also reports that he is not doing well academically at school and that he is easily fatigued by physical exertion.\nA full examination, including blood pressure, is normal.\nHb 175 g/L(130-180)\nWBC 11.7 ×10/L (4-11)\nPlatelets410 ×10/L (150-400)\nSodium136 mmol/L(137-144)\nPotassium3.0 mmol/L(3.5-4.9)\nUrea 5.0 mmol/L(2.5-7.5)\nBicarbonate35 mmol/L(20-28)\nGlucose4.5 mmol/L(3.0-6.0)\n24 hour urine:Potassium250 mmol/24 hr(25-100)\nSodium90 mmol/24 hr(100-250)\nWhat is the diagnosis?",
+    "options": [
+      "Laxative abuse",
+      "Primary hyperaldosteronism (Conn's syndrome)",
+      "Ectopic ACTH",
+      "Renal artery stenosis",
+      "Bartter's syndrome"
+    ],
+    "correct_option": 4,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "ec024284-c385-42be-aebf-6357f065d610",
+    "stem": "A 60-year old man with a history of non-small cell lung cancer was treated with a right lower lobectomy 12 months ago.\nHe had an chest and abdominal CT scan one month ago which revealed hepatic mass lesions and hilar lymphadenopathy. He now presentswith malaise and fatigue.\nHis results show:\nUrinalysis Protein +++-\n24 hour urine protein2.7 g/24hr-\nSerum urea 30 mmol/L(2.5-7.5)\nSerum creatinine450 µmol/L(60-110)\nA renal biopsy shows focal deposition of IgG and C3 with a granular pattern.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Goodpasture's syndrome",
+      "Nodular glomerulosclerosis",
+      "Membranous glomerulonephritis",
+      "Rapidly progressive glomerulonephritis",
+      "Minimal change glomerulonephritis"
+    ],
+    "correct_option": 2,
+    "explanation": "Membranous GN is associated with:MalignancyElderly patients, male more than femaleMedications: penicillamine, GOLD, captopril, and heavy metals: mercury and cadmiumBasement membrane thickeningRheumatoid arthritisAutoimmune disease: systemic lupus erythematosus (SLE), thyroidNephrotic syndrome is the main presentationHepatitis B",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "c21e1d23-85d8-4e02-8162-6044e1f4e48a",
+    "stem": "An 70-year-old man with chronic kidney disease, established on haemodialysis for over 10 years, is having trouble with high serumphosphate. He claims compliance with taking phosphate binders.\nHe is referred to see the renal dietician and his weekly diet is reviewed.\nWhich one of the following food and/or drink is most likely to contribute to his high phosphate?",
+    "options": [
+      "Cheddar cheese",
+      "Salmon",
+      "Popcorn",
+      "Tomatoes",
+      "Rich tea biscuits"
+    ],
+    "correct_option": 0,
+    "explanation": "Dairy products are  high in phosphate content. Of the foods listed, cheddar cheese will contain the highest phosphate.\nPhosphate level is important to control in patients with chronic renal failure.\nAlthough high phosphate can cause symptoms such as itching, there are long term adverse cardiovascular effects.\nFoods that are characteristically rich in phosphate include dairy products, ﬁbre rich foods, chocolate, and processed meats.\nAll of the other options have lower phosphate content than cheddar cheese and so should not be selected.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "9e0628bc-04ca-45f3-aaf0-05f8241a4da8",
+    "stem": "A 22-year-old female with a six week history of Henoch-Schönlein purpura is reviewed in outpatients.\nOn examination her blood pressure is measured at 158/90 mmHg. There is a non-blanching maculopapular rash over the back, buttocks andlower legs. She is otherwise well.\nInvestigations reveal:\nSerum urea8 mmol/L(2.5-7.5)\nSerum creatinine118 µmol/L(60-110)\nSerum albumin30 g/L (37-49)\nUrinalysis Protein 0\nblood +\nWhat would be the most appropriate treatment?",
+    "options": [
+      "Plasma exchange",
+      "Cyclophosphamide",
+      "ACE inhibitor",
+      "IV immunoglobulin",
+      "High dose steroids"
+    ],
+    "correct_option": 2,
+    "explanation": "This lady has a diagnosis of Henoch-Schönlein purpura with minimal renal involvement (mild haematuria only).\nIt can present one to three days following an infection affecting an IgA-secreting mucous membrane (commonly followingpharyngitis, but can occur following infection of the gastrointestinal tract, bladder or breast).\nThe main presentation is with painless macroscopic haematuria, but in others it can be microscopic haematuria and proteinuria, andless commonly nephrotic syndrome.\nThe rash is due to a cutaneous vasculitis, and the abdominal pain is due to gut vasculitis, which may be severe in some cases, leadingto bloody diarrhoea. Arthralgia is a common symptom.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "9191aa1b-0b70-47dc-8911-c6da2a6fba27",
+    "stem": "A 78-year-old Caucasian woman with known chronic kidney disease wants to know what factors are likely to affect the progression of herrenal impairment. \nWhich of the following modiﬁable risk factors is most likely to be signiﬁcant in the progression of her renal impairment?",
+    "options": [
+      "Cardiovascular disease",
+      "Obesity",
+      "Aspirin usage",
+      "Short term non-steroidal anti-inﬂammatory drug use",
+      "Smoking"
+    ],
+    "correct_option": 0,
+    "explanation": "Hypertension, diabetes and the presence of proteinuria are well-recognised and accepted risk factors for the progression of chronickidney disease (CKD). \nCardiovascular disease is also a known risk factor for progression in chronic renal impairment. \nIn patients with chronic kidney disease these risk factors should be actively managed to slow any fall in glomerular ﬁltration rate.\nAspirin usage has been suggested as a possible risk factor for the progression of chronic kidney disease. However it is widely used inpatients with cardiovascular disease, which in itself is a risk factor for progression of chronic kidney disease. This is a signiﬁcantconfounding factor in the evidence base investigating a link between the drug and progressive decline in glomerular ﬁltration rate. \nThe evidence that smoking and ethnicity (Afro-Caribbean and Asian ethnicity) are risk factors for CKD progression is suggestive butinconclusive. \nThere is no signiﬁcant evidence that obesity affects the progression in CKD. \nShort term non-steroidal anti-inﬂammatory drug use is associated with a reversible decline in glomerular ﬁltration rate.  Chronic usein patients with CKD may be associated with a progressive and irreversible fall in glomerular ﬁltration rate. \nThe other factor considered a risk factor for CKD progression is urinary tract outﬂow obstruction.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "ae1671e2-43c6-4ad0-adb7-4641485b9426",
+    "stem": "A 19-year-old female presents with gross oedema and frothy urine.\nShe is investigated and is found to have an albumin of 10 and heavy proteinuria of 11.5 g/l with a cholesterol of 9. She undergoes a renalbiopsy and is diagnosised as having minimal change nephropathy. She initially goes into remission with oral prednisolone but on withdrawalof steroids relapses quickly.\nShe is readmitted with a painful left leg and further signiﬁcant oedema. D-dimers are elevated and a deep vein thrombosis extending to herexternal iliac vein is diagnosised on Doppler ultrasonography. She is commenced on heparin but symptoms fail to respond. She is back onoral prednisolone and diurectics. Her albumin remains at 20.\nOn examination she has gross oedema of both legs and some mild facial swelling. Her Left leg is painful and erythematous with a dusky hue.JVP is not raised. Her BP lying is 110/70 mmHg and standing is 102/62 mmHg.\nInvestigations show:\nAPTT ratio1.86\nINR 1.5\nWhat is the most likely diagnosis?",
+    "options": [
+      "Antithrombin III deﬁciency",
+      "Dehydration",
+      "Hodgkin's disease",
+      "Inadequate heparin",
+      "Antiphospholipid syndrome"
+    ],
+    "correct_option": 0,
+    "explanation": "ATIII deﬁciency is likely as nephrotics often lose antithrombin in the urine.\nHodgkin's disease can cause minimal change disease but there is nothing in the history to suggest this.\nShe has no postural drop so dehydration is unlikely in the presence of oedema.\nAnti-phospholipid syndrome does not cause minimal change nephropathy.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "77d9761c-74f1-4ef7-ba72-28434ab391cb",
+    "stem": "A 62-year-old man with type 2 diabetes comes to the clinic for review. His diabetes is currently managed with gliclazide 40 mg BD and insulinglargine at night.\nHe is known to have hypertension and microalbuminuria, and is managed with ramipril 10 mg, amlodipine 10 mg, indapamide 2.5 mg.\nOn examination his BP is 142/72 mmHg, his pulse is 72 and regular, his BMI is 28.\nInvestigations show:\nHaemoglobin120 g/L (135-177)\nWhite cell count4.8 ×10/L (4-11)\nPlatelets 198 ×10/L (150-400)\nSerum sodium141 mmol/L (135-146)\nSerum potassium4.9 mmol/L (3.5-5)\nCreatinine320 µmol/L (up from 262 some 6 months earlier) (79-118)\nBicarbonate22 mmol/L (22-30)\nHbA1 62 mmol/mol (7.8%)\nWhich of the following is the most appropriate course of action?",
+    "options": [
+      "Decrease ramipril to 2.5 mg",
+      "Substitute atenolol 50 mg for ramipril",
+      "Stop ramipril",
+      "Decrease ramipril to 5 mg",
+      "Continue ramipril 10 mg"
+    ],
+    "correct_option": 4,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "32edfb56-a568-4495-85d3-5343c20a43c5",
+    "stem": "A 63-year-old man is referred by his GP to the renal outpatient clinic.\nHe was recently started on an ACE inhibitor for poorly-controlled hypertension, but on checking his urea and electrolytes one week later theGP was alarmed to ﬁnd a marked deterioration in his renal function. An MR angiogram demonstrated a patent right renal artery and stenosisof the left renal artery.\nOn examination the BP is 149/90 mmHg, urinalysis negative, normal physical examination.\nWhich of the following is most appropriate?",
+    "options": [
+      "Check urinary catecholamines",
+      "Arrange renal ultrasound scan",
+      "Start aspirin, simvastatin and amlodipine",
+      "Refer for renal artery angioplasty +/- stenting",
+      "Arrange renal biopsy"
+    ],
+    "correct_option": 2,
+    "explanation": "This man has unilateral renal artery stenosis (RAS), and this is the most likely cause for his hypertension. The current evidencefavours medical therapy in these patients, that is, an antiplatelet agent (aspirin), lipid lowering therapy (simvastatin) and tight bloodpressure control (amlodipine).\nThis man is most likely to come to harm through uncontrolled hypertension and so it is most important to control his bloodpressure, but with an alternative to ACE inhibition in the ﬁrst instance. Cautious, low dose ACE inhibition is sometimes an option inthese patients when other agents have failed to reduce the blood pressure, but this should only occur under close supervision.\nRAS is often unmasked when patients commence an ACE inhibitor, as these drugs reduce vasoconstriction in the efferent arterioles,which in turn reduces glomerular ﬁltration pressure. In patients with critical RAS this can often prompt a precipitous drop inglomerular ﬁltration rate.\nThe recently reported ASTRAL trial was a randomised controlled trial (RCT) comparing medical and interventional (renal arteryangioplasty and stenting) approaches to treating RAS. It found that revascularisation carried signiﬁcant risks and conferred nosigniﬁcant clinical beneﬁt. There is some controversy over the trial recruitment strategy as it only included patients with establishedRAS where the responsible clinician was \"unsure if revascularisation would be beneﬁcial\", but for now current practice is to avoidroutine referral for intervention in newly diagnosed RAS.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "bc7684fa-9ede-441a-b1ba-40fe1f92dbae",
+    "stem": "A 45-year-old man who is known to be HIV positive comes to the clinic for review.\nOver the past few months he has noticed increasing bilateral ankle swelling. On examination his BMI is 21, his BP is 122/72 mmHg. He hasbilateral pitting oedema of both legs.\nInvestigations show:\nHaemoglobin118 g/L (135-177)\nWhite cell count8.6 ×10/L (4-11)\nPlatelets 192 ×10/L (150-400)\nSerum sodium139 mmol/L(135-146)\nSerum potassium4.8 mmol/L(3.5-5)\nCreatinine 172 µmol/L(79-118)\nAlbumin 28 g/L (35-50)\nUrinary protein3.7 g/24hrs\nRenal ultrasound scanbilateral normal sized kidneys\nRenal biopsyfocal segmental glomerulosclerosis\nWhich of the following is the most likely diagnosis?",
+    "options": [
+      "Post-streptococcal glomerulonephritis",
+      "Membranous glomerulonephropathy",
+      "IgA nephropathy",
+      "HIV nephropathy",
+      "Minimal change disease"
+    ],
+    "correct_option": 1,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "029c62e8-2767-44a7-a390-0b3c911c7e84",
+    "stem": "You are asked to see a patient whose bloods have been reported as:\nSodium141 mmol/L(137-144)\nPotassium4.2 mmol/L(3.5-4.9)\nCreatinine79 μ mol/L(60-110)\ncANCApositive\nanti-PR34\nanti-MPO>100\nWhat is the most likely diagnosis?",
+    "options": [
+      "Microscopic polyangiitis",
+      "Polyarteritis nodosa",
+      "Goodpasture's syndrome",
+      "Churg-Strauss syndrome",
+      "Granulomatosis with polyangiitis"
+    ],
+    "correct_option": 4,
+    "explanation": "Microscopic polyangiitis is an ANCA-associated vasculitis.\nTypically the patient has a positive ANCA, and either the anti-PR3 (cANCA, 30%) or anti-MPO (pANCA, 45%) antibody is stronglypositive.\nUsually the MPO antibody is associated with microscopic polyangiitis, whereas the PR3 antibody is associated with Granulomatosiswith polyangiitis, which is closely linked.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "068afd52-7bf1-46c5-b19d-fedfe8c569f2",
+    "stem": "A 27-year-old woman is seen in clinic for investigation of abdominal discomfort.\nShe has been aware of vague abdominal discomfort for many months with lower abdominal pain which has occurred intermittently. Herweight has been generally steady although occasionally she loses her appetite. She has otherwise been well and is married. Her onlymedication is the combined oral contraceptive which she has been taking for many years.\nExamination reveals her to look well with a BMI of 24.5 kg/m and a blood pressure of 140/80 mmHg. No speciﬁc abnormalities are noted on\nchest heart or abdominal examination. No abnormal neurology is noted and fundoscopic examination is normal.\nInvestigations show:\nSerum urea5.9 mmol/L(2.5-7.5)\nSerum creatinine90 µmol/L(60-110)\nUrine dipstickBlood +\nProtein +\nAn ultrasound scan of the abdomen shows a small right kidney.\nWhat is the most likely cause of this patient's presentation?",
+    "options": [
+      "Fibromuscular dysplasia",
+      "IgA nephropathy",
+      "Reﬂux nephropathy",
+      "Congenital renal atrophy",
+      "Chronic glomerulonephritis"
+    ],
+    "correct_option": 2,
+    "explanation": "This lady is probably experiencing abdominal discomfort because of recurrent urinary tract infections.\nThe small kidney on the right side is a consequence of chronic pyelonephritis due to vesicoureteric reﬂux, earlier in life.\nRenal asymmetry is unlikely to be consistent with chronic glomerulonephritis (GN).\nWith ﬁbromuscular dysplasia, there might be evidence of more signiﬁcant hypertension, and possibly end organ disease.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "73b1d19d-7571-425b-b576-9009e7f7abd7",
+    "stem": "A 25-year-old man developed bilateral loin pain and frank haematuria.\nHis symptoms had started 24 hours after developing a sore throat. His blood pressure was 138/88 mmHg.\nUrinalysis was positive for blood (4+) and protein (2+).\nWhat is the most likely diagnosis?",
+    "options": [
+      "Microscopic polyangiitis",
+      "IgA nephropathy",
+      "Infective endocarditis",
+      "Post-streptococcal glomerulonephritis",
+      "Nephrolithiasis"
+    ],
+    "correct_option": 1,
+    "explanation": "The patient has macroscopic haematuria, proteinuria and loin pain in association with pharyngitis.\nIgA nephropathy typically presents as recurrent haematuria in young men, often precipitated by upper respiratory tract infections;loin pain is well described and patients may be normotensive or hypertensive.\nAlthough acute post-streptococcal glomerulonephritis (APSGN) is a recognised complication of streptococcal pharyngitis, there isalways a latent period of one to two weeks between the streptococcal infection and onset of signs and symptoms of acuteglomerulonephritis (oedema, haematuria, and hypertension); loin pain is not well-recognised.\nNephrolithiasis is associated with loin pain and haematuria, but the degree of proteinuria is too great in this case.\nFurther Reading:\nMedscape. IgA Nephropathy.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "fa9dff39-ae64-45f2-81e9-55730fdd55ca",
+    "stem": "A 20-year-old student attends a barbecue with some friends to celebrate the end of term.\nThe next day she attends the Emergency department feeling unwell. In particular she feels breathless, nauseated, and has profuse diarrhoea.She drank some alcohol at the barbecue, and reports taking 1 g paracetamol prior to attending the emergency department with no realeffect.\nBloods show:\nHb 81 g/L (115-165)\nPlt 132 ×10/L (150-400)\nUrea 27.2 mmol/L(2.5-7.5)\nCreatinine427 μ mol/L(60-110)\nBicarbonate19.0 mmol/L(20-28)\nBlood ﬁlm shows fragmented cells.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Hypovolaemia secondary to severe gastroenteritis",
+      "Acute alcohol intoxication",
+      "Paracetamol overdose",
+      "Haemolytic uraemic syndrome",
+      "Iron deﬁciency anaemia"
+    ],
+    "correct_option": 3,
+    "explanation": "This student has haemolytic uraemic syndrome (HUS) most likely secondary to Escherichia coli 0157.\nTypically this presents as a diarrhoeal illness having eaten undercooked meat, with a haemolytic anaemia, thrombocytopenia andacute kidney injury.\nOften the haematological and renal indices will worsen as the diarrhoea begins to settle.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "edef9e96-8eb6-4665-be49-2ec8b86ddc60",
+    "stem": "A 79-year-old man was admitted through medical receiving two days ago with urinary retention. He had experienced urinary hesitancy for anumber of months, culminating in a few days of almost complete inability to pass urine.\nA urinary catheter is inserted and he is found to have a residual urine volume of 1200 mls. A renal tract ultrasound scan demonstrates anenlarged prostate, conﬁrmed on PR examination. He is now passing 3500 ml of clear urine daily.\nHis medical history is unremarkable and he is on no regular medication. He tells you he is managing to drink around 2000 mls of water daily.\nWhich of the following would be the best course of action?",
+    "options": [
+      "Arrange psychiatric review",
+      "Check urine and serum osmolality",
+      "Fluid restrict patient to 1500 ml daily",
+      "Supplement oral intake with intravenous ﬂuids",
+      "Give intranasal desmopressin"
+    ],
+    "correct_option": 3,
+    "explanation": "This man has obstructive uropathy secondary to an enlarged prostate that has now been relieved with a urinary catheter.\nHe is now producing a large volume of dilute urine, and over the next few days as his tubules recover their function his urine willbegin to concentrate appropriately.\nThe main approach to management in such patients is to ensure they remain adequately hydrated while their kidneys recover theirability to concentrate urine and manage ﬂuid balance.\nThe patient should not be ﬂuid restricted as this would lead to severe dehydration.\nThis is not a psychiatric illness hence psychiatric review is unnecessary.\nDesmopressin is used in (cranial) diabetes insipidus and is not indicated in this context.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "c7f3954c-ac97-4051-96aa-acfd563b9804",
+    "stem": "A 25-year-old lady with known SLE presents with the nephrotic syndrome.\nA renal biopsy is performed and this conﬁrms diffuse proliferative glomeronephritis (WHO Class IV).\nWhich of the following treatment regimes would you advise?",
+    "options": [
+      "Prednisolone and intravenous cyclophosphamide",
+      "Prednisolone and methotrexate",
+      "Azathioprine alone",
+      "Prednisolone alone",
+      "Azathioprine and prednisolone"
+    ],
+    "correct_option": 0,
+    "explanation": "Diffuse proliferative glomerulonephritis (GN) (WHO class IV) is the commonest GN in systemic lupus erythematosus (SLE).\nIt also carries the worst prognosis for progression to renal failure.\nLarge trials have conﬁrmed the eﬃcacy of cyclophosphamide.\nThe usual regime would include high dose steroids and pulses of intravenous cyclophosphamide, initially given monthly for sixmonths and then quarterly.\nPulsed intravenous cyclophosphamide appears to be as effective as oral cyclophosphamide but has lower toxicity.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "50e16141-b73d-4093-89fa-1a7ae556b96a",
+    "stem": "A GP phones the renal registrar asking for advice regarding a patient.\nHe has a 66-year-old man with renal disease due to type 1 diabetes mellitus. The patient is currently on enalapril, aspirin, simvastatin andinsulin. He is complaining of pain in his right big toe and the GP is convinced that it is gout but unsure as to what to prescribe. He is otherwisewell with normal vital signs.\nRoutine renal function tests carried out last week are shown below and have been stable for the past six months.\nLaboratoryvalue Value Normal Range\nSerum creatinine200 µmol/litre60-110\nWhich of the following medications should be advised?",
+    "options": [
+      "Naproxen",
+      "Prednisolone",
+      "Allopurinol",
+      "Paracetamol",
+      "Colchicine"
+    ],
+    "correct_option": 4,
+    "explanation": "Given the patient's renal impairment and suggested diagnosis of acute gout, a trial of colchicine is the best option.\nColchicine is safe to use in renal impairment. It is generally advised to be taken to the point of onset of diarrheal symptoms, when itsuse should be discontinued. So long as the patient is adherent with the advise, renal function should not deteriorate\nThe ﬁrst line treatment for acute gout is a non-steroidal anti-inﬂammatory drug (NSAID) or colchicine. Given this patient's renalimpairment, a NSAID would be contraindicated.\nParacetamol will offer some mild pain relief but will not treat gout and so is not appropriate.\nAllopurinol should not be started in an acute attack of gout.\nPrednisolone is a reasonable choice but is usually tried as a second line treatment after NSAID use or colchicine.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "ddafdc96-7f8e-4f77-86b6-27a2ec1e4549",
+    "stem": "A 42-year-old woman is admitted to hospital for investigation of deteriorating renal function. A renal biopsy shows focal necrotisingglomerulonephritis, in keeping with a diagnosis of Granulomatosis with polyangiitis.\nOn examination she appears well. Her blood pressure is 147/84 mmHg with pulse 90 beats per minute, regular. Her respiratory rate is 24 perminute with oxygen saturations of 96% on an inspired oxygen concentration of 28%.\nInvestigations show:\nSerum sodium134 mmol/L(137-144)\nSerum potassium6.4 mmol/L(3.5-4.9)\nSerum urea52 mmol/L(2.5-7.5)\nSerum creatinine940 µmol/L(60-110)\nArterial blood gases (28% FiO):\npH 7.2 (7.36-7.44)\nPCO 6.0 kPa(4.7-6.0)\nPO 10.1 kPa(11.3-12.6)\nActual bicarbonate12 mmol/L(20-28)\nWhat is the initial management when treating this patient?",
+    "options": [
+      "Haemodialysis",
+      "Plasma exchange",
+      "Methylprednisolone",
+      "Cyclophosphamide",
+      "Positive pressure ventilation"
+    ],
+    "correct_option": 1,
+    "explanation": "Granulomatosis with polyangiitis is a vasculitis affecting the small vessels of the kidney and other organs, especially the lungs.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "c7ef44ec-520c-4150-83ad-fde0b9f1a470",
+    "stem": "You are asked to see a 24-year-old woman on the ENT ward.\nShe recently had a total thyroidectomy as treatment for her Graves' disease. A few hours after returning to the ward from theatre shedeveloped twitching of her arms.\nWhich of the following is the most likely diagnosis?",
+    "options": [
+      "Thyroid storm",
+      "Hypocalcaemia",
+      "Hypercalcaemia",
+      "Acute lower respiratory tract infection",
+      "Hyperparathyroidism"
+    ],
+    "correct_option": 1,
+    "explanation": "This patient has become acutely hypocalcaemic having had a thyroidectomy.\nThe surgeon has likely removed the parathyroid glands in addition to the thyroid, hence deﬁciency of parathyroid hormone andhypocalcaemia.\nThe parathyroids are notoriously diﬃcult to identify in the operating theatre and their removal is a recognised complication ofthyroidectomy.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "8b093858-76e8-4725-926a-fb7fc40a8e96",
+    "stem": "A 69-year-old man attends the renal transplant clinic for review. He has had a transplant for some 18 years and his graft function has beenstable.\nHe complains of recent right upper-quadrant abdominal pain, and you notice that he has lost 8 kg in the last four months.\nHis blood tests show:\nSodium138 mmol/L(137-144)\nPotassium3.6 mmol/L(3.5-4.9)\nUrea 7.8 mmol/L(2.5-7.5)\nCreatinine124 μ mol/L (stable)(60-110)\nHb 111 g/L (130-180)\nALT 149 U/L (5-35)\nALP 640 U/L (45-105)\nWhat is the most likely diagnosis?",
+    "options": [
+      "Opportunistic infection",
+      "Hyperparathyroidism",
+      "Malignant melanoma",
+      "Multiple myeloma",
+      "Chronic allograft rejection"
+    ],
+    "correct_option": 2,
+    "explanation": "Patients who have been immunosuppressed for a number of years have an increasing risk of malignancy, and are particularly at riskof developing skin cancers.\nThis man has a malignant melanoma with liver metastases, hence the deranged liver function tests and liver capsule pain. Thepatient is often unaware of the melanoma lesion, and the primary lesion may in fact disappear as the disease progresses.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "1acf243d-4e09-471e-8abd-beb498b614c0",
+    "stem": "A 58-year-old man attends 'well man' clinic because his father died of a heart attack at the age of 61.\nThere is no past history of diabetes mellitus but he is a smoker of 10-15 cigarettes per day.\nOn examination, he has a BMI of 28 kg/m and has blood pressure of 162/88 mmHg. Cardiovascular, chest and abdominal examination are\nnormal. Fundoscopy merely shows AV nipping.\nHe is advised to re-attend his general practitioner who conﬁrms the sustained elevation in blood pressure with recordings averaging 170/94mmHg. Dipstick urinalysis reveals urine protein (+)\nOther investigations show:\nSodium 144 mmol/L(137-144)\nPotassium 4.2 mmol/L(3.5-4.9)\nUrea 12.1 mmol/L(2.5-7.5)\nCreatinine 186 µmol/L(60-110)\nRandom plasma glucose concentration10 mmol/L(<11.1)\nHbA 53 mmol/mol(20-42)\n7.0% (3.8-6.4)\nTotal cholesterol concentration6.8 mmol/L(<5.2)\nTriglycerides 2.6 mmol/L(0.45-1.69)\nUltrasound abdomen - normal size kidneys.\nWhat is the most likely cause of his renal impairment?",
+    "options": [
+      "Renovascular disease",
+      "Hypertensive nephropathy",
+      "Analgesic nephropathy",
+      "Diabetic nephropathy",
+      "Chronic glomerulonephritis"
+    ],
+    "correct_option": 1,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "03e9cd3b-065b-4d69-81bd-8553f9c8a868",
+    "stem": "A 45-year-old lady with chronic renal failure secondary to systemic lupus erythematosus is seen in a low clearance clinic as a routine followup.\nHer Joints have been causing some discomfort and she has been taking naproxen PRN as well as prednisolone 2.5 mg od with azathioprine50 mg od for disease control.\nShe has stable renal function with a creatinine of 300 mmol/l and a creatinine clearance of 18 ml/min. Associated with her chronic renalfailure she has controlled secondary hyperparathyroidism. She has been anaemic for the last six months and investigation of dyspepsia withan OGD showed only mild gastritis. She has already been on oral ferrous sulphate 200 mg tds for three months.\nInvestigations show:\nHaemoglobin 94 g/L (115 - 165)\n% Hypochromic red cells12% -\nPlatelets 180 ×10/L (150 - 400)\nWhite cell count6.4 ×10/L (4 - 11)\nSerum folate 4.0 ug/L(2 - 11)\nSerum ferritin230 ug/L(15 - 300)\nTransferrin saturation17% -\nWhat therapeutic intervention should now be considered?",
+    "options": [
+      "Subcutaneous erythropoetin",
+      "Intravenous iron",
+      "Vitamin B12",
+      "Folate",
+      "GM-CSF"
+    ],
+    "correct_option": 1,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "df4a7c2d-9ba4-40bb-80df-abf5d15e03a8",
+    "stem": "A 24-year-old man is noted to have ++++ proteinuria at the diabetic clinic, and complains of bilateral leg swelling that started one week agoafter a trivial upper respiratory infection.\nHe has had insulin-dependent diabetes mellitus for ﬁve years but has no clinical evidence of neuropathy, and his eye screening shows nobackground retinopathy. His random glucose in the clinic is 5.9.\nWhat is the most likely diagnosis?",
+    "options": [
+      "IgA nephropathy",
+      "Minimal change nephropathy",
+      "Acute tubulo-interstitial nephritis",
+      "Urinary tract infection",
+      "Diabetic nephropathy"
+    ],
+    "correct_option": 1,
+    "explanation": "Young patients who present with a nephrotic syndrome are likely to have minimal change disease, and this is usually steroidresponsive. Minimal change disease is often preceded by a trivial upper respiratory infection.\nDiabetic nephropathy is less likely given the absence of other microvascular disease, and this is unlikely to present acutely as anephrotic syndrome.\nIgA nephropathy is also less likely to present as an acute nephrotic syndrome, though it would certainly be included on thedifferential diagnosis of asymptomatic proteinuria in an apparently ﬁt young man. Haematuria is also likely to be present.\nThere are no features in the history of a urinary tract infection.\nAcute tubulo-interstitial nephritis would not normally cause an acute nephrotic syndrome, and (for examination purposes) thehistory would typically include a rash, a recent new medication and/or eosinophilia in the context of an acute kidney injury.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "9e1811b0-73d2-4f4b-bc5b-246f69f55085",
+    "stem": "A 71-year-old dialysis-dependent man is brought to the emergency department complaining of diﬃculty breathing. His wife tells you that hecomplained of chest pains the previous evening before going to bed.\nOn examination his respiratory rate is 30, his JVP is elevated, and coarse crepitations are heard throughout both lung ﬁelds.\nUrgent urea and electrolytes (U&Es) show:\nSerum sodium139 mmol/L(135-146)\nSerum potassium4.5 mmol/L(3.5-5.0)\nChloride 110 mEq/L(97-107)\nUrea 24.5 mg/dL(10-20)\nCreatinine771 μ mol/L(79-118)\nHe tells you he does not usually pass any urine so is unable to provide a specimen for urinalysis. An ECG demonstrates sinus rhythm andanterolateral ischaemic changes. A chest x ray shows marked interstitial oedema in both lungs.\nWhich of the following is the most appropriate management to treat the shortness of breath?",
+    "options": [
+      "Give 100 mg IV furosemide",
+      "Give 10 mg IV morphine",
+      "Give 300 mg aspirin",
+      "Commence IV nitrate infusion",
+      "Arrange urgent renal replacement therapy"
+    ],
+    "correct_option": 4,
+    "explanation": "This man has acute pulmonary oedema, most likely precipitated by acute coronary syndrome (ACS) the previous evening.\nHe is dialysis-dependent and therefore measures to oﬄoad ﬂuid via his kidneys are unlikely to be effective. He needs urgentultraﬁltration to oﬄoad ﬂuid.\nAspirin is indicated and should be given to this man, but this is for prognostic beneﬁt and does not address the most pressing issueof acute pulmonary oedema.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "77601fd2-b556-4012-81f7-a435ea4a1a7a",
+    "stem": "A 58-year-old lady with type II diabetes mellitus and chronic renal failure on haemodialysis presents with unstable angina. She currently usestwice daily insulin for glycaemic control but control has been poor of late.\nInvestigations:\nHaemoglobin86 g/L (115-165)\nMCV 84 fL (80-96)\nPlatelets 198 ×10/L (150-400)\nWhite cell Count6.7 ×10/L (4-11)\nHbA 90 mmol/mol(20-46)\n10.4% (3.8-6.4)\nWhat is the most appropriate treatment?",
+    "options": [
+      "Intravenous iron infusion",
+      "Subcutaneous erythropoietin and intravenous iron",
+      "Oral ferrous sulphate",
+      "Subcutaneous erythropoietin",
+      "Blood transfusion with two units of packed red cells"
+    ],
+    "correct_option": 4,
+    "explanation": "The aim in all patients with chronic renal failure is to maintain the haemoglobin concentration above 110 g/L (K-DOQI guidelines). Itis important to",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "b0aab875-7044-48b1-b33a-6d217a1f7620",
+    "stem": "A 15-year-old girl is referred to clinic complaining of generalised muscle weakness, fatigue and polyuria.\nHer blood pressure in clinic is measured at 90/74 mmHg.\nInvestigations reveal:\nSerum sodium127 mmol/L(137-144)\nSerum potassium3.0 mmol/L(3.5-4.9)\nSerum urea7.2 mmol/L(2.5-7.5)\nSerum creatinine110 µmol/L(60-110)\nSerum chloride92 mmol/L(95-107)\nSerum bicarbonate34 mmol/L(20-28)\nSerum magnesium0.82 mmol/L(0.75-1.05)\nUrine sodium160 mmol/L(40-130)\nUrine potassium150 mmol/L(30-110)\nUrine calcium8.0 mmol/24hr(2.5-8.0)\nWhich of the following is the most likely diagnosis?",
+    "options": [
+      "Addison's disease",
+      "Laxative abuse",
+      "Liddle's syndrome",
+      "Thiazide diuretic abuse",
+      "Bartter's syndrome"
+    ],
+    "correct_option": 3,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "db36c665-397f-4226-b6ff-eac5a419338b",
+    "stem": "A 56-year-old man attends the renal clinic for review of his stable stage 4 CKD, secondary to hypertensive nephrosclerosis.\nHis clinic bloods are phoned to the ward and are as follows:\nSodium138 mmol/L(137-144)\nPotassium4.2 mmol/L(3.5-4.9)\nCreatinine310 μ mol/L (stable)(60-110)\nCorr calcium1.86 mmol/L(2.2-2.6)\nPhosphate1.24 mmol/L(0.8-1.4)\nPTH low\nWhich of the following drugs is the likely cause?",
+    "options": [
+      "Cinacalcet",
+      "Levothyroxine",
+      "Alendronic acid",
+      "Calcichew D3",
+      "Alfacalcidol"
+    ],
+    "correct_option": 0,
+    "explanation": "This man has a low parathyroid hormone and low calcium in the context of stable advanced chronic kidney disease.\nFrom the above list the most likely medication culprit is cinacalcet, a calcimimetic which is used to treat secondaryhyperparathyroidism.\nIt mimics the effect of calcium on the parathyroid glands (and elsewhere) with the intention of limiting parathyroid hormone (PTH)production and deleterious effects on bone architecture.\nAlfacalcidol is a vitamin D analogue that would act to increase serum calcium, as would Calcichew D3.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "88fb875b-0455-40b0-88ab-c47ff5a76863",
+    "stem": "A 75-year-old lady with osteoporosis and hypertension attends the Emergency department having had a fall and sustained a Colles' fracture.\nOf note, she is under surveillance for chronic renal failure (CKD stage 2), with her last creatinine measured at 120 µmol/L (60-110) threemonths before by her GP. She is on ramipril 2.5 mg once a day, alendronate 70 mg once a week, Calcichew two tablets once a day and aspirin75 mg once a day.\nHer fracture is reduced with a local haematoma block and she is sent home with a week's supply of diclofenac 50 mg TDS and codeinephosphate 30 mg QDS.\nShe presents to her GP ﬁve days later complaining of feeling generally unwell, nauseated, and not passing as much urine. Her pulse is 85 andblood pressure is 120/70 mmHg (with no postural drop). She is not in urinary retention on clinical examination.\nRepeated blood tests show the following:\nHaemoglobin120 g/L (115-165)\nWhite cell count6 ×10/L (normal differential)(4-11)\nAlbumin 42 g/L (37-49)\nCreatinine350 µmol/L (60-110)\nUrinalysis shows a 1+ protein but is otherwise normal. She denies any other associated fever or rash.\nWhich of the following is the mechanism of renal decline most likely to be?",
+    "options": [
+      "Prostaglandin related",
+      "Interstitial nephritis",
+      "Dehydration",
+      "Cholesterol plaque embolism",
+      "Acute glomerulonephritis"
+    ],
+    "correct_option": 0,
+    "explanation": "In this scenario, the recent prescription of NSAIDs after the patient's hospital attendance is the likely cause of the renal decline.NSAIDs reduce glomerular perfusion by inhibiting production of prostaglandins which dilate the afferent arteriole of the glomerulus.The reduction in blood supply to the kidney results in impairment of kidney function.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "094d3b6d-8425-4918-9009-433301560485",
+    "stem": "A 58-year-old man has been admitted to the medical receiving unit with a GI bleed. His past medical history includes a renal transplant that isfunctioning normally.\nThe patient is haemodynamically stable, but the haemoglobin is telephoned to the ward as 67 g/L. His clotting screen is within normal limits.\nYou decide to give a blood transfusion. The transfusion laboratory asks if there are any special requirements for the blood transfusion.\nWhich of these would you ask for?",
+    "options": [
+      "Leukocyte depleted blood",
+      "Type-speciﬁc",
+      "O negative",
+      "Full cross-match",
+      "Irradiated blood"
+    ],
+    "correct_option": 4,
+    "explanation": "This patient is haemodynamically stable and therefore can wait for fully cross-matched irradiated units, rather than the more readilyavailable O negative or type-speciﬁc blood.\nLeukocyte depleted blood is already the standard of care in the UK.\nIn renal transplant there is an increased risk of graft versus host disease, hence irradiated blood is indicated.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "3ff19a38-939e-44d3-a29e-09ef957f9906",
+    "stem": "A 22-year-old female was admitted to hospital three days after a sore throat. The patient complained of abdominal pain, loose stools, wristand ankle pain.\nOn examination, there was a non-blanching macular-papular rash over the back, buttocks and lower legs. Her blood pressure was 175/90mmHg.\nInvestigations showed:\nSerum urea8 mmol/L(2.5-7.5)\nSerum creatinine118 µmol/L(60-110)\nSerum albumin30 g/L (37-49)\nUrinalysis Protein ++\nBlood +\nWhat would be the most appropriate ﬁrst treatment?",
+    "options": [
+      "Cyclophosphamide",
+      "High dose prednisolone",
+      "ACE inhibitor",
+      "Plasma exchange",
+      "Azathioprine"
+    ],
+    "correct_option": 2,
+    "explanation": "This lady probably has Henoch-Schönlein nephritis (similar to IgA nephritis).\nIt should be diagnosed on renal biopsy. It can present one to three days following infection of an IgA secreting mucous membrane(commonly following pharyngitis, but can occur following infection of the gastrointestinal tract, bladder or breast).\nThe main presentation is with painless macroscopic haematuria, but in others it can be microscopic haematuria and proteinuria, andless commonly nephrotic syndrome.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "2138e9f7-b8a5-453f-9c47-70d01455b7ff",
+    "stem": "A 16-year-old female patient is referred from her GP with a four day history of ankle and facial swelling and dark urine. Her last presentationat the practice was two weeks previously with pharyngitis. Blood pressure is 165/100 mmHg, and urine dipstick is strongly positive forprotein and blood.\nOn admission she is in acute kidney injury with a creatinine of 189 μ mumol/l and urea 17.8 mmol/l. A renal ultrasound scan shows normalsized kidneys and no sign of obstruction. After bringing her blood pressure under control, she has a renal biopsy.\nWhich histological features would you expect on light microscopy?",
+    "options": [
+      "No glomerular abnormalities",
+      "Crescentic glomerulonephritis",
+      "Wire-loop lesions",
+      "Hyalinisation",
+      "Thrombotic microangiopathy"
+    ],
+    "correct_option": 2,
+    "explanation": "The patient has nephritic syndrome, and the most likely cause of this is post-infectious glomerulonephritis. Wire-loop lesions may beseen in this condition. A wire-loop lesion is a capillary loop with immune complex deposition circumferential around the loop. Theymay also be seen in lupus nephritis.\nNephritic syndrome consists of:OliguriaAcute renal failureHaematuriaHypertensionProteinuriaOedema\nOutcome and treatment of nephritic syndrome depends on renal biopsy.\nPost-infectious glomerulonephritis is a diffuse proliferative glomerulonephritis with proliferation of capillaries, obliteration ofcapillary loops and 'wire-loop' lesions on light microscopy. There is antibody and compliment deposition on immunostaining.\nCrescentic glomerulonephritis occurs in IgA nephropathy, small vessel vasculitis, Goodpasture's disease and systemic lupuserythematosus (SLE). It is less common in post-infectious glomerulonephritis.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "73499d11-3932-4a42-844f-48640092a444",
+    "stem": "A 67-year-old lady with hypertension and chronic kidney disease presents for annual review in nephrology clinic. \nHer most recent urine test reveals that the albumin:creatinine ratio (ACR) is 83 mg/mmol. Her blood tests show:\nSodium137 mmol/L(137-144)\nPotassium4.3 mmol/L(3.5-4.9)\nUrea 10.3 mmol/L(2.5-7.5)\nCreatinine103 μ mol/L(60-110)\n(eGFR 49 ml/min/1.73 m).\nWhat is the most appropriate target range for her blood pressure?",
+    "options": [
+      "120-129/<80 mmHg",
+      "135-159/<90 mmHg",
+      "120-139/<90 mmHg",
+      "120-159/<85 mmHg",
+      "<120/<70 mmHg"
+    ],
+    "correct_option": 0,
+    "explanation": "The NICE guidelines on the management of Chronic kidney disease (CG182) recommend that patients with chronic kidney diseasewho have proteinuria equivalent to ACR ≥ 70 mg/mmol should have their blood pressure controlled to the target range 120-129/<80 mmHg. The same target range should be used in patients with diabetes.\nThe NICE guidelines recommend that a blood pressure target range of 120-139/<90 mmHg should be used in non-diabetic patientswith chronic kidney disease and an ACR <70 mg/mmol.\nAiming for lower systolic (<120 mmHg) or diastolic (<60 mmHg) blood pressures increases the risk of mortality, cardiovasculardisease, congestive cardiac failure and, in the case of low diastolic values, progression of chronic kidney disease.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "6618dc91-8b48-45a0-8af6-71a9d5b39b52",
+    "stem": "A 50-year-old man with autosomal dominant polycystic kidney disease (ADPKD) is admitted with a two day history of fever and rigors.\nHe has a previous history of urinary tract infections treated at another hospital, and for this episode was treated with an empirical course oforal Augmentin by his general practitioner.\nFollowing his admission and work up, his urine and blood cultures are positive for an extended spectrum beta lactamase (ESBL). Typing andsensitivity of the organism are not available yet and the patient is deteriorating.\nWhich of the following is the most suitable decision with regard to administration of antibiotics?",
+    "options": [
+      "Stop antibiotics and reculture the urine and blood",
+      "Intravenous meropenem",
+      "Oral trimethoprim",
+      "Intravenous co-amoxiclav",
+      "Oral erythromycin"
+    ],
+    "correct_option": 1,
+    "explanation": "This patient has an ESBL urine infection and is symptomatic. Meropenem has a broad spectrum of activity and is the right initialcourse of antibiotics in this case pending full sensitivities of the cultured organism. \nESBL infections are becoming a greater problem in hospitals. These organisms have broader beta lactamases; enzymes capable ofbreaking down a larger variety of antibiotics.\nIn this patient, the presence of renal cysts, a reservoir of infection and previous antibiotic use are likely to have led to this resistantstrain.\nA broad spectrum antibiotic is required and of the list available, meropenem is the most suitable choice.\nIntravenous co-amoxiclav is unlikely to be adequate. Neither would erythromycin have the appropriate coverage.\nGiven that the patient is deteriorating it would be preferable to continue antibiotic treatment rather than stop so the option toreculture the urine and blood is",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "c5427d75-a7f6-42da-89c6-66680de2be87",
+    "stem": "A 42-year-old man with type 1 diabetes has attended his general practitioner for annual review. \nHe is noted to be hypertensive with a blood pressure of 163/72 mmHg. \nHis blood tests show: MARKED \nSodium137 mmol/L(137-144)\nPotassium4.2 mmol/L(3.5-4.9)\nUrea 9.5 mmol/L(2.5-7.5)\nCreatinine125 μ mol/L(60-110)\n(eGFR 58 ml/min/1.73m).\nHis general practitioner is worried about diabetic nephropathy causing chronic kidney disease and is keen accurately to quantify thepatient's proteinuria. \nWhat is the most appropriate test to recommend in this situation?",
+    "options": [
+      "Urine protein electrophoresis",
+      "24 hour urine collection for protein",
+      "Albumin:creatinine ratio (ACR)",
+      "Urine dipstick",
+      "Protein:creatinine ratio (PCR)"
+    ],
+    "correct_option": 2,
+    "explanation": "In the setting of diabetes and stable renal function the albumin:creatinine ratio is considered the most appropriate test to detectand quantify proteinuria. Ideally the test should be performed on an early morning sample.\nIt is more sensitive than the protein:creatinine ratio for low levels of proteinuria and more reliable than a 24 hour urinary collectionfor protein.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "b9d2bbf1-d84d-4946-a60d-152ddba4040a",
+    "stem": "A 24-year-old lady was referred to your renal outpatient clinic from her general practitioner. She presented to him with tiredness. She wasnot taking any medications.\nOn examination, her blood pressure was measured at 180/95 mmHg.\nRoutine investigations by the general practitioner showed:\nSerum sodium140 mmol/L(137-144)\nSerum potassium3.0 mmol/L(3.5-4.9)\nSerum urea7.0 mmol/L(2.5-7.5)\nSerum creatinine92 µmol/L(60-110)\nShe was admitted to hospital for further investigations, which showed:\nPlasma renin activity(recumbent)5.2 pmol/ml/h(1.1-2.7)\nSerum aldosterone(supine after 30 minutes)900 pmol/L(135-400)\nWhich of the following is the correct diagnosis?",
+    "options": [
+      "Liquorice ingestion",
+      "Fibromuscular dysplasia",
+      "Conn's syndrome",
+      "Essential hypertension",
+      "Bartter's syndrome"
+    ],
+    "correct_option": 1,
+    "explanation": "This lady has hypertension, associated with a low serum potassium, and high plasma renin and serum aldosterone activity.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "eaf20f48-87c7-422e-9cb5-f6617e70590d",
+    "stem": "A 54-year-old man who has not previously consulted medical services comes to the Emergency department with severe frontal headaches,the worst that he has ever had, nausea and double vision.\nHe has no past medical history of note and takes no regular medication.\nOn examination his BP is 190/100 mmHg, he has grade 4 hypertensive retinopathy, including papilloedema. He is not in cardiac failure and ispulse is 90 and regular.\nInvestigations show:\nHaemoglobin135 g/L (135-177)\nWhite cell count6.5 ×10/L (4-11)\nPlatelets 193 ×10/L (150-400)\nSerum sodium141 mmol/L(135-146)\nSerum potassium4.0 mmol/L(3.5-5)\nCreatinine132 µmol/L(79-118)\nCXR Cardiomegaly, no signs of left ventricular failure\nECG LVH by voltage criteria\nCT head No mass lesionNo haemorrhage\nCXR - Cardiomegaly, no signs of left ventricular failure.\nWhich of the following is an appropriate blood pressure reduction target over the ﬁrst 24-48 hours of therapy?",
+    "options": [
+      "25%",
+      "50%",
+      "10%",
+      "5%",
+      "40%"
+    ],
+    "correct_option": 0,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "aa8ef8f9-6af8-472c-8321-abe342513b09",
+    "stem": "A 50-year-old man is started on omeprazole for gastro-oesophageal reﬂux. Two weeks later he attends the emergency departmentcomplaining of nausea and lethargy.\nHis bloods show:\nHb 121 g/L(130 - 180)\nEosinophils0.52 ×10/L (0.04 - 0.4)\nCreatinine395 μ mol/L(60 - 110)\nBicarbonate20 mmol/L(20 - 28)\nUrinalysis demonstrates +++ blood, +++ leucocytes, + protein.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Urinary tract infection",
+      "Goodpasture's syndrome",
+      "Acute tubulo-interstitial nephritis",
+      "Omeprazole overdose",
+      "Diabetes mellitus"
+    ],
+    "correct_option": 2,
+    "explanation": "This man has an acute tubulo-interstitial nephritis secondary to omeprazole. His nausea and lethargy are features of his acuteuraemia.\nThe eosinophilia and active urinary sediment (red cells and white cells) with minimal proteinuria, in the context of acute kidneyinjury, suggest an acute interstitial nephritis.\nOther clinical features include a rash and fever. The triad of a rash, fever and eosinophilia is seen in about 10% of cases.\nAIN is commonly drug-induced, though it can also be caused by autoimmune disease (Sjögren's, SLE and others) and infections(Legionella, CMV and others).",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "4495f22f-0a2f-431d-a182-7da7f8fbe6bb",
+    "stem": "A 45-year-old man with type 2 diabetes, hypertension and proteinuria is commenced on ramipril to prevent development of renal disease.\nHe reports to his GP that he has a troublesome cough since commencing the medication. He has no symptoms of lip swelling, wheeze andhas no history of underlying respiratory disease.\nWhat increased chemical is thought to be the cause of his cough?",
+    "options": [
+      "Moxonidine",
+      "Bradykinin",
+      "Capsaicin",
+      "Prostaglandins",
+      "Histamine"
+    ],
+    "correct_option": 1,
+    "explanation": "Cough is a common side effect when commencing ACE inhibitors. It is believed to be due to the build up of bradykinin. \nA switch to an angiotensin II receptor blocker is usually made if the cough is troublesome.\nThe other substances are not thought to contribute to ACE inhibitor induced cough and therefore are",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "27c24274-a49a-481f-9266-781a416add56",
+    "stem": "A 40-year-old gentleman with diabetic renal disease received a cadaveric renal transplant.\nOn day four post operatively the patient's creatinine was 140 µmol/L (60-110 µmol/L). He is currently on an immunosuppressive regime ofhigh dose prednisolone, azathioprine and ciclosporin.\nHaving had a good urine output of 60 ml per hour post operatively, his urine output decreases to 40 ml per hour on day six. Repeat bloodtests show that his creatinine has risen to 210 µmol/L (60-110 µmol/L).\nHe is afebrile at 36.5°C, with a pulse of 80 and a blood pressure is 150/80 mmHg (no change). Clinically he appears euvolaemic and is notcomplaining of any abdominal pain.\nWhat is the next most sensible management step?",
+    "options": [
+      "Obtain urgent biopsy of the transplanted kidney",
+      "Increase the dose of steroid",
+      "Decrease the dose of ciclosporin",
+      "Get an ultrasound scan of transplanted kidney and renal tract",
+      "Give a 1 litre ﬂuid bolus and watch urine output"
+    ],
+    "correct_option": 3,
+    "explanation": "There are a number of reasons for deterioration in renal function soon after a renal transplant. These include:Hyperacute rejection (which usually occurs in hours)Acute tubular necrosis, andSurgical complications (renal arterial or venous thrombosis and ureteric stenosis).\nThe question asks for the most sensible management step. In the presence of a dropping urine output and rising creatinine, anurgent ultrasound scan should be obtained to exclude any mechanical obstruction of the renal tract before considering otheroptions.\nA biopsy would not be indicated at this stage until mechanical obstruction has been ruled out. Although immunosuppressive agentsmay be contributing to the renal impairment, there are too many other differential diagnoses to consider, so decreasing the dosageof ciclosporin is",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "0de3760f-aa6e-448d-b329-8b0af54b6be8",
+    "stem": "Which one of the following conditions is not associated with autosomal dominant polycystic kidney disease (APKD)?",
+    "options": [
+      "Subarachnoid haemorrhage",
+      "Hypertension",
+      "Mitral valve prolapse",
+      "Dissecting aortic aneurysm",
+      "Aortic stenosis"
+    ],
+    "correct_option": 4,
+    "explanation": "Hypertension is a common, early ﬁnding in patients with ADPKD, and should be managed aggressively with standardantihypertensive medications.\nIntracerebral aneurysms are found in up to 2% of patients with ADPKD. These may lead to subarachnoid or intracerebralhaemorrhage, the most severe of the complications associated with ADPKD.\nMitral valve prolapse is found in 20% of patients with ADPKD.\nThere is an increased incidence of aneurysms and arterial dissections in patients with ADPKD.\nAortic stenosis is not associated with ADPKD.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "48796c2f-1f7b-444b-8f1c-4c866064b755",
+    "stem": "A 16-year-old boy is referred to the renal clinic. He had symptoms of a cold three days ago, and now has developed facial and limb oedema.\nHe had similar episodes aged 12 and 14 years, which responded well to steroid treatment. His blood pressure is 120/65 mmHg.\nInvestigations showed:\nHaemoglobin127 g/L(130-180)\nWhite cell count8.0 ×10/L (4-11)\nPlatelets 312 ×10/L (150-400)\n \nSerum sodium135 mmol/L(137-144)\nSerum potassium4.2 mmol/L(3.5-4.9)\nSerum urea6.9 mmol/L(2.5-7.5)\nSerum creatinine105 µmol/L(60-110)\n24 hour urinary protein: 7 g in 24 hours.\nUrine microscopy: No white cells, no red cells, no organisms.\nWhat is the most appropriate next step in his management?",
+    "options": [
+      "Start cyclophosphamide",
+      "Start ACE inhibitor",
+      "Start prednisolone",
+      "Renal biopsy",
+      "Start chlorpheniramine"
+    ],
+    "correct_option": 2,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "779827bd-7e81-4448-b27c-80eae6eef451",
+    "stem": "A 52-year-old man presented with acute dyspnoea.\nHis past medical history includes three vessel coronary artery bypass surgery for ischaemic heart disease and hypertension.\nExamination revealed widespread expiratory crackles with chest x ray conﬁrming pulmonary oedema. He was treated with intravenousnitrates and furosemide with symptomatic improvement.\nInvestigations at this stage revealed:\nSerum sodium138 mmol/L(137-144)\nSerum potassium4.2 mmol/L(3.5-4.9)\nSerum urea 8.7 mmol/L(2.5-7.5)\nSerum creatinine170 µmol/L(60-110)\nRandom plasma glucose10.1 mmol/L(<11.1)\nUrinalysis Protein++\nThe following day he was switched to oral furosemide at a dose of 80 mg daily and began captopril 12.5 mg twice daily, increased to 25 mgtwice daily. Repeat investigations one week later revealed:\nSerum sodium134 mmol/L(137-144)\nSerum potassium5.1 mmol/L(3.5-4.9)\nSerum urea15.7 mmol/L(2.5-7.5)\nSerum creatinine220 µmol/L(60-110)\nFasting plasma glucose6.0 mmol/L(3.0-6.0)\nWhich of the following is most likely to be responsible for the deterioration in renal function?",
+    "options": [
+      "Furosemide",
+      "Diabetic nephropathy",
+      "Hypertension",
+      "Captopril",
+      "Cholesterol emboli"
+    ],
+    "correct_option": 3,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "455f12aa-18ff-49fd-8f9e-dfd1f24156c3",
+    "stem": "A 33-year-old man with a history of chronic hepatitis C infection presents with bilateral foot drop. He contracted hepatitis C perinatally.\nOn examination, in addition to bilateral weakness of ankle dorsiﬂexion, there is a purple, painful, non-blanching rash seen in both feet and theﬁngers of the left hand.\nHis blood tests show:\nHaemoglobin104 g/L(130-180)\nWhite cell count13.4 ×10/L (4-11)\nPlatelets 103 ×10/L (150-400)\nSodium 135 mmol/L(137-144)\nPotassium5.3 mmol/L(3.5-4.9)\nUrea 23.1 mmol/L(2.5-7.5)\nCreatinine323 μ mol/L(60-110)\nHis urine dipstick reveals 2+ protein, 3+ blood and 1+ leukocytes. \nWhat is the most likely histological appearance on renal biopsy?",
+    "options": [
+      "Membranous nephropathy",
+      "Focal segmental glomerulosclerosis",
+      "Minimal change glomerulonephritis",
+      "Membranoproliferative glomerulonephritis",
+      "Crescentic glomerulonephritis"
+    ],
+    "correct_option": 3,
+    "explanation": "This gentleman has cryoglobulinaemia secondary to chronic hepatitis C infection giving rise to acute kidney injury, mononeuritismultiplex and cutaneous vasculitis.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "10f53f6a-1ca4-4f20-b40b-92a1f28c6934",
+    "stem": "A 68-year-old lady attended the rheumatology clinic for review of her rheumatoid arthritis.\nShe was found to have symptoms and signs of active synovitis with elevated inﬂammatory markers. She had been taking IM sodiumaurothiomalate 50 mg once a week for the previous six months. Other medications included a recent course of diclofenac 50 mg three timesa day.\nInvestigations showed:\nSerum sodium138 mmol/L(137-144)\nSerum potassium4.9 mmol/L(3.5-4.9)\nSerum urea 12 mmol/L(2.5-7.5)\nSerum creatinine290 µmol/L(60-110)\nUrine dipstickProtein ++\nBlood ++\n24 hr urine collection0.4 g protein/24hr(<0.2)\nHer renal function was normal at her last clinic visit two months previously.\nWhich of the following is the most likely cause of the deterioration in renal function?",
+    "options": [
+      "Interstitial nephritis",
+      "Gold nephropathy",
+      "Vasculitis",
+      "Amyloid",
+      "Myeloma"
+    ],
+    "correct_option": 0,
+    "explanation": "This lady has longstanding rheumatoid arthritis treated with gold. She currently has an exacerbation of her symptoms. She has renalimpairment with mild proteinuria and haematuria.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "66f027ac-ceb9-4e4c-bbc6-ca57dca0aef6",
+    "stem": "A 60-year-old male with stable congestive heart failure is seen in clinic.\nHe is treated with furosemide 80 mg od, digoxin 125 mcg od, enalapril 20 mg od, and ibuprofen 600 mg tds (taken for the last month). Onthe last visit, three months ago his renal function was normal, and the furosemide dose was increased from 40 mg to 80 mg/day. His currentblood pressure is measured at 120/70 mmHg (baseline is 125/75).\nInvestigations show:\nSerum sodium132 mmol/L(137-144)\nSerum potassium5.4 mmol/L(3.5-4.9)\nSerum urea18 mmol/L(2.5-7.5)\nSerum creatinine270 µmol/L(60-110)\nWhich one of the following would be the most likely cause of the renal function deterioration?",
+    "options": [
+      "Interstitial nephritis secondary to NSAIDs",
+      "Hypovolaemia",
+      "Treatment with digoxin",
+      "Treatment with ACE inhibitor",
+      "Urinary tract infection"
+    ],
+    "correct_option": 0,
+    "explanation": "This gentleman's renal function has deteriorated suddenly. All ﬁve choices could account for the deterioration, but the most likelycause is interstitial nephritis secondary to non-steroidal anti-inﬂammatory drugs (NSAIDs).\nAcute interstitial nephritis is inﬂammation of the renal tubulo-interstitium, secondary to a hypersensitivity reaction to drugs. Themost common drug related cause is NSAIDs.\nOther precipitating drugs includeAntibacterials (penicillins, cephalosporins, sulphonamides, rifampicin)Loop diuretics (furosemide)Thiazide diuretics",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "cbe491fe-4777-43c8-bb5f-57b876f91113",
+    "stem": "A 55-year-old woman with chronic renal disease is undergoing consideration for renal transplantation.\nAs part of her counselling, it is explained to her that immunosuppression after a transplant increases her risk for developing malignancy.\nFrom the list below, choose the speciﬁc malignancy that has the highest risk of development due to immunosuppression?",
+    "options": [
+      "Ovary",
+      "Breast",
+      "Non-melanoma skin cancer",
+      "Brain",
+      "Uterus"
+    ],
+    "correct_option": 2,
+    "explanation": "Kidney transplant recipients have a high risk of developing non-melanoma skin cancer.\nCancer surveillance is an important consideration in kidney transplant recipients. Due to impaired immunosurveillance, kidneytransplant recipients are at high risk of developing particular cancers.\nOf the answers listed above, non-melanoma skin cancer is highest risk of development.\nThe other options do not appear to have an increased rate of development compared to the general population and thereforeshould not be selected.\nFurther Reading:\nThe Renal Association. Post-operative Care of the Kidney Transplant Recipient.",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "9ab66086-b815-4b58-bdbb-3416330bbd80",
+    "stem": "A 22-year-old man, normally ﬁt and well, was referred to hospital by his GP.\nHis only symptoms were of blurred vision and headache that had been present for the preceeding two days. On further questioning thepatient also said that at he had not been passing much urine and that he had noticed that his breathing had been worse on exertion.\nThere was no history of ankle swelling, but he fell over three days previously and hurt his leg and he had been unable to go out of the housesince. There was no history of chest pain.\nOn examination he had a regular pulse of 110/minute with a blood pressure of 200/120 mmHg and JVP of 5cm. His heart sounds werenormal. Chest on auscultation revealed ﬁne basal crepitations with a respiratory rate of 22/minute with a sighing pattern. He had oedema ofhis right leg and side. His abdomen was soft and non-tender with no masses. Fundoscopy was normal.\nAn urinary catheter was inserted. He was found to have a residual volume of 50 mls of dark urine. Urinalysis showed blood+++ and protein++.Microscopy showed no organisms, but scanty hyaline casts with fewer than 10 red blood cells per high-powered ﬁeld.\nInvestigations revealed:\nSerum sodium135mmol/L(137-144)\nSerum potassium6.8 mmol/L(3.5-4.9)\nSerum urea19.5 mmol/L(2.5-7.5)\nSerum creatinine1044 μ mol/L(60-110)\nSerum calcium2.0 mmol/L(2.2-2.6)\nSerum phosphate2.6 mmol/L(0.8-1.4)\nBicarbonate17 mmol/L(20-28)\nWhat treatment should he receive immediately to correct potassium levels?",
+    "options": [
+      "Intravenous sodium bicarbonate",
+      "Oral calcium resonium",
+      "Intravenous ﬂuids",
+      "Dialysis",
+      "Intravenous insulin + dextrose + salbutamol"
+    ],
+    "correct_option": 4,
+    "explanation": "This man has rhabdomyolysis.\nImmediate treatment is",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "3a5ae112-c07d-4fbc-a4cd-77321926afb0",
+    "stem": "A 55-year-old gentleman who has been previously ﬁt and well, presents to the acute medical take with a six week history of malaise, backpain and hiccoughs.\nThree days prior to admission he had an episode of haematuria. He gives no history of previous respiratory symptoms. On examination helooks unwell, with a pulse of 120, BP 105/80 mmHg, temperature 36.7°C and oxygen saturations of 95% on air.\nSelected laboratory investigations reveal the following:\nHaemoglobin84 g/L (130-180)\nWhite cell count6.4 ×10/L (4-11)\nSodium 132 mmol/L(137-144)\nPotassium7.9 mmol/L(3.5-4.9)\nUrea 79.2 mmol/L(2.5-7.5)\nCreatinine3009 µmol/L(60-110)\npH 7.15 (7.36-7.44)\nHis ECG shows marked tenting of the T waves. He is transferred for urgent dialysis and further investigations. A chest x ray reveals noconsolidation or evidence of heart failure. His urine dip is positive for protein and blood only.\nAn ultrasound of the renal tract is normal but a renal biopsy taken shows acute glomerulonephritis with a linear immunoﬂuorescencestaining. His antiglomerular basement membrane antibody is positive and a diagnosis of Goodpasture's disease is reached.\nAside from haemodialysis, which therapeutic modality is most likely to be beneﬁcial in the next few days?",
+    "options": [
+      "Prednisolone 20 mg once a day",
+      "Renal transplant",
+      "Intravenous immunoglobulin",
+      "Plasmapharesis",
+      "Azathioprine"
+    ],
+    "correct_option": 3,
+    "explanation": null,
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "8d7d56ba-fffb-4517-8c5e-5af99b72820a",
+    "stem": "A 74-year-old lady is referred to hospital from her GP.\nShe has been treated for essential hypertension, with bendroﬂumethiazide 2.5 mg once daily and triamterene 150 mg once daily.\nRoutine investigations show:\nSerum sodium134 mmol/L(137-144)\nSerum potassium5.9 mmol/L(3.5-4.9)\nSerum urea7.0 mmol/L(2.5-7.5)\nSerum creatinine100 µmol/L(60-110)\nHer blood pressure is measured at 134/86 mmHg. Her electrocardiogram is normal. The GP has stopped the triamterene today.\nWhich of these is the most appropriate action?",
+    "options": [
+      "Give 10 ml 10% calcium gluconate IV",
+      "Give 50% dextrose with 12 units Actrapid insulin IV",
+      "Stop bendroﬂumethiazide",
+      "Start low potassium diet",
+      "Repeat urea and electrolytes in one week"
+    ],
+    "correct_option": 4,
+    "explanation": "Bendroﬂumethiazide, a thiazide diuretic, inhibits sodium and chloride reabsorption in the distal convoluted tubule, resulting inincreased sodium and free water clearance. A secondary effect is the loss of potassium by increased secretion in the distal tubule inresponse to the increased intraluminal sodium. Therefore, bendroﬂumethiazide may cause hypokalaemia.\nTriamterene, a potassium sparing diuretic similar to amiloride, is occasionally prescribed with thiazide or loop diuretics, to preventhypokalaemia. It inhibits the movement of sodium through channels towards the end of the distal tubule and collecting ducts,preventing the passage of sodium from the urinary space into the tubular cells. This action causes hyperpolarisation of the apical",
+    "tags": [
+      "Nephrology"
+    ],
+    "source": "BMJ OnExamination"
+  }
+]

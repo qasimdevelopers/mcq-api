@@ -1,0 +1,2297 @@
+[
+  {
+    "id": "a0a9592b-2e53-4c3c-ab39-dc6d6fb3ca80",
+    "stem": "What is the earliest hormonal response to hypoglycaemia?",
+    "options": [
+      "Inhibition of glucagon secretion",
+      "Cortisol release",
+      "Adrenaline (epinephrine) release",
+      "Growth hormone release",
+      "Glucagon release"
+    ],
+    "correct_option": 2,
+    "explanation": "Adrenaline (epinephrine) is the earliest and most important counter-regulatory hormone released within minutes of hypoglycaemia. It acts via β2-adrenergic receptors in the liver to stimulate glycogenolysis and gluconeogenesis, and via α2 receptors to suppress insulin. It also causes sympathetic symptoms (tremor, sweating, palpitations, pallor) which serve as warning signs. The order of counter-regulatory response: Adrenaline → Glucagon (also early, released by α-cells directly in response to low glucose) → Growth hormone → Cortisol (slower, hours). Glucagon is NOT inhibited — it is stimulated. MRCP pearl: Autonomic hypoglycaemia symptoms (sweating, tremor, palpitations) = adrenaline-mediated. Neuroglycopenic symptoms (confusion, seizure) = brain glucose deprivation.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "01ae91ee-9c1d-428a-b0ba-bf415225acc7",
+    "stem": "Which cellular organelle is the primary site of the neutrophil oxidative burst?",
+    "options": [
+      "Endoplasmic reticulum",
+      "Golgi apparatus",
+      "Mitochondrion",
+      "Phagolysosome",
+      "Nucleus"
+    ],
+    "correct_option": 3,
+    "explanation": "The oxidative burst (respiratory burst) occurs in the phagolysosome after a pathogen is engulfed. NADPH oxidase (NOX2) — assembled on the phagolysosomal membrane — generates superoxide (O₂⁻), which is converted to hydrogen peroxide (H₂O₂), hypochlorous acid (HOCl, via myeloperoxidase), and hydroxyl radicals. These reactive oxygen species (ROS) kill bacteria. Chronic granulomatous disease (CGD): NADPH oxidase deficiency → recurrent Aspergillus and Staphylococcus infections, no oxidative burst (negative nitroblue tetrazolium test). Myeloperoxidase deficiency: impaired HOCl production. Mitochondria: produce ROS as a byproduct of ATP synthesis but are not the primary site of the neutrophil oxidative burst. MRCP pearl: Recurrent bacterial/fungal infections + negative NBT test = CGD (X-linked, gp91phox mutation).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "bc6e0840-5409-4d8b-9c55-5341304bdd86",
+    "stem": "A 70-year-old man presents with generalised muscle pain and fatigue. Labs: eGFR 70, Ca²⁺ 2.8 mmol/L (elevated), phosphate 0.5 mmol/L (low), 25-OH vitamin D 72 nmol/L (normal). What is the most important next investigation?",
+    "options": [
+      "Serum calcitonin",
+      "Serum PTH",
+      "PSA",
+      "Serum protein electrophoresis",
+      "Urine Bence Jones protein"
+    ],
+    "correct_option": 1,
+    "explanation": "Hypercalcaemia (Ca²⁺ 2.8) + hypophosphataemia (0.5) in a patient with muscle pain and fatigue is the classic biochemical fingerprint of primary hyperparathyroidism (PHPT). PTH causes: (1) Ca²⁺ reabsorption in kidney, (2) phosphate excretion in kidney (→ low phosphate), (3) bone resorption (releasing Ca²⁺). Serum PTH is the critical next test — elevated PTH with hypercalcaemia = PHPT (parathyroid adenoma in 85%). Normal vitamin D excludes vitamin D deficiency as cause. If PTH is suppressed with hypercalcaemia → malignancy (PTHrP) or sarcoidosis/vitamin D toxicity. MRCP pearl: Hypercalcaemia + low phosphate + elevated PTH = primary hyperparathyroidism. Hypercalcaemia + low PTH = malignancy (PTHrP), granulomatous disease, vitamin D toxicity.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "ce1e5c91-6cb2-4a88-a6d2-783deb76bc58",
+    "stem": "A 32-year-old female presents with 3 months of fatigue and abdominal pain. Hb 94 g/L, MCH 24 pg, platelets 474,000, peripheral blood film shows microcytic hypochromic red cells, pencil cells and thrombocytosis. Anti-TTG IgA >300 U/mL. What is the most likely cause of the thrombocytosis?",
+    "options": [
+      "Iron deficiency anaemia",
+      "Intestinal inflammation",
+      "Hyposplenism",
+      "Essential thrombocythaemia",
+      "Enteropathy-associated T-cell lymphoma"
+    ],
+    "correct_option": 0,
+    "explanation": "Iron deficiency anaemia (IDA) is a well-recognised cause of reactive thrombocytosis — platelet count often rises to 400,000–1,000,000. The mechanism is unclear but thought to involve thrombopoietin (TPO) sharing structural homology with erythropoietin, and iron deficiency stimulating both. Anti-TTG >300 confirms coeliac disease, which causes IDA through duodenal malabsorption. Pencil cells and microcytic hypochromic picture confirm iron deficiency. The thrombocytosis resolves with iron replacement. Hyposplenism (from coeliac disease) can also cause thrombocytosis, but IDA is the primary mechanism here given the marked degree. Essential thrombocythaemia: platelets usually >450,000 persistently, JAK2/CALR/MPL mutations. MRCP pearl: IDA → reactive thrombocytosis. Coeliac disease → IDA + hyposplenism (Howell-Jolly bodies on film). Anti-TTG IgA is the primary screening test.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "4fa58c20-608b-4576-8d89-157a793884de",
+    "stem": "A 55-year-old woman has a 4-month history of a changing pigmented lesion on her forearm measuring 10 mm in diameter. Clinical diagnosis of malignant melanoma is made. What is the single most important prognostic factor?",
+    "options": [
+      "Colour variation",
+      "Location on forearm",
+      "Breslow thickness",
+      "Horizontal diameter (width)",
+      "Duration of lesion"
+    ],
+    "correct_option": 2,
+    "explanation": "Breslow thickness (depth of invasion from the granular layer of the epidermis to the deepest point of the tumour in mm) is the single most important independent prognostic factor in melanoma. It determines staging and management: <1 mm → wide local excision (1 cm margin), no sentinel node biopsy routinely. 1–2 mm → WLE + sentinel lymph node biopsy. >2 mm → WLE + SLNB + consider adjuvant therapy. >4 mm → high risk of metastasis. Clark level (depth through skin layers) has been superseded by Breslow. ABCDE criteria (Asymmetry, Border, Colour, Diameter, Evolution) are for diagnosis not prognosis. Ulceration and mitotic rate are secondary prognostic factors. MRCP pearl: Melanoma prognosis = Breslow thickness (primary). Also: ulceration, mitotic index, lymph node involvement, distant metastasis.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "960f7e9e-f44d-4985-9b11-2b399864fe0a",
+    "stem": "A 26-year-old hairdresser with a history of childhood asthma presents with 6 weeks of hand rash. The rash is in the finger webs, scaly and erythematous with skin xerosis. What is the most likely diagnosis?",
+    "options": [
+      "Pompholyx eczema",
+      "Scabies",
+      "Tinea manuum",
+      "Psoriasis",
+      "Contact dermatitis"
+    ],
+    "correct_option": 4,
+    "explanation": "Occupational contact dermatitis (CD) in hairdressers is the most common occupational skin disease. Hairdressers are exposed to: hair dyes (p-phenylenediamine — PPD), bleach (persulfates), shampoos (SLS), latex gloves → irritant or allergic CD. Features: erythema, scaling, xerosis (dry skin), fissuring of hands — particularly the dorsal hands and finger webs (where chemical contact and glove moisture accumulate). History of atopy (childhood asthma) increases susceptibility. Pompholyx: vesicular, intensely itchy — dyshidrotic eczema. Scabies: intensely pruritic, worse at night, burrows in web spaces. Tinea: asymmetric, well-demarcated. Psoriasis: silvery plaques on extensor surfaces. MRCP pearl: Hairdresser + occupational hand rash + finger web xerosis/eczema = contact dermatitis. Refer for patch testing (PPD, persulfates, rubber chemicals).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "983dc9b9-b969-4f08-ae3c-115c765d830f",
+    "stem": "A 25-year-old woman presents 5 days after delivery with sleep disturbance, agitation, easy fatigue, and tearfulness. She expresses doubt about being a good mother. What is the diagnosis?",
+    "options": [
+      "Adjustment disorder",
+      "Generalised anxiety disorder",
+      "Postpartum blues (baby blues)",
+      "Postpartum depression",
+      "Puerperal psychosis"
+    ],
+    "correct_option": 2,
+    "explanation": "Postpartum blues (baby blues) is a normal physiological phenomenon affecting up to 80% of women in the first 1–2 weeks after delivery (peak days 3–5). Features: tearfulness, mood lability, irritability, anxiety, sleep disturbance — self-limiting and resolves spontaneously within 2 weeks. No treatment required; reassurance and support. Postpartum depression: ≥2 weeks duration, meeting MDD criteria — affects ~10–15%, requires treatment (CBT, antidepressants). Puerperal psychosis: rare (1/1000), onset within days, hallucinations, delusions, confusion — psychiatric emergency, hospitalise. The key here: 5 days post-delivery + tearfulness + doubt + no psychosis = baby blues. MRCP pearl: Baby blues = day 3–5, self-limiting, no treatment. PPD = ≥2 weeks, treat. Puerperal psychosis = emergency, admit, antipsychotics.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "f6aaeac1-5e2b-4d93-80f3-311546cccb28",
+    "stem": "A patient sustains an injury to the common peroneal nerve at the fibular head causing foot drop and loss of dorsiflexion. What additional movement deficit would be expected?",
+    "options": [
+      "Loss of eversion",
+      "Loss of inversion",
+      "Loss of plantarflexion",
+      "Loss of knee flexion",
+      "Loss of hip abduction"
+    ],
+    "correct_option": 0,
+    "explanation": "The common peroneal (fibular) nerve divides into: (1) Deep peroneal nerve: dorsiflexion (tibialis anterior, extensor digitorum longus, extensor hallucis longus) + sensation first web space. (2) Superficial peroneal nerve: eversion (peroneus longus and brevis) + sensation lateral lower leg/dorsum of foot. Common peroneal nerve injury at the fibular head affects BOTH divisions → foot drop (lost dorsiflexion) + loss of eversion. Inversion is controlled by tibialis posterior (tibial nerve — intact). Plantarflexion: gastrocnemius/soleus via tibial nerve — intact. Sensation loss: anterolateral leg + dorsum of foot. Causes: fibular head fracture, prolonged squatting, crossing legs, prolonged bed rest, plaster cast. MRCP pearl: Common peroneal nerve = foot drop + loss of eversion + dorsal foot sensory loss. Tibial nerve = plantarflexion + inversion + sole sensation.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "341231a3-3a08-4195-8211-a99f06685144",
+    "stem": "A 23-year-old develops severe fatigue after rowing, passes cola-coloured urine, and has CK of 12,000 U/L. What is the most likely diagnosis?",
+    "options": [
+      "Acute intermittent porphyria",
+      "Becker muscular dystrophy",
+      "Duchenne muscular dystrophy",
+      "McArdle disease (glycogen storage disease type V)",
+      "Myotonic dystrophy"
+    ],
+    "correct_option": 3,
+    "explanation": "McArdle disease (GSD type V) is caused by myophosphorylase deficiency — the muscle cannot break down glycogen to produce energy during exercise. Features: exercise intolerance with muscle cramps, myalgia, and rhabdomyolysis (cola-coloured urine, high CK) after intense/sustained exercise. The 'second wind' phenomenon: if patient rests briefly during exercise, pain improves as alternative fuels (fatty acids, blood glucose) are recruited. Diagnosis: ischaemic forearm exercise test (no lactate rise but ammonia rises — impaired glycogenolysis), muscle biopsy (absent myophosphorylase), PYGM gene mutation. AIP: colicky abdominal pain, neuropsychiatric, not exercise-induced. BMD/DMD: progressive muscle dystrophy, not acute exercise-induced rhabdomyolysis. MRCP pearl: Young person + exercise-induced cramps + rhabdomyolysis + second wind = McArdle disease. No lactate rise on forearm exercise test.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "ba3842af-f37a-4257-aba3-901481209ccb",
+    "stem": "A patient develops teardrop-shaped scaly lesions over the trunk and limbs following a respiratory tract infection. What is the most likely diagnosis?",
+    "options": [
+      "Erythema multiforme",
+      "Acne rosacea",
+      "Guttate psoriasis",
+      "Measles",
+      "Pityriasis rosea"
+    ],
+    "correct_option": 2,
+    "explanation": "Guttate psoriasis (from Greek 'gutta' = drop) presents as multiple small (0.5–1.5 cm) teardrop-shaped scaly salmon-pink plaques scattered over the trunk and limbs, typically following a streptococcal infection (throat or perianal) 2–3 weeks prior, often in young adults. It may be the first presentation of psoriasis or a flare of existing disease. Management: topical steroids, vitamin D analogues, UVB phototherapy. Most cases resolve spontaneously in 3 months. Erythema multiforme: target lesions (concentric rings), associated with HSV or drugs. Pityriasis rosea: herald patch → Christmas tree pattern, fine collarette of scales. Measles: maculopapular starting at head, preceded by Koplik spots/prodrome. MRCP pearl: Teardrop scaly plaques post-strep throat = guttate psoriasis. Swab throat, treat strep if positive. Can evolve to chronic plaque psoriasis.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "32e141eb-bd9e-4da6-8a9a-00c13e821d94",
+    "stem": "A 25-year-old woman has 6 months of joint pains and a livedo reticularis (lace-like purpuric rash) worsening in cold, migraines, a miscarriage at 14 weeks, thrombocytopenia (platelets 70), and positive ANA (1:40). Which investigation will confirm the diagnosis?",
+    "options": [
+      "Anti-dsDNA",
+      "Antiplatelet antibody",
+      "Serum C3 and C4",
+      "Cryoglobulin levels",
+      "Anti-cardiolipin antibody"
+    ],
+    "correct_option": 4,
+    "explanation": "Antiphospholipid syndrome (APS) is the diagnosis: livedo reticularis, migraines, recurrent miscarriage (≥3 at <10 weeks, or 1 at ≥10 weeks), thrombocytopenia, positive ANA. APS features: venous/arterial thrombosis and/or pregnancy morbidity + positive antiphospholipid antibodies (anti-cardiolipin IgG/IgM, anti-beta2-glycoprotein-I, or lupus anticoagulant — on ≥2 occasions, ≥12 weeks apart). Anti-cardiolipin antibodies will confirm APS. The livedo reticularis worsening in cold and young woman with ANA suggests SLE-associated secondary APS. Anti-dsDNA: confirms SLE but not APS. Cryoglobulins: type I/II/III — vasculitis, hepatitis C. MRCP pearl: APS = thrombosis + pregnancy loss + positive aPL antibodies. VDRL may be false-positive in APS (phospholipid cross-reaction). Treatment: aspirin for obstetric APS; warfarin (INR 2–3) for thrombotic APS.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "fde77b68-5edb-4359-a3d1-0811178e3fb8",
+    "stem": "A 73-year-old with advanced non-small cell lung cancer on palliative radiotherapy presents in extreme distress, coughing up large amounts of blood (massive haemoptysis). What is the most appropriate immediate management?",
+    "options": [
+      "Blood transfusion",
+      "Buprenorphine",
+      "Dexamethasone",
+      "Midazolam",
+      "Emergency radiotherapy"
+    ],
+    "correct_option": 3,
+    "explanation": "Massive haemoptysis in a palliative setting (advanced lung cancer, declining patient) is a terminal event. The immediate goal is comfort: midazolam (benzodiazepine) provides rapid sedation and anxiolysis, reducing the distress and fear of drowning in blood. Given subcutaneously (5–10 mg) or IV/buccal if urgent. Diamorphine/morphine can be added for respiratory distress. Dark towels minimise visual distress for patient and family. Blood transfusion: inappropriate in palliative terminal haemorrhage. Radiotherapy: cannot be emergency-delivered for acute haemoptysis in this setting. Dexamethasone: reduces oedema/inflammation — not acute haemoptysis management. Tranexamic acid: may have a role in non-terminal haemoptysis. MRCP/palliative pearl: Terminal haemorrhage management = midazolam (± morphine) for sedation/comfort. Always have a crisis management plan in advanced lung/head-neck cancer.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "dde0c4fd-781b-48cb-a9c4-96a6bf61a8c1",
+    "stem": "A urine culture grows ESBL-producing E. coli that is sensitive to ciprofloxacin and nitrofurantoin but resistant to trimethoprim. What is the most appropriate treatment for an uncomplicated UTI?",
+    "options": [
+      "Co-amoxiclav",
+      "Moxifloxacin",
+      "Trimethoprim",
+      "Ciprofloxacin",
+      "Nitrofurantoin"
+    ],
+    "correct_option": 4,
+    "explanation": "Nitrofurantoin is the preferred treatment here. ESBL (extended-spectrum beta-lactamase) producers are resistant to most penicillins/cephalosporins and often to trimethoprim. Nitrofurantoin achieves high urinary concentrations, is active against most ESBL E. coli, and is appropriate for uncomplicated lower UTI. Ciprofloxacin (fluoroquinolone) is also sensitive, but NICE and PHE guidance recommends reserving fluoroquinolones due to resistance concerns, Clostridioides difficile risk, and tendinopathy — use only when no alternatives. For systemic/complicated ESBL UTI → meropenem or ertapenem (carbapenem). Co-amoxiclav: ESBL producers typically resistant. Moxifloxacin: not used for UTIs (poor urinary concentration). MRCP pearl: ESBL E. coli uncomplicated UTI = nitrofurantoin first-line if sensitive. Reserve ciprofloxacin. Complicated/pyelonephritis = carbapenem.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "0817c9e1-a857-40d8-8d3f-3c8b7d751fb5",
+    "stem": "In a study, which parameter measures the percentage of patients who actually have a disease among those who test positive on a screening test?",
+    "options": [
+      "Sensitivity",
+      "Specificity",
+      "Positive predictive value (PPV)",
+      "Negative predictive value (NPV)",
+      "Accuracy"
+    ],
+    "correct_option": 2,
+    "explanation": "Positive Predictive Value (PPV) = TP / (TP + FP) — the proportion of patients with a positive test who truly have the disease. It answers: 'If my patient tests positive, what is the probability they actually have the disease?' PPV depends on disease prevalence — in low-prevalence populations, PPV falls even with a specific test. Sensitivity = TP/(TP+FN) — proportion of true cases detected by the test. Specificity = TN/(TN+FP) — proportion of healthy people correctly identified. NPV = TN/(TN+FN) — proportion of negative tests that are true negatives. Accuracy = (TP+TN)/(all) — overall correct results. MRCP statistics pearl: PPV increases with higher disease prevalence. Sensitivity and specificity are fixed properties of the test; PPV/NPV vary with prevalence.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "7abed335-3229-4973-8700-41c871d2bfa8",
+    "stem": "A 54-year-old woman presents with acute breathlessness, HR 112 bpm, BP 100/60 mmHg, temperature 37.9°C. ABG: pH 7.35, HCO3 16, PCO2 3.9. CXR is normal, chest examination is unremarkable. High-flow oxygen has been given. What is the next most appropriate management?",
+    "options": [
+      "IV aminophylline",
+      "IV amoxicillin",
+      "Salbutamol nebulisation",
+      "Low molecular weight heparin (LMWH)",
+      "IV fluids"
+    ],
+    "correct_option": 3,
+    "explanation": "This presentation is consistent with pulmonary embolism (PE): (1) Acute breathlessness + tachycardia + hypotension = haemodynamic compromise, (2) Metabolic acidosis (low HCO3) with compensatory respiratory alkalosis (low PCO2) from inadequate perfusion, (3) Normal CXR and chest exam — classic in PE, (4) Hypoxia without parenchymal disease. LMWH (or unfractionated heparin) is the immediate anticoagulation for suspected PE. With haemodynamic compromise (BP 100/60), consider thrombolysis if confirmed. Salbutamol: no role — normal chest exam excludes bronchoconstriction. IV amoxicillin: no evidence of infection. Aminophylline: for COPD/asthma. IV fluids: may worsen RV strain in massive PE. MRCP pearl: Unexplained tachycardia + hypoxia + metabolic acidosis + normal CXR = think PE. Initiate LMWH empirically while arranging CTPA.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "dbcbb70f-0707-45e2-a0c8-410f07f2393b",
+    "stem": "A nonsense mutation results in premature termination of protein synthesis. What type of DNA change underlies a nonsense mutation?",
+    "options": [
+      "Deletion of an exon",
+      "Trinucleotide repeat expansion",
+      "Triple nucleotide insertion",
+      "Point substitution of a single nucleotide",
+      "Gene duplication"
+    ],
+    "correct_option": 3,
+    "explanation": "A nonsense mutation is a single nucleotide substitution (point mutation) that converts a codon coding for an amino acid into a premature stop codon (UAG, UAA, or UGA). This results in truncated, usually non-functional protein. Examples: BRCA1 nonsense mutations, DMD nonsense mutations (amenable to ataluren — read-through therapy). Missense mutation: substitution changing one amino acid to another. Silent mutation: substitution with no amino acid change (synonymous). Frameshift: insertion or deletion of nucleotides (not a multiple of 3) → completely altered downstream sequence. Trinucleotide repeat: Huntington's, myotonic dystrophy, Fragile X. MRCP genetics pearl: Nonsense = substitution → stop codon → truncated protein. Frameshift = insertion/deletion → altered reading frame → usually truncated.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "a8051913-60ce-4d69-9b06-f254f3a02909",
+    "stem": "A 67-year-old with a 2-week history of cough and dyspnoea has CURB-65 score components: confusion, urea 7.5 mmol/L, RR 32/min, BP 86/50 mmHg, age >65. What is the most appropriate antibiotic treatment?",
+    "options": [
+      "Oral amoxicillin + clarithromycin",
+      "IV piperacillin-tazobactam (Tazocin)",
+      "IV meropenem",
+      "Oral co-amoxiclav",
+      "Oral levofloxacin"
+    ],
+    "correct_option": 1,
+    "explanation": "CURB-65 score = 4 (Confusion + Urea >7 + RR >30 + BP <90/60 + Age ≥65 = 5 criteria, each 1 point). CURB-65 ≥3 = severe CAP → hospital admission + IV antibiotics. BTS guidelines: Severe CAP → IV co-amoxiclav + clarithromycin (first choice per BTS). Tazocin (piperacillin-tazobactam) is the appropriate IV option given in the question — broad-spectrum cover for severe/ICU pneumonia particularly if pseudomonas risk or aspiration. Meropenem: reserved for confirmed resistant organisms or ITU-level illness. Oral antibiotics: inappropriate for CURB-65 ≥3. MRCP pearl: CURB-65 scoring: 0–1 = home oral amoxicillin; 2 = consider admission, oral amox+clarithro; ≥3 = hospital, IV co-amoxiclav + clarithromycin (or Tazocin if severe).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "599ec875-364c-4b52-a3e8-4edcd6a32b46",
+    "stem": "A woman returns from Kenya after 4 weeks with fever, fatigue, weight loss and splenomegaly. She has pancytopenia. Bone marrow aspirate shows amastigotes within macrophages. What is the most appropriate treatment?",
+    "options": [
+      "Liposomal amphotericin B",
+      "Cotrimoxazole",
+      "Miltefosine",
+      "Ivermectin",
+      "Pentamidine"
+    ],
+    "correct_option": 0,
+    "explanation": "Visceral leishmaniasis (kala-azar) is caused by Leishmania donovani (East Africa, India) or L. infantum (Mediterranean). Vector: sandfly. Amastigotes in bone marrow/spleen macrophages is diagnostic. Features: prolonged fever, hepatosplenomegaly, pancytopenia, hypergammaglobulinaemia, wasting. Treatment: Liposomal amphotericin B is first-line in UK/Europe (WHO-preferred for East African VL) due to safety, efficacy, and single-dose options. Miltefosine: first-line oral option in South Asia — not preferred for African strains due to resistance concerns. Pentamidine: second-line. Sodium stibogluconate (antimonials): older treatment, toxicity concerns. Ivermectin: strongyloides, onchocerciasis — NOT leishmaniasis. MRCP pearl: Kala-azar = bone marrow/splenic aspirate amastigotes = liposomal amphotericin B. Splenomegaly + pancytopenia + travel to East Africa = think visceral leishmaniasis.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "2abe8e09-aed3-4cf0-b964-f96e7d277fe1",
+    "stem": "A 56-year-old male who underwent anterior resection of rectum received 4 litres of normal saline (0.9% NaCl) post-operatively. What metabolic disturbance will this most likely cause?",
+    "options": [
+      "Metabolic acidosis with high anion gap",
+      "Metabolic acidosis with normal anion gap (hyperchloraemic)",
+      "Metabolic alkalosis",
+      "No metabolic effect",
+      "Respiratory acidosis"
+    ],
+    "correct_option": 1,
+    "explanation": "Large-volume normal saline infusion causes hyperchloraemic metabolic acidosis (normal anion gap). Mechanism: 0.9% NaCl contains 154 mmol/L each of Na⁺ and Cl⁻ — much higher Cl⁻ than plasma (105 mmol/L). Excess Cl⁻ accumulates → Cl⁻ replaces HCO3⁻ (electroneutrality) → HCO3⁻ falls → metabolic acidosis. Anion gap = Na − (Cl + HCO3) = normal (~12) because Cl⁻ rises as HCO3⁻ falls. High anion gap acidosis: lactate, ketoacids, uraemia, toxins. Hartmann's solution (lactated Ringer's) is more physiological — lower Cl⁻ load, avoids hyperchloraemia. MRCP pearl: Large volume NS → hyperchloraemic normal anion gap metabolic acidosis. Prefer balanced crystalloids (Hartmann's/PlasmaLyte) for large-volume resuscitation.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "159152d0-2755-44f8-b15c-f6201b5cb5f6",
+    "stem": "A patient with systemic sclerosis presents with bloating and diarrhoea. What is the most appropriate treatment?",
+    "options": [
+      "Mebeverine",
+      "Domperidone",
+      "Tetracycline (or other rotating antibiotics)",
+      "Omeprazole",
+      "Prednisolone"
+    ],
+    "correct_option": 2,
+    "explanation": "Systemic sclerosis (scleroderma) causes gut dysmotility from smooth muscle fibrosis/atrophy, leading to small intestinal bacterial overgrowth (SIBO). Features: bloating, diarrhoea, malabsorption, weight loss. SIBO diagnosis: hydrogen breath test (glucose/lactulose) or jejunal aspirate culture. Treatment: rotating antibiotics — tetracycline, rifaximin, metronidazole, ciprofloxacin (rotated monthly to prevent resistance). Prokinetics (metoclopramide, domperidone): help with gastroparesis in scleroderma but do NOT treat SIBO. Omeprazole: treats GORD (very common in scleroderma) but not SIBO. Mebeverine: antispasmodic for IBS — not appropriate. Prednisolone: no role in scleroderma GI involvement. MRCP pearl: Scleroderma + diarrhoea/bloating = SIBO → rotating antibiotics. Also look for pseudo-obstruction, wide-mouthed diverticula on CT.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "72f6389e-91ed-4328-b047-7877bc601070",
+    "stem": "A sheep farm worker develops a 1 cm red papule on the lateral side of the index finger. What is the most likely diagnosis?",
+    "options": [
+      "Orf",
+      "Cutaneous anthrax",
+      "Staphylococcal furuncle",
+      "Pyogenic granuloma",
+      "Milker's nodule"
+    ],
+    "correct_option": 0,
+    "explanation": "Orf (contagious ecthyma) is caused by a parapoxvirus (Orf virus) transmitted from infected sheep, goats or their products to humans via skin contact. Occupational risk: sheep farmers, veterinarians, abattoir workers. Presentation: single painful erythematous papule/nodule on the hand/finger, evolving through 6 stages (maculopapular → targetoid → acute weeping → nodular → papillomatous → regressing) over 6 weeks. Self-limiting — heals without specific antiviral treatment. Anthrax (Bacillus anthracis): painless papule → black eschar with marked oedema. Furuncle: painful fluctuant abscess, staph. Milker's nodule: similar to orf but from cattle (pseudocowpox virus). MRCP pearl: Sheep farm worker + hand papule = Orf. Self-limiting 6 weeks. Anthrax = painless black eschar — notifiable disease.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "b3a865e7-4792-460a-9828-6f6b3aae96b9",
+    "stem": "An elderly woman presents with severe lower back pain and MRI shows spinal metastasis. What is the most likely primary cancer site?",
+    "options": [
+      "Breast",
+      "Lung",
+      "Colorectal",
+      "Endometrium",
+      "Bladder"
+    ],
+    "correct_option": 0,
+    "explanation": "Breast cancer is the most common cause of bone metastasis in women and the most common primary tumour causing spinal metastases in elderly women. Breast cancer has a particular tropism for bone (especially axial skeleton: spine, pelvis, ribs) — mediated by CXCL12/CXCR4 axis and PTHrP causing osteolytic/osteoblastic lesions. Other common bone mets in order: lung (osteolytic), prostate (osteoblastic), renal cell, thyroid. In elderly MEN with spinal mets: prostate cancer is the most common primary. Mixed lytic/blastic: breast, lung. Purely blastic: prostate. Purely lytic: renal, thyroid, myeloma. MRCP pearl: Bone mets in women = breast first. Bone mets in men = prostate first. 'All prostate mets are blastic' — useful aide memoire. Myeloma causes diffuse osteopenia + lytic lesions + no sclerosis.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "2c9dfd67-2ff4-4e1a-8cc9-ec0c11812a82",
+    "stem": "A patient with diabetes mellitus and CKD (eGFR 45, 1+ proteinuria) presents with hypertension and high urea:creatinine ratio. What is the most appropriate antihypertensive?",
+    "options": [
+      "Bisoprolol",
+      "Ramipril",
+      "Indapamide",
+      "Spironolactone",
+      "Diltiazem"
+    ],
+    "correct_option": 1,
+    "explanation": "Ramipril (ACE inhibitor) is first-line in diabetic nephropathy with hypertension and proteinuria. It reduces intraglomerular pressure by dilating the efferent arteriole, decreasing proteinuria and slowing CKD progression. Safe at eGFR 45 (CKD stage 3a) — monitor K+ and creatinine. Bisoprolol: not first-line here; no renoprotective benefit. Indapamide: less effective at eGFR <30 and no renoprotection. Spironolactone: risk of hyperkalaemia in CKD; not first-line. Diltiazem: useful add-on but no renoprotective superiority. MRCP pearl: DM + CKD + proteinuria + HTN = ACE inhibitor (or ARB if intolerant).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "bf96b41a-98ad-4865-8842-a116b27947f6",
+    "stem": "A man presents with palpitations and hypertension. His father died of renal cell carcinoma and his aunt has haemangiomas. Urine and serum metanephrines are both >1000. What is the genetic mutation responsible for his condition?",
+    "options": [
+      "TP53",
+      "MSH2",
+      "MLH1",
+      "BRCA1",
+      "VHL"
+    ],
+    "correct_option": 4,
+    "explanation": "Von Hippel-Lindau (VHL) syndrome is caused by mutation in the VHL tumour suppressor gene and is characterised by: phaeochromocytoma (elevated metanephrines, HTN, palpitations), renal cell carcinoma (clear cell type), haemangioblastomas (CNS, retina), and pancreatic cysts/tumours. The family history — father with RCC, aunt with haemangiomas — confirms the autosomal dominant inheritance. TP53 → Li-Fraumeni syndrome. MSH2/MLH1 → Lynch syndrome (colorectal, endometrial). BRCA1 → breast/ovarian cancer. MRCP pearl: RCC + phaeochromocytoma + haemangioblastoma = VHL (chromosome 3p25).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "53152d3a-2e0a-4464-80dc-abd7524e6c68",
+    "stem": "A patient with miosis, ptosis and eye pain has a history of smoking and cocaine abuse. Eye movements are normal. Right pupil is smaller in dim light. Right ptosis is present. Where is the lesion?",
+    "options": [
+      "Carotid artery",
+      "Medulla",
+      "Cervical cord",
+      "Thalamus",
+      "Pons"
+    ],
+    "correct_option": 0,
+    "explanation": "This is Horner's syndrome (ptosis, miosis, anhidrosis) with eye pain in the context of cocaine and smoking history — pointing to carotid artery dissection. The sympathetic chain runs from hypothalamus → spinal cord → superior cervical ganglion → along the internal carotid artery → to the orbit. A lesion around the internal carotid artery (3rd-order neuron) causes Horner's and ipsilateral eye/facial pain. Cocaine causes vasospasm and dissection risk; smoking causes atherosclerosis. Medullary lesions cause Horner's but with additional cranial nerve signs (Wallenberg syndrome). MRCP pearl: Horner's + eye pain + vascular risk = carotid dissection until proven otherwise. Investigate with MRI/MRA.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "64e1ebd0-1203-4a2e-ba7a-359c1ea09056",
+    "stem": "A 60-year-old man with controlled hypertension presents with sudden onset left arm weakness that resolved within 12 hours. He has had 2 similar episodes previously. ECG shows atrial fibrillation with ventricular rate 85 bpm. What is the most appropriate next management?",
+    "options": [
+      "Amiodarone",
+      "Low-dose aspirin",
+      "Direct oral anticoagulant (DOAC)",
+      "Digoxin",
+      "Dipyridamole"
+    ],
+    "correct_option": 2,
+    "explanation": "This patient has TIA (resolved in <24 hours) with AF — the AF is the cardioembolic source. Anticoagulation with a DOAC (apixaban, rivaroxaban, dabigatran, edoxaban) is the priority to prevent stroke, as it is far superior to antiplatelet therapy in AF-related TIA/stroke prevention. Amiodarone: rhythm control only, no anticoagulation. Aspirin: insufficient for AF-related cardioembolic events. Digoxin: rate control only. Dipyridamole: antiplatelet — used in non-cardioembolic stroke, not AF-related. CHA2DS2-VASc score applies: even score of 1 (male) warrants anticoagulation; this patient scores ≥2. MRCP pearl: AF + TIA/stroke → DOAC immediately; do not delay for antiplatelet.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "9d17a2a4-f518-4b58-ab18-8774d26cf216",
+    "stem": "A 54-year-old male presents 3 months after anterior STEMI treated with angioplasty. He has exertional dyspnoea. EF is <25% and 12-lead ECG shows sinus rhythm with QRS >130 ms. What is the most appropriate next management?",
+    "options": [
+      "Coronary angiography",
+      "Electrophysiology studies",
+      "Implantable cardioverter-defibrillator (ICD)",
+      "Left ventricular assist device (LVAD)",
+      "Myocardial nuclear scintigraphy stress test"
+    ],
+    "correct_option": 2,
+    "explanation": "This patient fulfils criteria for ICD implantation: EF ≤35% (his is <25%), ≥40 days post-MI, on optimal medical therapy, NYHA class ≥II, life expectancy >1 year. The ICD provides primary prevention of sudden cardiac death from ventricular arrhythmias. Note: QRS >130 ms would also suggest CRT-D consideration (EF <35% + LBBB + QRS ≥130), but with the options given, ICD is the best answer. LVAD is for end-stage refractory HF as a bridge to transplant or destination therapy — premature here. Nuclear scintigraphy would assess ischaemia, not indicated without anginal symptoms. MRCP pearl: Post-MI + EF <35% + >40 days = ICD. EF <35% + QRS ≥130 + LBBB = consider CRT-D.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "1a1339a6-93a0-4a93-b192-66d457de1306",
+    "stem": "A young man with previous EBV infection develops a purpuric rash when given penicillin. He now presents with temperature 38.5°C, tachycardia, enlarged erythematous tonsils, palatal petechiae, and tender anterior cervical lymphadenopathy. What is the most appropriate management?",
+    "options": [
+      "Clarithromycin",
+      "Clindamycin",
+      "Doxycycline",
+      "No treatment required",
+      "Amoxicillin-clavulanate"
+    ],
+    "correct_option": 1,
+    "explanation": "This patient has infectious mononucleosis (EBV) with features suggestive of secondary bacterial tonsillitis. He has a history of penicillin hypersensitivity (purpuric rash — a Type III/IV reaction, contraindication to all penicillins and cephalosporins should be assessed). Clindamycin is appropriate: effective against Group A Streptococcus (most common superinfection in EBV tonsillitis), anaerobes, and Staphylococcus; safe in penicillin allergy. Clarithromycin is also an option but clindamycin provides superior anaerobic cover and is preferred in severe EBV-related tonsillitis with bacterial superinfection. Doxycycline: not standard for pharyngotonsillitis. No treatment: inappropriate given fever and tonsillar signs. MRCP pearl: EBV + penicillin allergy + bacterial superinfection = clindamycin.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "56586029-6493-4e5b-953b-0cb703409c1e",
+    "stem": "A 25-year-old female with severe relapsing-remitting MS is starting natalizumab. She is counselled about the risk of progressive multifocal leukoencephalopathy (PML). Which virus poses the highest risk for PML in this context?",
+    "options": [
+      "Cytomegalovirus (CMV)",
+      "Enterovirus",
+      "Epstein-Barr virus (EBV)",
+      "Herpes simplex virus (HSV)",
+      "JC virus (JCV)"
+    ],
+    "correct_option": 4,
+    "explanation": "PML is caused exclusively by JC virus (John Cunningham virus), a polyomavirus. Natalizumab blocks alpha-4 integrin, preventing immune cell trafficking into the CNS — this allows JCV (latent in >50% of adults) to reactivate and cause PML, a severe demyelinating CNS infection. Risk stratification: anti-JCV antibody status, index level, and treatment duration determine risk. Seropositive patients with >24 months natalizumab treatment and index >0.9 are highest risk. Regular MRI monitoring is mandatory. CMV causes retinitis/colitis in severe immunosuppression (CD4 <50). EBV causes lymphoproliferative disease. HSV causes encephalitis. None cause PML. MRCP pearl: PML = JCV = natalizumab risk. Check anti-JCV antibody before and during treatment.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "f5932279-655f-4179-ae6f-531e2634ddf0",
+    "stem": "A woman presents with right-sided pleuritic chest pain and dyspnoea 6 weeks after chemotherapy following a right breast lumpectomy. Respiratory and cardiovascular examination is normal. CXR is normal. PaO2 is 6 kPa. What is the most likely diagnosis?",
+    "options": [
+      "Drug-induced pulmonary toxicity",
+      "Pulmonary embolism",
+      "Pleural effusion",
+      "Neutropenic sepsis",
+      "Infected central line"
+    ],
+    "correct_option": 1,
+    "explanation": "Despite the normal CXR and examination, pulmonary embolism (PE) is the most likely diagnosis. Key points: (1) active malignancy (breast cancer) is a major Virchow's triad risk — cancer is one of the strongest PE risk factors, (2) recent surgery (lumpectomy), (3) chemotherapy increases thrombotic risk, (4) hypoxia (PaO2 6 kPa) without CXR changes is classic for PE, (5) pleuritic chest pain suggests a peripheral/infarct PE. A normal CXR does NOT exclude PE — in fact, a normal CXR with hypoxia and pleuritic pain should raise PE suspicion. Pleural effusion would cause reduced air entry and dullness to percussion. MRCP pearl: Cancer + post-op + hypoxia + normal CXR + pleuritic pain = PE. Investigate with CTPA urgently.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "8c28894f-16c5-413c-a165-06bc8c3efa68",
+    "stem": "An elderly woman presents with community-acquired lobar pneumonia with green sputum and pleuritic chest pain. CXR shows right basal consolidation. What is the most common causative organism?",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Staphylococcus aureus",
+      "Haemophilus influenzae",
+      "Legionella pneumophila",
+      "Moraxella catarrhalis"
+    ],
+    "correct_option": 0,
+    "explanation": "Streptococcus pneumoniae is the most common cause of lobar (consolidative) CAP in all age groups, especially the elderly. Characteristic features: productive cough with rusty or green sputum, high fever, pleuritic chest pain, and lobar consolidation on CXR. Gram-positive diplococci. Staphylococcus aureus: more common post-influenza or in IV drug users; causes cavitating pneumonia. Haemophilus influenzae: common in COPD patients. Legionella: atypical, bilateral, hyponatraemia, diarrhoea, high urinary antigen; no green sputum. Moraxella: COPD exacerbations. MRCP pearl: Lobar pneumonia + rusty/green sputum + pleuritic pain = Streptococcus pneumoniae until proven otherwise.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "cc8a9642-07bc-4a3f-8f31-2552a9dd5a13",
+    "stem": "A patient with schizoaffective disorder on paliperidone palmitate presents with menstrual irregularities, background PCOS and 3 kg weight gain over 9 months. What is the most appropriate initial investigation?",
+    "options": [
+      "Serum testosterone",
+      "Serum gonadotropins (FSH/LH)",
+      "Serum cortisol",
+      "Serum ACTH",
+      "Serum prolactin"
+    ],
+    "correct_option": 4,
+    "explanation": "Paliperidone (and its palmitate depot) is a potent D2 antagonist that reliably elevates prolactin (it does not cross the blood-brain barrier well but strongly blocks tuberoinfundibular dopamine pathway). Hyperprolactinaemia causes menstrual irregularities (oligomenorrhoea/amenorrhoea), galactorrhoea, reduced libido, and bone loss. With PCOS as a background, the new onset irregularity in the context of starting paliperidone makes drug-induced hyperprolactinaemia the priority to exclude. Testosterone may be elevated in PCOS but does not change acutely with the medication change. FSH/LH would be secondary. MRCP pearl: Antipsychotic (especially risperidone/paliperidone/amisulpride/haloperidol) + menstrual irregularity = check prolactin first.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "45ef1bc2-9e5c-46a8-ae24-519990057b01",
+    "stem": "A middle-aged female presents with 3 days of headache, nausea and lethargy, becoming drowsy before arrival. GCS 13, HR 125, BP 135/90. Carboxyhaemoglobin is 31% (normal ≤3%). What is the most appropriate management?",
+    "options": [
+      "High-flow oxygen via non-rebreather mask",
+      "Hyperbaric oxygen therapy",
+      "Mechanical ventilation",
+      "Plasma exchange",
+      "Methylthioninium chloride (methylene blue)"
+    ],
+    "correct_option": 1,
+    "explanation": "This is severe carbon monoxide (CO) poisoning. Hyperbaric oxygen (HBO) is indicated when: carboxyhaemoglobin >25%, neurological symptoms are present (drowsiness, confusion, GCS <15), loss of consciousness, or cardiac involvement. HBO reduces the half-life of COHb from ~5 hours (on air) to ~20 minutes (on 100% O2) to ~23 minutes (at 3 atmospheres), and reduces delayed neurological sequelae. High-flow O2 via mask is the initial step while arranging transfer for HBO — alone it is insufficient for severe cases. Methylene blue treats methaemoglobinaemia, not CO poisoning. MRCP pearl: CO poisoning + neurological signs or COHb >25% = hyperbaric oxygen. Transfer to HBO centre urgently.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "71a7fb48-2744-4ddd-8d8c-8799509278df",
+    "stem": "A 65-year-old man has bilateral hand tremors for 4 years, initially only on use but now occurring at rest for the last 6 months. His father had similar tremors starting in his sixties and later developed dementia at 86. Examination shows symmetrical postural and action tremors of both hands. What is the diagnosis?",
+    "options": [
+      "Cerebellar tremor",
+      "Dystonic tremor",
+      "Essential tremor",
+      "Holmes tremor",
+      "Parkinsonian tremor"
+    ],
+    "correct_option": 2,
+    "explanation": "Essential tremor (ET) is the most likely diagnosis: bilateral symmetrical action/postural tremor of hands, positive family history (autosomal dominant), onset in 6th decade. The 'rest' component developing later is recognised in longstanding ET and does not automatically mean Parkinson's disease. Key differentiators: ET is bilateral and symmetrical; Parkinsonian tremor is typically unilateral initially, pill-rolling, 4–6 Hz rest tremor with bradykinesia and rigidity. ET is 8–12 Hz action tremor. ET typically improves with alcohol (unlike other tremors). Cerebellar tremor is intention tremor. MRCP pearl: Bilateral symmetrical action tremor + family history + improves with alcohol = essential tremor.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "a11facfe-803e-4d3b-a525-3be208e5d858",
+    "stem": "A 60-year-old female with epilepsy on sodium valproate develops bilateral tremors worsening at social gatherings causing spilling of drinks. She drinks 20–30 units of alcohol weekly with no effect on the tremor. Pulse 70 bpm. Bilateral symmetrical tremor on outstretched hands. What is the most likely cause?",
+    "options": [
+      "Anxiety",
+      "Benign essential tremor",
+      "Drug-induced tremor",
+      "Alcohol-induced tremor",
+      "Hyperthyroidism"
+    ],
+    "correct_option": 2,
+    "explanation": "Sodium valproate is a well-recognised cause of drug-induced postural tremor — this is a dose-dependent side effect occurring in up to 25% of patients. Key clues: (1) tremor began after starting valproate, (2) alcohol does not improve it (distinguishes from essential tremor where alcohol typically helps), (3) bilateral symmetrical postural tremor, (4) worsening in social situations (performance anxiety may amplify any tremor). Other drugs causing tremor: lithium, amiodarone, beta-agonists, TCAs, SSRIs, metoclopramide. Hyperthyroidism: would have tachycardia and other features. MRCP pearl: Valproate → postural tremor. Unlike essential tremor, drug-induced tremor does NOT improve with alcohol.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "22fab035-ffcb-41d4-9450-bc1d51a79185",
+    "stem": "An 86-year-old woman has a 15-year history of pain and stiffness in both hands, wrists and knees. Examination shows bony swelling of the hands and crepitus of the knees. What is the most common radiological finding in this condition?",
+    "options": [
+      "Chondrocalcinosis",
+      "Erosions",
+      "Osteopenia",
+      "Osteophytes",
+      "Periosteal reaction"
+    ],
+    "correct_option": 3,
+    "explanation": "This is osteoarthritis (OA): bony swelling (Heberden's nodes at DIP, Bouchard's nodes at PIP), crepitus, and a chronic progressive course in an elderly patient. The hallmark radiological features of OA are: (1) Osteophytes — bony outgrowths at joint margins, (2) Joint space narrowing (asymmetric), (3) Subchondral sclerosis, (4) Subchondral cysts. Osteophytes are the most characteristic and specific finding. Erosions → rheumatoid arthritis (marginal, periarticular). Chondrocalcinosis → CPPD/pseudogout (calcification in fibrocartilage). Osteopenia → RA, osteoporosis. Periosteal reaction → osteomyelitis, Paget's, reactive. MRCP pearl: OA X-ray = LOSS: Joint space Loss, Osteophytes, Subchondral Sclerosis, Subchondral cysts.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "899ab1fb-95bf-4d47-a624-41ae2260dcb9",
+    "stem": "A man presents with a 6-month history of recurrent oral and genital ulcers. Which HLA type is most strongly associated with his condition?",
+    "options": [
+      "HLA-DRB1",
+      "HLA-B51",
+      "HLA-B27",
+      "MEFV gene mutation",
+      "STAT4 polymorphism"
+    ],
+    "correct_option": 1,
+    "explanation": "Recurrent oral and genital ulcers are the hallmark of Behçet's disease, a systemic vasculitis. Behçet's is strongly associated with HLA-B51 (part of HLA-B5 split), particularly in populations along the Silk Road (Turkey, Middle East, Japan, Korea). Full criteria include: recurrent oral ulcers (≥3/year) + 2 of: genital ulcers, eye lesions (uveitis), skin lesions (erythema nodosum, pseudofolliculitis), positive pathergy test. HLA-B27 → ankylosing spondylitis, reactive arthritis, uveitis. HLA-DRB1 → rheumatoid arthritis. MRCP pearl: Oral + genital ulcers + uveitis + skin lesions = Behçet's disease → HLA-B51.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "c65d3362-5840-42c2-8027-29f3ec01c0c5",
+    "stem": "A 70-year-old male with 50 pack-year smoking history and dyslipidaemia has baseline creatinine of 126 and BP 160/100. Two weeks after starting ramipril, creatinine rises to 210. What is the most likely underlying cause?",
+    "options": [
+      "Acute interstitial nephritis (AIN)",
+      "Acute tubular necrosis (ATN)",
+      "Renal artery stenosis (RAS)",
+      "Hypertension",
+      "Dyslipidaemia"
+    ],
+    "correct_option": 2,
+    "explanation": "A >20–25% rise in creatinine after starting an ACE inhibitor is the classic hallmark of renal artery stenosis (RAS), particularly bilateral RAS or RAS in a solitary functioning kidney. In RAS, perfusion pressure to the glomerulus is maintained by angiotensin II-driven efferent arteriolar constriction. ACE inhibition removes this compensatory mechanism → GFR drops → creatinine rises. Risk factors here: elderly, heavy smoker (atherosclerotic RAS), dyslipidaemia, hypertension. AIN: rash, fever, eosinophilia. ATN: ischaemia/nephrotoxin exposure. MRCP pearl: ACE inhibitor → creatinine rise >20% = renovascular disease (bilateral RAS or single functioning kidney). Stop ACE inhibitor, arrange Doppler USS or MR angiography.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "e56234c3-cf24-4e5c-a111-33f2f6927d27",
+    "stem": "A 55-year-old Afro-Caribbean male with a past history of DKA is on insulin and experiencing recurrent hypoglycaemia. HbA1c is normal. He has a family history of diabetes in his sister. Anti-GAD, anti-islet, and anti-zinc transporter antibodies are all negative. BMI is normal. What is the most likely diagnosis?",
+    "options": [
+      "Late-onset autoimmune diabetes of adults (LADA)",
+      "MODY",
+      "Ketosis-prone diabetes (Flatbush diabetes)",
+      "Type 1 diabetes mellitus",
+      "Type 2 diabetes mellitus"
+    ],
+    "correct_option": 2,
+    "explanation": "Ketosis-prone diabetes (also called Flatbush diabetes or type 1.5 in Afro-Caribbean populations) is characterised by: (1) Afro-Caribbean or Black African ethnicity, (2) presentation with DKA, (3) followed by a remission phase (euglycaemia without insulin — hence recurrent hypoglycaemia if insulin continued), (4) negative islet autoantibodies (anti-GAD, anti-islet), (5) normal or near-normal HbA1c during remission. The pathophysiology involves transient severe beta-cell dysfunction. After the acute episode, beta-cells recover and the patient enters remission — insulin should be weaned during remission. MRCP pearl: Afro-Caribbean + DKA + negative antibodies + remission phase = ketosis-prone (Flatbush) diabetes. Different from T1DM — can come off insulin.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "7d74b1fb-19fc-4186-88ef-46e1725e8413",
+    "stem": "A patient sustains trauma to the right eye. There is no diplopia but restriction of lateral (outward) gaze of the right eye. Which cranial nerve is affected?",
+    "options": [
+      "Abducens nerve (CN VI)",
+      "Optic nerve (CN II)",
+      "Oculomotor nerve (CN III)",
+      "Trochlear nerve (CN IV)",
+      "Facial nerve (CN VII)"
+    ],
+    "correct_option": 0,
+    "explanation": "The abducens nerve (CN VI) innervates the lateral rectus muscle, which is solely responsible for lateral (abducting) gaze. Damage to CN VI results in failure to abduct the eye (lateral gaze palsy). In the absence of diplopia, the restriction may be due to traumatic entrapment or direct muscle/nerve injury without complete paresis. CN III (oculomotor): innervates all other EOMs + levator palpebrae + iris sphincter; lesion causes ptosis, 'down and out' eye, dilated pupil. CN IV (trochlear): innervates superior oblique; lesion causes vertical diplopia on downward gaze, patient tilts head. MRCP pearl: Lateral gaze palsy = CN VI (abducens). Lesions at pons base, cavernous sinus, or orbital apex.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "d2f72d04-2cb7-424d-b584-45b05208f925",
+    "stem": "Regarding the normal anatomy of the circle of Willis, into which pair of arteries does the basilar artery bifurcate?",
+    "options": [
+      "Anterior cerebral arteries",
+      "Middle cerebral arteries",
+      "Posterior cerebral arteries",
+      "Anterior inferior cerebellar arteries (AICA)",
+      "Vertebral arteries"
+    ],
+    "correct_option": 2,
+    "explanation": "The basilar artery is formed by the union of the two vertebral arteries at the pontomedullary junction. It ascends along the ventral pons and at the upper border of the pons bifurcates into the two posterior cerebral arteries (PCAs). The PCAs supply the occipital lobes and inferior temporal lobes. Major branches of the basilar artery before bifurcation: AICA (at the pontomedullary junction), superior cerebellar arteries (before terminal bifurcation), and perforating pontine branches. The circle of Willis connects the anterior circulation (via anterior and posterior communicating arteries) with the posterior circulation (PCA + basilar). MRCP pearl: Basilar artery → bifurcates into PCAs. Basilar occlusion = 'top of basilar' syndrome — coma, visual loss, oculomotor deficits.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "a848a24e-d3c1-4597-89fd-706e7018ccde",
+    "stem": "A 58-year-old man presents with 2 weeks of cough, loss of appetite, night sweats and fever. His wife was recently started on anti-TB drugs. What is the most appropriate initial investigation?",
+    "options": [
+      "Chest X-ray",
+      "ELISA",
+      "IGRA (Interferon-Gamma Release Assay)",
+      "Mantoux test",
+      "PCR"
+    ],
+    "correct_option": 0,
+    "explanation": "This patient has classic symptoms of active pulmonary tuberculosis (cough, night sweats, fever, anorexia) plus a significant contact history (wife on anti-TB treatment). Since active TB is suspected, CXR is the first-line investigation — it may show consolidation, cavitation, upper lobe infiltrates, miliary pattern, or lymphadenopathy. IGRA and Mantoux test are used for latent TB screening — they cannot distinguish active from latent disease and are less relevant when active disease is suspected. ELISA is for serology (not standard TB diagnostic). If CXR is abnormal, sputum AFB smear × 3 and culture should follow. MRCP pearl: Symptomatic TB contact with constitutional symptoms → CXR first. Latent TB screening (IGRA/Mantoux) is for asymptomatic contacts.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "6d7a3824-4163-4a41-9b27-eceebe0d1a24",
+    "stem": "A 20-year-old woman has longstanding weakness and scoliosis. Her maternal uncle died of Duchenne muscular dystrophy at age 12. She has been confirmed as a carrier. What is the most likely explanation for her being symptomatic?",
+    "options": [
+      "Biallelic X-linked DMD gene mutations",
+      "Turner syndrome (45,X)",
+      "X chromosome translocation",
+      "XXX syndrome",
+      "Skewed X inactivation"
+    ],
+    "correct_option": 4,
+    "explanation": "Duchenne muscular dystrophy is X-linked recessive. Female carriers are typically unaffected because one normal X chromosome compensates. However, if X inactivation (lyonisation) is skewed so that the normal X is preferentially inactivated in the majority of muscle cells, the mutant DMD gene on the other X becomes predominantly expressed, causing symptomatic disease. This is called 'manifesting carrier' status. Turner syndrome (45,X) would mean only one X — if mutant, she would be affected, but is not the 'carrier' explanation. X-chromosome translocation can also cause skewed inactivation but is a separate mechanism. MRCP pearl: DMD carrier + symptoms = skewed X inactivation (manifesting carrier). Also consider X-autosome translocation causing mandatory inactivation of the normal X.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "ce5a8c45-f506-4581-be8c-6de95a4599ec",
+    "stem": "A 56-year-old male presents with abdominal distension and ankle oedema. He had CABG 2 years ago. Vitals are normal. JVP is elevated and rises on inspiration (Kussmaul's sign). JVP waveform shows prominent/fast X and Y descents. What is the most likely diagnosis?",
+    "options": [
+      "Constrictive pericarditis",
+      "Cardiac tamponade",
+      "Hypertrophic cardiomyopathy",
+      "Dilated cardiomyopathy",
+      "Restrictive cardiomyopathy"
+    ],
+    "correct_option": 0,
+    "explanation": "Constrictive pericarditis is the diagnosis: Kussmaul's sign (JVP rising on inspiration due to failure of pericardium to accommodate increased venous return), prominent X and Y descents (rapid ventricular filling in early diastole), post-cardiac surgery as a risk factor (pericarditis post-CABG). JVP in constrictive pericarditis: both X and Y descents are present and prominent — the 'W' or 'M' pattern. Cardiac tamponade: absent Y descent (impaired early diastolic filling), pulsus paradoxus, Beck's triad. Restrictive cardiomyopathy: similar haemodynamics but Kussmaul's sign less classic; elevated troponin, amyloid/sarcoid aetiology. MRCP pearl: Post-cardiac surgery + Kussmaul's + prominent X and Y descents = constrictive pericarditis. Investigate with echo/cardiac MRI.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "a6be2c3d-992d-4fd2-ae46-80ee3bf9f1ac",
+    "stem": "A 53-year-old Afro-Caribbean man presents with exertional breathlessness. Echocardiogram shows LVH with moderate concentric geometry and severe left ventricular systolic dysfunction. What is the most likely underlying diagnosis?",
+    "options": [
+      "Hypertrophic cardiomyopathy",
+      "Restrictive cardiomyopathy",
+      "Sarcoidosis",
+      "Coronary artery disease",
+      "Hypertension"
+    ],
+    "correct_option": 4,
+    "explanation": "Hypertensive heart disease is the most likely diagnosis: Afro-Caribbean ethnicity has a very high prevalence of hypertension, and longstanding uncontrolled hypertension causes concentric LVH (the heart thickens to overcome increased afterload). Over time, this leads to diastolic then systolic dysfunction. The concentric pattern with severe systolic dysfunction is classic for hypertensive cardiomyopathy. Hypertrophic cardiomyopathy: typically asymmetric septal hypertrophy, usually with preserved or hyperdynamic systolic function, strong family history, younger onset. Sarcoidosis: patchy infiltration, typically causes dilated cardiomyopathy or conduction disease. CAD: would cause regional wall motion abnormalities (not concentric LVH). MRCP pearl: Afro-Caribbean + concentric LVH + systolic dysfunction = hypertensive heart disease.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "745f5bdf-1162-44a0-87f2-65c19804ac6e",
+    "stem": "A 50-year-old male prescribed dabigatran following a thrombotic event. What is the mechanism of action of dabigatran?",
+    "options": [
+      "Direct thrombin inhibitor",
+      "Prothrombin inhibitor",
+      "Factor VII inhibitor",
+      "Factor VIII inhibitor",
+      "Antithrombin potentiator"
+    ],
+    "correct_option": 0,
+    "explanation": "Dabigatran etexilate is a prodrug converted to dabigatran, a direct thrombin inhibitor (DTI) that reversibly inhibits both free and clot-bound thrombin (Factor IIa). By blocking thrombin, it prevents: fibrinogen→fibrin conversion, Factor V/VIII/XIII activation, and platelet activation. Other DOACs: Rivaroxaban, apixaban, edoxaban = Factor Xa inhibitors. Reversal agent for dabigatran = idarucizumab (Praxbind). Heparin = antithrombin potentiator (enhances AT-III activity). Warfarin = Vitamin K antagonist (factors II, VII, IX, X). MRCP pearl: Dabigatran = direct thrombin inhibitor. Reversal = idarucizumab. Avoid if eGFR <30.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "2a7bbcdd-41d0-47b3-b915-3f9191379d0d",
+    "stem": "A young female has a one-year history of alternating diarrhoea and constipation with occasional per rectal bleeding (only on toilet paper when constipated). Normal examination, no weight loss. Diarrhoea worsens on a high-fibre diet. Faecal calprotectin is normal. What is the most likely diagnosis?",
+    "options": [
+      "Coeliac disease",
+      "Whipple's disease",
+      "Inflammatory bowel disease",
+      "Irritable bowel syndrome",
+      "Microscopic colitis"
+    ],
+    "correct_option": 3,
+    "explanation": "IBS is the diagnosis: alternating bowel habit, bloating, worsening with high-fibre diet (particularly in IBS-D where fermentable fibres produce gas), no weight loss, normal examination, and crucially normal faecal calprotectin (<50 µg/g effectively excludes IBD and other mucosal inflammation). Per rectal bleeding on toilet paper when constipated is due to anal fissure or haemorrhoids — not mucosal disease. Rome IV criteria for IBS: recurrent abdominal pain ≥1 day/week for 3 months, associated with ≥2 of: related to defaecation, change in frequency, change in form. Coeliac: normal calprotectin but check TTG-IgA. IBD: elevated calprotectin. MRCP pearl: Normal calprotectin + Rome IV criteria = IBS. No need for further invasive investigation in classic presentation.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "31e3188b-317f-43a1-83a2-66b0f10ac4b5",
+    "stem": "A 48-year-old male presents with impaired pain and temperature sensation in both upper limbs with upper limb weakness. Biceps reflexes are absent. Lower limb sensation is normal and lower limb reflexes are brisk. What is the most likely diagnosis?",
+    "options": [
+      "Syringomyelia",
+      "Motor neurone disease",
+      "Cervical fracture",
+      "Multiple sclerosis",
+      "Degenerative cervical myelopathy (DCM)"
+    ],
+    "correct_option": 0,
+    "explanation": "Syringomyelia presents with a 'cape-like' suspended sensory loss pattern: dissociated sensory loss (pain and temperature impaired but proprioception/vibration preserved) in a bilateral upper limb cape distribution. The syrinx (fluid-filled cavity expanding from the central canal) disrupts: (1) the decussating spinothalamic fibres (anterior commissure) → bilateral pain/temperature loss, (2) anterior horn cells → LMN signs (weakness, absent reflexes) in upper limbs, (3) corticospinal tracts → UMN signs (brisk reflexes) in lower limbs. The combination of LMN upper limbs + UMN lower limbs + dissociated sensory loss = classic syringomyelia. Associations: Chiari malformation (most common), tumours, trauma. MRCP pearl: Cape-like dissociated sensory loss + LMN arms + UMN legs = syringomyelia. Diagnose with MRI spine.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "e7eaa3be-2b6b-4edb-afb4-5da5c0c19701",
+    "stem": "A 64-year-old male presents with 2 months of excessive daytime somnolence and headache. He has a history of hypertension. BMI is 26, SpO2 is 91%, there is marked thoracic scoliosis. Lung auscultation is unremarkable. What will pulmonary function testing most likely show?",
+    "options": [
+      "Obstructive spirometry with normal transfer factor",
+      "Obstructive spirometry with low transfer factor",
+      "Normal spirometry with low transfer factor",
+      "Restrictive pattern with low transfer factor (TLCO)",
+      "Restrictive pattern with normal or raised transfer factor (KCO)"
+    ],
+    "correct_option": 4,
+    "explanation": "Marked thoracic scoliosis causes chest wall restriction — the lung parenchyma is intrinsically normal but mechanically cannot expand fully. This produces: (1) restrictive spirometry (reduced FVC, FEV1/FVC ratio normal or increased), (2) normal or raised KCO (transfer coefficient = TLCO/VA) — because gas exchange per unit of alveolar volume is preserved (normal lung), (3) reduced TLCO due to reduced total lung volume. Daytime somnolence + headache + SpO2 91% + scoliosis = hypoventilation syndrome (type 2 respiratory failure — hypercapnia). Management: NIV (non-invasive ventilation). MRCP pearl: Chest wall restriction (scoliosis, obesity, neuromuscular) → restrictive spirometry + normal/raised KCO (lung parenchyma normal). Contrast with interstitial lung disease → restrictive + low KCO.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "cd6d7791-3dbf-4105-95fd-95471f33f822",
+    "stem": "A 70-year-old male with hypertension and diabetes presents with multiple syncopal episodes and falls. Doppler ultrasound of the neck shows retrograde flow in the left vertebral artery and normal flow in the right. Where is the site of the lesion?",
+    "options": [
+      "Right vertebral artery",
+      "Basilar artery",
+      "Left subclavian artery (at its origin)",
+      "Right subclavian artery",
+      "Posterior cerebral artery"
+    ],
+    "correct_option": 2,
+    "explanation": "This is subclavian steal syndrome. Stenosis or occlusion of the left subclavian artery proximal to the origin of the left vertebral artery reduces perfusion pressure in the left arm. Blood compensates by flowing retrograde (backwards) down the left vertebral artery into the left subclavian artery distal to the stenosis — 'stealing' blood from the posterior cerebral circulation. Symptoms: syncope, dizziness, posterior circulation TIA/stroke, and left arm ischaemia (claudication, BP difference between arms). The site of lesion is the left subclavian artery at or proximal to the origin of the left vertebral artery. Left BP would be lower than right. MRCP pearl: Retrograde vertebral artery flow on Doppler = subclavian steal. Look for BP difference between arms (>15 mmHg).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "d6147e52-3b4e-4813-af23-a10fd8425676",
+    "stem": "A 35-year-old woman at 35 weeks of pregnancy has an incidental platelet count of 82,000. She is asymptomatic. Previous check at 16 weeks was normal. What is the most appropriate next step?",
+    "options": [
+      "IV immunoglobulin",
+      "Platelet transfusion",
+      "Monitoring",
+      "Prednisolone",
+      "Emergency delivery"
+    ],
+    "correct_option": 2,
+    "explanation": "Gestational thrombocytopenia (GT) is the most common cause of thrombocytopenia in pregnancy (75% of cases), typically presenting in the third trimester with mild-to-moderate thrombocytopenia (>70,000), asymptomatic, resolving spontaneously after delivery. Management is monitoring only — no treatment required unless platelets fall below 50,000 with bleeding, or below 80,000 near delivery depending on mode. ITP would require treatment (IVIG, steroids) if symptomatic or platelets <30,000. Platelet transfusion is reserved for active bleeding or pre-procedure (below 50,000). HELLP syndrome: lower platelets with elevated LFTs, hypertension, haemolysis — not present here. MRCP pearl: Asymptomatic thrombocytopenia (>70,000) in 3rd trimester + previously normal = gestational thrombocytopenia → monitor only.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "c08edbe3-3135-4e3d-a8b5-ecc356ac72d5",
+    "stem": "An alcoholic patient recently diagnosed with polycythaemia presents with worsening abdominal distension and right upper quadrant pain. Examination reveals tender hepatomegaly and ascites. What is the most likely diagnosis?",
+    "options": [
+      "Alcoholic liver disease",
+      "Hepatocellular carcinoma",
+      "Budd-Chiari syndrome",
+      "Portal vein thrombosis",
+      "Spontaneous bacterial peritonitis"
+    ],
+    "correct_option": 2,
+    "explanation": "Budd-Chiari syndrome (hepatic vein thrombosis) is characterised by the triad of: abdominal pain, hepatomegaly, and ascites — caused by obstruction of hepatic venous outflow. Polycythaemia vera (PRV) is the single most common underlying cause (due to JAK2 V617F mutation causing thrombophilia — 20% of Budd-Chiari is associated with PRV). Alcohol is an independent risk factor. The acute-subacute presentation with tender hepatomegaly, rapid ascites, and polycythaemia in an alcoholic strongly points to Budd-Chiari. Diagnosis: Doppler USS (absent/reversed hepatic vein flow), CT/MRI, liver biopsy (centrilobular congestion). Treatment: anticoagulation, TIPS, transplant. MRCP pearl: Polycythaemia + hepatomegaly + ascites = Budd-Chiari. Check JAK2 V617F mutation.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "bd8c92f4-2eda-4dd2-a5e1-b91528e78f6f",
+    "stem": "An 85-year-old female with metastatic breast cancer and Parkinson's disease, declared end-of-life, presents with nausea and vomiting. She has fluctuating conscious level. What is the most appropriate antiemetic?",
+    "options": [
+      "Cyclizine",
+      "Metoclopramide",
+      "Levomepromazine",
+      "Domperidone",
+      "Haloperidol"
+    ],
+    "correct_option": 2,
+    "explanation": "In end-of-life care with Parkinson's disease and fluctuating consciousness, levomepromazine is the most appropriate choice. It is a broad-spectrum antiemetic with activity at dopamine, histamine, muscarinic, and serotonin receptors — effective for nausea from multiple causes including opioids, chemical (uraemia, hypercalcaemia), and raised ICP. It is sedating (beneficial in end-of-life agitation) and can be given subcutaneously via syringe driver. Importantly: while levomepromazine does have D2 antagonism that can theoretically worsen Parkinson's, in the palliative/end-of-life context, symptom control takes precedence. Domperidone: peripheral only, less effective in end-of-life multifactorial nausea. Metoclopramide/haloperidol: central D2 antagonists — worsen Parkinson's. Cyclizine: antihistamine, useful for motion sickness/raised ICP. MRCP pearl: End-of-life + nausea + Parkinson's = levomepromazine (palliative context) via CSCI.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "e4625e65-9b70-42f8-b337-de0a043ea73d",
+    "stem": "A patient with bipolar disorder on lithium presents with confusion and elevated creatinine and urea. Lithium level is 5.2 mmol/L. What is the most appropriate treatment?",
+    "options": [
+      "Haemodialysis",
+      "Amitriptyline",
+      "IV fluids",
+      "Naloxone",
+      "Activated charcoal"
+    ],
+    "correct_option": 0,
+    "explanation": "Lithium toxicity at 5.2 mmol/L is critically severe (therapeutic range 0.6–1.2 mmol/L). Indications for haemodialysis in lithium toxicity: lithium level >4 mmol/L, severe neurological features (confusion, seizures, coma), renal impairment (impairing natural excretion), or failure to improve with IV fluids. Haemodialysis is the definitive treatment — it removes lithium far more rapidly than renal excretion. IV fluids alone are appropriate for mild toxicity (level 1.5–2.5 mmol/L) to enhance renal clearance. Amitriptyline: antidepressant, no role in lithium toxicity. Naloxone: opioid antagonist, no role here. MRCP pearl: Lithium toxicity (>4 mmol/L) + neurological features + renal impairment = haemodialysis. Rebound lithium redistribution from tissues after dialysis may require a repeat session.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "23de37ea-88d0-46d5-8b48-6361bbdd58a7",
+    "stem": "A 40-year-old woman with bipolar disorder on lithium and olanzapine presents with 13 hours of drowsiness, confusion, and one seizure. No focal neurological deficit. No recent medication change. She recently took NSAIDs for back pain. Temperature is 37.9°C. What investigation will most directly explain her presentation?",
+    "options": [
+      "CT brain",
+      "Serum lithium level",
+      "Blood glucose",
+      "MRI brain",
+      "Lumbar puncture"
+    ],
+    "correct_option": 1,
+    "explanation": "NSAIDs reduce renal prostaglandin synthesis, causing afferent arteriolar constriction and reduced GFR — this impairs lithium excretion, causing toxic accumulation. NSAIDs are a major and well-recognised cause of iatrogenic lithium toxicity. Symptoms (drowsiness, confusion, seizure) are classic lithium neurotoxicity. Serum lithium level will directly confirm the diagnosis. CT/MRI would be appropriate if structural CNS pathology were suspected — but the clinical context (lithium + NSAID + no focal deficit) makes toxic aetiology far more likely. Glucose: would explain seizure if hypoglycaemic, but the clinical picture favours lithium toxicity. LP: for meningitis/encephalitis — low fever makes infection less likely. MRCP pearl: Lithium + NSAIDs/ACE inhibitors/thiazides/dehydration = lithium toxicity. Always check interactions.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "9b50dc48-1749-4c62-91b2-4c62257f628c",
+    "stem": "A patient with atrial fibrillation and bradycardia has had one episode of collapse. LV ejection fraction and QRS duration are both normal. Which device is most appropriate?",
+    "options": [
+      "Single-chamber ventricular pacemaker",
+      "Dual-chamber pacemaker",
+      "Cardiac resynchronisation therapy (CRT)",
+      "CRT with defibrillator (CRT-D)",
+      "Implantable cardioverter-defibrillator (ICD)"
+    ],
+    "correct_option": 0,
+    "explanation": "In AF with symptomatic bradycardia, a single-chamber ventricular pacemaker (VVIR) is appropriate. Since the atria are fibrillating, there is no organised atrial activity to sense or pace — atrial lead placement is futile. A ventricular lead alone provides rate support. Normal EF means CRT (for cardiac resynchronisation in heart failure with wide QRS) is not indicated. Normal QRS (narrow, <120 ms) means there is no dyssynchrony requiring resynchronisation. Normal EF means ICD for primary SCD prevention is not indicated (EF >35%). Dual-chamber pacemakers are mainly for sinus node dysfunction with AV synchrony preserved — not useful in AF. MRCP pearl: AF + symptomatic bradycardia + normal EF + narrow QRS = single-chamber (VVI/VVIR) pacemaker.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "3bacf2a7-6973-4956-adbd-274f2c0dcee0",
+    "stem": "Which investigation is the best measure of hepatic synthetic function?",
+    "options": [
+      "Albumin",
+      "Alkaline phosphatase (ALP)",
+      "Gamma-glutamyl transferase (GGT)",
+      "Alanine aminotransferase (ALT)",
+      "Bilirubin"
+    ],
+    "correct_option": 0,
+    "explanation": "Albumin is produced exclusively by hepatocytes and reflects the liver's protein synthetic capacity. A falling serum albumin in chronic liver disease indicates deteriorating synthetic function and is a component of the Child-Pugh score. ALP: biliary marker (also produced by bone). GGT: sensitive but non-specific liver/biliary marker, elevated with alcohol. ALT: marker of hepatocellular injury/necrosis, not synthesis. Bilirubin: reflects excretory rather than synthetic function. MRCP pearl: Hepatic synthetic function tests = albumin + clotting (PT/INR). Both are used in Child-Pugh and MELD scoring for cirrhosis severity.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "a0353480-f4bc-4f86-82f4-9e336632390f",
+    "stem": "A patient with Crohn's disease on cholestyramine, infliximab, azathioprine and metoclopramide has prednisolone added recently. He presents with low haemoglobin and low platelet count. Which drug is most likely responsible?",
+    "options": [
+      "Cholestyramine",
+      "Infliximab",
+      "Azathioprine",
+      "Metoclopramide",
+      "Prednisolone"
+    ],
+    "correct_option": 2,
+    "explanation": "Azathioprine causes bone marrow suppression (pancytopenia: low Hb, WBC, platelets) through its active metabolite 6-thioguanine, which inhibits purine synthesis in rapidly dividing cells including bone marrow precursors. Risk is dramatically increased in patients with TPMT (thiopurine methyltransferase) deficiency — check TPMT activity before starting. Infliximab: rarely causes cytopenias. Cholestyramine: local GI effect, no systemic haematological toxicity. Metoclopramide: extrapyramidal side effects, not cytopenias. Prednisolone: can cause leukocytosis but not bone marrow suppression. MRCP pearl: Azathioprine + pancytopenia = TPMT deficiency or dose-dependent toxicity. Monitor FBC every 2 weeks for 3 months then 3-monthly.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "97c59f0d-0fd9-42ab-b9ec-a3e40f16f420",
+    "stem": "A patient presents with double vision and tilts their head. The 4th cranial nerve (trochlear nerve) is found to be damaged. What is the primary function of this nerve?",
+    "options": [
+      "Depress the adducted eye",
+      "Elevate the adducted eye",
+      "Abduct the eye",
+      "Elevate the abducted eye",
+      "Depress the abducted eye"
+    ],
+    "correct_option": 0,
+    "explanation": "The trochlear nerve (CN IV) innervates the superior oblique muscle. The superior oblique has two main actions: (1) intorsion (internal rotation) — its primary action, (2) depression of the adducted eye — when the eye looks medially (adducted), the superior oblique is the main depressor. This is why CN IV palsy causes vertical diplopia worst on downward gaze (e.g., reading, descending stairs) and the patient compensates by tilting the head away from the affected side (to reduce diplopia). CN IV is the only cranial nerve that exits dorsally from the brainstem and has the longest intracranial course. MRCP pearl: CN IV palsy = vertical diplopia, head tilt, difficulty going downstairs. Superior oblique = depression of adducted eye + intorsion.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "6a4c6539-b83a-4406-b069-ae893fb43be6",
+    "stem": "A young patient has a parasternal heave, an ejection systolic murmur, and prominent 'a' waves on JVP examination. What is the most likely diagnosis?",
+    "options": [
+      "Pulmonary stenosis",
+      "Atrial septal defect",
+      "Tricuspid regurgitation",
+      "Aortic stenosis",
+      "Pulmonary regurgitation"
+    ],
+    "correct_option": 0,
+    "explanation": "Pulmonary stenosis (PS) produces this classic triad: (1) Parasternal heave — right ventricular hypertrophy from pressure overload, (2) Ejection systolic murmur — best heard at upper left sternal border, radiating to back, louder on inspiration, (3) Prominent 'a' waves — right atrium contracting forcefully against a non-compliant RV. ASD: fixed split S2, flow murmur across pulmonary valve, no prominent 'a' waves. TR: holosystolic murmur at lower left sternal border, prominent 'v' waves (not 'a' waves). Aortic stenosis: right-sided signs would be absent. MRCP pearl: Large 'a' waves = resistance to atrial emptying (PS, tricuspid stenosis, complete heart block). Large 'v' waves = TR or MR.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "8b16f773-3e2c-4ef3-a839-6fbe097c1c93",
+    "stem": "A patient with trisomy 21 presents with progressive memory loss, difficulty finding words, and inability to tell the time. What is the most likely diagnosis?",
+    "options": [
+      "Alzheimer's disease",
+      "Progressive multifocal leukoencephalopathy (PML)",
+      "Frontotemporal dementia",
+      "Viral encephalitis",
+      "Lewy body dementia"
+    ],
+    "correct_option": 0,
+    "explanation": "Trisomy 21 (Down syndrome) carries a near-universal risk of Alzheimer's disease by age 40–50, due to triplication of chromosome 21 which encodes amyloid precursor protein (APP). Overexpression of APP leads to excess amyloid-beta accumulation, causing early-onset Alzheimer's pathology (plaques and tangles). By age 40, virtually all individuals with Down syndrome have neuropathological Alzheimer's changes, with clinical dementia typically presenting in the 50s. Presentation: episodic memory loss, word-finding difficulty, disorientation (can't tell time), apraxia. FTD: behavioural change predominant. Lewy body: fluctuating cognition, visual hallucinations, parkinsonism. MRCP pearl: Trisomy 21 + dementia = Alzheimer's (APP gene on chromosome 21). Also associated: early cataract, thyroid disease, atlantoaxial instability.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "94a41c27-a04b-4ac3-b47b-97a6a7b715c5",
+    "stem": "A patient is diagnosed with SLE. Which antibody is the most specific for this diagnosis?",
+    "options": [
+      "Anti-RNP",
+      "ANCA",
+      "ANA",
+      "Anti-Smith (anti-Sm)",
+      "Anti-CCP"
+    ],
+    "correct_option": 3,
+    "explanation": "Anti-Smith (anti-Sm) antibodies are the most specific antibody for SLE (~99% specific), though they have low sensitivity (~25%). They target snRNP (small nuclear ribonucleoprotein) core proteins. ANA: most sensitive (>95%) but not specific — seen in many autoimmune diseases, infections, drugs. Anti-dsDNA: high specificity (~70%) and correlates with disease activity and lupus nephritis severity. Anti-Smith: highest specificity but low sensitivity — if positive, confirms SLE. Anti-CCP: specific for rheumatoid arthritis. ANCA: vasculitis (GPA, MPA). MRCP pearl: SLE antibodies — ANA (sensitive), anti-dsDNA (activity marker, nephritis), anti-Smith (most specific), anti-Ro/La (neonatal lupus, Sjögren's overlap), anti-phospholipid (APS).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "8169c470-b250-450e-8bba-c627c2b7fbea",
+    "stem": "A drug targeting microRNAs has been developed. What is the primary function of microRNA in the cell?",
+    "options": [
+      "Gene transcription",
+      "Chromosomal translocation",
+      "Inhibition of translation",
+      "Encoding endothelial growth factors",
+      "Encoding oncogenes"
+    ],
+    "correct_option": 2,
+    "explanation": "MicroRNAs (miRNAs) are small non-coding RNA molecules (~22 nucleotides) that regulate gene expression post-transcriptionally by binding to the 3'-UTR of target mRNA, leading to mRNA degradation or inhibition of translation. They do NOT encode proteins, perform transcription, or directly translocate chromosomes. They are endogenous regulators of gene expression — effectively silencing translation. MicroRNA dysregulation is implicated in cancer, cardiovascular disease, and diabetes. Therapeutically, anti-miRNA oligonucleotides (antagomirs) inhibit specific miRNAs and are in clinical trials for hepatitis C, cancer, and heart failure. MRCP pearl: miRNA = post-transcriptional gene silencing via translation inhibition or mRNA degradation. Distinct from siRNA (RNA interference, also silences translation).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "676ed5cb-ed38-4f1c-aa3a-ec2e3cdffaa0",
+    "stem": "A 35-year-old female with persistent dry mouth has failed non-pharmacological measures and artificial saliva. Which pharmacological treatment should be used to increase salivation?",
+    "options": [
+      "Haloperidol",
+      "Baclofen",
+      "Levomepromazine",
+      "Cyclizine",
+      "Pilocarpine"
+    ],
+    "correct_option": 4,
+    "explanation": "Pilocarpine is a muscarinic cholinergic agonist that directly stimulates M3 receptors on salivary gland acinar cells, promoting saliva secretion. It is licensed for xerostomia (dry mouth) in Sjögren's syndrome and post-head-and-neck radiotherapy. Dose: 5 mg TDS. Side effects: sweating, urinary frequency, flushing (cholinergic). Haloperidol, levomepromazine, cyclizine: all have anticholinergic effects → worsen dry mouth. Baclofen: GABA-B agonist for spasticity, no salivary effect. Other options: cevimeline (another muscarinic agonist), hydroxychloroquine (Sjögren's). MRCP pearl: Dry mouth (xerostomia) + Sjögren's or post-radiotherapy = pilocarpine (cholinergic agonist). Avoid anticholinergic drugs.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "6149bc04-2ced-44ca-bdb8-11b6b673c81c",
+    "stem": "A patient has winging of the scapula. The wall push-up test elicits the winging. What is the site of the lesion responsible?",
+    "options": [
+      "Nerve root (long thoracic nerve)",
+      "Anterior cord",
+      "Posterior cord",
+      "Brachial plexus upper trunk",
+      "Medial cord"
+    ],
+    "correct_option": 0,
+    "explanation": "Medial (classic) scapular winging from long thoracic nerve damage causes winging on pushing against a wall (serratus anterior weakness). The long thoracic nerve arises from C5, C6, C7 nerve roots and innervates serratus anterior, which holds the scapula flat against the chest wall. Lateral scapular winging (spinal accessory nerve — CN XI) is elicited by shoulder shrug/arm abduction (trapezius weakness). Key distinction: Wall push test = long thoracic nerve (serratus anterior). Shoulder shrug test = spinal accessory nerve (trapezius). Causes of long thoracic nerve injury: blunt trauma, surgery, backpack injury, viral neuritis. MRCP pearl: Medial winging + wall push = long thoracic nerve/serratus anterior. Lateral winging + shoulder shrug = CN XI/trapezius.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "4407e241-9fcf-44e8-961f-56ffbccc4e12",
+    "stem": "A patient has a venous leg ulcer that has been present for 10 years. What is the most appropriate treatment?",
+    "options": [
+      "Assess for venous surgery",
+      "Compression therapy",
+      "Skin grafting",
+      "Biopsy to rule out malignancy",
+      "Topical corticosteroids"
+    ],
+    "correct_option": 1,
+    "explanation": "Compression therapy is the cornerstone of venous ulcer management, improving venous return, reducing oedema, and promoting healing. However, a venous ulcer present for >10 years raises a critical concern: Marjolin's ulcer (malignant transformation, typically squamous cell carcinoma) in any chronic non-healing wound. A 10-year ulcer that has not healed despite compression should prompt biopsy to exclude malignant transformation before continuing compression. In a standard MRCP question without this nuance, compression is the answer. MRCP pearl: Venous ulcer = compression as first-line. Ulcer >3 months non-healing → biopsy to exclude SCC (Marjolin's ulcer). Four-layer compression bandaging is standard. ABI >0.8 required before compression.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "81e323ef-28c1-4160-80b0-1cc0303817fe",
+    "stem": "A lady with leg oedema and breathlessness is started on furosemide. Where does furosemide exert its primary action in the nephron?",
+    "options": [
+      "Proximal convoluted tubule",
+      "Distal convoluted tubule",
+      "Thick ascending limb of loop of Henle",
+      "Glomerulus",
+      "Collecting duct"
+    ],
+    "correct_option": 2,
+    "explanation": "Furosemide (a loop diuretic) inhibits the Na⁺-K⁺-2Cl⁻ cotransporter (NKCC2) in the thick ascending limb of the loop of Henle, preventing reabsorption of ~25% of filtered sodium. This also reduces the medullary concentration gradient, impairing urinary concentration. Side effects: hypokalaemia, hypomagnesaemia, hyponatraemia, ototoxicity (with high doses), hyperuricaemia. Other diuretics: Thiazides (bendroflumethiazide) → DCT (NCC). Spironolactone/eplerenone → collecting duct (mineralocorticoid receptor). Acetazolamide → PCT (carbonic anhydrase). Amiloride → collecting duct (ENaC). MRCP pearl: Loop of Henle diuretics = furosemide, bumetanide, torasemide. NKCC2 inhibition → Na, K, Cl, Mg, Ca all lost.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "4cfc9d80-7d3d-41da-85fc-09496e6dc489",
+    "stem": "A 10-year-old boy presents with Neisseria meningitidis infection and has a history of recurrent chest infections and sepsis. What is the most likely underlying immunodeficiency?",
+    "options": [
+      "Common variable immunodeficiency (CVID)",
+      "Terminal complement deficiency (C5-C9)",
+      "DiGeorge syndrome",
+      "HIV infection",
+      "Bruton's agammaglobulinaemia"
+    ],
+    "correct_option": 1,
+    "explanation": "Terminal complement deficiency (C5-C9, the membrane attack complex — MAC) causes specific susceptibility to Neisseria species (N. meningitidis and N. gonorrhoeae), because the MAC is essential for killing encapsulated Gram-negative organisms with thin cell walls. Patients with C5-C9 deficiency have recurrent meningococcal/gonococcal infections but are NOT particularly susceptible to other pathogens — unlike CVID (broad antibody deficiency causing sinopulmonary infections) or DiGeorge (T-cell deficiency causing viral/fungal infections). Diagnose: CH50 (total haemolytic complement) — very low or zero. MRCP pearl: Recurrent Neisseria meningitidis = terminal complement deficiency (C5-C9). Also consider properdin deficiency (X-linked). Vaccinate with MenACWY and MenB.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "abef4838-3508-4cdc-b8de-5f1a058021af",
+    "stem": "A 34-year-old presents with deteriorating renal function and suspected Fabry disease. Which enzyme deficiency will confirm this diagnosis?",
+    "options": [
+      "Alpha-galactosidase A",
+      "1-alpha hydroxylase",
+      "Coenzyme A",
+      "Glucose-6-phosphate dehydrogenase",
+      "HGPRT"
+    ],
+    "correct_option": 0,
+    "explanation": "Fabry disease is an X-linked lysosomal storage disorder caused by deficiency of alpha-galactosidase A (alpha-Gal A), leading to accumulation of globotriaosylceramide (GL-3/Gb3) in blood vessels, kidneys, heart, and nervous system. Clinical features: angiokeratomas, acroparaesthesia (pain in hands/feet), corneal opacity (verticillata), progressive CKD, cardiomyopathy, stroke. Treatment: enzyme replacement therapy (agalsidase alpha or beta) or chaperone therapy (migalastat for amenable mutations). 1-alpha hydroxylase deficiency → vitamin D deficiency, hypocalcaemia. G6PD deficiency → haemolytic anaemia. HGPRT → Lesch-Nyhan syndrome (gout, self-mutilation). MRCP pearl: Young man + renal failure + neuropathic pain + skin lesions + no obvious cause → think Fabry disease. Check alpha-Gal A enzyme activity (leukocytes) and GLA gene.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "39690672-9d4b-4484-849a-d3f282e1ebb9",
+    "stem": "A person planning to travel to Turkey asks about vaccinations. He has a documented egg allergy. Which vaccine should be avoided or given with caution?",
+    "options": [
+      "Hepatitis A",
+      "Hepatitis B",
+      "Varicella-zoster (VZV)",
+      "Influenza",
+      "Oral polio vaccine"
+    ],
+    "correct_option": 3,
+    "explanation": "Traditional influenza vaccines (trivalent/quadrivalent inactivated influenza vaccines — TIV/QIV) are manufactured by growing virus in embryonated hen's eggs, resulting in ovalbumin residue in the final product. Patients with severe egg allergy (anaphylaxis) should receive the vaccine in a setting with resuscitation facilities, or use recombinant/cell-based egg-free alternatives (e.g., Flucelvax, Flublok). Mild egg allergy (urticaria only) is NOT a contraindication. Hepatitis A/B, VZV, polio: not egg-derived, safe in egg allergy. Yellow fever vaccine (also egg-based) should also be flagged. MRCP pearl: Egg allergy + influenza vaccine = administer with caution (not absolute contraindication). Yellow fever also egg-based. MMR is grown in chick embryo fibroblasts — safe even in egg allergy.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "59154094-856f-4f20-a6d6-03c63b10420e",
+    "stem": "A 42-year-old male with a 3-month history of easy bruising drinks 60 units of alcohol weekly. Examination reveals hepatomegaly and splenomegaly. Labs: WBC 2.4, Hb 70 g/L, MCV 115 fL, platelets 73,000. Which deficiency most likely explains this pancytopenic macrocytic picture?",
+    "options": [
+      "Vitamin B12",
+      "Folic acid",
+      "Iron",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correct_option": 0,
+    "explanation": "Vitamin B12 deficiency causes megaloblastic pancytopenia (all three cell lines reduced with macrocytosis/high MCV). Chronic alcohol abuse impairs B12 absorption (alcohol damages gastric parietal cells reducing intrinsic factor, and damages ileal mucosa) and causes direct bone marrow suppression. The hepatosplenomegaly suggests alcoholic liver disease/portal hypertension (hypersplenism contributing). MCV 115 fL = severe macrocytosis — B12 and folate both cause megaloblastic anaemia. B12 is preferred here over folate because: (1) pancytopenia is more severe in B12 deficiency (folate tends to cause isolated anaemia), (2) B12 deficiency also causes subacute combined degeneration of cord. Iron: microcytic. Vitamin C: scurvy (no macrocytosis). Vitamin K: coagulopathy only. MRCP pearl: Alcohol + macrocytic pancytopenia = B12 or folate deficiency. Check both + homocysteine + methylmalonic acid.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "145840da-6ac9-4813-8b11-52b88303f451",
+    "stem": "A female T1DM patient with diabetic retinopathy and hypertension develops myalgia on atorvastatin (normal CK). She has significantly elevated triglycerides and mildly raised cholesterol with low HDL. The statin is stopped. What should she be switched to?",
+    "options": [
+      "Rosuvastatin",
+      "Nicotinic acid",
+      "Fibrates",
+      "Bempedoic acid",
+      "Evolocumab"
+    ],
+    "correct_option": 2,
+    "explanation": "Fibrates (fenofibrate, gemfibrozil) are first-line for significantly elevated triglycerides (>5 mmol/L) — they act via PPAR-alpha to increase lipoprotein lipase activity, reducing TG by 30–50% and raising HDL. This patient has statin myalgia (resolved on stopping — suggesting statin-induced myopathy even with normal CK). Switching to another statin may reproduce myalgia. Given the predominant hypertriglyceridaemia with low HDL profile, fibrates address the lipid pattern directly. Evolocumab (PCSK9 inhibitor): mainly for LDL reduction. Bempedoic acid: LDL reduction only. Nicotinic acid: limited use due to side effects (flushing), withdrawn in UK. Rosuvastatin: may still cause myalgia in statin-intolerant patients. MRCP pearl: High TG + low HDL (atherogenic dyslipidaemia) = fibrates. TG >10 mmol/L = fibrates urgently (pancreatitis risk).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "0290c730-73c6-4e78-bf90-2bfd3bb6c52d",
+    "stem": "A 50-year-old male with alcohol-related liver disease presents with abdominal distension and pitting ankle oedema for 5 days. Examination reveals shifting dullness. Na 130, creatinine normal, albumin 2.8 g/L. He has been advised salt restriction. What is the most appropriate pharmacological next step?",
+    "options": [
+      "Fluid restriction",
+      "Spironolactone",
+      "Loop diuretics (furosemide)",
+      "Therapeutic paracentesis",
+      "High-protein diet"
+    ],
+    "correct_option": 1,
+    "explanation": "Spironolactone is the first-line diuretic for ascites in cirrhosis. Cirrhotic ascites is driven by portal hypertension → splanchnic vasodilation → activation of RAAS → aldosterone-mediated sodium and water retention. Spironolactone (aldosterone antagonist) directly blocks this mechanism. Starting dose 100 mg/day, titrate to 400 mg/day. Add furosemide if insufficient (ratio 100:40 spironolactone:furosemide to maintain normokalemia). Fluid restriction: reserved for Na <125 mmol/L (severe hyponatraemia) — not needed at 130 mmol/L. Therapeutic paracentesis: for tense/refractory ascites, not first-line for new moderate ascites. Furosemide alone: inferior to spironolactone as monotherapy in cirrhotic ascites. MRCP pearl: Cirrhotic ascites → spironolactone first-line. Refractory ascites → add furosemide or TIPS. Salt restriction (<90 mmol Na/day) is mandatory alongside.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "dd6b1b0e-127e-4efd-bdf7-4d89776fbfae",
+    "stem": "What electrolyte movement is primarily responsible for Phase 0 (rapid depolarisation) of the ventricular cardiac action potential?",
+    "options": [
+      "Sodium (Na⁺) influx",
+      "Potassium (K⁺) efflux",
+      "Calcium (Ca²⁺) influx",
+      "Chloride (Cl⁻) influx",
+      "Sodium (Na⁺) efflux"
+    ],
+    "correct_option": 0,
+    "explanation": "Phase 0 of the ventricular action potential is the rapid upstroke caused by sudden opening of fast voltage-gated Na⁺ channels (Nav1.5), allowing massive Na⁺ influx — the membrane potential rapidly depolarises from -90 mV to +30 mV. Phases: Phase 0 = Na⁺ influx (rapid depolarisation). Phase 1 = K⁺ efflux (early repolarisation). Phase 2 = Ca²⁺ influx balanced by K⁺ efflux (plateau). Phase 3 = K⁺ efflux (repolarisation). Phase 4 = K⁺ leak (resting potential). SA/AV node have no Phase 0 Na⁺ — their slow depolarisation depends on Ca²⁺ (Ca²⁺-dependent action potential). Class I antiarrhythmics (e.g., flecainide, lidocaine) block Nav1.5, slowing Phase 0. MRCP pearl: Phase 0 = Na⁺. Phase 2 plateau = Ca²⁺. Phase 3 repolarisation = K⁺. Na⁺ channel blockers → wide QRS.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "f0103afb-396e-438d-a45a-07e45a3b90fd",
+    "stem": "A patient with rheumatoid arthritis has anaemia of chronic disease. What is the primary mechanism responsible?",
+    "options": [
+      "Chronic low-grade extravascular haemolysis",
+      "Erythroid dysplasia due to low erythropoietin",
+      "Lack of absorption through the stomach",
+      "Defective iron transfer from reticuloendothelial stores (functional iron deficiency)",
+      "Defective iron incorporation into porphyrin"
+    ],
+    "correct_option": 3,
+    "explanation": "Anaemia of chronic disease (ACD) is mediated by hepcidin, an acute-phase protein induced by IL-6 (elevated in RA). Hepcidin: (1) blocks ferroportin on macrophages, trapping iron in reticuloendothelial (RE) stores, (2) reduces duodenal iron absorption. Result: iron is abundant in stores but unavailable for erythropoiesis — 'functional iron deficiency'. Labs: low serum iron, low TIBC (unlike IDA where TIBC is high), normal or raised ferritin, normal or low transferrin saturation. Treatment: treat underlying disease, EPO in some settings, IV iron may help. MRCP pearl: ACD = high ferritin, low serum iron, low TIBC. IDA = low ferritin, low serum iron, HIGH TIBC. Both can coexist in RA — check transferrin saturation.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "dd7ab719-a3ba-48be-bced-8f5d0d18e438",
+    "stem": "A patient presents with acute methotrexate-induced pneumonitis with a 6-day history. What are the most likely chest X-ray findings?",
+    "options": [
+      "Reticulonodular shadowing",
+      "Diffuse bilateral alveolar infiltrates",
+      "Lobar consolidation",
+      "Lower zone fibrosis",
+      "Pleural effusion"
+    ],
+    "correct_option": 1,
+    "explanation": "Methotrexate pneumonitis presents acutely (days to weeks after exposure) with fever, cough, and dyspnoea. CXR/HRCT shows diffuse bilateral alveolar infiltrates (ground-glass opacities) reflecting widespread alveolar inflammation — this is hypersensitivity pneumonitis (not dose-dependent, can occur at any dose). Management: stop MTX immediately, high-dose prednisolone. Do NOT re-challenge. Reticulonodular shadowing: more typical of established interstitial/fibrotic lung disease (chronic MTX toxicity or other ILD). Lobar consolidation: bacterial pneumonia. Lower zone fibrosis: idiopathic pulmonary fibrosis, asbestosis. MRCP pearl: MTX pneumonitis = acute bilateral alveolar infiltrates (ground glass). MTX pulmonary fibrosis = chronic reticulonodular lower zone changes. Both require MTX cessation.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "8ae668e1-fafd-48a2-b84a-0a662afc8454",
+    "stem": "A palliative care patient with end-stage illness has excessive gastrointestinal secretions and is already taking hyoscine. What is the most appropriate next agent to add?",
+    "options": [
+      "Glycopyrronium bromide",
+      "Octreotide",
+      "Metoclopramide",
+      "Ondansetron",
+      "Domperidone"
+    ],
+    "correct_option": 0,
+    "explanation": "Glycopyrronium bromide is a quaternary ammonium anticholinergic (antimuscarinic) that reduces GI and respiratory secretions without crossing the blood-brain barrier, minimising CNS effects (confusion, sedation). It is preferred over hyoscine butylbromide when CNS effects are a concern, and is given via continuous subcutaneous infusion (CSCI) through a syringe driver in palliative care. It treats 'death rattle' (noisy breathing from secretions). Octreotide: somatostatin analogue — useful specifically for malignant bowel obstruction (reduces secretions and intestinal motility) or high-output fistulas. Metoclopramide/domperidone: prokinetics, would increase GI motility — contraindicated in bowel obstruction. MRCP pearl: Palliative secretions → glycopyrronium or hyoscine butylbromide (CSCI). Malignant bowel obstruction → octreotide + diamorphine + haloperidol CSCI.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "689279bc-48a4-43c5-baf2-25a27f3cb9ad",
+    "stem": "A patient on antipsychotic medication presents with delirium, agitation, high fever and severe muscle rigidity. What is the most likely diagnosis?",
+    "options": [
+      "Oculogyric crisis",
+      "Neuroleptic malignant syndrome (NMS)",
+      "Serotonin syndrome",
+      "Acute dystonic reaction",
+      "Malignant hyperthermia"
+    ],
+    "correct_option": 1,
+    "explanation": "NMS is a life-threatening idiosyncratic reaction to dopamine antagonists (antipsychotics, metoclopramide). Classic tetrad: hyperthermia (>38°C), severe 'lead pipe' rigidity, altered consciousness/delirium, autonomic instability (tachycardia, labile BP, diaphoresis). CK is markedly elevated (rhabdomyolysis). Treatment: stop antipsychotic, cooling, IV fluids, dantrolene (muscle relaxant), bromocriptine/amantadine (dopamine agonists). Serotonin syndrome: hyperreflexia, clonus, tremor, agitation — onset within hours of serotonergic drug change. Rigidity less severe; clonus and hyperreflexia are key. Oculogyric crisis: involuntary upward eye deviation — not associated with fever/rigidity. MRCP pearl: NMS = FALTER: Fever, Autonomic instability, Lead-pipe rigidity, high CK, Encephalopathy, Recent antipsychotic. Serotonin syndrome = clonus + hyperreflexia.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "ac0c1464-0cec-4936-a903-5191569b3658",
+    "stem": "Through which tissue do ultrasound waves travel fastest?",
+    "options": [
+      "Bone",
+      "Air",
+      "Liver",
+      "Muscle",
+      "Fat"
+    ],
+    "correct_option": 0,
+    "explanation": "Speed of sound increases with the density and elasticity (stiffness) of the medium. Bone is the densest and stiffest biological tissue — ultrasound travels at ~3000–4000 m/s through bone. Speed order: Bone (3000–4000) > Liver/Muscle (~1540) > Fat (~1450) > Air (~330 m/s). This is why bone creates acoustic shadowing on ultrasound — the large impedance mismatch reflects most of the sound back. Air is the worst conductor (lowest density) — this is why ultrasound cannot penetrate gas (lung, bowel gas). MRCP/physics pearl: USS penetrates least through gas/air, most through dense solid tissue. Acoustic enhancement = occurs distal to fluid (low attenuation). Acoustic shadowing = occurs distal to bone or calcification (high attenuation).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "871418f6-4f4e-4fdf-b642-c1f3f03a81ad",
+    "stem": "A patient known to have hypothyroidism is on levothyroxine 150 mcg daily but presents with features of hypothyroidism. TSH is 10 mIU/L, T4 is 14 pmol/L (normal). What is the most likely cause?",
+    "options": [
+      "Subclinical hypothyroidism",
+      "Non-compliance with levothyroxine",
+      "Sick euthyroid syndrome",
+      "Subacute thyroiditis",
+      "Malabsorption"
+    ],
+    "correct_option": 1,
+    "explanation": "Non-compliance is the most likely explanation. If the patient were taking 150 mcg levothyroxine regularly, TSH should be suppressed or low-normal and T4 should be in the upper-normal or elevated range. Here, TSH is elevated (10) despite an adequate dose, suggesting the medication is not being taken consistently. Patients sometimes take their tablets just before clinic appointments (drug holiday) — the T4 may be briefly normal from the recent dose while TSH (which has a longer half-life and lags) remains elevated. 'Double dose' compliance pattern: T4 normal, TSH high = non-compliance. True subclinical hypothyroidism would be a NEW finding, not in a patient already on treatment. Sick euthyroid: typically in acute illness, causes low T3, normal/low T4. MRCP pearl: Treated hypothyroid + high TSH + normal T4 = non-compliance (took tablet just before test). True treatment failure = both TSH high and T4 low.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "e3600759-4102-4527-8862-fa7fbb4429cc",
+    "stem": "A patient with organophosphate poisoning presents with pinpoint pupils. Which feature most strongly confirms the diagnosis?",
+    "options": [
+      "Excessive salivation",
+      "Urinary retention",
+      "Bradycardia alone",
+      "Mydriasis",
+      "Dry skin"
+    ],
+    "correct_option": 0,
+    "explanation": "Organophosphate (OP) poisoning inhibits acetylcholinesterase → accumulation of ACh → overstimulation of muscarinic and nicotinic receptors. Muscarinic (SLUDGE): Salivation, Lacrimation, Urination (incontinence NOT retention), Defaecation, GI cramps, Emesis. Plus miosis, bronchospasm, bradycardia. Nicotinic: muscle fasciculations, weakness, paralysis. CNS: seizures, coma. Excessive salivation is a cardinal and highly visible cholinergic feature confirming OP poisoning. Urinary retention is anticholinergic — OP causes urinary incontinence (detrusor contraction). Dry skin = anticholinergic. Treatment: atropine (blocks muscarinic effects), pralidoxime (reactivates AChE if given early). MRCP pearl: OP poisoning = SLUDGE + miosis + bradycardia + bronchospasm. Treatment = atropine titrated to drying secretions, then pralidoxime.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "e4ac9c8a-63d9-4f06-9f75-b9e7af67d0e1",
+    "stem": "A patient has drug-induced parkinsonism. Which specific investigation differentiates it from idiopathic Parkinson's disease?",
+    "options": [
+      "Normal DAT scan (DaTSCAN)",
+      "Serum dopamine levels",
+      "MRI brain",
+      "EEG",
+      "SPECT with IBZM"
+    ],
+    "correct_option": 0,
+    "explanation": "DaTSCAN (¹²³I-FP-CIT SPECT) images dopamine transporter (DAT) density in the striatum. In idiopathic Parkinson's disease: DAT uptake is reduced (asymmetrically) — the 'comma' or 'period' pattern. In drug-induced parkinsonism (e.g., from antipsychotics, metoclopramide, domperidone): DAT scan is NORMAL — the nigrostriatal dopamine neurons are intact; the drug merely blocks postsynaptic D2 receptors. This is the key diagnostic differentiator. If DaTSCAN is normal in a patient with parkinsonian features → drug-induced, essential tremor, vascular parkinsonism, psychogenic. MRCP pearl: DaTSCAN normal = drug-induced Parkinsonism or essential tremor (NOT Parkinson's disease). DaTSCAN abnormal = neurodegenerative (PD, MSA, PSP, DLB).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "4a70018f-1ac3-4ff0-8181-42f9172d8d02",
+    "stem": "What is the treatment for primary biliary cholangitis (PBC)?",
+    "options": [
+      "Ursodeoxycholic acid (UDCA)",
+      "Prednisolone",
+      "Azathioprine",
+      "Methotrexate",
+      "Cholestyramine"
+    ],
+    "correct_option": 0,
+    "explanation": "Ursodeoxycholic acid (UDCA/ursodiol) 13–15 mg/kg/day is the first-line disease-modifying treatment for PBC. It improves liver biochemistry, delays histological progression, and improves transplant-free survival in early/moderate PBC. Mechanism: replaces toxic bile acids, has cytoprotective and immunomodulatory effects. Second-line (inadequate response to UDCA): obeticholic acid (FXR agonist), fibrates (fenofibrate, bezafibrate). PBC features: middle-aged woman, pruritus, fatigue, elevated ALP/GGT, positive anti-mitochondrial antibody (AMA, anti-M2), elevated IgM. Cholestyramine: used to treat pruritus in PBC but not the disease itself. Prednisolone: PBC is not steroid-responsive (unlike autoimmune hepatitis). MRCP pearl: PBC = AMA positive + UDCA treatment. Autoimmune hepatitis = ANA/anti-smooth muscle + steroids + azathioprine.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "cf2d1433-8df6-42db-8f3e-281c4969a334",
+    "stem": "A patient with Crohn's disease who underwent ileal resection presents with diarrhoea. What is the most appropriate treatment?",
+    "options": [
+      "Prednisolone",
+      "Infliximab",
+      "Cholestyramine",
+      "Loperamide",
+      "Metronidazole"
+    ],
+    "correct_option": 2,
+    "explanation": "Ileal resection causes bile acid malabsorption (BAM) because the terminal ileum is the sole site of active bile acid reabsorption (enterohepatic circulation). Unabsorbed bile acids enter the colon → stimulate water and electrolyte secretion → bile acid diarrhoea (type 1 BAM). Cholestyramine (a bile acid sequestrant) binds bile acids in the intestinal lumen, preventing colonic irritation. Note: if the resection is >100 cm, bile acid pool is so depleted that cholestyramine worsens diarrhoea (malabsorption of fats) — instead, low-fat diet and fat-soluble vitamin supplementation are needed. SeHCAT test: measures bile acid absorption (result <10% = BAM). MRCP pearl: Small ileal resection (<100 cm) + diarrhoea = bile acid diarrhoea → cholestyramine. Large resection (>100 cm) = steatorrhoea → low-fat diet, MCT oil, vitamin ADEK supplementation.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "cef0f418-2add-4f40-8b19-51d98788350a",
+    "stem": "A patient can see an object clearly but cannot identify what it is. What is this neurological phenomenon called?",
+    "options": [
+      "Agnosia",
+      "Prosopagnosia",
+      "Alexia",
+      "Apraxia",
+      "Anomia"
+    ],
+    "correct_option": 0,
+    "explanation": "Agnosia is the inability to recognise objects, persons, sounds, or smells despite intact sensory perception. The sensory modality (vision, in visual agnosia) is functioning normally, but the brain cannot assign meaning/identity to what is perceived. Visual agnosia: cannot name/identify objects by sight (though can identify by touch). Caused by occipitotemporal lesions (ventral 'what' pathway). Prosopagnosia: specific inability to recognise faces — a subtype of visual agnosia (fusiform face area damage). Alexia: inability to read (despite being able to write). Apraxia: inability to perform purposeful learned movements despite intact motor/sensory function. Anomia: inability to name objects (language — temporal lobe lesion). MRCP pearl: Visual agnosia = sees but doesn't know what it is (occipitotemporal). Prosopagnosia = can't recognise faces (right fusiform).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "120f7e2a-3447-41a4-bb6a-51e579fde934",
+    "stem": "A 65-year-old male with small cell lung cancer and cerebral metastasis presents with tingling in fingers and toes after 6 cycles of cisplatin and etoposide. He is currently on dexamethasone only. What is the most likely cause of his tingling?",
+    "options": [
+      "Cisplatin",
+      "Dexamethasone",
+      "Etoposide",
+      "Paraneoplastic neuropathy",
+      "Spinal metastasis"
+    ],
+    "correct_option": 0,
+    "explanation": "Cisplatin causes peripheral sensory neuropathy (predominantly) through platinum accumulation in dorsal root ganglia, causing neuronal apoptosis. Features: glove-and-stocking distribution, tingling/numbness, loss of proprioception and vibration sense, loss of deep tendon reflexes. It is cumulative and dose-dependent. It can be irreversible — 'coasting' (progression after treatment ends). Ototoxicity (high-frequency hearing loss) is another major cisplatin toxicity. Etoposide: peripheral neuropathy is rare. Dexamethasone: proximal myopathy (proximal weakness), not peripheral neuropathy. Paraneoplastic neuropathy (anti-Hu antibody) is possible in SCLC but tingling after cisplatin is far more common. MRCP pearl: Cisplatin = peripheral neuropathy + ototoxicity + nephrotoxicity + hypomagnesaemia + nausea. Carboplatin: less neurotoxic/nephrotoxic but more myelosuppressive.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "0797e43c-2444-4894-a629-e1dc490b5ede",
+    "stem": "A 30-year-old female with SLE has a renal biopsy showing lupus nephritis with 'full house' immunofluorescence (IgG, IgA, IgM, C3, C1q). What pathway is responsible for the deposition of C1q and C3?",
+    "options": [
+      "Activation of the alternative complement pathway",
+      "Activation of the classical complement pathway",
+      "Activation of the lectin complement pathway",
+      "Inhibition of C1 inhibitor",
+      "Inhibition of decay-accelerating factor (DAF)"
+    ],
+    "correct_option": 1,
+    "explanation": "In lupus nephritis, immune complexes (IgG + DNA antigens) deposit in glomeruli and activate the classical complement pathway: IgG/IgM immune complexes → bind C1q → activate C1r/C1s → cleave C4 and C2 → C3 convertase → C3a/C3b → C5 convertase → MAC. C1q is the initiating molecule of the classical pathway, explaining its presence on immunofluorescence. The 'full house' pattern (all immunoglobulins + complement) is pathognomonic of lupus nephritis and reflects polyclonal immune complex deposition activating multiple pathways. Classical pathway: activated by antibody-antigen complexes. Alternative pathway: C3 directly (surfaces of pathogens). Lectin pathway: mannose-binding lectin on pathogen surfaces. MRCP pearl: Lupus nephritis 'full house' = classical complement pathway. Low C3 and C4 in active lupus nephritis reflects complement consumption.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "ace91fd2-4601-4ef9-87cf-25e314365c75",
+    "stem": "A patient with paracetamol overdose is given IV N-acetylcysteine (NAC). Six hours later she develops vomiting and an itchy erythematous skin rash. What type of reaction is this?",
+    "options": [
+      "Type I hypersensitivity (IgE-mediated)",
+      "Type II hypersensitivity (cytotoxic)",
+      "Type III hypersensitivity (immune complex)",
+      "Type IV hypersensitivity (delayed)",
+      "Non-IgE-mediated anaphylactoid (histamine release)"
+    ],
+    "correct_option": 4,
+    "explanation": "NAC infusion-related reactions are anaphylactoid (not anaphylactic) reactions — they are NON-IgE-mediated histamine release from mast cells and basophils triggered by the high concentration of NAC, particularly during the initial high-rate loading infusion. They are not true allergic reactions (no prior sensitisation required, no IgE involvement). Symptoms: flushing, urticaria, pruritus, nausea/vomiting, occasionally bronchospasm — typically during first 15–30 minutes of infusion. Management: slow/pause infusion, antihistamine (chlorphenamine), resume at lower rate. True Type I (IgE): requires prior sensitisation. Type IV: delayed (24–72 hours). MRCP pearl: NAC reaction = anaphylactoid (non-IgE histamine release), not true allergy. Do NOT withhold NAC — pause and restart. This is a common MRCP question.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "39d94a60-f41f-4514-8045-0569c8185e07",
+    "stem": "A 46-year-old presents with 6 weeks of pain and swelling behind the lateral malleolus. Tendinitis is diagnosed. Which tendon is affected?",
+    "options": [
+      "Extensor digitorum longus",
+      "Extensor hallucis longus",
+      "Peroneus longus (fibularis longus)",
+      "Tibialis posterior",
+      "Tibialis anterior"
+    ],
+    "correct_option": 2,
+    "explanation": "Peroneus (fibularis) longus tendinitis: the peroneal tendons (longus and brevis) course posterior to the lateral malleolus and are the only tendons in this anatomical location. Tenderness and swelling behind the lateral malleolus = peroneal tendinopathy. Function: eversion and plantarflexion of foot. Causes: inversion ankle sprain, repetitive ankle loading, cavus foot. Tibialis posterior: runs posterior to the MEDIAL malleolus (medial foot pain, flat foot, navicular tenderness). Tibialis anterior: anterior compartment — dorsiflexion — anterior ankle/shin pain. Extensor digitorum/hallucis longus: anterior ankle, toe extension. MRCP/PACES pearl: Behind lateral malleolus → peroneal tendons. Behind medial malleolus → tibialis posterior. Achilles → posterior heel.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "47a2ee7c-6e61-44d5-9347-fedbef7c020a",
+    "stem": "A patient on multiple chemotherapy agents (cyclophosphamide, doxorubicin, imatinib previously; capecitabine and trastuzumab recently started) develops 3 days of chest pain. ECG shows inferior ST elevation but troponin T is negative. Which drug is most likely responsible?",
+    "options": [
+      "Capecitabine",
+      "Imatinib",
+      "Cyclophosphamide",
+      "Doxorubicin",
+      "Trastuzumab"
+    ],
+    "correct_option": 0,
+    "explanation": "Capecitabine (oral 5-fluorouracil prodrug) causes coronary vasospasm — this is the hallmark cardiotoxicity of fluoropyrimidines. It presents as chest pain with ST elevation (vasospastic angina/Prinzmetal's), typically within the first few days of a new cycle. Troponin may be negative if vasospasm resolves. Mechanism: 5-FU metabolites cause endothelial dysfunction and coronary vasospasm. Management: stop capecitabine, nitrates, calcium channel blockers. Doxorubicin: causes dilated cardiomyopathy (cumulative, dose-dependent) — not acute ST elevation. Trastuzumab: reversible LV dysfunction/HF — not ST elevation. Cyclophosphamide: haemorrhagic myocarditis (high doses). Imatinib: rare cardiomyopathy. MRCP pearl: Capecitabine/5-FU + chest pain + ST changes + negative troponin = coronary vasospasm. Stop drug immediately.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "a398a2be-0fb7-4226-8162-1e865e837622",
+    "stem": "In an RCT of 1000 patients (500 drug, 500 placebo), 25 died in the drug group and 50 died in the placebo group after 12 months. What is the number needed to treat (NNT)?",
+    "options": [
+      "20",
+      "25",
+      "50",
+      "75",
+      "100"
+    ],
+    "correct_option": 0,
+    "explanation": "NNT calculation: Event rate placebo = 50/500 = 0.10 (10%). Event rate drug = 25/500 = 0.05 (5%). Absolute Risk Reduction (ARR) = 0.10 − 0.05 = 0.05 (5%). NNT = 1/ARR = 1/0.05 = 20. Interpretation: 20 patients need to be treated with the new drug for 12 months to prevent one death. Lower NNT = more effective treatment. Relative Risk Reduction (RRR) = ARR/control rate = 0.05/0.10 = 50% — this sounds more impressive but is less clinically meaningful. MRCP statistics pearl: NNT = 1/ARR. ARR = control event rate − treatment event rate. NNH (number needed to harm) = 1/Absolute Risk Increase.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "9b453ed1-c092-4267-97f0-ed8e186f6562",
+    "stem": "A 29-year-old male presents with sudden onset breathlessness. Examination is normal except HR 110 bpm. CXR shows a pneumothorax with a 3.5 cm rim from the chest wall. What is the most appropriate immediate management?",
+    "options": [
+      "Hyperbaric oxygen",
+      "High-flow oxygen alone",
+      "Needle decompression",
+      "Chest drain insertion",
+      "Aspiration"
+    ],
+    "correct_option": 4,
+    "explanation": "BTS pneumothorax guidelines: Primary spontaneous pneumothorax (PSP) with rim ≥2 cm (significant) + symptomatic (breathlessness, HR >110) = aspiration. Aspirate using 14–16G cannula at 2nd intercostal space, mid-clavicular line. If aspiration successful (lung re-expands, rim <2 cm) → discharge with follow-up CXR in 2–4 weeks. If aspiration fails → chest drain. Rim 3.5 cm = significant pneumothorax. Stable patient (not tension) = aspiration preferred over chest drain. Needle decompression (2nd ICS MCL): only for suspected tension pneumothorax (haemodynamic compromise, absent breath sounds, tracheal deviation). High-flow O2: helps reabsorb pneumothorax slowly but is adjunct, not primary treatment. MRCP pearl: PSP ≥2 cm + breathlessness → aspirate. Secondary (COPD/Marfan's) ≥1 cm → chest drain. Tension → emergency needle decompression.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "d8b49b2c-8315-4cfc-af0a-7b6ed628b2fc",
+    "stem": "A T2DM patient on gliclazide has elevated creatinine, raised protein:creatinine ratio and features of nephropathy. What is the most appropriate treatment for diabetic nephropathy?",
+    "options": [
+      "Insulin",
+      "Irbesartan (ARB)",
+      "Gliclazide dose increase",
+      "Ramipril",
+      "Spironolactone"
+    ],
+    "correct_option": 1,
+    "explanation": "Irbesartan (an ARB — angiotensin II receptor blocker) has a specific IDNT trial licence for diabetic nephropathy in T2DM with hypertension and proteinuria. ARBs (losartan, irbesartan) and ACE inhibitors both reduce intraglomerular pressure and proteinuria. The question specifies irbesartan suggesting an ACE inhibitor may have been tried or is contraindicated (e.g., cough). Both ACE inhibitors and ARBs are equivalent first-line in diabetic nephropathy — do not combine (increases adverse effects without extra benefit). Additionally: SGLT2 inhibitors (empagliflozin, dapagliflozin) are now established for CKD in T2DM (CREDENCE, DAPA-CKD trials). MRCP pearl: Diabetic nephropathy = ACEi or ARB (not both). Add SGLT2i for additional renoprotection. Gliclazide (sulfonylurea) — avoid if eGFR <30.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "50bd4e58-46e4-49c4-ad0e-83176f25f8d3",
+    "stem": "A 75-year-old woman presents with sudden monocular visual loss. Fundoscopy shows a swollen, pale optic disc. What is the most likely diagnosis?",
+    "options": [
+      "Central retinal vein occlusion (CRVO)",
+      "Optic neuritis",
+      "Acute angle-closure glaucoma",
+      "Retinitis pigmentosa",
+      "Giant cell arteritis (GCA)"
+    ],
+    "correct_option": 4,
+    "explanation": "Anterior ischaemic optic neuropathy (AION) from GCA presents as sudden painless monocular visual loss in patients >50 years, with a swollen, pale ('chalky white') optic disc — reflecting ischaemia rather than inflammation. GCA inflames the posterior ciliary arteries supplying the optic nerve head. Other features: jaw claudication, scalp tenderness, temporal artery thickening/tenderness, elevated ESR/CRP, thrombocytosis. CRVO: engorged tortuous veins, flame haemorrhages in all quadrants ('stormy sunset'), disc swelling but not pale. Optic neuritis: young patient, pain on eye movement, disc may be swollen but not pale — associated with MS. MRCP pearl: GCA + visual loss = AION — emergency, start high-dose steroids IMMEDIATELY (prednisolone 60 mg PO or IV methylprednisolone). Don't wait for biopsy. Bilateral blindness may occur within hours.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "b7779775-d20b-4071-a71d-f36399b0360a",
+    "stem": "A 35-year-old woman presents with bilateral wrist pain and swelling with arthritis of the PIP and MCP joints. What is the most likely diagnosis?",
+    "options": [
+      "Psoriatic arthritis",
+      "Rheumatoid arthritis",
+      "Reactive arthritis",
+      "Septic arthritis",
+      "Parvovirus B19 arthropathy"
+    ],
+    "correct_option": 1,
+    "explanation": "Rheumatoid arthritis (RA) characteristically involves: MCP joints (knuckles), PIP joints, wrists — bilaterally and symmetrically. It spares DIP joints (unlike OA and psoriatic arthritis). Young-to-middle-aged women. Morning stiffness >1 hour. Extra-articular features: nodules, anaemia, pleural effusion, scleritis, vasculitis. Psoriatic arthritis: DIP involvement + skin/nail changes + enthesitis + asymmetric. Reactive arthritis: oligoarthritis + urethritis/GI infection trigger. Parvovirus B19: similar presentation (PIP/MCP, symmetric) but acute onset, self-limiting, positive IgM anti-B19. Septic arthritis: monoarthritis, acutely hot, unwell. MRCP pearl: RA = MCP + PIP + wrists, symmetric, morning stiffness, anti-CCP most specific, RF less specific. X-ray: periarticular osteopenia + marginal erosions.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "5c0e0663-25bd-4da6-8a0c-a45f803bbebc",
+    "stem": "A 30-year-old female with Graves' disease (low TSH, high T3 and T4, goitre) has a family history of hypothyroidism in her mother. What antibody is responsible for her condition?",
+    "options": [
+      "Thyroglobulin antibodies",
+      "TSH receptor stimulating antibodies (TRAb)",
+      "Anti-TPO antibodies",
+      "Anti-TRH receptor antibodies",
+      "Anti-sodium-iodide symporter antibodies"
+    ],
+    "correct_option": 1,
+    "explanation": "Graves' disease is caused by TSH receptor stimulating antibodies (TRAb, also called thyroid-stimulating immunoglobulins — TSI). These IgG autoantibodies bind and activate the TSH receptor on thyroid follicular cells, causing unregulated thyroid hormone production and gland enlargement (goitre). They can also cause Graves' ophthalmopathy and pretibial myxoedema. Anti-TPO antibodies: present in Graves' and Hashimoto's, marker of autoimmune thyroid disease but not the cause of hyperthyroidism. Thyroglobulin antibodies: Hashimoto's/Graves', monitor recurrence post-thyroidectomy. MRCP pearl: Graves' disease = TRAb (TSH receptor antibody) is the pathogenic antibody. Anti-TPO is associated but not causative. Family history of hypothyroidism (Hashimoto's) is common — autoimmune thyroid disease clusters in families.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "b7e068f6-45ab-4ff9-932b-418358c6fe23",
+    "stem": "In a study of 300 patients, 100 have confirmed lung cancer. A new blood test is performed: 80 test positive, of whom 70 truly have cancer; 10 positive tests are false positives. What is the sensitivity of the test?",
+    "options": [
+      "70%",
+      "87.5%",
+      "80%",
+      "93%",
+      "78%"
+    ],
+    "correct_option": 0,
+    "explanation": "Sensitivity = True Positives / (True Positives + False Negatives) = TP / All who have disease. TP = 70 (positive test AND has disease). Total with disease = 100. False Negatives = 100 − 70 = 30 (have disease but tested negative). Sensitivity = 70/100 = 70%. Specificity = TN / (TN + FP) = correctly identified disease-free / all disease-free. Disease-free = 200. FP = 10. TN = 190. Specificity = 190/200 = 95%. PPV = TP/(TP+FP) = 70/80 = 87.5%. NPV = TN/(TN+FN) = 190/220 = 86.4%. MRCP statistics pearl: Sensitivity = SnNout (sensitive test, Negative result rules OUT disease). Specificity = SpPin (specific test, Positive result rules IN disease).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "27aab47d-bf75-462b-b807-388f52ab1a6d",
+    "stem": "A 77-year-old male with benign prostatic hypertrophy presents with an 18-month history of burning pain and numbness in both hands and feet (peripheral neuropathy). What is the most appropriate first-line pharmacological treatment?",
+    "options": [
+      "Amitriptyline",
+      "Gabapentin",
+      "Venlafaxine",
+      "Sodium valproate",
+      "Lamotrigine"
+    ],
+    "correct_option": 1,
+    "explanation": "Gabapentin is first-line for neuropathic pain in elderly patients with BPH. Amitriptyline is also first-line for neuropathic pain but is problematic in elderly males with BPH due to anticholinergic effects (urinary retention). The British Pain Society and NICE guidelines recommend: Amitriptyline, gabapentin, or pregabalin as first-line. In elderly with BPH or cognitive impairment — gabapentin or pregabalin are preferred (less anticholinergic). Venlafaxine/duloxetine: second-line SNRI options. Sodium valproate: epilepsy and bipolar — not first-line for neuropathic pain. Lamotrigine: not standard for peripheral neuropathy. MRCP pearl: Neuropathic pain = amitriptyline/gabapentin/pregabalin first-line. Avoid amitriptyline in elderly males with BPH (urinary retention risk) → prefer gabapentin.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "e448252e-e44c-4171-a30a-06805152f2cf",
+    "stem": "A 31-year-old woman has a 4-month history of intermittent abdominal pain, 5 kg weight loss, low mood, and poor appetite. Her husband died of a subarachnoid haemorrhage 9 months ago. She was agitated on examination. What is the most likely diagnosis?",
+    "options": [
+      "Adjustment disorder",
+      "Depressive disorder",
+      "Generalised anxiety disorder",
+      "PTSD",
+      "Somatic symptom disorder"
+    ],
+    "correct_option": 0,
+    "explanation": "Adjustment disorder is characterised by emotional and/or behavioural symptoms arising within 3 months of an identifiable stressor (husband's SAH death), that are disproportionate and cause significant distress/functional impairment, but do not meet full criteria for another mental disorder. It lasts <6 months after the stressor resolves. Symptoms: low mood, anxiety, agitation, somatic complaints (abdominal pain). Key distinction from Major Depressive Disorder: adjustment disorder is directly tied to the stressor, occurs within 3 months, and symptoms are not as severe/persistent as MDD. If full depressive criteria are met (≥5 symptoms for ≥2 weeks including low mood/anhedonia), diagnose MDD. MRCP pearl: Identifiable stressor + emotional symptoms within 3 months + not meeting full criteria for another disorder = adjustment disorder. Bereavement is a common stressor.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "4b976313-9a6a-47da-811f-acc83a3b4472",
+    "stem": "A 52-year-old female with T1DM and childhood epilepsy has been diagnosed with mitochondrial disease (ophthalmoplegia, mitochondrial mutation confirmed). What is the probability that her son will transmit the mitochondrial disease to his children?",
+    "options": [
+      "0%",
+      "25%",
+      "33%",
+      "50%",
+      "100%"
+    ],
+    "correct_option": 0,
+    "explanation": "Mitochondrial DNA is inherited exclusively via maternal transmission — only eggs contribute mitochondria to the embryo (sperm mitochondria are eliminated after fertilisation). Therefore, males CANNOT pass mitochondrial disorders to their children regardless of whether they are affected. The patient's son may himself be affected (if he inherited the mutation from his mother), but he cannot transmit it. Mitochondrial diseases (MELAS, MERRF, Leber's optic neuropathy, Kearns-Sayre syndrome) all follow strict maternal inheritance. Heteroplasmy (mixture of normal and mutant mtDNA) means variable penetrance. MRCP pearl: Mitochondrial inheritance = maternal only. Fathers NEVER transmit. Mothers transmit to ALL children. Phenotype varies with heteroplasmy level. Common MRCP conditions: MELAS, MERRF, Leber's hereditary optic neuropathy, Kearns-Sayre.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "5e947c5f-0e49-42f5-8599-4c8467cf15ad",
+    "stem": "A 41-year-old female with bipolar disorder taking lithium is diagnosed with nephrogenic diabetes insipidus. Where does lithium exert its effect on the nephron to cause DI?",
+    "options": [
+      "Ascending limb of loop of Henle",
+      "Distal convoluted tubule",
+      "Proximal convoluted tubule",
+      "Bowman's capsule",
+      "Cortical collecting duct"
+    ],
+    "correct_option": 4,
+    "explanation": "Lithium induces nephrogenic diabetes insipidus (NDI) by acting on the cortical collecting duct (CCD). It interferes with the action of vasopressin (ADH) on principal cells in this segment. Normally, ADH promotes aquaporin-2 (AQP2) channel insertion on the apical membrane, increasing water reabsorption. Lithium blocks this signalling cascade (via inhibition of adenylyl cyclase and GSK-3), reducing AQP2 expression and insertion, leading to polyuria and NDI. MRCP pearl: Lithium → NDI → CCD (principal cells). Treatment options include amiloride, thiazides, and indomethacin.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "5fc4d518-7978-4faf-a74d-7f723722bfe7",
+    "stem": "A 29-year-old female presents with polyuria and excessive thirst for 3 months. She is on levothyroxine for hypothyroidism and lithium for bipolar disorder. Cortisol is 400, serum sodium, potassium, creatinine and urine osmolality are all normal. Before proceeding to the water deprivation test, what is the most important investigation to perform?",
+    "options": [
+      "Serum magnesium",
+      "Serum T4",
+      "Serum calcium",
+      "Plasma aldosterone:renin ratio",
+      "Short synacthen test"
+    ],
+    "correct_option": 2,
+    "explanation": "Before a water deprivation test, serum calcium must be checked. Hypercalcaemia causes nephrogenic DI by impairing renal concentrating ability — it must be excluded before attributing polyuria to central or lithium-induced nephrogenic DI. Lithium itself can cause hypercalcaemia by affecting the parathyroid glands. Serum T4 is less relevant as hypothyroidism rarely causes polyuria. Aldosterone:renin ratio is used in hypertension workup. Short synacthen test is for adrenal insufficiency, which presents with fatigue and hypotension rather than polyuria. MRCP pearl: Polyuria workup — always exclude hypercalcaemia before water deprivation test.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "9029f925-529c-4ebf-90e4-e316a7318160",
+    "stem": "An elderly male with CKD stage 3a presents to A&E with worsening lethargy and weakness. Na+ is normal, creatinine and urea are very elevated, K+ is 7.6 mmol/L. What is the immediate next step in management?",
+    "options": [
+      "Calcium gluconate 10% 30 ml IV",
+      "Salbutamol nebulisation",
+      "IV 0.9% normal saline",
+      "Calcium resonium 15 g orally",
+      "8 units short-acting insulin with 50 ml 50% glucose over 30 minutes"
+    ],
+    "correct_option": 0,
+    "explanation": "In severe hyperkalaemia (K+ 7.6 mmol/L), the immediate priority is cardiac membrane stabilisation to prevent fatal arrhythmias — this is achieved with IV calcium gluconate 10% 30 ml over 5–10 minutes under ECG monitoring. It does NOT lower potassium but protects the myocardium. After cardiac stabilisation: insulin/dextrose shifts K+ intracellularly (most effective), salbutamol nebulisation is an adjunct, and calcium resonium provides elimination (slow, not acute). IV fluids risk volume overload in CKD. MRCP pearl: Hyperkalaemia management sequence — (1) Calcium gluconate (protect heart), (2) Insulin/dextrose + salbutamol (shift K+ in), (3) Resonium/dialysis (remove K+).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "6c713c81-888e-4480-bd38-0fb2eef290ae",
+    "stem": "A 26-year-old male presents with loose stools, bloating and diarrhoea for 6 weeks. He returned from a 6-week student exchange programme in Russia 8 weeks ago. Hb 112 g/L, anti-TTG normal, IgA normal. What is the most likely diagnosis?",
+    "options": [
+      "Coeliac disease",
+      "Pancreatic insufficiency",
+      "Microscopic colitis",
+      "Giardiasis",
+      "Inflammatory bowel disease"
+    ],
+    "correct_option": 3,
+    "explanation": "Giardiasis is the most likely diagnosis given: (1) travel to an endemic area (Russia, Vietnam, developing countries with contaminated water), (2) classic symptoms of bloating, flatulence, and prolonged diarrhoea with malabsorption, (3) normal anti-TTG and IgA excluding coeliac disease, (4) young male with no IBD risk factors. Giardia lamblia is a protozoan causing malabsorption; diagnosis via stool antigen test or microscopy (cysts/trophozoites). Treatment: metronidazole or tinidazole. MRCP pearl: Travel + prolonged diarrhoea + bloating = think Giardia. Normal TTG rules out coeliac.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "aefd78a6-301d-41df-93aa-8820349e87cf",
+    "stem": "A 35-year-old HIV-positive man presents with fever, headache, drowsiness, and global cognitive impairment. CSF shows: glucose 3.3 mmol/L (blood glucose 3.3), protein 1.5 g/L, WCC 500, lymphocytes 350, opening pressure 350 mmHg. HIV Ag/Ab positive. What is the most likely diagnosis?",
+    "options": [
+      "Cerebral malaria",
+      "Cryptococcal meningitis",
+      "Herpes simplex encephalitis",
+      "HIV-associated dementia",
+      "Primary CNS lymphoma"
+    ],
+    "correct_option": 1,
+    "explanation": "Cryptococcal meningitis in HIV: Cryptococcus neoformans, a yeast found in pigeon droppings/soil, causes meningitis especially when CD4 <100. Classic features: subacute onset headache, fever, drowsiness; markedly elevated opening pressure (>250 mm CSF, here 350 mm); lymphocytic pleocytosis; CSF/blood glucose ratio near 1 (unlike bacterial where it's <0.5). Diagnosis: CSF India ink (cryptococcal capsule), CSF cryptococcal antigen (CrAg) — very sensitive. Treatment: liposomal amphotericin B + flucytosine (induction) → fluconazole (consolidation). High ICP: serial lumbar punctures or lumbar drain. HSV encephalitis: focal signs, temporal lobe, fever, much higher protein. HIV dementia: chronic, no CSF pleocytosis/elevated pressure. MRCP pearl: HIV + headache + high CSF opening pressure + lymphocytic meningitis = cryptococcal meningitis. CrAg serum/CSF is diagnostic.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "88182872-769c-4651-8fd9-bddbf4f0419d",
+    "stem": "A 56-year-old woman has headaches and fatigue for 6 months. Hb 185 g/L, platelets 477, WBC 11.8. What is the most appropriate next investigation?",
+    "options": [
+      "Bone marrow biopsy and trephine",
+      "Red cell mass estimation",
+      "Serum erythropoietin assay",
+      "JAK2 V617F mutation analysis",
+      "Serum ferritin"
+    ],
+    "correct_option": 3,
+    "explanation": "Polycythaemia vera (PV) is suggested by: elevated Hb (185 g/L), thrombocytosis (477), leukocytosis (11.8) — a panmyelosis. Symptoms: headache, facial plethora, pruritus (aquagenic), splenomegaly. JAK2 V617F mutation is present in >95% of PV cases — this is the most specific and first-line investigation, confirming the diagnosis without need for bone marrow biopsy in most cases. WHO 2016 criteria: Hb >185 (men) or >165 (women) + bone marrow biopsy OR JAK2 mutation + low EPO. EPO assay: suppressed in PV (helps distinguish from secondary polycythaemia where EPO is elevated) — useful but JAK2 is more specific. Red cell mass: outdated. MRCP pearl: Panmyelosis (high RBC + platelets + WBC) = PV → JAK2 V617F first. Low EPO + JAK2 + bone marrow (panmyelosis) = diagnostic triad.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "c6ee0cba-5ab5-4c31-9ade-f988cf0fd498",
+    "stem": "A 17-year-old with hypertrophic obstructive cardiomyopathy (HOCM). What is the most likely cause of death in this condition?",
+    "options": [
+      "Congestive cardiac failure",
+      "Myocardial infarction",
+      "Sudden arrhythmic death",
+      "Systemic thromboembolism",
+      "Valvular dysfunction"
+    ],
+    "correct_option": 2,
+    "explanation": "Sudden cardiac death (SCD) from ventricular arrhythmia is the most feared and common cause of death in HOCM, particularly in young patients and athletes. The hypertrophied myocardium creates electrophysiological instability leading to ventricular tachycardia/fibrillation. Risk factors for SCD in HOCM: family history of SCD, unexplained syncope, non-sustained VT on Holter, marked LV hypertrophy (≥30 mm), abnormal BP response to exercise. HCM Risk-SCD calculator (ESC) guides ICD implantation. ICD is the treatment of choice for high-risk patients. MRCP pearl: HOCM + young patient = risk of sudden arrhythmic death. ICD for primary prevention if high risk (5-year SCD risk ≥6%). Beta-blockers (reduce symptoms, not SCD risk). Avoid dehydration and nitrates (worsen LVOTO).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "87bd2046-8ad1-4448-b24a-4e51b7956613",
+    "stem": "A 35-year-old with CAP has a CURB-65 score of 1. What is the most appropriate antibiotic?",
+    "options": [
+      "Oral amoxicillin + clarithromycin",
+      "IV co-amoxiclav + clarithromycin",
+      "Oral clarithromycin",
+      "Oral co-amoxiclav",
+      "Oral amoxicillin"
+    ],
+    "correct_option": 4,
+    "explanation": "CURB-65 score 1 = mild community-acquired pneumonia → outpatient oral antibiotic treatment. BTS guidelines: CURB-65 0–1 = amoxicillin 500 mg TDS for 5 days as first-line. If atypical organisms suspected (Mycoplasma, Chlamydia, Legionella) or penicillin allergy → doxycycline or clarithromycin. Combination (amox + clarithro) is for CURB-65 ≥2 (moderate CAP). IV antibiotics not warranted for score 1. MRCP pearl: CAP antibiotic guide — CURB 0–1: amoxicillin PO. CURB 2: amox + clarithro PO (or consider admission). CURB ≥3: IV co-amoxiclav + clarithromycin. CURB ≥4 (severe): IV Tazocin ± ITU.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "4af45af6-7907-42a7-94b9-43dd287ea22a",
+    "stem": "A patient has ankle and knee reflexes intact, but hip flexion and abduction are impaired. Which nerve root is most likely affected?",
+    "options": [
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "S1"
+    ],
+    "correct_option": 0,
+    "explanation": "L2 nerve root innervates: hip flexors (iliopsoas, via femoral nerve) and hip adductors/abductors at the femoral/obturator level. Hip flexion (L1/L2) and hip abduction (L2/L3 via superior gluteal nerve). Intact reflexes: knee reflex (L3/L4) and ankle reflex (S1) — L2 lesion spares these. L3: knee extension (quadriceps), contributes to knee reflex. L4: knee reflex + ankle dorsiflexion. L5: hip abduction, ankle dorsiflexion, big toe extension. S1: ankle reflex, plantarflexion. Isolated hip flexion + abduction weakness with intact reflexes below = L2 lesion (e.g., from a high lumbar disc herniation, psoas muscle/haematoma, meralgia paraesthetica if sensory only). MRCP pearl: L2 = hip flexion + adduction (obturator) + sensory anterior medial thigh. Femoral nerve (L2–L4) = hip flexion + knee extension + medial leg sensation.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "b8c701e3-ecdf-4443-a0f5-ef45bbd8b06c",
+    "stem": "A patient presents with recurrent otitis media, haemoptysis, and multiple cavitating lesions on chest X-ray. What is the most likely diagnosis?",
+    "options": [
+      "Pulmonary tuberculosis",
+      "Granulomatosis with polyangiitis (GPA / Wegener's)",
+      "Lung abscess",
+      "Aspergilloma",
+      "Sarcoidosis"
+    ],
+    "correct_option": 1,
+    "explanation": "Granulomatosis with polyangiitis (GPA, formerly Wegener's) is the diagnosis: classical triad of (1) Upper respiratory tract (otitis media, sinusitis, nasal crusting/saddle-nose deformity), (2) Lower respiratory tract (haemoptysis, cavitating nodules on CXR/CT), (3) Renal involvement (glomerulonephritis — may be absent early). Serology: c-ANCA/anti-PR3 antibodies are highly specific. Biopsy: necrotising granulomatous vasculitis. Treatment: rituximab or cyclophosphamide + prednisolone (induction), azathioprine/rituximab (maintenance). MRCP pearl: Otitis media + haemoptysis + cavitating CXR = GPA. c-ANCA (anti-PR3) positive. MPA = p-ANCA (anti-MPO), no granulomas, no ENT involvement. Eosinophilic GPA (Churg-Strauss) = asthma + eosinophilia + p-ANCA.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "0a7839b4-ff3a-4b4d-aaff-76b82d9ccd85",
+    "stem": "A middle-aged man with a history of stroke has his foot fixed in plantar flexion, with the heel failing to strike the ground during walking. When the knee is flexed, the foot can be passively moved to 90 degrees (neutral). Which muscle is primarily responsible for the plantar flexion deformity?",
+    "options": [
+      "Soleus",
+      "Gastrocnemius",
+      "Tibialis posterior",
+      "Peroneus longus",
+      "Flexor digitorum longus"
+    ],
+    "correct_option": 0,
+    "explanation": "The key clue is: foot can be passively dorsiflexed to neutral when knee is FLEXED, but not when straight. This implies the two-joint muscle (gastrocnemius) is not the primary problem — because flexing the knee relaxes the gastrocnemius. The remaining limitation comes from the soleus (single-joint muscle, only crosses the ankle). The soleus is therefore the tight muscle causing the equinus deformity. Post-stroke spasticity affects the plantar flexors — the soleus (as a one-joint muscle) maintains equinus regardless of knee position. Gastrocnemius: crosses both knee and ankle — flexing knee reduces its contribution. This distinguishes isolated soleus tightness from gastrocnemius tightness. MRCP/neurology pearl: Foot dorsiflexion limited with knee extended AND flexed = soleus (single-joint). If only limited with knee extended = gastrocnemius (two-joint).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "eed531a1-13ee-471c-8e89-e14f395cae18",
+    "stem": "A patient has loss of sensation in the middle finger and absent triceps reflex. Which nerve root lesion is responsible?",
+    "options": [
+      "C5",
+      "C6",
+      "C7",
+      "C8",
+      "T1"
+    ],
+    "correct_option": 2,
+    "explanation": "C7 radiculopathy: Reflex: triceps reflex (C7). Motor: triceps (elbow extension), wrist flexors, finger extensors. Sensory: middle finger (long finger) — C7 dermatome. Causes: C6/7 disc herniation (most common cervical disc), cervical spondylosis. The combination of middle finger sensory loss + absent triceps reflex is pathognomonic of C7 root compression. Compare: C5 = biceps reflex + deltoid + lateral arm sensation. C6 = brachioradialis reflex + wrist extension + thumb/index sensation. C8 = ring/little finger + intrinsics. T1 = intrinsics + medial arm. MRCP pearl: C7 = triceps reflex + middle finger. The middle finger (digit 3) is the C7 dermatome landmark. Cervical disc: C5/6 most common disc, C6/7 second most common.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "64f7b3b0-0882-454e-b656-d4bb1a519708",
+    "stem": "In an HIV-positive patient on antiretroviral therapy with well-preserved immunity (CD4 >500), who has axillary and cervical lymphadenopathy and a rash, what is the most likely cause?",
+    "options": [
+      "HIV-related lymphadenopathy",
+      "Cytomegalovirus (CMV)",
+      "Epstein-Barr virus (EBV)",
+      "Kaposi's sarcoma",
+      "Toxoplasmosis"
+    ],
+    "correct_option": 2,
+    "explanation": "EBV (infectious mononucleosis) can occur in HIV-positive patients regardless of CD4 count, as EBV infects B-lymphocytes and its primary disease manifestation is not purely CD4-count dependent. With CD4 >500 and on ART, the patient has near-normal immunity. EBV presents with fever, pharyngitis, generalised lymphadenopathy (cervical, axillary), rash, and elevated liver enzymes. CMV: causes retinitis, colitis, pneumonitis — typically CD4 <50. Kaposi's sarcoma: violaceous skin lesions, CD4 <200. Toxoplasmosis: CNS, CD4 <100. HIV lymphadenopathy (persistent generalised lymphadenopathy): all nodes, no other cause, in untreated HIV. MRCP pearl: HIV + good CD4 + lymphadenopathy = EBV (infectious mononucleosis) is common. Don't assume all lymphadenopathy in HIV = HIV-related — EBV, lymphoma, syphilis must be excluded.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "47181b36-6ed8-4e56-bda2-d6286d22c11b",
+    "stem": "A 58-year-old female with left-sided ptosis, dilated left pupil, and right-sided spastic hemiparesis and sensory loss. Where is the lesion?",
+    "options": [
+      "Midbrain",
+      "Pons",
+      "Medulla",
+      "Temporal lobe",
+      "Internal capsule"
+    ],
+    "correct_option": 0,
+    "explanation": "Weber's syndrome = ventral midbrain infarction (typically posterior cerebral artery or basilar perforators). Features: (1) Ipsilateral CN III palsy (ptosis, dilated pupil, 'down and out' eye — due to CN III fascicle involvement in cerebral peduncle), (2) Contralateral hemiplegia (corticospinal tract in cerebral peduncle crosses below). The combination of ipsilateral CN III + contralateral hemiplegia = classic crossed brainstem syndrome = Weber's syndrome. Pons: CN VI or VII ipsilateral + contralateral hemiplegia (Foville's or Millard-Gubler). Medulla: CN IX-XII ipsilateral + contralateral hemiplegia or sensory loss (various medullary syndromes). MRCP pearl: Brainstem crossed syndromes — Weber's (midbrain): CN III + contralateral hemiplegia. Millard-Gubler (pons): CN VI+VII + contralateral hemiplegia. Wallenberg (lateral medulla): CN V,IX,X ipsilateral + contralateral spinothalamic.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "1777940d-542d-4df2-97f1-c1f42fdd6315",
+    "stem": "A 52-year-old female smoker with hypercholesterolaemia starts an ACE inhibitor for hypertension. One week later creatinine rises from 126 to 220 µmol/L. What is the most likely underlying cause?",
+    "options": [
+      "Acute interstitial nephritis",
+      "Acute tubular necrosis",
+      "Renal artery stenosis",
+      "Renal vein thrombosis",
+      "Vasculitis"
+    ],
+    "correct_option": 2,
+    "explanation": "Renal artery stenosis (RAS) — same mechanism as Q20. Atherosclerotic RAS is the cause given: heavy smoking (70 pack-years), hypercholesterolaemia, hypertension, and the ACE inhibitor precipitating creatinine rise >20%. In RAS, the post-stenotic kidney depends on angiotensin II to constrict the efferent arteriole and maintain GFR. ACE inhibitor removes this → GFR falls → creatinine rises. Bilateral RAS or RAS in a solitary functioning kidney is the classic scenario. Management: stop ACE inhibitor/ARB, renovascular imaging (Doppler USS, MR angiography), consider renal artery stenting. MRCP pearl: Same as Q20 — ACE inhibitor + creatinine rise >20% = renovascular disease. Smoking + hypertension + dyslipidaemia = atherosclerotic RAS risk factors.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "c105cadb-c602-471a-8623-b3b2cac6b5bf",
+    "stem": "A patient with IBD presents with a 6-month history of abdominal pain affecting work, sleep disturbance, low mood, and weight loss. He is aggressive about his symptoms. What is the most likely diagnosis?",
+    "options": [
+      "Malingering",
+      "Somatisation disorder",
+      "Conversion disorder",
+      "Generalised anxiety disorder",
+      "Depressive disorder"
+    ],
+    "correct_option": 4,
+    "explanation": "Depressive disorder (major depression) is the most likely diagnosis. Chronic illness (IBD) increases the risk of depression 2–3 fold. The constellation of: low mood, sleep disturbance, weight loss, poor appetite, reduced function, and anhedonia for >2 weeks meets criteria for MDD. The abdominal pain may be a somatic symptom of depression, or an IBD flare exacerbated by depression. Malingering: deliberate feigning for external gain — not supported here. Somatisation: multiple physical symptoms without organic cause — but patient HAS IBD. Adjustment disorder: symptoms directly tied to a specific stressor, resolves when stressor resolves — this is longer-term with no specific new stressor. Conversion disorder: neurological symptoms (paralysis, non-epileptic seizures). MRCP pearl: Chronic disease + persistent low mood + sleep + weight loss + anhedonia = depressive disorder. Screen with PHQ-9. Treat with CBT and SSRI.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "0978c473-e625-433a-8d71-0cf423ae6c6e",
+    "stem": "What is the mechanism of action of teriparatide?",
+    "options": [
+      "Calcium-sensing receptor agonist",
+      "PTH1 receptor agonist (intermittent)",
+      "RANK ligand inhibitor",
+      "Oestrogen receptor modulator",
+      "Vitamin D receptor agonist"
+    ],
+    "correct_option": 1,
+    "explanation": "Teriparatide (recombinant PTH 1-34) acts as an intermittent PTH1 receptor agonist on osteoblasts. Intermittent PTH administration (once daily SC injection) predominantly stimulates osteoblasts (bone formation) rather than osteoclasts — unlike continuous PTH elevation in hyperparathyroidism which causes bone resorption. Net effect: increased bone mineral density, improved bone microarchitecture, reduced fracture risk. Licensed for severe osteoporosis with fractures. Duration: max 24 months (lifetime). Calcium-sensing receptor: calcimimetics (cinacalcet) — used in hyperparathyroidism. RANK ligand inhibitor: denosumab. SERM: raloxifene. MRCP pearl: Teriparatide = anabolic bone agent (builds bone). Bisphosphonates/denosumab = anti-resorptive (prevent breakdown). Use teriparatide for severe osteoporosis/multiple fractures when anti-resorptives fail.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "69f4e7f5-6ff7-4826-bc91-3d465eda6b13",
+    "stem": "A patient cannot abduct their shoulder following a neck tumour operation. Which nerve is most likely damaged?",
+    "options": [
+      "Glossopharyngeal nerve (CN IX)",
+      "Vagus nerve (CN X)",
+      "Spinal accessory nerve (CN XI)",
+      "Musculocutaneous nerve",
+      "Axillary nerve"
+    ],
+    "correct_option": 2,
+    "explanation": "The spinal accessory nerve (CN XI) innervates the sternocleidomastoid (neck rotation/flexion) and trapezius (shoulder elevation, scapular rotation, shoulder abduction >90°). Neck dissection for tumour/lymphadenopathy frequently damages CN XI as it runs through the posterior triangle of the neck. Resulting trapezius paralysis: inability to elevate the shoulder, impaired abduction above 90°, winging of the scapula (lateral type — relieved by shoulder shrug test). CN IX: glossopharyngeal — taste, gag reflex, carotid sinus. CN X: vagus — speech, swallowing, cardiac, GI. Musculocutaneous: elbow flexion, forearm supination. Axillary nerve: deltoid (initiates abduction 0–90°) — would also cause shoulder abduction deficit. MRCP pearl: Post-neck surgery + shoulder abduction deficit = CN XI (spinal accessory). Wall push test → long thoracic nerve (serratus anterior). Shoulder shrug → CN XI (trapezius).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "7b3390a8-427d-4b1d-b19a-f78a97bd41a8",
+    "stem": "A 24-year-old male returns from a holiday with diarrhoea and joint pain. He has a painful red eye with discharge but normal vision. What is the most likely extra manifestation?",
+    "options": [
+      "Conjunctivitis",
+      "Scleritis",
+      "Episcleritis",
+      "Anterior uveitis",
+      "Keratoconjunctivitis sicca"
+    ],
+    "correct_option": 0,
+    "explanation": "Reactive arthritis (formerly Reiter's syndrome) classically follows gastrointestinal (Campylobacter, Salmonella, Shigella, Yersinia) or genitourinary (Chlamydia) infection 1–4 weeks prior. Triad: non-gonococcal urethritis + conjunctivitis + arthritis ('can't see, can't pee, can't bend my knee'). The painful eye with discharge and normal vision = conjunctivitis (not uveitis). Conjunctivitis is the most common ocular manifestation — bilateral, mucopurulent discharge, mild. Anterior uveitis (iritis): painful red eye, photophobia, blurred vision — associated with chronic spondyloarthropathies (AS, psoriatic) but less common in reactive arthritis acutely. Scleritis: deep aching pain, associated with RA/vasculitis. HLA-B27 association. MRCP pearl: Reactive arthritis = conjunctivitis (not uveitis acutely) + urethritis + asymmetric oligoarthritis. HLA-B27 positive in ~70%.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "48413955-2819-41a9-ada6-79edcba338e4",
+    "stem": "A 46-year-old has pain at the base of the thumb worsening with thumb movement (abduction and adduction). There is no history of trauma. What is the most likely diagnosis?",
+    "options": [
+      "Osteoarthritis of the 1st carpometacarpal joint",
+      "De Quervain's tenosynovitis",
+      "Avascular necrosis of the scaphoid",
+      "Trigger thumb",
+      "Carpal tunnel syndrome"
+    ],
+    "correct_option": 0,
+    "explanation": "Osteoarthritis of the 1st carpometacarpal (CMC) joint (basal thumb OA) is the most common cause of base-of-thumb pain in middle-aged adults. Features: deep pain at the base of the thumb aggravated by pinching/gripping, bony swelling at CMC joint, crepitus. Grind test positive (compression and rotation of first metacarpal on trapezium). De Quervain's tenosynovitis: affects the abductor pollicis longus and extensor pollicis brevis in the first extensor compartment — pain over radial styloid, positive Finkelstein's test (ulnar deviation with thumb enclosed in fist). Pain is more radial/wrist than CMC base. Scaphoid: anatomical snuffbox tenderness, post-trauma. MRCP/MSK pearl: Thumb base pain + no trauma + middle-aged = 1st CMC OA (basal thumb arthritis). X-ray shows joint space narrowing, osteophytes, subluxation. Treat: splint, steroid injection, surgery (trapeziectomy).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "991244ec-1730-4d91-be2e-3becbe0529e1",
+    "stem": "What regulates the opening of fast sodium channels on cardiac myocytes?",
+    "options": [
+      "Membrane resting potential",
+      "Acetylcholine receptor stimulation",
+      "Calcium influx",
+      "Myocardial wall stretch",
+      "Changes in membrane voltage (voltage-gated)"
+    ],
+    "correct_option": 4,
+    "explanation": "Fast sodium channels (Nav1.5) in cardiac myocytes are voltage-gated — they open in response to membrane depolarisation when the threshold potential (~-70 mV) is reached. When an adjacent cell depolarises, gap junctions spread the depolarising current, raising the membrane potential to threshold, opening Nav1.5, allowing rapid Na⁺ influx (Phase 0). They then rapidly inactivate (refractory period). Acetylcholine: acts on K⁺ channels (IKACh) in SA/AV nodes (parasympathetic). Calcium influx: L-type Ca²⁺ channels control Phase 2 (plateau) — also voltage-gated but slower. Myocardial stretch: Frank-Starling mechanism — affects force but not Na⁺ channel opening. MRCP pearl: All fast sodium channels in ventricular myocytes = voltage-gated. Class I antiarrhythmics (flecainide, lidocaine, quinidine) block Nav1.5 → slow phase 0 → wide QRS.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "0b1c146b-80c6-4168-bafe-60510bc5fd8f",
+    "stem": "A man returns from West Africa 6 months ago with intermittent fever, night sweats, rigors, myalgia and hepatosplenomegaly. Which organism is most likely responsible?",
+    "options": [
+      "Brucella species",
+      "Dengue virus",
+      "Plasmodium falciparum",
+      "Plasmodium ovale",
+      "Plasmodium vivax"
+    ],
+    "correct_option": 2,
+    "explanation": "Plasmodium falciparum is the most common and most dangerous malaria parasite in West Africa, accounting for >95% of malaria deaths. Unlike P. vivax/ovale which can relapse (dormant liver hypnozoites), P. falciparum does NOT relapse from a liver stage but can persist as blood-stage infection for months if inadequately treated. Six months is within the time frame for persistent/undertreated falciparum infection. Features: high fever (not reliably cyclical with falciparum), hepatosplenomegaly, anaemia, jaundice, and risk of severe malaria (cerebral, ARDS, hypoglycaemia). Diagnosis: thick and thin blood film + RDT (HRP2 antigen). Treatment: artemisinin combination therapy (ACT). Brucellosis: animal exposure, undulant fever. Dengue: <2 weeks incubation, no hepatosplenomegaly. P. ovale: West Africa + relapse, but less common. MRCP pearl: West Africa + fever + hepatosplenomegaly + 6 months later = P. falciparum (or consider P. malariae which can persist years). Always do thick film.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "3450ed46-3311-4d18-a314-f794a6d58fab",
+    "stem": "A patient with opioid overdose has a respiratory rate of 6/min. Which ABG result is most consistent with this presentation?",
+    "options": [
+      "pH 7.35, PO₂ low, PCO₂ high (respiratory acidosis, compensated)",
+      "pH 7.32, PO₂ low, PCO₂ low (metabolic acidosis)",
+      "pH 7.50, PO₂ normal, PCO₂ low (respiratory alkalosis)",
+      "pH 7.25, PO₂ normal, PCO₂ high (uncompensated respiratory acidosis)",
+      "pH 7.42, PO₂ high, PCO₂ normal"
+    ],
+    "correct_option": 0,
+    "explanation": "Opioid overdose causes respiratory depression → hypoventilation → CO₂ retention (↑PCO₂) → respiratory acidosis (↓pH). With RR 6/min and partial metabolic compensation (kidneys retaining HCO₃⁻), pH may be near-normal or mildly acidotic (7.35). PO₂ is low due to hypoventilation. The ABG pattern: mild respiratory acidosis (low pH or low-normal), high PCO₂, low PO₂. Option A (pH 7.35, low PO₂, high PCO₂) best represents partially compensated or early respiratory failure from opioid overdose. Option B (low PCO₂) would suggest hyperventilation or metabolic acidosis — inconsistent with opioid toxidrome. Treatment: naloxone IV (may require repeat dosing for long-acting opioids). MRCP pearl: Opioid OD = respiratory acidosis (high CO₂) + low O₂ + miosis + CNS depression. Reversed by naloxone.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "4981d19a-ac22-4db5-bb7b-3e1c6ca63f93",
+    "stem": "A terminally ill patient is agitated and restless. What is the most appropriate route and drug for immediate management?",
+    "options": [
+      "Subcutaneous midazolam (via syringe driver)",
+      "IV lorazepam",
+      "Oral diazepam",
+      "IM haloperidol",
+      "Sublingual lorazepam"
+    ],
+    "correct_option": 0,
+    "explanation": "Terminal agitation (terminal restlessness) in dying patients is best managed with subcutaneous (SC) midazolam, typically via a continuous subcutaneous infusion (CSCI) using a syringe driver. Midazolam is the anxiolytic of choice in palliative sedation — rapid onset, titratable, SC route avoids need for IV access. Starting dose: 2.5–5 mg SC PRN or 5–30 mg/24h CSCI. Can be combined with diamorphine and/or haloperidol in the syringe driver. IV lorazepam: appropriate for acute seizures but not practical for ongoing palliative management. Oral diazepam: long half-life, active metabolites accumulate — poorly absorbed in dying patients. MRCP/palliative pearl: Terminal agitation → SC midazolam (CSCI). Combine with SC haloperidol if delirium component. SC glycopyrronium for secretions. SC diamorphine for pain/dyspnoea.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "e70e1f73-76e0-4b69-92bf-abd7f8bb5b3e",
+    "stem": "A drug is given IV. One minute later, serum concentration is 640 ng/L. The drug's elimination half-life is 12 hours. What will the serum concentration be after 48 hours?",
+    "options": [
+      "40 ng/L",
+      "80 ng/L",
+      "160 ng/L",
+      "20 ng/L",
+      "320 ng/L"
+    ],
+    "correct_option": 0,
+    "explanation": "After 48 hours with a 12-hour half-life: Number of half-lives = 48/12 = 4 half-lives. Concentration after each half-life: 640 → 320 → 160 → 80 → 40 ng/L. After 4 half-lives = 640 × (1/2)⁴ = 640/16 = 40 ng/L. Key pharmacokinetic principle: after 5 half-lives, drug is ~97% eliminated (approximately zero). Clinical application: time to steady state = ~5 half-lives (e.g., digoxin t½ ~36h → steady state ~7 days). MRCP statistics/pharmacokinetics pearl: Drug concentration after n half-lives = C₀ × (0.5)ⁿ. Loading dose achieves therapeutic levels faster than waiting for steady state.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "a45bab90-d3b0-4d80-bf43-a2a52a42c050",
+    "stem": "A patient with idiopathic intracranial hypertension (IIH) has papilloedema. What is the most likely additional finding on fundoscopy?",
+    "options": [
+      "Central scotoma",
+      "Arcuate scotoma",
+      "Enlarged blind spot",
+      "Bitemporal hemianopia",
+      "Tunnel vision"
+    ],
+    "correct_option": 2,
+    "explanation": "Papilloedema from IIH causes enlargement of the physiological blind spot on formal visual field testing (Goldmann perimetry or automated fields). The swollen optic disc expands the area of non-seeing retina around the optic disc. The enlarged blind spot is the earliest visual field defect in papilloedema and may be found before the patient notices visual symptoms. Other visual field defects in progressive IIH: inferior nasal field loss, generalised constriction, eventually blindness. Central scotoma: optic neuritis (demyelination), maculopathy. Arcuate scotoma: glaucoma (nerve fibre bundle defect). Bitemporal hemianopia: chiasmal compression. MRCP pearl: IIH/papilloedema = enlarged blind spot (earliest) → inferonasal field loss → constriction. Treat IIH with weight loss, acetazolamide, LP if urgent, optic nerve sheath fenestration for sight-threatening cases.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "f0595d6a-68a6-4291-a40f-94f718d0952d",
+    "stem": "A patient cannot initiate shoulder abduction or perform external rotation. Which nerve is damaged?",
+    "options": [
+      "C5 nerve root",
+      "Suprascapular nerve",
+      "Axillary nerve",
+      "Long thoracic nerve",
+      "Musculocutaneous nerve"
+    ],
+    "correct_option": 1,
+    "explanation": "The suprascapular nerve (C5, C6) innervates: supraspinatus (initiates first 15° of shoulder abduction) and infraspinatus (external rotation). Damage → isolated inability to initiate abduction + weakness of external rotation. Causes: overhead sports (volleyball, baseball), direct trauma, compressive cysts at spinoglenoid/suprascapular notch. Axillary nerve (C5, C6): innervates deltoid (abduction 15–90°) and teres minor (external rotation) — would cause similar but broader deficit and loss of sensation over regimental badge area. Key distinction: suprascapular nerve = only supraspinatus + infraspinatus. Axillary nerve = deltoid + teres minor + lateral shoulder sensation. Long thoracic: serratus anterior (winging). MRCP pearl: Cannot initiate abduction + no external rotation = suprascapular nerve. Test: shoulder external rotation weakness with arm at side (not deltoid-dependent).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "6f53837b-be0f-4fd6-97e6-c9176b0e9f61",
+    "stem": "A patient has a 6 mm central visual field loss with blurred central vision. Where is the most likely lesion?",
+    "options": [
+      "Central retinal vein occlusion (CRVO)",
+      "Central retinal artery occlusion (CRAO)",
+      "Optic nerve (optic neuritis/AION)",
+      "Macula",
+      "Occipital cortex"
+    ],
+    "correct_option": 3,
+    "explanation": "Central (macular) vision loss with a defined 6 mm central scotoma points to a macular lesion. The macula (specifically the fovea) is responsible for central detailed vision. Macular pathology (macular degeneration, macular hole, central serous chorioretinopathy) causes a central scotoma — loss of the central visual field. CRVO: generalised visual field loss, 'stormy' fundus with haemorrhages. CRAO: sudden painless loss of entire visual field, 'cherry red spot'. Optic nerve: central scotoma can occur with optic neuritis (demyelination), but is associated with pain on eye movement and the field defect tends to be larger. Occipital cortex: contralateral homonymous hemianopia. MRCP pearl: Central scotoma + gradual onset = macular degeneration (AMD). Central scotoma + young patient + pain on eye movement = optic neuritis (MS).",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "9199721c-abb8-4846-a23d-44a0b03af516",
+    "stem": "A patient presents 1 month after potential HIV exposure with a maculopapular rash and no travel history. What is the most appropriate next investigation?",
+    "options": [
+      "HIV Ag/Ab combination test (4th generation)",
+      "HIV PCR (viral load)",
+      "Start post-exposure prophylaxis (PEP)",
+      "HIV viral load monitoring",
+      "Western blot confirmation"
+    ],
+    "correct_option": 0,
+    "explanation": "4th generation HIV Ag/Ab combination test detects both p24 antigen (appears 2–4 weeks post-infection) and HIV-1/2 antibodies (appear 3–12 weeks). At 1 month post-exposure, this test is highly reliable (window period almost closed). A maculopapular rash at 1 month suggests acute HIV seroconversion illness (primary HIV infection), which presents 2–6 weeks after exposure with: fever, pharyngitis, lymphadenopathy, maculopapular rash ('HIV exanthem'), arthralgia. PEP: must be initiated within 72 hours of exposure — irrelevant at 1 month. HIV viral load/PCR: used to confirm acute infection or monitor treatment — not first-line screening. MRCP pearl: Seroconversion illness = 2–6 weeks post-exposure. At 1 month, 4th generation Ag/Ab test is diagnostic. Most reliable from 6 weeks post-exposure.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "b03a0a9b-6c70-461c-ab0d-454c56b93bcc",
+    "stem": "A patient has euvolaemic hyponatraemia with urine osmolality high, urine sodium >30 mmol/L and no orthostatic hypotension. SIADH is suspected. What should be done next before confirming the diagnosis?",
+    "options": [
+      "Check adrenal function (cortisol/short Synacthen test)",
+      "No further tests required — diagnose SIADH",
+      "Check serum cholesterol",
+      "Start fluid restriction immediately",
+      "Check serum uric acid"
+    ],
+    "correct_option": 0,
+    "explanation": "Before diagnosing SIADH, adrenal insufficiency (Addison's disease) must be excluded — it can exactly mimic SIADH: euvolaemia, low sodium, concentrated urine, elevated urine sodium. Mechanism: cortisol deficiency impairs free water excretion and causes non-osmotic ADH release. If adrenal insufficiency is missed and the patient is given hypertonic saline or fluid restriction (SIADH treatment), they may deteriorate dangerously without hydrocortisone. Similarly, hypothyroidism must be excluded. True SIADH = exclude: adrenal insufficiency, hypothyroidism, renal failure, cardiac failure, liver failure, diuretics. MRCP pearl: SIADH diagnosis requires: euvolaemia + concentrated urine + urine Na >20 + no other cause. Always exclude Addison's and hypothyroidism first — these are SIADH mimics and are dangerous if missed.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "22be3a17-1f4e-4eef-940a-f79bd96addbf",
+    "stem": "An elderly male presents with fatigue, pallor, extensive bruising, and difficulty passing urine for 2 years. Blood film shows a leukoerythroblastic picture with fragmented RBCs. What is the most likely diagnosis?",
+    "options": [
+      "Metastatic prostate cancer with bone marrow infiltration",
+      "Thrombotic thrombocytopenic purpura (TTP)",
+      "Aplastic anaemia",
+      "Myelodysplastic syndrome",
+      "Autoimmune haemolytic anaemia"
+    ],
+    "correct_option": 0,
+    "explanation": "The combination of: (1) Elderly male with 2-year urinary retention/hesitancy (BPH or prostate cancer), (2) Leukoerythroblastic blood film (immature WBCs + nucleated RBCs — bone marrow infiltration), (3) Microangiopathic changes (fragmented RBCs — MAHA from DIC), (4) Pancytopenia → strongly suggests metastatic prostate cancer with bone marrow infiltration causing DIC. Prostate cancer is the most common bone-metastasising cancer in elderly men. Bone marrow infiltration → leukoerythroblastic picture. DIC → MAHA. Pancytopenia → fatigue, bruising. TTP: MAHA + thrombocytopenia + fever + neurological + renal — but no leukoerythroblastic picture or urinary symptoms. Aplastic anaemia: pancytopenia but NO leukoerythroblastic picture (hypocellular marrow). MRCP pearl: Leukoerythroblastic film + elderly man + urinary symptoms + MAHA = bone marrow infiltration from prostate cancer. Check PSA urgently.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "6b4a6bfb-dd33-4565-883a-cc783b7235fb",
+    "stem": "A sailor returning from the Indian Ocean 1 week ago presents with fever, maculopapular rash, generalised lymphadenopathy, severe joint pain and periarticular swelling. TLC is low. What is the most likely diagnosis?",
+    "options": [
+      "Measles",
+      "Dengue fever",
+      "Chikungunya",
+      "Malaria",
+      "Leptospirosis"
+    ],
+    "correct_option": 2,
+    "explanation": "Chikungunya (CHIKV — alphavirus, Aedes mosquito) is the diagnosis: (1) Indian Ocean — endemic region, (2) Fever + maculopapular rash + lymphadenopathy — viral exanthem, (3) Severe symmetric polyarthralgia/arthritis and periarticular swelling — the hallmark of chikungunya (pain can be so severe patients cannot walk), (4) Leukopenia (low TLC) — typical viral lymphopenia. Key differentiator from dengue: chikungunya causes severe incapacitating joint pain while dengue causes bone/myalgia ('breakbone fever') with bleeding tendency. MRCP pearl: Chikungunya = 'that which bends up' (from Makonde language) — severe arthralgia. Indian Ocean islands, Caribbean, Sub-Saharan Africa. Can cause chronic arthritis for months. No specific antiviral — supportive treatment with NSAIDs.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "1cc724c9-4d80-40f7-99de-f5fc0467dd54",
+    "stem": "A 69-year-old woman has a 7-month history of weight loss, pruritus, elevated ALP, painless jaundice, and is newly diagnosed with diabetes. What is the most likely diagnosis?",
+    "options": [
+      "Primary biliary cholangitis (PBC)",
+      "Primary sclerosing cholangitis (PSC)",
+      "Cholangiocarcinoma",
+      "Pancreatic head cancer",
+      "Hepatocellular carcinoma"
+    ],
+    "correct_option": 3,
+    "explanation": "Pancreatic head carcinoma presents with Courvoisier's triad: painless jaundice + palpable gallbladder + weight loss. The pancreatic head compresses the common bile duct → cholestatic jaundice (high ALP, bilirubin, pruritus). New-onset diabetes in a thin, elderly patient = paraneoplastic (pancreatic cancer destroys islet cells). Weight loss: cancer cachexia. This clinical syndrome is a 'must not miss' diagnosis. Investigations: CA 19-9 (elevated, not specific), CT abdomen with contrast (double duct sign — dilated CBD + pancreatic duct), ERCP/EUS for biopsy. PBC: AMA positive, middle-aged woman, no painless jaundice initially. PSC: young men, IBD association, stricturing biliary tree. Cholangiocarcinoma: possible but less typical new DM. MRCP pearl: Elderly + painless jaundice + new DM + weight loss + high ALP = pancreatic head carcinoma until proven otherwise. Urgent CT and surgical referral.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "630cd7c0-fd27-4e5a-83eb-3ec7a76a14b2",
+    "stem": "A woman with diarrhoea with mucus (worse with high-fibre foods), difficulty attending work, and a normal colonoscopy and electrolytes. No weight loss. What is the most appropriate next step?",
+    "options": [
+      "No further investigations required",
+      "Repeat colonoscopy",
+      "Screen for laxative abuse",
+      "Faecal calprotectin",
+      "CT abdomen"
+    ],
+    "correct_option": 0,
+    "explanation": "This is classic IBS (Rome IV criteria: recurrent abdominal symptoms ≥1 day/week, associated with defaecation or stool change, for 3+ months). With a normal colonoscopy ruling out IBD and structural disease, and no alarm features (no weight loss, no blood, normal electrolytes), no further investigations are warranted. The finding that symptoms worsen with high-fibre food is consistent with IBS-D (fibre increases fermentation, bloating). Management: patient education, dietary advice (low FODMAP diet), antispasmodics (mebeverine), loperamide (for diarrhoea), psychological therapies (CBT) for refractory cases. Laxative screening: no indication here (diarrhoea, not constipation). MRCP pearl: IBS with normal investigations and no alarm features = no further investigation. Alarm features requiring investigation: rectal bleeding, weight loss, age >50 new onset, nocturnal symptoms, family history of CRC/IBD.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  },
+  {
+    "id": "88ca8175-f71e-44be-90b3-ae33795386dc",
+    "stem": "A patient with persistent hypertension on an ACE inhibitor and doxazosin requires renin:aldosterone ratio measurement to investigate for primary hyperaldosteronism. Which drug must be stopped before testing?",
+    "options": [
+      "ACE inhibitor",
+      "Doxazosin",
+      "Omeprazole",
+      "Effervescent potassium tablets",
+      "All of the above"
+    ],
+    "correct_option": 0,
+    "explanation": "For accurate aldosterone:renin ratio (ARR) testing (to diagnose Conn's syndrome/primary hyperaldosteronism): ACE inhibitors and ARBs must be stopped ≥2 weeks before testing — they suppress angiotensin II → increase renin → lower ARR, potentially masking primary hyperaldosteronism (false negative). Aldosterone-raising drugs (spironolactone, eplerenone) must also be stopped ≥4 weeks. Medications that can continue: calcium channel blockers, doxazosin (alpha-blockers) — these have minimal effect on ARR and are the preferred antihypertensives during washout. Beta-blockers: suppress renin (can give false positive) — ideally stop if possible. Omeprazole: no significant effect on ARR. MRCP pearl: Before ARR: stop ACEi/ARB (2 weeks), spironolactone/amiloride (4 weeks). Continue: CCB, doxazosin. Doxazosin is the preferred bridge antihypertensive during aldosterone testing.",
+    "tags": [
+      "MRCP August 2024 Recall Paper I"
+    ],
+    "source": "MRCP August 2024 Recall Paper I"
+  }
+]

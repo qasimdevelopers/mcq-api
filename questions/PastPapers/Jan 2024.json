@@ -1,0 +1,1600 @@
+[
+  {
+    "id": "04c3e339-1d2c-4673-bf83-97906ba27512",
+    "stem": "A 26-year-old woman presents to the Emergency Department with persistent vomiting. She says that when she was given a drug for vomiting two years earlier, she suffered double vision and neck spasms and was unable to speak. Which of the following drugs should be absolutely avoided in this case?",
+    "options": [
+      "Chlorpheniramine",
+      "Cyclizine",
+      "Domperidone",
+      "Metoclopramide",
+      "Ondansetron"
+    ],
+    "correct_option": 3,
+    "explanation": "Metoclopramide\nMetoclopramide is a potent dopamine antagonist and the likely cause of this patient's symptoms two years ago, which suggests an oculogyric crisis. In this situation, alternatives to potent dopamine antagonists, such as metoclopramide and chlorpromazine, are recommended. Potential agents include cyclizine, an antihistamine antiemetic and ondansetron, a 5-HT3 serotonin-receptor antagonist. Cholinergic antagonists such as benztropine are the intervention of choice for an oculogyric crisis,\n\nChlorpheniramine\nChlorpheniramine is a potent antihistamine with sedating properties. It does not have any significant dopamine- antagonist properties and, therefore, is a safe option for this patient and is used for its anticholinergic effect in the treatment of oculogyric crisis.\n\nCyclizine\nCyclizine is an antihistamine-based antiemetic. It can be used safely in this patient who has experienced a previous oculogyric crisis with dopamine-antagonist-based antiemetic therapy. It is a usual first-line agent for treating hyperemesis and 5-HT3 serotonin antagonists such as ondansetron.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "beb50632-4884-49c0-a878-bff328cc916a",
+    "stem": "A 45-year-old computer programmer presents to the Rheumatology Clinic complaining of pain over the thumb. She has recently returned to work after maternity leave. There is tenderness over the radial stylus and pain when the thumb is flexed across the palm. What is the most likely diagnosis?",
+    "options": [
+      "De Quervain's tenosynovitis",
+      "Osteoarthritis",
+      "Rheumatoid arthritis",
+      "Scaphoid arthritis",
+      "Stenosing tenosynovitis"
+    ],
+    "correct_option": 0,
+    "explanation": "De Quervain's tenosynovitis\nDe Quervain's tenosynovitis is associated with pain over the radial styloid with thickening and tenderness, as seen here. Palmar flexion of the thumb results in sharp pain, known as Finkelstein's test. The condition can develop as a result of repetitive carrying and may be related to her recent time on maternity leave. Splinting and corticosteroid injection are the initial interventions of choice. In patients who fail to respond then surgical tendon release may be considered.\n\nOsteoarthritis\nArthritis does affect the base of the thumb, most commonly over the carpometacarpal joint. It does not lead to pain over the radial stylus, which is more suggestive of De Quervain's tenosynovitis.\n\nRheumatoid arthritis\nRheumatoid arthritis most commonly affects both hands' metacarpal–phalangeal and proximal interphalangeal joints, rather than the thumb in isolation.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "07bc1d66-0c08-4f84-b638-b1f21bd34727",
+    "stem": "A 74-year-old woman presents to the Dermatology Clinic complaining of large, itchy, blisters mostly affecting skin flexures on her upper and lower limbs and her lower abdomen. Her oral cavity is relatively spared. She has several large tense blisters affecting her skin, some up to 3–4 cm in diameter. A number of these have ruptured, leaving patches of erythematous skin. What is the most likely underlying cause of her symptoms?",
+    "options": [
+      "Dermatitis herpetiformis",
+      "Erythema multiforme",
+      "Erythema nodosum",
+      "Pemphigoid",
+      "Pemphigus"
+    ],
+    "correct_option": 3,
+    "explanation": "Pemphigoid\nPemphigoid is associated with large, tense blisters commonly affecting skin flexures and the lower abdomen. The buccal cavity is rarely affected, which fits well with pemphigoid as the cause of this patient’s symptoms. Pemphigoid is caused by autoantibodies to the hemidesmosomal proteins BP180 and BP230. These lead to neutrophil chemotaxis, degradation of the skin’s basement membrane, and blister formation. Corticosteroids are the initial intervention of choice.\n\nDermatitis herpetiformis\nDermatitis herpetiformis is associated with gluten enteropathy and is a vesicular rash affecting the buttocks and posterior thighs. It is intensely itchy. The rash responds to strict avoidance of gluten.\n\nErythema multiforme\nErythema multiforme is associated with the formation of target lesions and discrete circular areas of erythema. It is also associated with infection and with the use of certain drugs, such as non-steroidal anti-inflammatory agents, antibiotics and anticonvulsants.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "773f24bc-e57d-4082-9fb0-713b79cab493",
+    "stem": "A 35-year-old man is brought to the Emergency Department with a 6-week history of night sweats, a chronic cough productive of blood-stained sputum and weight loss of 8 kg. He smokes five cigarettes per day. Auscultation of the chest reveals signs of left upper lobe consolidation. Investigation Result Normal value Haemoglobin 109 g/l 135–175 g/l White cell count 13.2 × 10 9/l 4.0–11.0 × 10 9/l Platelets 302 × 10 9/l 150–400 × 10 9/l Sodium 134 mmol/l 135–145 mmol/l Potassium 4.5 mmol/l 3.5–5.0 mmol/l Creatinine 95 µmol/l 60–120 µmol/l Chest X-ray Left upper lobe consolidation What is the most likely cause of his symptoms?",
+    "options": [
+      "Bronchial carcinoma",
+      "Klebsiella pneumonia",
+      "Psittacosis",
+      "Sarcoidosis",
+      "Tuberculosis"
+    ],
+    "correct_option": 4,
+    "explanation": "Tuberculosis\nThe clinical picture here, with haemoptysis, night sweats and upper lobe consolidation fits with tuberculosis (TB) as the likely diagnosis. Sputum analysis and culture looking for acid- and alcohol-fast bacteria is the gold standard for confirming the diagnosis. Other methods to confirm active TB, such as sputum PCR and quantiferon-gamma testing, may also be considered.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "e3f4c861-72c0-4ffc-8f26-76e3b1b80b0b",
+    "stem": "A 23-year-old woman is referred to the Psychiatric Clinic. She was previously well but now refuses to attend a cervical smear test because she is anxious about the result being abnormal. Her grandfather recently died of colon cancer, which was diagnosed after a positive faecal occult blood sample. What is the most likely underlying diagnosis?",
+    "options": [
+      "Adjustment disorder",
+      "Borderline personality disorder",
+      "Depression",
+      "Generalised anxiety disorder",
+      "Histrionic personality disorder"
+    ],
+    "correct_option": 0,
+    "explanation": "Adjustment disorder\nThis patient's symptoms fit best with an adjustment disorder, where she has an abnormal reaction to investigations towards monitoring her health because of the death of her grandfather following a colon cancer diagnosis, which was identified by faecal occult blood testing. Nervousness and worry about visiting the doctor are supportive of the diagnosis. Treatment is with cognitive behavioural therapy.\n\nBorderline personality disorder\nBorderline personality disorder is characterised by difficulty controlling emotion, low self-esteem, mood swings and impulsive behaviours, including rapid cycling through relationships.\n\nDepression\nChat Anxiety can co-exist with depression, but we are given no symptoms to suggest depression here, such as low mood, loss of appetite or early-morning wakening.\n\nGeneralised anxiety disorder\nGeneralised anxiety disorder is characterised by constantly feeling on edge and a fear/dread of events ahead. Somatic symptoms can include palpitations, shortness of breath and lethargy.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "fdaeb082-b0cc-4d71-91a3-bf7b780344ee",
+    "stem": "A 22-year-old man presents to the Emergency Department with tea-coloured urine. He has been suffering from an upper respiratory-tract infection for the past 48 hours. His BP is 132/82 mmHg, and his heart rate is 72 bpm and regular. His BMI is 23 kg/m 2. Investigation Result Normal value Sodium 143 mmol/l 135–145 mmol/l Potassium 3.8 mmol/l 3.5–5.0 mmol/l Creatinine 105 µmol/l 60–120 µmol/l Urine analysis Protein 3+, blood 1+ What is the most likely cause of his symptoms?",
+    "options": [
+      "Anti-glomerular basement membrane disease",
+      "Eosinophilic granulomatosis with polyangiitis",
+      "Granulomatosis with polyangiitis",
+      "Immunoglobulin A nephropathy",
+      "Post-streptococcal glomerulonephritis"
+    ],
+    "correct_option": 3,
+    "explanation": "Immunoglobulin A nephropathy\nImmunoglobulin A (IgA) nephropathy is associated with haematuria around 48 hours after a viral upper respiratory tract infection and variable proteinuria. Both the level of proteinuria and hypertension are linked to the prognosis concerning glomerular filtration rate progression. Angiotensin-converting enzyme inhibitors are the initial intervention of choice. Evidence also exists for sparsentan, an endothelin antagonist, budesonide, a corticosteroid, and sodium–glucose-transporter-2 inhibitors in reducing the progression of renal disease.\n\nAnti-glomerular basement membrane disease\nAnti-glomerular basement membrane disease leads to rapidly progressive renal impairment with pulmonary and renal haemorrhage, which is inconsistent with the clinical picture seen here. Marked haematuria in the presence of normal creatinine near a respiratory tract infection fits best with IgA nephropathy.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b0797168-fd5d-4511-a934-b049071e837e",
+    "stem": "A 42-year-old woman who is taking long-term methotrexate for rheumatoid arthritis is referred to the Dermatology Clinic with a lesion on her upper chest. There is an erythematous papular lesion, which has now begun to ulcerate. What is the most likely underlying diagnosis?",
+    "options": [
+      "Malignant melanoma",
+      "Squamous-cell carcinoma",
+      "Basal-cell carcinoma",
+      "Kaposi's sarcoma",
+      "Keratoacanthoma"
+    ],
+    "correct_option": 1,
+    "explanation": "Squamous-cell carcinoma\nIn patients treated with long-term immunosuppression, squamous-cell carcinomas are the most common skin cancer seen. The presence of a nodule on the upper chest, which has grown and ulcerated, is consistent with the diagnosis.\n\nMalignant melanoma\nThe risk of malignant melanoma is significantly increased in immunosuppressed patients up to sixfold compared with the general population, though it is still not as high as that of squamous-cell carcinoma. In this case, the clinical picture is more consistent with a squamous-cell carcinoma than a melanoma.\n\nBasal-cell carcinoma\nChat Basal-cell carcinomas most commonly appear as a shiny, raised lesion with a pearlescent appearance. There is also usually telangiectasia over the surface of the lesion.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "f737c08d-3da9-4c7c-a582-1def6e6215c6",
+    "stem": "An 80-year-old man is reviewed on the Orthopaedic Ward, where he is awaiting a left total hip replacement. He normally lives alone. The nurses note that he has been banging into objects when walking to the toilet. He appears not to see them when they enter his side room but says that every evening, as it is going dark, he can see children playing at the end of his bed. What is the most likely cause of his symptoms?",
+    "options": [
+      "Charles Bonnet syndrome",
+      "Occipital lobe seizures",
+      "Delirium",
+      "Lewy body dementia",
+      "Parkinson's disease"
+    ],
+    "correct_option": 0,
+    "explanation": "Charles Bonnet syndrome\nCharles Bonnet syndrome is characterised by complex visual hallucinations, which may include repeating geometric patterns or people, for example, standing at the end of the bed. The evidence of reduced visual acuity (banging into objects around the ward) fits with the diagnosis. It is likely he has learned the position of objects around his home, allowing him to live independently. Treatment involves formal assessment of visual acuity and counselling as to the nature of the hallucinations and the fact that they are not real.\n\nOccipital lobe seizures\nOccipital lobe seizures are unlikely to occur at the same time each day. The fact this patient is capable of independent living, has evidence of poor vision and only has hallucinations in the evening fits best with Charles Bonnet syndrome.\n\nDelirium\nDelirium is associated with confusion. In this case, isolated visual hallucinations occur at the onset of darkness, often when visual acuity may be reduced due to poor lighting. The history suggests that cognition is preserved, making delirium unlikely.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "23b6ed2b-bc56-48e5-9479-dfcda1a1c9a5",
+    "stem": "A 26-year-old woman is referred to the Dermatology Clinic because of an itchy rash affecting her buttocks and posterior thighs. She has lost weight and complains of increasing tiredness over the past few months. Investigation Result Normal value Haemoglobin (Hb) 98 g/l Howell Jolly bodies seen on blood film 120–160 g/l Mean corpuscular volume 78 fl 80–100 fl White cell count 7.2× 10 9/l 4.0–11.0 × 10 9/l Platelets 203 × 10 9/l 150–400 × 10 9/l What is the most likely cause of the changes seen on the blood film?",
+    "options": [
+      "Cytomegalovirus infection",
+      "Glucose-6-phosphate dehydrogenase deficiency",
+      "Hereditary spherocytosis",
+      "Hyposplenism",
+      "Systemic lupus erythematosus"
+    ],
+    "correct_option": 3,
+    "explanation": "Hyposplenism\nThis patient's rash is consistent with dermatitis herpetiformis, and microcytic anaemia implies iron deficiency and possible underlying coeliac disease. Howell Jolly bodies are basophilic nuclear remnants of DNA found within circulating erythrocytes. They would usually be filtered out of circulation by a functioning spleen. In many patients with coeliac disease, functional hyposplenism develops, accounting for the clinical picture seen here. Chat\n\nCytomegalovirus infection\nCytomegalovirus leads to the formation of atypical lymphocytes. Howell Jolly bodies are present as a result of functional hyposplenism and are not linked to viral infection.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "58f23beb-694d-417f-898f-b6934fbb6c39",
+    "stem": "A 29-year-old woman presents to the Emergency Department with tongue swelling, wheezing, hypotension and a rash following a meal at a wedding. She is treated with hydrocortisone and adrenaline. Which investigation is most useful in confirming an allergic reaction?",
+    "options": [
+      "C-reactive protein",
+      "Elastase-1",
+      "Eosinophil count",
+      "Histamine",
+      "Mast-cell tryptase"
+    ],
+    "correct_option": 4,
+    "explanation": "Mast-cell tryptase\nMast-cell tryptase levels are elevated in most patients with an episode of anaphylaxis. Levels peak at around one hour post the event and remain elevated for up to six hours. The reference range is 2–14 µg/l, and in anaphylaxis, levels can be elevated to above 200 µg/l. It has a much longer half-life than histamine and can, therefore, be more easily measured as an indicator of allergic reaction. In this case, patch or radioallergosorbent testing may reveal the causative allergen.\n\nC-reactive protein\nC-reactive protein is a non-specific marker for inflammation. It is not useful for the evaluation of a possible episode of anaphylaxis, where measurement of mast-cell tryptase is preferred.\n\nElastase-1\nElastase-1 may be markedly elevated in acute pancreatitis. Low levels of elastase measured in stool are also used as an indicator of pancreatic insufficiency. Mast-cell tryptase is the most useful marker for an episode of anaphylaxis.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "5cee2d71-0cdd-4ec2-9b10-8997644137e2",
+    "stem": "A 26-year-old woman who eats a largely vegan diet presents to the Rheumatology Clinic complaining of proximal muscle weakness and bony pain. Her BMI is 23 kg/m 2. She has 4/5 power weakness affecting her hip flexors. Investigation Result Normal value Haemoglobin 110 g/l 120–160 g/l White cell count 7.3 × 10 9/l 4.0–11.0 × 10 9/l Platelets 203 × 10 9/l 150–400 × 10 9/l Sodium 142 mmol/l 135–145 mmol/l Potassium 3.9 mmol/l 3.5–5.0 mmol/l Creatinine 82 µmol/l 50–90 µmol/l Calcium (Ca 2+) 2.1 mmol/l 2.1–2.65 mmol/l Alkaline phosphatase 265 U/l 30–130 U/l What is the most likely cause of her symptoms?",
+    "options": [
+      "Hypoparathyroidism",
+      "Osteomalacia",
+      "Primary hyperparathyroidism",
+      "Secondary hyperparathyroidism",
+      "Tertiary hyperparathyroidism"
+    ],
+    "correct_option": 1,
+    "explanation": "Osteomalacia\nOsteomalacia related to low vitamin-D levels is more common in patients who eat a vegetarian diet, particularly one high in beans and pulses. It fits with the clinical picture here of proximal myopathy, bone pain, borderline low Ca 2+, and a rise in alkaline phosphatase due to a compensatory rise in parathyroid hormone (PTH). Vitamin- D supplementation is the intervention of choice.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "87223589-bd48-442f-aa82-4ed596f4a729",
+    "stem": "A 45-year-old woman who has had type I diabetes for 35 years presents to the Emergency Department with decreased visual acuity in her left eye. She says it has been present for the past few days. She takes a basal- bolus regimen for her diabetes but admits to not monitoring her glucose very much. She smokes ten cigarettes per day. Her BP is 155/92 mmHg. Examination of the fundus of the left eye reveals several dot haemorrhages and a circinate of hard exudates adjacent to the macula. Investigation Value Normal range Low-density lipoprotein cholesterol 2.8 mmol/l <2.6 mmol/l HbA1c 72 mmol/mol <48 mmol/mol Creatinine 134 µmol/l 60–90 µmol/l What is the most important next intervention?",
+    "options": [
+      "Targeted laser therapy",
+      "Insulin-pump therapy",
+      "Intra-ocular triamcinolone",
+      "Pan-retinal photocoagulation",
+      "Rosuvastatin"
+    ],
+    "correct_option": 0,
+    "explanation": "Targeted laser therapy\nThis patient has evidence of diabetic retinopathy with sight-threatening changes close to the macula. In this situation, targeted laser therapy to reduce the threat of vitreous haemorrhage is the most appropriate next step. Although improving lipid control, BP control, stopping smoking and improving HbA1c may all be of value in the long-term, it's the short-term risk of haemorrhage that needs to be managedChat here,\n\nInsulin-pump therapy\nInsulin-pump therapy could improve glucose control, although patients require significant motivation. In this case, short-term rapid improvement in glucose control can increase the risk of retinal haemorrhage, meaning that focal laser therapy is the preferred intervention.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "f1b3876d-5743-4c0d-a8a6-e371fa571616",
+    "stem": "A 25-year-old man is referred to the Neurology Clinic because of muscle weakness, which predominantly affects the facial muscles, distal muscles of the forearm and ankle dorsiflexors. He also has frontal balding. There is a marked delay in the relaxation of his hand grip. His father suffers from the same problem. What is the most likely cause of his symptoms?",
+    "options": [
+      "Hereditary motor and sensory neuropathy type I",
+      "Hereditary motor and sensory neuropathy type II",
+      "Myasthenia gravis",
+      "Myotonic dystrophy type I",
+      "Myotonic dystrophy type II"
+    ],
+    "correct_option": 3,
+    "explanation": "Myotonic dystrophy type I\nMyotonic dystrophy type I predominantly affects the facial muscles, forearm muscles and ankle dorsiflexors, which fits with the clinical picture seen here. Patients also suffer from delayed grip relaxation, and men usually suffer from frontal baldness. Type I and type II myotonic dystrophy are inherited in an autosomal dominant fashion. Cardiac arrhythmias occur with increased frequency in patients with myotonic dystrophy, and cognitive impairment is more common in patients with the condition.\n\nHereditary motor and sensory neuropathy type I\nHereditary motor and sensory neuropathy type I presents with both motor and sensory deficits affecting the hands and feet, in contrast to the pure motor deficits seen here, including weakness of the facial muscles. Physiotherapy and the use of walking aids are key steps in treating the disorder.\n\nHereditary motor and sensory neuropathy type II\nHereditary motor and sensory neuropathy type II presents with distal sensory and motor neuropathy affecting the hands and feet, which begins in childhood. Patients may also suffer from high-arched feet, hammer toes, foot drop and scoliosis.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "f045fc6e-3949-4694-8c45-804429f85ad9",
+    "stem": "A 53-year-old man has recently been diagnosed with motor neurone disease. Which of the following tests is most useful in determining prognosis?",
+    "options": [
+      "Forced expiratory volume in one second",
+      "Peak expiratory flow rate",
+      "Pulse oximetry",
+      "6-minute walk test",
+      "Sniff nasal inspiratory pressure"
+    ],
+    "correct_option": 4,
+    "explanation": "Sniff nasal inspiratory pressure\nThe sniff nasal inspiratory pressure (SNIP) measures the strength of muscles that drive inspiration. At this stage, just after diagnosis of motor neurone disease, it's important to measure baseline respiratory muscle function. This test can then be repeated, with follow up at the Neurology Clinic. Forced vital capacity (FVC) should also be measured, which is linked to prognosis concerning opportunistic respiratory-tract infection.\n\nForced expiratory volume in one second\nForced expiratory volume in one second is measured with FVC to determine whether respiratory function follows an obstructive, restrictive or normal pattern. In the case of motor neurone disease, measurement of SNIP and FVC is usually considered, to determine disease progression.\n\nPeak expiratory flow rate\nThe peak expiratory flow rate measures the maximum expiratory flow rate. ItChat is a measure of respiratory muscle function and airway obstruction. It is the usual way to monitor asthma and therapy response.\n\nPulse oximetry\nPulse oximetry is useful in more advanced motor neurone disease to determine baseline oxygenation status. This is important because patients with significant respiratory muscle weakness may chronically retain CO 2 and maintain lower O 2 saturation (91–92%) when well.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "4bc7a77d-e149-4185-8512-bb0f63f10d6e",
+    "stem": "A 54-year-old woman is admitted to the Emergency Department with a fever, confusion and severe muscle spasms. She has returned from a winter holiday in Goa four days earlier. Her partner says she was bitten by a cat during the holiday and that the cat was later found dead. Her temperature is 37.9 °C, and her BP is 152/82 mmHg. She is drowsy and confused, has bilateral increased muscle tone and obvious spasms and is not able to move her limbs in response to basic commands. Investigation Result Normal value Haemoglobin 110 g/l 120–160 g/l White cell count 11.2 × 10 9/l (atypical monocytes seen on blood film) 4.0–11.0 × 10 9/l Platelets 182 × 10 9/l 150–400 × 10 9/l Sodium 134 mmol/l 135–145 mmol/l Potassium 4.5 mmol/l 3.5–5.0 mmol/l Creatinine 90 µmol/l 50–90 µmol/l What is the most likely cause of her symptoms?",
+    "options": [
+      "Botulism",
+      "Creutzfeldt–Jakob disease",
+      "Guillain–Barré syndrome",
+      "Rabies",
+      "Tetanus"
+    ],
+    "correct_option": 3,
+    "explanation": "Rabies\nChat Unfortunately, rabies remains endemic in several areas of the world, including India. It is likely the cat that bit the patient was infected with rabies, and the resultant encephalitis with increased muscle tone and spasm has progressed over a few days. There is progressive confusion, decreased consciousness and eventual coma. Cardiovascular sequelae include episodes of paroxysmal supraventricular tachycardia, followed by bradycardia",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3ddce38a-72f9-4dda-81bd-c88f28e6ff38",
+    "stem": "A 51-year-old man presents to the Emergency Department with pyrexia, confusion and abdominal pain. According to his partner, he continues to drink 500 ml of whisky per day. His temperature is 38.2 °C, BP 95/60 mmHg and heart rate 102 bpm and regular. He has tense ascites and pain on minimal abdominal palpation. Investigation Result Normal value Haemoglobin 92 g/l 135–175 g/l Mean corpuscular volume 103 fl 80–100 fl White cell count (WCC) 13.2 × 10 9/l 4.0–11.0 × 10 9/l Platelets 55 × 10 9/l 150–400 × 10 9/l Sodium 135 mmol/l 135–145 mmol/l Potassium 3.9 mmol/l 3.5–5.0 mmol/l Creatinine 123 µmol/l 60–120 µmol/l Albumin 23 g/l 35–45 g/l Ascitic tap 500 WCC/ml (neutrophils) <250 WCC/ml What is the most appropriate initial intervention?",
+    "options": [
+      "Albumin infusion",
+      "Ascitic drain",
+      "Piperacillin/tazobactam",
+      "Rifaximin",
+      "Platelet transfusion"
+    ],
+    "correct_option": 2,
+    "explanation": "Piperacillin/tazobactam\nThis patient has severe spontaneous bacterial peritonitis with pyrexia, raised peripheral blood WCC and ascitic- fluid cell count. There is also evidence of encephalopathy. In this situation, aggressive antibiotic therapy is required, with piperacillin/tazobactam being the most appropriate intervention. A dose of 4.5 g three times per",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "1483a88b-91fb-4906-a255-00219868966c",
+    "stem": "A 16-year-old boy is referred to the Endocrine Clinic. He is markedly overweight, and according to his parents, he has gained weight progressively over the last six months and has entered puberty. He has no other symptoms. He is 165 cm tall, his BP is 159/95 mmHg, and his heart rate is 72 bpm and regular. His BMI is 37 kg/m 2. There is extensive growth of pubic and axillary hair and a normal-sized penis. Investigation Result Normal value Luteinising hormone (LH) 2.3 IU/l 1.2–8.6 IU/l Follicle-stimulating hormone (FSH) 2.1 IU/l 1.3–19.3 IU/l Thyroid stimulating hormone (TSH) 2.5 mU/l 0.5–4.5 mU/l Testosterone 4 nmol/l 6–27 nmol/l What is the most likely cause of his symptoms?",
+    "options": [
+      "Adrenal tumour",
+      "Congenital adrenal hyperplasia",
+      "Kallmann syndrome",
+      "Klinefelter syndrome",
+      "Noonan syndrome"
+    ],
+    "correct_option": 0,
+    "explanation": "Adrenal tumour\nThis patient has experienced rapid weight gain and developed features of puberty over the last six months. In the presence of low testosterone and low normal LH and FSH, the presence of an alternative androgen is suspected. The most likely cause of virilisation is a rise in dehydroepiandrosterone Chat (DHEA) related to an underlying adrenal tumour. The weight gain is likely due to co-existent elevated levels of adrenal corticosteroids. An urgent adrenal scan is the next step, with a 24-hour urinary cortisol measurement.\n\nCongenital adrenal hyperplasia\nCongenital adrenal hyperplasia is associated with early virilisation. It would not fit with the rapid development of weight gain and entering puberty over the last six months, which fits with an adrenal tumour.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "afb85243-71e2-4619-bf36-faad09eae091",
+    "stem": "A 51-year-old man presents to the Dermatology Clinic with an itchy rash affecting the flexural surfaces of both wrists. He has also developed some pale lesions in the mouth which he says feel sore when he eats. There are several small, erythematous papules affecting the flexural surface of both wrists. They are flat and topped with white streaks. White lesions with a lacy appearance are present within the buccal cavity. What is the most likely cause of his symptoms?",
+    "options": [
+      "Erythema nodosum",
+      "Granuloma annulare",
+      "Lichen amyloidosis",
+      "Lichen planus",
+      "Lichen sclerosus"
+    ],
+    "correct_option": 3,
+    "explanation": "Lichen planus\nLichen planus is thought to be autoimmune in origin and often begins abruptly with small papules, which are itchy and affect the flexural surfaces of the wrists. Oral lesions are also common and occur as white plaques with a lacy appearance. Oral lesions may be asymptomatic, although some patients complain that the lesions are sore. Local steroid therapy may be of value both for oral and skin lesions. Systemic agents such as calcineurin inhibitors or azathioprine may be required in patients with severe symptoms.\n\nErythema nodosum\nErythema nodosum presents as violet or erythematous lesions that occur as raised papules and most commonly affect the shins. It is associated with systemic diseases such as tuberculosis and sarcoidosis and with oestrogen use, such as that found in the oral contraceptive pill.\n\nGranuloma annulare\nGranuloma annulare often presents as a circle of small papules, most commonly affecting the back of the hands. It usually resolves spontaneously over several months, and few patients require intervention. In those with unsightly lesions or with symptoms of itching, topical steroids may be of value.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c8e5b7f5-9a4d-42b4-83c0-f31d80519fa6",
+    "stem": "A 20-year-old man is admitted to the Emergency Department with fevers, easy bruising and hepatosplenomegaly. He is found to have acute promyelocytic leukaemia. Which translocation is most likely to be present?",
+    "options": [
+      "t(8;14)",
+      "t(8;21)",
+      "t(9;22)",
+      "t(14;18)",
+      "t(15;17)"
+    ],
+    "correct_option": 4,
+    "explanation": "t(15;17)\nThe chromosome 15;17 translocation is characteristic of acute promyelocytic leukaemia (APML). The translocation fuses the APML gene to the retinoic-acid receptor alpha-gene, resulting in the production of a PML-RAR-alpha fusion protein. A key feature of APML is that the use of all trans-retinoic acid and arsenic trioxide leads to a very high rate of remission by promoting differentiation of promyelocytes.\n\nt(8;14)\nThe 8;14 translocation is characteristic of Burkitt's lymphoma. It is also found in acute lymphoblastic leukaemia. It moves the c-myc proto-oncogene to a location close to the enhancers of antibody-heavy chain genes, leading to the rapid expansion of lymphoma cells.\n\nt(8;21)\nChat The 8;21 translocation is found in a minority of cases of acute myeloid leukaemia (AML). It results in AML, which is usually responsive to chemotherapy and carries a good prognosis.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "058fa3a2-449f-4c07-a0ef-a553a12e241d",
+    "stem": "A 23-year-old man is brought to the Emergency Department after trying to smash the windows at an electrical store. He says secret agents are talking about him, and he can hear their voices describing his actions. He also believes a plane is circling overhead, and this means he will be struck by a crossbow bolt. He is unkempt and refuses a physical examination. What is the most likely cause of his symptoms?",
+    "options": [
+      "Bipolar disorder",
+      "Borderline personality disorder",
+      "Histrionic personality disorder",
+      "Schizoid personality disorder",
+      "Schizophrenia"
+    ],
+    "correct_option": 4,
+    "explanation": "Schizophrenia\nBoth third-person auditory hallucinations and delusional perceptions described here are cardinal features of schizophrenia. Other features include thought broadcasting and thought insertion. Self-neglect, as is seen here, is also seen in patients with severe schizophrenia. Atypical antipsychotics such as risperidone are the initial intervention of choice. Benzodiazepines may also control agitation, although they are not the primary intervention.\n\nBipolar disorder\nBipolar disorder is characterised by periods of depression and periods of mania/hypomania, symptoms of which can include grandiose delusions and abnormal behaviours, including increased spending. Although delusions and auditory hallucinations can be seen in bipolar disorder, features such as thought insertion and thought broadcasting are not present.\n\nBorderline personality disorder\nBorderline personality disorder is characterised by feelings of emptiness, emotional instability and disturbed patterns of thinking, including paranoia. Patients have difficulty controlling anger and often form intense and brief relationships with others.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "6a530575-1812-4fe2-baab-69377f9cde61",
+    "stem": "A 48-year-old woman with bipolar disorder presents to the Emergency Department complaining of severe constipation. She has been unable to open her bowels for the past three days. She has recently started lithium therapy, and her levels are at the upper end of the normal range. What is the most likely underlying cause of his constipation?",
+    "options": [
+      "Acetylcholinesterase inhibition",
+      "Beta-2-receptor agonism",
+      "Beta-3-receptor agonism",
+      "Cholinergic-receptor agonism",
+      "Cholinergic-receptor antagonism"
+    ],
+    "correct_option": 4,
+    "explanation": "Cholinergic-receptor antagonism\nWhether lithium is an anticholinergic agent has been the subject of debate, but at high doses/high exposure, it does appear to have anticholinergic activity. In this case, given the lithium levels are at the high end of the normal range, dose reduction may be appropriate. A mixed stimulant and stool-softening laxative such as bisacodyl may also help relieve symptoms.\n\nAcetylcholinesterase inhibition\nAcetylcholinesterase inhibitors lead to an increase in cholinergic activity and are used for the treatment of Alzheimer's disease. In this case, constipation has occurred due to the anticholinergic activity of lithium when it is used at a high dose.\n\nBeta-2-receptor agonism\nLithium does not possess beta-2-agonist properties. Beta-2 agonists are used to treat asthma and chronic obstructive pulmonary disease (COPD). In asthma, they are inhaled in combination with an inhaled steroid, and in COPD they are combined with a long-acting muscarinic antagonist and/or an inhaled corticosteroid.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "814d1ed2-8ae2-4cff-8ae0-287ad971eda6",
+    "stem": "A 73-year-old man with a mechanical aortic valve presents to the Cardiology Clinic for review. He is currently taking warfarin for anticoagulation, but his international normalised ratio (INR) values are frequently out of range (1.6–5.8) when the target is 2.5–3.5. His BP is 142/82 mmHg and pulse 75 bpm and regular. He also has a systolic murmur. Investigation Result Normal value Haemoglobin 132 g/l 135–175 g/l Mean cell volume 101 fl 80–100 fl White cell count 7.2 × 10 9/l 4.0–11.0 × 10 9/l Platelets 102 × 10 9/l 150–400 × 10 9/l Sodium 142 mmol/l 135–145 mmol/l Potassium 4.5 mmol/l 3.5–5.0 mmol/l Creatinine 132 µmol/l 60–120 µmol/l What is the most appropriate next step?",
+    "options": [
+      "Continue warfarin with diet and lifestyle advice",
+      "Switch warfarin to apixaban",
+      "Switch warfarin to clopidogrel",
+      "Switch warfarin to dabigatran",
+      "Switch warfarin to rivaroxaban"
+    ],
+    "correct_option": 0,
+    "explanation": "Continue warfarin with diet and lifestyle advice\nThis patient has a highly variable INR and a low platelet count. This raises the possibility of alcohol misuse disorder as a cause. It is unfortunate that in patients with a mechanical valve, warfarin is proven to be superior to factor Xa inhibitors as a prophylaxis against thromboembolic events. For this reason, the optimal intervention is to continue warfarin therapy but with lifestyle advice about the consumption of alcohol and foods, which may affect INR.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ca5f1eb6-d24b-42bf-acb1-6352a871ec5b",
+    "stem": "A 73-year-old man with rheumatoid arthritis is brought to the Emergency Department with increased shortness of breath and left-sided chest ache for the last four weeks. He has a previous anterior myocardial infarction and smokes 15 cigarettes per day. Auscultation of the chest reveals decreased breath sounds on the left. His chest is also dull to percussion on that side. Investigation Result Normal value pH 7.15 7.6–7.64 Pleural fluid protein 42 g/l <15 g/l Approximates to plasma Pleural fluid glucose 2.2 mmol/l level Pleural fluid lactate dehydrogenase 900 U/l (LDH) Extensive left-sided pleural Chest X-ray effusion What is the most likely cause of his effusion?",
+    "options": [
+      "Chylothorax",
+      "Ischaemic cardiomyopathy",
+      "Klebsiella pneumoniae",
+      "Malignancy",
+      "Mitral stenosis"
+    ],
+    "correct_option": 3,
+    "explanation": "Malignancy\nThis patient has an exudate pleural effusion with a very high protein level, low pH, low glucose and high LDH. Considering all these factors together, alongside a history of smoking, malignancy is the most likely cause of this patient's pleural effusion. A CT thorax is the next step in identifying any abnormality that could yield biopsy material to confirm the diagnosis. CT-guided drainage of the effusion can also yield cells for cytology.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "36977ce6-d7e6-4b8d-a0aa-4f859d605c1c",
+    "stem": "A 36-year-old woman is diagnosed with Hashimoto's thyroiditis. She is stabilised on thyroxine replacement and feels well but asks about the increased risk of malignancy. Which of the following malignancies is most increased in patients with Hasimoto's thyroiditis?",
+    "options": [
+      "Bronchial carcinoid",
+      "Follicular thyroid cancer",
+      "Medullary thyroid cancer",
+      "Non-Hodgkin's lymphoma",
+      "Transitional-cell carcinoma of the bladder"
+    ],
+    "correct_option": 3,
+    "explanation": "Non-Hodgkin's lymphoma\nHashimoto's thyroiditis is associated with chronic lymphocytic infiltration of the thyroid gland. Over the longer- term, this drives inflammation, which is thought to increase the risk of malignancy. The risk of haematological malignancies, including non-Hodgkin's lymphoma, which often affects the thyroid gland itself, is increased more than fourfold.\n\nBronchial carcinoid\nHashimoto's thyroiditis is not associated with an increased risk of bronchial carcinoid. It is associated with multiple endocrine neoplasia type I, and risks may be increased by smoking.\n\nFollicular thyroid cancer\nPapillary, not follicular, thyroid cancer is associated with Hashimoto's thyroiditis. Follicular thyroid cancer is reported in family groups and risk is increased in patients who have been exposed to radiation in childhood.\n\nMedullary thyroid cancer\nMedullary thyroid cancer is associated with the RET mutation and uncontrolled growth of thyroid C cells. It is not associated with previous Hashimoto's thyroiditis.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ef706276-2589-4ae0-817c-c7de625e07bc",
+    "stem": "A 49-year-old woman is brought to the Emergency Department with fever, confusion and abdominal pain. She has been seen twice before with alcohol intoxication. Her temperature is 37.9 °C, BP is 95/60 mmHg, and heart rate is 98 bpm and regular. Her abdomen is markedly distended with tense ascites. Investigation Result Normal value Haemoglobin 84 g/l 120–160 g/l Mean corpuscular volume 78 fl 80–100 fl White cell count (WCC) 12.3 × 10 9/l 4.0–11.0 × 10 9/l Platelets 28 × 10 9/l 150–400 × 10 9/l Sodium 136 mmol/l 135–145 mmol/l Potassium 5.1 mmol/l 3.5–5.0 mmol/l Creatinine 187 µmol/l 50–90 µmol/l Albumin 22 g/l 35–45 g/l What is the most useful next step?",
+    "options": [
+      "Albumin infusion",
+      "Ascitic tap for microscopy and culture",
+      "Blood cultures",
+      "CT abdomen",
+      "Upper GI endoscopy"
+    ],
+    "correct_option": 1,
+    "explanation": "Ascitic tap for microscopy and culture\nIn a patient with pyrexia and tense ascites against a background of likely alcoholism, spontaneous bacterial peritonitis is the most probable cause of their symptoms. A diagnostic ascitic tap is the preferred next investigation, with a WCC of more than 250/ml highly suggestive of the diagnosis; a count above 500 is said to be diagnostic. Piperacillin/tazobactam is an appropriate antibiotic.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "e2e8519b-c1f8-49de-8fc0-31da7adde68e",
+    "stem": "A 75-year-old woman is admitted to the Emergency Department with drowsiness, neck stiffness and confusion. According to her husband, she has deteriorated over the past three days. They recently returned from a holiday to Normandy, where they ate local food and wine. Her temperature is 38.2 °C, BP is 122/72 mmHg, and her heart rate is 98 bpm and regular. She has severe neck stiffness and photophobia. Investigation Result Normal range CSF glucose 2.1 mmol/l 2.8–4.4 mmol/l CSF protein 1.2 g/l 0.15–0.4 g/l CSF microscopy Lymphocytic pleocytosis What is the most appropriate intervention?",
+    "options": [
+      "Ceftriaxone",
+      "Clindamycin",
+      "Amoxicillin",
+      "Piperacillin and tazobactam",
+      "Vancomycin and teicoplanin"
+    ],
+    "correct_option": 2,
+    "explanation": "Amoxicillin\nThis patient's clinical symptoms with features of meningism and lymphocytic meningitis, coupled with probable recent consumption of unpasteurised foods, are consistent with infection with Listeria monocytogenes. Amoxicillin is the most appropriate intervention for the treatment of listeria.\n\nCeftriaxone\nCeftriaxone is the intervention of choice for meningococcal meningitis. In this case, the visit to France and lymphocytic meningitis are most consistent with L. monocytogenes meningitis, for which amoxicillin is the most appropriate intervention.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "67b314e7-8f7f-4911-952e-e5b425101d02",
+    "stem": "A patient with a single gene disorder is reviewed in the Genetics Clinic. It is thought that the mutation interferes with splicing. What does splicing remove?",
+    "options": [
+      "DNA errors",
+      "Exons",
+      "Introns",
+      "Non-functional regions of peptides",
+      "RIbosomes"
+    ],
+    "correct_option": 2,
+    "explanation": "Introns\nThe purpose of splicing is to remove introns, which are non-coding sequences of RNA. Once removed, the exons, or coding sequences of RNA, are joined together, and translation can take place to generate the required peptide. Examples of diseases related to defective splicing include neurodegenerative disorders and muscular dystrophies.\n\nDNA errors\nMost of these errors are corrected by DNA polymerase. DNA mismatch repair mechanisms target DNA mutations that can occur through defective replication. Mismatched base pairs are excised, and the correct base pair is inserted. Where DNA is excessively damaged, processes of programmed cell death known as apoptosis exert effect by destroying the defective cell.\n\nExons\nExons are coding sequences of RNA which are required to produce a particular protein. The process of splicing removes introns, the non-coding sequences.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "d27b53a1-a264-4e94-b46f-d05c2b9e9aaa",
+    "stem": "A 57-year-old man is referred to the Diabetes Clinic with a fasting blood glucose of 7.4 mmol/l and symptoms of tiredness. What is the initial driver for the development of type II diabetes?",
+    "options": [
+      "Leptin deficiency",
+      "Reduced beta-cell mass",
+      "Skeletal muscle insulin resistance",
+      "Beta-cell failure",
+      "Ectopic fat deposition"
+    ],
+    "correct_option": 4,
+    "explanation": "Ectopic fat deposition\nEctopic fat deposition is thought to be the initiator of the development of type II diabetes. It is thought that individuals have differing capacities to store fat, which accounts for some patients developing hyperglycaemia in association with more limited weight gain. Once the capacity to store calories in normal fat is exhausted, ectopic fat is deposited, particularly in the liver and muscle, which leads to the development of insulin resistance. Eventually, pancreatic insulin production cannot keep up with demand, and hyperglycaemia results.\n\nLeptin deficiency\nLeptin deficiency is caused by a single-gene disorder, which leads to uncontrolled eating and massive weight gain. It has been treated successfully with recombinant leptin therapy. Puberty is delayed in patients with leptin deficiency and they develop fatty liver with insulin resistance and dyslipidaemia.\n\nReduced beta-cell mass\nAlthough studies suggest patients with reduced beta-cell mass are at increased risk of developing type II diabetes, it is the deposition of ectopic fat and subsequent insulin resistance which are the initial drivers of developing hyperglycaemia.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b64ad5b5-8aee-49f7-b495-fda5710f6888",
+    "stem": "A 54-year-old man is referred to the Neurology Clinic with difficulty performing fine motor tasks. He has noticed a tremor worse on the left than the right and increased muscular stiffness, which is worse on the left. He has some postural instability on walking into the clinic room, a resting tremor worse on the left and increased tone, more on the left than the right. What is the most likely diagnosis?",
+    "options": [
+      "Benign essential tremor",
+      "Huntington's disease",
+      "Parkinson's disease",
+      "Psychogenic tremor",
+      "Wilson's disease"
+    ],
+    "correct_option": 2,
+    "explanation": "Parkinson's disease\nThree key features of Parkinson's are present here: resting tremor, increased tone and muscular rigidity and postural instability. These are key differentiators from benign essential tremor where the tremor is much worse when the limb is used and there isn't an increase in muscle tone. Other features of Lewy Body dementia, such as psychiatric disturbance or Parkinson's plus syndromes, such as autonomic dysfunction, aren't seen here. Both L-dopa and dopamine agonists are potential initial interventions.\n\nBenign essential tremor\nBenign essential tremor is not associated with postural instability or increased muscular tone. It is also more marked when the limb is used. In the first instance, it can be treated with beta-blockers.\n\nHuntington's disease\nHuntington's disease generally occurs in patients with a family history, presenting earlier with successive generations. Sometimes, tremors can present before other features, such as psychiatric disturbance and chorea.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "6fc2e3e4-f898-43ac-8d2f-0dff7234321b",
+    "stem": "A 45-year-old man is referred to the Rheumatology Clinic following a second attack of acute gout in his right big toe over the last six months. He has type II diabetes, hypertension and epilepsy and takes several medications including carbamazepine. Investigation Result Normal value Haemoglobin 142 g/l 135–175 g/l White cell count 8.3 × 10 9/l 4.0–11.0 × 10 9/l Platelets 302 × 10 9/l 150–400 × 10 9/l Sodium 142 mmol/l 135–145 mmol/l Potassium 4.5 mmol/l 3.5–5.0 mmol/l Creatinine 142 µmol/l 60–120 µmol/l Urate 560 µmol/l 200–430 µmol/l What is the most appropriate long-term intervention for his gout?",
+    "options": [
+      "Allopurinol",
+      "Bendroflumethiazide",
+      "Colchicine",
+      "Naproxen",
+      "Prednisolone"
+    ],
+    "correct_option": 0,
+    "explanation": "Allopurinol\nAllopurinol is the intervention for gout prophylaxis in patients who suffer recurrent episodes. It may be used up to a daily dose of 800 mg. It is metabolised by aldehyde oxidase into the active metabolite oxypurinol and works by inhibiting xanthine oxidase, a crucial step in forming uric acid from the xanthine substrate. Dosing should be reduced in patients with low glomerular filtration rate to 100 mg per day because of severe renal impairment. There is no known interaction with carbamazepine (metabolised via the CYP3A4), but there are interactions with azathioprine, thiazide-like diuretics and angiotensin-converting-enzyme inhibitors.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "4d15ec91-6861-40ab-8726-68b04ad4bdd4",
+    "stem": "A 46-year-old woman is reviewed in the Gastroenterology Clinic four weeks after gastric bypass surgery for morbid obesity. She asks about the need for supplements. Which of the following supplements is most likely to be required post-surgery?",
+    "options": [
+      "Ascorbic acid",
+      "Niacin",
+      "Phosphate",
+      "Potassium",
+      "Zinc"
+    ],
+    "correct_option": 4,
+    "explanation": "Zinc\nZinc deficiency is more commonly seen following gastric bypass surgery. Excessive zinc intake may induce copper deficiency; therefore, caution is advised. Deficiency of calcium and vitamin D is also seen. Absorption of all fat-soluble vitamins (A, D, E and K) may be reduced.\n\nAscorbic acid\nVitamin C (ascorbic acid) deficiency can occur but is uncommon in gastric bypass surgery. Vitamin C is primarily absorbed in the distal small intestine and is regulated by renal excretion.\n\nNiacin\nAlthough deficiencies of vitamins B 1, B 9 and B 12 are commonly seen in patients with gastric bypass surgery, deficiency of B 3 (niacin) is not a frequent problem. This may be because niacin is primarily absorbed in the upper Chat ileum.\n\nPhosphate\nHypophosphataemia is not commonly seen following gastric bypass surgery, although it is reported in patients receiving IV iron infusion. This may be related to the high prevalence of secondary hyperparathyroidism in this population.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "6630aa7e-7613-45fd-b354-b5bf40049a00",
+    "stem": "A 24-year-old man is referred to the Neurology Clinic with frequent seizures. He tells you that he often gets a feeling of déjà vu before the seizures begin, and observers say at the beginning of a period of absence, they notice him smacking his lips. Neurological examination in the clinic is unremarkable. Where is the most likely focus of his seizures?",
+    "options": [
+      "Cerebellum",
+      "Frontal lobe",
+      "Occipital lobe",
+      "Parietal lobe",
+      "Temporal lobe"
+    ],
+    "correct_option": 4,
+    "explanation": "Temporal lobe\nProminent features of temporal lobe epilepsy include lip smacking and feelings of déjà vu. The temporal lobe contains structures responsible for long-term memory, which accounts for the feeling that the patient has visited the place before or is repeating an old experience. Other automatisms such as repeated swallowing or coughing may be seen. Both lamotrigine and levetiracetam are possible initial interventions for temporal lobe epilepsy.\n\nCerebellum\nCerebellar seizures are surprisingly uncommon. They may begin with an oral sensory aura, which may include numbness of part of the tongue. Blinking, facial jerking and limb jerking are also seen. Fever is a prominent trigger for cerebellar seizures.\n\nFrontal lobe\nFrontal lobe seizures may occur as a result of tumours, injury or infection and in a rare autosomal-dominant seizure syndrome. They are most common at night and can lead to changes in behaviour and sleep disturbance.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "430d2e33-8ad5-467f-a956-25ee648d5beb",
+    "stem": "A 29-year-old woman who is 32 weeks' pregnant is diagnosed with a left-sided pulmonary embolism. What is the most appropriate choice for anticoagulation?",
+    "options": [
+      "Dalteparin",
+      "Lepirudin",
+      "Unfractionated heparin",
+      "Warfarin",
+      "Apixaban"
+    ],
+    "correct_option": 0,
+    "explanation": "Dalteparin\nLow-molecular-weight heparin (LMWH) such as dalteparin is the preferred choice for anticoagulation in the third trimester of pregnancy. Warfarin is not recommended because it can lead to an increased risk of fetal intracerebral haemorrhage. Where LMWH is not tolerated, lepirudin is a potential alternative. Anticoagulation should be continued until six weeks post-partum.\n\nLepirudin\nThere is limited experience with lepirudin as an anticoagulant in pregnancy, although it does not appear to be associated with an increased risk of fetal malformations. It is generally considered a good choice where LMWH is unsuitable or not tolerated.\n\nUnfractionated heparin\nUnfractionated heparin can be given subcutaneously in pregnancy, although Chat LMWH preparations are preferred because they are more effective, associated with fewer bleeding adverse events and have decreased incidence of heparin-induced thrombocytopenia.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "5f03cb64-6081-4eae-b0bc-6a29c994e4e3",
+    "stem": "A 46-year-old man presents to his General Practitioner complaining that when he drinks beer, he passes more urine compared with when he drinks the same amount of water. What is the primary cause of this patient's complaint?",
+    "options": [
+      "Decreased aldosterone",
+      "Decreased angiotensin-2",
+      "Decreased aquaporin-2 channels",
+      "Decreased epithelial sodium-channel activity",
+      "Decreased renin"
+    ],
+    "correct_option": 2,
+    "explanation": "Decreased aquaporin-2 channels\nAlcohol suppresses the production of vasopressin. Vasopressin has two roles: increasing the production of aquaporin-2 and driving the trafficking of aquaporin-2 to the cell membrane. Therefore, suppressing vasopressin leads to a reduction in aquaporin-2 activity, reduced reabsorption of water in the collecting duct and increased urine output.\n\nDecreased aldosterone\nSimilar to angiotensin, aldosterone is regulated by renin. Higher levels of renin stimulate increased production of aldosterone by the adrenal glands. Aldosterone production is not regulated by alcohol consumption. Hyporeninaemic hyperaldosteronism is seen in relation to adrenal hyperplasia or an adrenal adenoma.\n\nDecreased angiotensin-2\nAngiotensin-2 levels increase in response to increased renin activity. Renin levels are increased in response to hypotension and renin is responsible for cleavage of angiotensinogen to angiotensin-1. Angiotensin-1 then undergoes further processing in the lungs to angiotensin-2. Levels are not altered by alcohol consumption.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3199d19a-268f-4633-865c-6116d0051b3b",
+    "stem": "A 58-year-old Muslim man who has type II diabetes presents to the Diabetes Clinic. He intends to fast for Ramadan and wants to know how to manage his therapy. He currently takes metformin 500 mg three times a day. How is his diabetes therapy best managed?",
+    "options": [
+      "Continue medication with the same regimen",
+      "Stop metformin",
+      "Switch metformin to dapagliflozin",
+      "Switch metformin to sitagliptin",
+      "Switch metformin to 500 mg morning, 1 g evening"
+    ],
+    "correct_option": 4,
+    "explanation": "Switch metformin to 500 mg morning, 1 g evening\nGenerally, patients eat a small meal before dawn and eat a larger meal after dusk during Ramadan. Metformin for monotherapy does not lead to hypoglycaemia, meaning it can be safely continued. Considering patients don't eat at lunchtime during Ramadan, a switch in dosing to one-third in the morning and two-thirds in the evening is recommended. Other agents that cause hypoglycaemia, eg sulphonylureas, would need discontinuing.\n\nContinue medication with the same regimen\nContinuing the same metformin regimen is not recommended. Guidelines suggest switching metformin dosing during Ramadan to when meals are taken (around a smaller meal taken pre-dawn and a larger meal taken after dusk). Chat\n\nStop metformin\nStopping metformin is not appropriate. Although many patients eat less during Ramadan, many have a similar calorie intake, eating the majority of their calories after dusk, with a much smaller meal taken pre-dawn. As such, continuing blood-glucose-lowering therapy but changing the dosing regimen is best in this case.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "48b595f6-226c-459b-8196-d7c32d1775aa",
+    "stem": "A 25-year-old man is admitted to the Emergency Department with fast, irregular palpitations. They have continued for 45 minutes. He was attending a party the previous evening and drank six pints of beer. His BP is 110/70 mmHg and his pulse is 140 bpm and irregular. There are no signs of left-ventricular failure on auscultation of the chest. Investigation Result Normal value Haemoglobin 142 g/l 135–175 g/l White cell count 7.2 × 10 9/l 4.0–11.0 × 10 9/l Platelets 203 × 10 9/l 150–400 × 10 9/l Sodium 142 mmol/l 135–145 mmol/l Potassium 3.7 mmol/l 3.5–5.0 mmol/l Creatinine 85 µmol/l 60–120 µmol/l 12-lead ECG Fast AF, ventricular rate 138 What is the most appropriate intervention for this patient's AF?",
+    "options": [
+      "Bisoprolol",
+      "Digoxin",
+      "Flecainide",
+      "Magnesium",
+      "Verapamil"
+    ],
+    "correct_option": 2,
+    "explanation": "Flecainide\nThis patient has AF of short duration and no structural or ischaemic heart disease. As such, flecainide is the preferred intervention, with amiodarone an alternative according to National Institute for Health and Care Excellence guidelines. It is given as an initial loading dose of 2 mg/kg over 30 minutes to a maximum dose of 150 mg. A further hour's infusion at 1.5 mg/kg is then administered in patients still symptomatic. Flecainide is contraindicated in patients with structural or ischaemic heart disease, where amiodarone is preferred.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "7e774d41-1f50-4bc1-8485-f5e65326fb7f",
+    "stem": "A 52-year-old woman with end-stage carcinoma of the breast requires 20 mg of oral morphine every four hours to control pain from bony metastases. What is the most appropriate dose of slow-release morphine to manage her symptoms?",
+    "options": [
+      "20 mg twice a day",
+      "30 mg twice a day",
+      "60 mg twice a day",
+      "120 mg once a day",
+      "120 mg twice a day"
+    ],
+    "correct_option": 2,
+    "explanation": "60 mg twice a day\n60 mg twice a day is the correct regimen for this patient. The minimum period between doses is four hours, meaning the patient could take up to 120 mg in 24 hours. Slow-release morphine is administered twice daily, so the dose is divided.\n\n20 mg twice a day\n20 mg twice a day represents only one-third of this patient's total daily morphine requirements. With a minimum gap between doses of four hours, she could take up to 120 mg of morphine per day, implying a slow- release dose of 60 mg twice a day.\n\n30 mg twice a day\n30 mg twice a day implies a total daily dose of 60 mg, which is likely to leave this patient significantly under- dosed and with continuing pain.\n\n120 mg once a day\n120 mg is the correctly calculated total daily dose of morphine, although morphine slow release is administered every 12 hours. This dose regimen is likely to result in overdosing during the day and potentially inadequate coverage for pain relief at night.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ffbb32db-7969-40d4-95f4-f91fb7e3b36e",
+    "stem": "A 21-year-old woman is admitted to the Intensive Care Unit with meningococcal septicaemia. Her two close flatmates are requesting antibiotic prophylaxis. What is the recommended antibiotic option?",
+    "options": [
+      "Penicillin V",
+      "Rifampicin",
+      "Ceftriaxone",
+      "Ciprofloxacin",
+      "Clarithromycin"
+    ],
+    "correct_option": 3,
+    "explanation": "Ciprofloxacin\nA single dose of ciprofloxacin 500 mg is the recommended prophylaxis for close contacts of patients diagnosed with meningococcal meningitis. It is preferred to rifampicin because it doesn't carry the same liabilities with respect to P450 enzyme induction, which can reduce the effectiveness of important concomitant medications such as the oral contraceptive pill.\n\nPenicillin V\nAlthough penicillin suppresses meningococcal growth in the throat, it does not lead to the eradication of invasive strains in 5% of patients. For this reason ciprofloxacin is the preferred option for treating close contacts of patients with meningococcal meningitis.\n\nRifampicin\nRifampicin was formerly the intervention of choice for meningococcal prophylaxis, although now it has been superseded by ciprofloxacin. This is because of rifampicin's properties as a potent CYP450 inducer, which leads to a reduction in the effectiveness of important concomitant medications such as the oral contraceptive pill.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "f10df477-ac8a-452f-badd-119cb5fc4710",
+    "stem": "A 48-year-old woman comes to the Renal Clinic for a transplant follow up and wants to discuss a lesion on her right shin. She has a small area of erythematous, rough skin that is beginning to ulcerate. What is the most likely diagnosis?",
+    "options": [
+      "Basal-cell carcinoma",
+      "Kaposi's sarcoma",
+      "Pyoderma gangrenosum",
+      "Solar keratosis",
+      "Squamous-cell carcinoma"
+    ],
+    "correct_option": 4,
+    "explanation": "Squamous-cell carcinoma\nThis patient's symptoms are consistent with a squamous-cell carcinoma. These are approximately 65 times more common in patients who have undergone a solid-organ transplant, likely related to immunosuppression. Other skin cancers, including malignant melanoma, are also more common in this patient group. Where possible, lesions are excised, although topical 5-fluorouracil may be of value in some cases.\n\nBasal-cell carcinoma\nBasal-cell carcinomas are most commonly seen on the head and neck and occur as a single pearlescent nodule with prominent telangiectasia. They eventually ulcerate.\n\nKaposi's sarcoma\nKaposi's sarcoma is caused by human herpes virus 8 and occurs more commonly in immunocompromised patients such as those with HIV infection. It occurs as several red–brown erythematous lesions, rather than the single ulcerated one seen here, which is much more consistent with squamous-cell carcinoma.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "349bae9e-b331-4efb-83eb-80f8d0e32bcb",
+    "stem": "A 32-year-old woman with asthma is referred to the Respiratory Clinic with shortness of breath and frequent episodes of coughing and wheezing at night. She currently takes salbutamol as required and fluticasone 500 µg twice per day for her asthma. She has bilateral wheeze on auscultation of the chest, and her peak flow is 340 l/minute (520 l/minute predicted). Which treatment is most appropriate to add to her regimen?",
+    "options": [
+      "Inhaled corticosteroids and formoterol combination therapy",
+      "Omalizumab",
+      "Roflumilast",
+      "Theophylline",
+      "Tiotropium"
+    ],
+    "correct_option": 0,
+    "explanation": "Inhaled corticosteroids and formoterol combination therapy\nThe new UK guidelines recommend using a low-dose combination of inhaled corticosteroids (ICS) and formoterol to reduce inflammation and relieve symptoms in people with asthma. This approach is preferred over the addition of other medications like montelukast when control of asthma symptoms has not been achieved with high-dose inhaled corticosteroids alone. The combination therapy has been shown to lead to fewer severe asthma attacks.\n\nOmalizumab\nOmalizumab binds to free immunoglobulin E (IgE), reducing total IgE levels. It is used to manage asthma in patients who have failed to control their symptoms despite maximal conventional therapy.\n\nRoflumilast\nRoflumilast is a phosphodiesterase-4 inhibitor used to treat chronic obstructive pulmonary disease in patients who have failed to gain control of symptoms on triple inhaled therapy alone. It isn't recommended for the treatment of asthma.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "77b0e2c4-8ade-4500-87e2-b5175810dbc7",
+    "stem": "A 73-year-old woman is reviewed in the Endocrinology Clinic following a left Colle's fracture. She has also had two episodes of renal colic over the past year. Her BP is 155/80 mmHg, and her BMI is 23 kg/m 2. Investigation Result Normal value Haemoglobin 118 g/l 120–160 g/l White cell count 6.9 × 10 9/l 4.0–11.0 × 10 9/l Platelets 192 × 10 9/l 150–400 × 10 9/l Sodium 141 mmol/l 135–145 mmol/l Potassium 4.2 mmol/l 3.5–5.0 mmol/l Calcium 2.89 mmol/l 2.1–2.65 mmol/l Creatinine 112 µmol/l 50–90 µmol/l What is the most appropriate intervention?",
+    "options": [
+      "Cinacalcet",
+      "Etidronate",
+      "Furosemide",
+      "Parathyroidectomy",
+      "Vitamin D"
+    ],
+    "correct_option": 3,
+    "explanation": "Parathyroidectomy\nChat Osteoporotic fracture, renal stones and isolated elevated calcium in the presence of a creatinine just above the upper limit of normal are suggestive of hyperparathyroidism for which parathyroidectomy is the most appropriate intervention. There is no role for acute treatments such as furosemide to reduce calcium, and bisphosphonates will not treat the underlying hyperparathyroidism.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "a2885339-2241-4881-bf6e-5e3112a9b8d7",
+    "stem": "A 27-year-old Nurse presents to the Emergency Department for the third time in six months complaining of palpitations and shortness of breath. She has had three weeks of sick leave, says she dreads going to work and feels constantly on the edge. She also worries constantly about money and that her husband is having an affair. Her BP is 123/72 mmHg, and her heart rate is 80 bpm and regular. Her BMI is 24 kg/m 2. What is the most likely cause of her symptoms?",
+    "options": [
+      "Agoraphobia",
+      "Generalised anxiety disorder",
+      "Hypomania",
+      "Post-traumatic stress disorder",
+      "Thyrotoxicosis"
+    ],
+    "correct_option": 1,
+    "explanation": "Generalised anxiety disorder\nGeneralised anxiety disorder (GAD) fits with the clinical picture seen here with symptoms such as palpitations and shortness of breath, coupled with feelings of anxiety, not just about work but also about money and her relationship. Cognitive behavioural therapy is a cornerstone of managing GAD. Selective serotonin reuptake inhibitors may also be of value.\n\nAgoraphobia\nAgoraphobia is specifically the fear of leaving environments in which they feel safe. In this case, anxiety goes beyond location and towards concerns about money and relationships, which fits better with GAD.\n\nHypomania\nHypomania may be associated with poor sleeping and repetitive thoughts. Other features of hypomania, such as grandiose ideas and excessive spending, are, however, absent here.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "1bfef8a9-e6b1-45f0-8e0b-4c6c8260ce15",
+    "stem": "A 21-year-old man is admitted to the Emergency Department after collapsing at a local nightclub. His friends say he was very agitated, complaining of a fever and looking for water to drink just before he collapsed. His temperature is 38.9 °C, BP 155/90 mmHg and heart rate 105 bpm and regular. What is the most likely cause of his symptoms?",
+    "options": [
+      "Alcohol intoxication",
+      "Cocaine overdose",
+      "Encephalitis",
+      "Hypoglycaemia",
+      "3,4-Methylenedioxymethamphetamine toxicity"
+    ],
+    "correct_option": 4,
+    "explanation": "3,4-Methylenedioxymethamphetamine toxicity\n3,4-Methylenedioxymethamphetamine (MDMA) toxicity fits well with this patient's symptoms, including agitation, pyrexia, hypertension and tachycardia. His increased fluid intake is typical of the underlying diagnosis. Serum sodium may be normal, increased or reduced. Creatinine kinase may be elevated as rhabdomyolysis is seen in patients with severe toxicity. Fluid replacement is a cornerstone of initial therapy, with benzodiazepines to control anxiety and agitation. The risk of rhabdomyolysis is increased with prolonged hyperpyrexia. Nitroglycerin and sodium nitroprusside may be considered for the control of hypertension.\n\nAlcohol intoxication\nAlcohol intoxication leads to confusion and gradual sedation, rather than the hypertension and hyperpyrexia seen here. The signs of sympathetic activation and water-seeking behaviour are most consistent with MDMA overdose. Chat\n\nCocaine overdose\nCocaine overdose does present with agitated and aggressive behaviour and can lead to signs of sympathetic activation. The picture here, however, with marked temperature increase, is more consistent with MDMA overdose.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "8272eef7-c540-47bd-a307-462ac59d151b",
+    "stem": "A 55-year-old man is referred to the Neurology Clinic with progressive difficulty walking and using his hands. He is increasingly tripping and falling and has lost dexterity in his hands. Examination reveals atrophy fasciculations of the thighs with a left-sided foot drop. He has hypertonia and hyperreflexia affecting both upper limbs with a positive finger jerk on the right. What is the most appropriate intervention?",
+    "options": [
+      "Donepezil",
+      "Galantamine",
+      "Pirfenidone",
+      "Riluzole",
+      "Tiagabine"
+    ],
+    "correct_option": 3,
+    "explanation": "Riluzole\nThis patient's symptoms, a mixed picture of upper and lower motor-neurone weakness, are highly suggestive of motor-neurone disease (MND). In MND, use of riluzole can extend prognosis by 2–3 months and is therefore an option here. Riluzole is a glutamate-release inhibitor. A dose of 50 mg twice a day is recommended.\n\nDonepezil\nLike galantamine, donepezil is a cholinesterase inhibitor used in the treatment of Alzheimer's disease. It is riluzole, a glutamate-release inhibitor that impacts the prognosis of MND modestly.\n\nGalantamine\nGalantamine is a cholinesterase inhibitor which plays a role in the treatment of Alzheimer's dementia. It does not affect outcomes in MND, the diagnosis here.\n\nPirfenidone\nPirfenidone is an anti-fibrotic agent used in the management of idiopathic pulmonary fibrosis. It does not have a role in the treatment of MND.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "7a9a6fa0-6130-4490-8fb5-358b26361469",
+    "stem": "A 42-year-old woman is referred to the Rheumatology Clinic with lethargy, proximal muscle weakness and a rash. There is periorbital oedema and a blue–red discolouration over the eyelids. She has an erythematous rash over the upper chest. There is bilateral proximal muscle weakness affecting the upper and lower limbs. What is the most useful next investigation?",
+    "options": [
+      "Anti-Jo-1 antibodies",
+      "Anti-Mi-2 antibodies",
+      "Anti-nuclear antibodies",
+      "Creatinine kinase",
+      "Vitamin-D levels"
+    ],
+    "correct_option": 3,
+    "explanation": "Creatinine kinase\nThe rash pattern seen here is consistent with dermatomyositis and fits with the proximal myopathy on physical examination. In patients with muscle weakness, creatinine kinase usually rises significantly. Electromyography is useful as part of the workup for dermatomyositis, although it is normal in 15% of patients. Muscle biopsy is diagnostic. Corticosteroids are the intervention of choice.\n\nAnti-Jo-1 antibodies\nAnti-Jo-1 antibodies are more common in patients with polymyositis rather than dermatomyositis and are associated with interstitial lung disease, Raynaud's phenomenon and arthritis.\n\nAnti-Mi-2 antibodies\nAnti-Mi-2 antibodies are specific for dermatomyositis, but they are only positive in 25% of patients. They cannot be used in this situation to exclude it as an underlying diagnosis.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "607c822b-e9fe-40f3-bde2-32928bcb056f",
+    "stem": "A 23-year-old woman is referred to the Renal Clinic with muscle cramps and fainting episodes over the past year. She says she has always felt tired and never enjoyed sports at school. She takes no medications, is a non- smoker and consumes no alcohol. Her BP is 105/70 mmHg, and her heart rate is 85 bpm and regular. Her body mass index is 22 kg/m 2. Investigation Result Normal value Sodium 143 mmol/l 135–145 mmol/l Potassium 3.0 mmol/l 3.5–5.0 mmol/l Bicarbonate 34 mmol/l 22–29 mmol/l Creatinine 85 µmol/l 60–90 µmol/l 24-h urinary calcium 1.25 mmol/24 h 2.5–7.5 mmol/24 h What is the most likely cause of her symptoms?",
+    "options": [
+      "Bartter syndrome",
+      "Gitelman syndrome",
+      "Liddle syndrome",
+      "Primary hyperaldosteronism",
+      "Secondary hyperaldosteronism"
+    ],
+    "correct_option": 1,
+    "explanation": "Gitelman syndrome\nGitelman syndrome is an autosomal-recessive tubular disorder most commonly caused by mutations in the Chat thiazide-sensitive sodium chloride co-transporter. It results in normal BP or mild hypotension and hypokalaemic metabolic alkalosis. Due to low potassium levels, patients may suffer from episodes of syncope and muscle cramps. Electrolyte supplementation and potassium-sparing diuretics are potential interventions. In contrast to Bartter syndrome, urinary calcium excretion is low.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3e301323-404a-4d2e-b804-b702d545a2c1",
+    "stem": "A 34-year-old woman is referred to the Endocrine Clinic with flu-like symptoms and tenderness over the anterior neck. She has been unwell for the past three weeks. She has atopic eczema and a 2-year-old child who has type I diabetes. Her BP is 122/72 mmHg, and her heart rate is 95 bpm and regular. She has a fine tremor, and her thyroid is slightly enlarged and tender to palpation. Investigation Result Normal range Thyroid-stimulating hormone 0.1 mU/l 0.4–4.5 mU/l Free thyroxine 21.2 pmol/l 6.9-13.9 pmol/l Thyroid isotope scan Globally reduced uptake What is the most likely cause of her symptoms?",
+    "options": [
+      "Ectopic thyroid hormone administration",
+      "Graves disease",
+      "Subacute thyroiditis",
+      "Thyroid adenoma",
+      "Toxic multinodular goitre"
+    ],
+    "correct_option": 2,
+    "explanation": "Subacute thyroiditis\nSubacute thyroiditis is the most likely diagnosis here, with 2–3 weeks of flu-like symptoms, thyroid tenderness, biochemical hyperthyroidism and globally reduced uptake on the isotope scan. Thyroiditis is characterised by increased thyroid hormone release rather than increased production, and symptoms of thyrotoxicosis resolve after a few weeks. Management centres on controlling pain, inflammation and symptoms of thyrotoxicosis. NSAIDs are the initial intervention of choice.\n\nEctopic thyroid hormone administration\nEctopic thyroid hormone administration leads to decreased uptake on the thyroid scan by suppressing endogenous thyroid hormone production. It is not associated with the flu-like symptoms and thyroid tenderness seen here.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "bdf60a1c-83b0-40d9-b825-72035aac3e32",
+    "stem": "A 23-year-old woman presents to her General Practitioner with a rapidly worsening left-sided erythematous rash on her face, which she says began shortly after an insect bite. The area is swollen and oedematous. What is the most likely cause of her rash?",
+    "options": [
+      "Clostridium perfringens",
+      "Corynebacterium glutamicum",
+      "Propionibacterium acnes",
+      "Staphylococcus aureus",
+      "Streptococcus pyogenes"
+    ],
+    "correct_option": 4,
+    "explanation": "Streptococcus pyogenes\nThis patient has erysipelas resulting from an insect bite. S. pyogenes is a common cause. Co-amoxiclav is effective in treating erysipelas. A 625-mg dose is given three times a day. In patients who are penicillin allergic, clarithromycin 500 mg twice daily with metronidazole 400 mg three times a day is an effective alternative. In patients with rapidly spreading erythema, IV therapy may be required.\n\nClostridium perfringens\nC. perfringens is a cause of gas gangrene. It is commonly found in soil, and infection may occur after significant trauma, such as a blast injury or a road traffic accident. In this case, S. pyogenes is the most likely cause of this patient's symptoms.\n\nCorynebacterium glutamicum\nCorynebacteria do cause skin infections. However, C. glutamicum is not a usual cause. It is used commercially to produce amino acids. This patient has erysipelas related to streptococcal infection.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "0c56bc27-e602-403a-9822-82617f7b64b5",
+    "stem": "A 32-year-old woman has proximal muscle weakness and bone pain and has been diagnosed with osteomalacia. She agrees to change her diet. Which of the following foods is richest in vitamin D?",
+    "options": [
+      "Broccoli",
+      "Carrots",
+      "Cheddar cheese",
+      "Egg",
+      "Salmon"
+    ],
+    "correct_option": 4,
+    "explanation": "Salmon\nOily fish such as salmon and trout contain large amounts of vitamin D. A serving of 85 g of cooked salmon contains approximately 70% of the recommended daily intake of vitamin D.\n\nBroccoli\nBroccoli is rich in vitamins A, C, E and K. It is not a useful source of vitamin D. Oily fish and mushrooms which have been exposed to ultraviolet light are a potent source of vitamin D.\n\nCarrots\nCarrots are most useful as a source of vitamin C; 100 g of carrots contain approximately 10% of the recommended daily intake of vitamin C. They don't contain vitamin D.\n\nCheddar cheese\nCheddar cheese is not rich in vitamin D. An approximate 40 g serving of cheddar cheese contains around 2% of the recommended daily intake of vitamin D.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "acf14a8e-435e-4737-ac78-3b3e8844f4a5",
+    "stem": "A 22-year-old man is referred to the Cardiology Clinic after collapsing while playing in a football match. He admits to having had one other syncopal episode during a row with his girlfriend. His brother died suddenly, aged 25-years old. His BP is 122/82 mmHg and his heart rate is 65 bpm and regular. His chest is clear, and heart sounds are normal. Investigation Result Normal value 12-lead ECG Normal sinus rhythm, no bundle branch block QT interval 460 ms < 450ms ECHO Structurally normal heart; ejection fraction 56% 55–70% What is the most likely cause of his episodes of collapse?",
+    "options": [
+      "Brugada syndrome",
+      "Congenital long-QT syndrome",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Idiopathic right-ventricular cardiomyopathy",
+      "Primary pulmonary hypertension"
+    ],
+    "correct_option": 1,
+    "explanation": "Congenital long-QT syndrome\nThis patient's QT interval is abnormal at more than 450 milliseconds and he has suffered two episodes of collapse: one associated with high emotion and the other after a period of exercise. These are consistent with long-QT syndrome and episodes of ventricular arrhythmia. In high-risk patients who have suffered an episode of collapse while receiving an adequate dose of beta-blockers, an implantable cardioverter defibrillator is recommended. Beta-blockade to reduce sympathetic stimulation is also indicated.\n\nBrugada syndrome\nBrugada syndrome is related to abnormalities in cardiac sodium-channel transport, which lead to ventricular arrhythmias that are not typically related to exercise or emotion. It is a cause of dead-in-bed syndrome. ECG changes follow a right bundle branch block pattern and ST-segment elevations. No pharmacological therapies are effective, and an implantable cardioverter defibrillator is required in patients who survive an initial arrhythmic event.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "0732e52e-1011-4dee-b1c3-f7023d26d095",
+    "stem": "A 52-year-old man who has alcoholic cirrhosis complains of recurrent episodes of abdominal pain and vomiting. He also has chronic diarrhoea and has lost 6 kg in weight over the past seven months. His BP is 142/82 mmHg, and his heart rate is 74 bpm and regular. His abdomen is mildly tender in the epigastrium, with no palpable masses. His BMI is 22 kg/m 2 Investigation Result Normal value Haemoglobin 102 g/l 135–175 g/l Mean corpuscular volume (MCV) 103 fl 80–100 fl White cell count 7.2 × 10 9/l 4.0–11.0 × 10 9/l Platelets 103 × 10 9/l 150–400 × 10 9/l Sodium 142 mmol/l 135–145 mmol/l Potassium 3.4 mmol/l 3.5–5.0 mmol/l Creatinine 92 µmol/l 60–120 µmol/l Alkaline phosphatase 195 IU/l 30–130 IU/l Alanine aminotransferase 105 IU/l 10–50 IU/l Faecal elastase 90 µg/g >200 µg/g What is the most likely cause of his symptoms?",
+    "options": [
+      "Chronic pancreatitis",
+      "Coeliac disease",
+      "Pancreatic cancer",
+      "Primary biliary cholangitis",
+      "Primary sclerosing chloangitis"
+    ],
+    "correct_option": 0,
+    "explanation": "Chronic pancreatitis\nThis patient has alcoholic cirrhosis and anaemia, with raised MCV, low platelets and obstructive LFTs. The blood tests and the history of episodes of abdominal pain and vomiting raise the possibility that he is still drinking and suffering recurrent pancreatitis. The diarrhoea and low faecal elastase are consistent with a diagnosis of chronic pancreatitis. A pancreas CT scan is likely to reveal scarring and areas of calcification. He should be encouraged to stop alcohol consumption and offered supplementation of pancreatic enzymes.\n\nCoeliac disease\nAlthough coeliac disease could be consistent with diarrhoea and anaemia, the history of alcohol consumption and low faecal elastase is more suggestive of pancreatic insufficiency as the likely cause of his symptoms.\n\nPancreatic cancer\nThis patient is at risk for pancreatic cancer, given likely recurrent pancreatitis and continued alcohol consumption. However, the chronic course of symptoms and faecal elastase suggest that pancreatic insufficiency is the likely cause of his symptoms\n\nPrimary biliary cholangitis\nPrimary biliary cholangitis is more common in middle-aged women and presents with tiredness, itching and an obstructive picture on liver function testing. The symptoms here and alcohol consumption suggest chronic pancreatitis is more likely.\n\nPrimary sclerosing chloangitis\nPrimary sclerosing cholangitis is strongly associated with inflammatory bowel disease. Patients develop obstructive LFTs and hepatic fibrosis. Liver transplantation is the only proven intervention, and many patients develop cholangiocarcinoma.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "40ad7d0e-848b-4928-ad80-37740c3277ae",
+    "stem": "A 23-year-old man comes to the Emergency Department with a rash on his left leg. He has just returned from a walking holiday in the New Forest. He has a bullseye rash on his left calf with a necrotic area at the centre. What is the most appropriate next step?",
+    "options": [
+      "Borrelia serology",
+      "Clarithromycin",
+      "Doxycycline",
+      "Orientia serology",
+      "Rickettsia serology"
+    ],
+    "correct_option": 2,
+    "explanation": "Doxycycline\nThis patient has symptoms of Lyme disease, which is caused by infection with Borrelia burgdorferi, a bacterium spread by tick bites. The bullseye rash with an eschar at its centre is diagnostic for the condition. National Institute for Health and Care Excellence (NICE) guidelines recommend treating with antibiotics early, rather than waiting for the results of serology testing. Doxycycline is the first-line intervention of choice. Amoxicillin is an option where tetracyclines are contraindicated.\n\nBorrelia serology\nAlthough this patient has symptoms of Lyme disease, which is caused by borrelia, serology testing is not considered essential by NICE guidelines. In the early stages of infection serology may be negative, and treatment with doxycycline should not be delayed whilst awaiting test results.\n\nClarithromycin\nClarithromycin is a second- or third-line antibiotic option for treatment of Lyme disease, the diagnosis here. Usual first-line antibiotic choices include doxycycline or amoxicillin, where a 2-week course is recommended.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "a519cf9c-538b-410b-b2d4-383d4839e52d",
+    "stem": "A trial is performed to look at the effect of intensive insulin therapy versus standard insulin therapy on the risk of diabetic neuropathy in patients with type I diabetes. The results of the trial are shown below. Standard insulin regimen Intensive insulin regimen New-onset diabetic neuropathy over ten years 10% 3% What is the number needed to treat (NNT) to prevent one event of neuropathy over ten years?",
+    "options": [
+      "3",
+      "7",
+      "10",
+      "14",
+      "140"
+    ],
+    "correct_option": 3,
+    "explanation": "14\nThe NNT when comparing between interventions is the difference in absolute risk over the time of the trial of the event concerned. In this case, neuropathy occurs in 10% of the conventional insulin group and 3% in the intensive insulin therapy group, a difference of 7%. Over ten years this translates to an NNT of 1/0.07 which equals approximately 14. Risk of neuropathy increases with prolonged exposure to hyperglycaemia, meaning that the NNT can't be easily pro-rated on a per-year basis.\n\n3\n3% is the absolute risk of neuropathy occurring in patients treated with intensive insulin therapy. The difference between standard insulin and intensive insulin regimens is 7% in terms of the event rate, which translates to an NNT of approximately 14.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "36269419-98fa-460d-a1ef-8872a2bd3806",
+    "stem": "A 69-year-old man is referred to the Memory Clinic because of a deterioration in his behaviour over the past nine months. He has nightmares where he lashes out in his sleep, has difficulties concentrating in the day, worsening short-term memory and has been seeing people in the kitchen who are not there. He has increased muscular rigidity, more marked on the left side than the right and a slight tremor. He has a stooped, shuffling gait. What is the most likely cause of his symptoms?",
+    "options": [
+      "Alzheimer's disease",
+      "Lewy body disease",
+      "Multi-infarct dementia",
+      "Multi-system atrophy",
+      "Parkinson's disease"
+    ],
+    "correct_option": 1,
+    "explanation": "Lewy body disease\nLewy body disease is associated with disturbance of rapid-eye-movement sleep, loss of daytime concentration and visual hallucinations early in the time course of the condition. With the movement disorder described in this patient, it seems that Lewy body disease is the most likely diagnosis. Regarding intervention, cholinesterase inhibitors may improve cognitive function. Unfortunately, dopamine agonists, commonly used to treat Parkinson's disease, actually worsen hallucinations and confusion, and agents used to manage psychotic features can worsen the movement disorder associated with Lewy body disease.\n\nAlzheimer's disease\nAlzheimer's disease is not usually associated with visual hallucinations or difficulties in movement early in the the condition. These are features of Lewy body disease, which is the most likely diagnosis here.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "8706aaad-aefd-4091-be4b-1a429ade1769",
+    "stem": "A 64-year-old man is referred to the Cardiology Clinic for review. He has been suffering central chest pain when he walks outside in cold weather or climbs a hill. His current medication includes ramipril, indapamide and bisoprolol. His BP is 148/82 mmHg, and his resting heart rate is 82 bpm. His chest is clear and there is no ankle swelling. Investigation Result 12-lead ECG Small inferior Q waves and T-wave inversion What is the most appropriate intervention?",
+    "options": [
+      "Ambrisentan",
+      "Diltiazem",
+      "Isosorbide dinitrate",
+      "Ivabradine",
+      "Nebivolol"
+    ],
+    "correct_option": 3,
+    "explanation": "Ivabradine\nIvabradine is a calcium I(f) channel inhibitor. It is used as a second-line therapy for angina and in the treatment of heart failure, where the resting heart rate increases. In this case, the resting heart rate is above target at 82 bpm. The usual starting dose is 5 mg twice a day. After two weeks, this can be increased when the heart rate is above target (75 bpm).\n\nAmbrisentan\nAmbrisentan is an endothelin antagonist licensed for the treatment of pulmonary hypertension. Although it is a vasodilator, there is no significant evidence to support its use in chronic, stable angina. In this case, Tutor with AI an increased ventricular rate, ivabradine is the preferred intervention.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "4403e4fc-c35d-4864-b938-8e7f3893aa9b",
+    "stem": "A 19-year-old man presents to the Emergency Department with crusted erythematous lesions affecting his beard line. He says they have worsened over the past few days. A local Pharmacist gave him topical iodine treatment, but it has been ineffective. Examination reveals a number of erythematous lesions with honey- coloured crusted exudate. What is the most appropriate next step?",
+    "options": [
+      "Co-amoxiclav oral",
+      "Flucloxacillin oral",
+      "Fusidic acid topical",
+      "Hydrogen peroxide topical",
+      "Mupirocin topical"
+    ],
+    "correct_option": 2,
+    "explanation": "Fusidic acid topical\nThis patient's symptoms are typical of non-bullous impetigo. It is highly contagious and may be spread by activities such as sharing of towels and razors. The usual first intervention is with topical iodine (as here) or with topical hydrogen peroxide. In patients where this is ineffective, topical antibiotics are the next logical step. Fusidic acid is used where MRSA is not suspected, and where it is, mupirocin is the most appropriate intervention.\n\nCo-amoxiclav oral\nCo-amoxiclav is a potential second-line oral treatment option for impetigo. Oral antibiotics are usually reserved for patients with widespread impetigo or where symptoms have not responded to topical therapy. In this case, a trial of topical fusidic acid is the most appropriate next step.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "380f61bd-e959-421b-92da-33d564306593",
+    "stem": "A 38-year-old woman is admitted to the Emergency Department with bladder urgency and weakness of both legs. Examination reveals a spastic paraparesis with increased tone, extensor plantar response and pyramidal weakness. She is catheterised. What is the most useful investigation?",
+    "options": [
+      "Aquaporin-4 immunoglobulin G antibodies",
+      "Lumbar puncture for oligoclonal bands",
+      "MRI brain, cervical and thoracic spine with contrast",
+      "MRI lumbar spine",
+      "Protein 14-3-3 testing"
+    ],
+    "correct_option": 2,
+    "explanation": "MRI brain, cervical and thoracic spine with contrast\nThis patient has signs and symptoms consistent with transverse myelitis. While a lumbar puncture may be indicated, the next most useful investigation is an MRI with contrast. In this age group, several possible causes exist, including autoimmune (eg multiple sclerosis (MS) or the much rarer neuromyelitis optica) and infectious disease. Multiple sclerosis diagnosis is based on the McDonald criteria. This requires evidence of CNS inflammation dissemination in time and space. Where a single clinical attack has occurred, both criteria can be fulfilled by MRI: dissemination in space by lesions in separate CNS compartments and dissemination in time by the presence of contrast and non-contrast-enhancing lesions on a single scan (contrast enhancement indicates a new lesion which is less than 4-weeks old). Unmatched oligoclonal bands, via a lumbar puncture, will provide dissemination in time (ie they exist due to historical inflammation) but not space. While they are useful in many scenarios (eg a patient who meets the dissemination in space-but-not-time criteria), they are not the next most useful investigation here. Additionally, the absence of oligoclonal bands will not differentiate between the various causes of transverse myelitis.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ad5229cd-7fc0-45b6-a207-81ecde4d502d",
+    "stem": "A 59-year-old man who has type II diabetes is commenced on metformin monotherapy. How does metformin primarily reduce blood glucose?",
+    "options": [
+      "Increases endogenous GLP-1 levels",
+      "Increases endogenous glucagon levels",
+      "Increases glucose excretion",
+      "Reduces hepatic glucose output",
+      "Reduces intestinal glucose absorption"
+    ],
+    "correct_option": 3,
+    "explanation": "Reduces hepatic glucose output\nMetformin acts primarily by improving hepatic insulin resistance. As a consequence of this, glucose output from the liver is reduced. It may also have some action on upregulating adenosine-monophosphate-protein-activated kinase. When the dose is uptitrated too fast, diarrhoea may result due to bile acid malabsorption. It does not lead to hypoglycaemia when used as monotherapy.\n\nIncreases endogenous GLP-1 levels\nDipeptidyl-peptidase-4 inhibitors increase endogenous glucagon-like peptide 1 (GLP-1) levels. Sitagliptin is an example from the class. They reduce HbA1c by around 0.7% and have modest positive effects on body weight. The class is not to reduce ischaemic cardiovascular events. Metformin primarily works by improving hepatic insulin resistance.\n\nIncreases endogenous glucagon levels\nDipeptidyl-peptidase-4 inhibitors block the enzyme metabolising incretin hormones, including GLP-1, glucagon and gastric inhibitory polypeptide. They reduce HbA1c by around 0.7% without increasing the risk of hypoglycaemia and have modest weight-reducing effects.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "8ace9b46-35af-44c1-a94d-8ea6236adb2b",
+    "stem": "A 30-year-old man is referred to the Gastroenterology Clinic with symptoms of dysphagia for four months. He has asthma, for which he takes a high-dose corticosteroid and long-acting beta-agonist inhaler, and his symptoms are well controlled. He feels solid food sticking in his chest but has never vomited. He has not lost any weight, and examination is unremarkable. Peripheral blood eosinophil count is elevated at 1.5 x 10 9/l (0.05–0.5). What is the most likely cause of his symptoms?",
+    "options": [
+      "Achalasia",
+      "Eosinophilic granulomatosis with polyangiitis",
+      "Eosinophilic oesophagitis",
+      "Oesophageal carcinoma",
+      "Pharyngeal pouch"
+    ],
+    "correct_option": 2,
+    "explanation": "Eosinophilic oesophagitis\nEosinophilic oesophagitis is a rare condition seen more frequently in patients with asthma and is associated with a rise in peripheral blood eosinophil count. It fits with the chronic symptoms of dysphagia, which are not associated with either anaemia or weight loss. Endoscopy may reveal ridges within the oesophagus, and a biopsy may show eosinophilic infiltration. Dispersible oral budesonide is the usual first-line intervention.\n\nAchalasia\nAchalasia generally occurs in much older patients. It is also associated with intermittent regurgitation of both liquids and solids rather than the symptoms of dysphagia alone, which are reported here. The dysphagia symptoms and the increase in eosinophil count suggest eosinophilic oesophagitis.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "28c40bac-4169-47ba-8172-ec7781e06d0c",
+    "stem": "A 34-year-old woman is referred to the Rheumatology Clinic with a small-joint polyarthritis affecting her hands and feet. She has suffered from diarrhoea and abdominal pain for the past seven months and has lost 3 kg in weight. Investigation Result Normal range C-reactive protein 72 mg/l < 10mg/l Rheumatoid factor Negative Faecal calprotectin 260 µg/g < 100 µg/g What is the most appropriate intervention for her arthritis?",
+    "options": [
+      "Ciclosporin",
+      "Infliximab",
+      "Methotrexate",
+      "Prednisolone",
+      "Sulphasalazine"
+    ],
+    "correct_option": 4,
+    "explanation": "Sulphasalazine\nThis patient has symptoms of enteropathic arthritis, diarrhoea and a raised faecal calprotectin, which suggests the possibility of underlying inflammatory bowel disease. Sulphasalazine, an aminosalicylate, has the advantage of treating both joint symptoms and underlying inflammatory bowel disease and is, therefore, an optimal first intervention here. If it is ineffective, then an alternative disease-modifying antirheumatic drug (DMARD), such as methotrexate or an anti-tumour necrosis factor (anti-TNF) monoclonal, would be a reasonable next step.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c41acf0e-8ac9-436b-8d6e-4b38f654bf68",
+    "stem": "A 27-year-old man presents to the Genetics Clinic to discuss the risks of his children inheriting Peutz–Jegher syndrome. He has suffered three upper-GI bleeds due to hamartomas over the past six months. He has a sister who also has the condition. His partner is healthy. What is the risk of his child inheriting Peutz–Jegher syndrome?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%",
+      "0%"
+    ],
+    "correct_option": 1,
+    "explanation": "50%\nPeutz–Jegher is inherited in an autosomal-dominant fashion, meaning that when one partner is unaffected, the chance of having children with the condition is 50%, as the affected partner has one mutated gene and one normal one.\n\n25%\nThe risk of patients inheriting a condition when it is autosomal recessive and each partner carries one affected gene is 25%. Peutz–Jegher follows an autosomal-dominant inheritance pattern, meaning the risk of the patient's children inheriting the condition is 50%.\n\n75%\nPeutz–Jegher follows an autosomal-dominant inheritance pattern, meaning that the inheritance rate is 50% when one partner is affected. It cannot be 75%.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ad0b90d1-2dcc-4d79-8408-e79a86e8df18",
+    "stem": "A 23-year-old woman who has two young children in nursery presents to the Emergency Department complaining of perianal itching, which is much worse at night. She says that her children have had similar symptoms. What is the most likely cause of her symptoms?",
+    "options": [
+      "Ascaris lumbricoides",
+      "Enterobius vermicularis",
+      "Leptospira icterohaemorrhagiae",
+      "Taenia solium",
+      "Wuchereria bancrofti"
+    ],
+    "correct_option": 1,
+    "explanation": "Enterobius vermicularis\nThis patient's symptoms are typical of threadworm infection, which is spread via repeated cycles of faecal–oral contamination and is common in families with young children. Mature worms emerge at night to lay eggs around the anal margin, these then precipitate itching which can help drive the cycle of reinfection. Mebendazole is the intervention of choice, coupled with scrupulous personal hygiene.\n\nAscaris lumbricoides\nAscaris is a genus of small intestinal roundworms. They can cause malabsorption and iron-deficiency anaemia and may rarely cause small-bowel obstruction. They are much larger than threadworms, which are likely the cause of this patient's symptoms.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "54c9cd8e-836b-4368-a147-54652545f925",
+    "stem": "A 60-year-old woman presents to the Emergency Department with symptoms of dysphagia over the past four months. She wakes up at night with acid in her mouth. Her weight has fallen by 2 kg over the last month. She smokes five cigarettes per day. Her BP is 155/82 mmHg, and her BMI is 26 kg/m 2. Investigation Result Normal value Haemoglobin 108 g/l 120–160 g/l White cell count 7.9 × 10 9/l 4.0–11.0 × 10 9/l Platelets 203 × 10 9/l 150–400 × 10 9/l Sodium 142 mmol/l 135–145 mmol/l Potassium 4.5 mmol/l 3.5–5.0 mmol/l Creatinine 89 µmol/l 50–90 µmol/l What is the most appropriate investigation?",
+    "options": [
+      "CT abdomen",
+      "Oesophageal manometry",
+      "Oesophageal pH monitoring",
+      "Ultrasound abdomen",
+      "Upper GI endoscopy"
+    ],
+    "correct_option": 4,
+    "explanation": "Upper GI endoscopy\nThis patient has symptoms of dysphagia and modest weight loss, with anaemia on routine blood testing. She also smokes. Given her age, she fits the criteria for urgent referral for upper GI endoscopy to rule out an oesophageal cancer. Other investigations, such as manometry and pH monitoring, are usually reserved for patients with suspected achalasia.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "28110763-7147-4566-97d2-457021b51b64",
+    "stem": "A 72-year-old man has prostate cancer with bony metastases. A decision is made to commence therapy with leuprorelin. What is the mode of action of leuprorelin?",
+    "options": [
+      "Gonadotrophin-releasing-hormone agonist",
+      "Gonadotrophin-releasing-hormone antagonist",
+      "Luteinising-hormone antagonist",
+      "Progesterone antagonist",
+      "Testosterone antagonist"
+    ],
+    "correct_option": 0,
+    "explanation": "Gonadotrophin-releasing-hormone agonist\nLeuprorelin is a long-acting agonist of the gonadotrophin-releasing hormone (GnRH) receptor. Administration of leuprorelin results in an initial increase in circulating levels of gonadotrophins, which leads to a transient increase in testosterone levels. Continued administration of leuprorelin results in a decrease in gonadotrophins and testosterone levels. Testosterone levels, initially raised in response to early luteinising hormone (LH) release, fall to castration levels in about four weeks.\n\nGonadotrophin-releasing-hormone antagonist\nDegarelix is an example of a GnRH antagonist. By blocking the release of GnRH, it leads to a reduction in LH and follicle-stimulating hormone (FSH), and consequently markedly reduced testosterone production.\n\nLuteinising-hormone antagonist\nLeuprorelin is not a direct LH antagonist. It is a long-acting agonist of GnRH: as a long-acting agent it blocks downstream release of LH and FSH and downstream testosterone production.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "541ebfef-c9f2-4fee-b4ba-3337f4e6a4b8",
+    "stem": "A 59-year-old man is admitted to the Emergency Department with central, crushing, chest pain radiating down his left arm for 30 minutes. His BP is 90/50 mmHg, and his heart rate is 99 bpm and regular. There are crackles at both bases on auscultation of the chest. Investigation Result Normal value 12-lead ECG 3 mm ST elevation leads V2–V5 High-sensitivity troponin T 64 ng/l <14 ng/l Where is the most likely site of this patient's arterial occlusion?",
+    "options": [
+      "Left anterior descending",
+      "Left circumflex",
+      "Left marginal",
+      "Posterior descending",
+      "Right marginal"
+    ],
+    "correct_option": 0,
+    "explanation": "Left anterior descending\nThe changes seen here are consistent with occlusion of the left anterior descending artery, with widespread ST elevation in leads V2–V5. Although the troponin T is only mildly elevated, it will likely rise very quickly. Urgent percutaneous coronary intervention with potential angioplasty and stenting is required.\n\nLeft circumflex\nThe left circumflex artery supplies blood to the lateral wall of the left ventricle. With respect to ECG changes, occlusion of the left circumflex is more likely to lead to changes in leads I, aVL, V5 and V6. The changes seen here are consistent with a left anterior descending stenosis.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "7b68d7dd-a8b1-4774-a3b1-598ee0e16568",
+    "stem": "A 56-year-old woman is referred to the Oncology Clinic with a distended abdomen. An urgent abdominal ultrasound has demonstrated a complex ovarian mass with marked ascites. Which tumour marker is most likely to be elevated?",
+    "options": [
+      "CA 15-3",
+      "CA 19-9",
+      "CA 125",
+      "Calcitonin",
+      "5-Hydroxyindoleacetic acid"
+    ],
+    "correct_option": 2,
+    "explanation": "CA 125\nCA 125 is also known as mucin-16 and is a marker of ovarian carcinoma. The complex ovarian mass and ascites suggest this as the underlying diagnosis. CA 125 should be less than 35 kU/l. It may be elevated in patients with a benign ovarian cyst or in an underlying malignancy.\n\nCA 15-3\nCA 15-3 is a marker for breast cancer rather than ovarian cancer, which is related to elevated levels of CA 125. It is used to monitor for recurrence in patients with previously treated stage 2 or stage 3 breast cancer. Elevated levels are more than 29 kU/l.\n\nCA 19-9\nCA 19-9 is elevated in cancers of the pancreas, gallbladder, bile duct and stomach. It is usually considered for monitoring post-intervention for tumour recurrence, rather than as an initial diagnostic tool.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "05f15d9e-3a0e-4903-9934-9ca3711ca6a1",
+    "stem": "A 19-year-old man receives air aspiration for a primary pneumothorax and is discharged from the Emergency Department. He is about to go travelling for a year. What activity should he be advised to avoid during his year away?",
+    "options": [
+      "Boxing",
+      "Flying",
+      "Rugby",
+      "Scuba diving",
+      "Smoking"
+    ],
+    "correct_option": 3,
+    "explanation": "Scuba diving\nScuba diving should be absolutely avoided in patients who have had a previous pneumothorax unless they have undergone bilateral pleurectomy and have normal lung function and chest CT postoperatively. Some meta-analyses of available data suggest that the risk of recurrence is highest in the first year after pneumothorax, leading to some patients choosing to dive again without definitive intervention.\n\nBoxing\nBoxing is classified as a contact sport and is not recommended until 2–10 weeks after pneumothorax has resolved, and at least until there is no further pain.\n\nFlying\nAir travel should be avoided until one week after the full resolution of a pneumothorax, determined by chest X- ray. Flying before this time risks the pneumothorax expanding again at altitude.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "f19d5433-2f57-4e0a-8ce1-c03c9fc21dda",
+    "stem": "An 18-year-old woman is brought to the Emergency Department after collapsing. She admits to using purgatives to control her weight and limiting her eating. Her BP is 105/80 mmHg, and her heart rate is 85 bpm and regular. Her BMI is 16.5 kg/m 2. What is the most appropriate intervention for her eating disorder?",
+    "options": [
+      "Citalopram",
+      "Counselling",
+      "Eating-disorder-focused cognitive behavioural therapy",
+      "Exposure–response prevention therapy",
+      "Forced nasogastric feeding"
+    ],
+    "correct_option": 2,
+    "explanation": "Eating-disorder-focused cognitive behavioural therapy\nEating-disorder-focused cognitive behavioural therapy is the mainstay of intervention for anorexia nervosa, the likely diagnosis here, in patients aged 18 and above. This typically involves an intensive programme of up to 40 sessions over 40 weeks and is delivered by specialist Eating Disorder Centres. There is no evidence to support the use of antidepressants in the management of the condition.\n\nCitalopram\nThere is no role for selective serotonin reuptake inhibitors in the management of anorexia nervosa. They may be used for managing coexistent depressive disorder, although cognitive behavioural therapy is most important for treating the eating disorder.\n\nCounselling\nCounselling is ineffective in managing eating disorders. The only way to impact outcomes is with targeted cognitive behavioural therapy delivered by a specialist eating disorder centre.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ac71252a-7193-4443-ac1b-1874422f3ab3",
+    "stem": "A 45-year-old woman is referred to the Gastroenterology Cinic with gradually worsening tiredness, itching and abnormal liver function. She drinks ten glasses of wine each week. Her BP is 122/72 mmHg, and her heart rate is 80 bpm and regular. She has xanthelasma and some scratch marks over the upper body. There are several spider naevi. She has a 1-finger-breadth liver edge on abdominal palpation. Her BMI is 29 kg/m 2. Investigation Result Normal value Haemoglobin 110 g/l 120–160 g/l Mean corpuscular volume 95 fl 80–100 fl White cell count 7.2 × 10 9/l 4.0–11.0 × 10 9/l Platelets 75 × 10 9/l 150–400 × 10 9/l Sodium 142 mmol/l 135–145 mmol/l Potassium 4.5 mmol/l 3.5–5.0 mmol/l Creatinine 85 µmol/l 50–90 µmol/l Autoantibodies Anti-mitochondrial positive Alanine aminotransferase 55 IU/l 10–30 IU/l Alkaline phosphatase 295 IU/l 30–130 IU/l Bilirubin 28 µmol/l <21 µmol/l What is the most likely cause of her symptoms?",
+    "options": [
+      "Alcoholic steatohepatitis",
+      "Autoimmune hepatitis",
+      "Metabolic-dysfunction-associated steatohepatitis",
+      "Primary biliary cholangitis",
+      "Primary sclerosing cholangitis"
+    ],
+    "correct_option": 3,
+    "explanation": "Primary biliary cholangitis\nThis patient has slowly progressive symptoms of tiredness and itching. With an obstructive LFT picture and positive anti-mitochondrial antibodies, a diagnosis of primary biliary cholangitis should be considered. Magnetic resonance cholangiopancreatography imaging of the liver and liver biopsy help confirm and stage the diagnosis. Ursodeoxycholic acid may be of value in treating symptoms, although many patients progress to liver transplant.\n\nAlcoholic steatohepatitis\nAlthough we know the level of this patient's alcohol consumption accurately, the obstructive picture on liver function testing and anti-mitochondrial antibodies are most suggestive of primary biliary cholangitis as the underlying diagnosis.\n\nAutoimmune hepatitis\nAutoimmune hepatitis is more likely to be associated with hepatocellular dysfunction on liver function testing. Smooth muscle antibodies are more typical of autoimmune hepatitis than the positive anti-mitochondrial antibodies reported here.\n\nMetabolic-dysfunction-associated steatohepatitis\nMetabolic-dysfunction-associated steatohepatitis is strongly associated with obesity and with features of insulin resistance, such as dyslipidaemia and abnormal blood glucose. In this case, with positive anti- mitochondrial antibodies, a diagnosis of primary biliary cholangitis should be considered,\n\nPrimary sclerosing cholangitis\nPrimary sclerosing cholangitis is strongly associated with inflammatory bowel disease and is more common in males. In addition, it is not associated with positive anti-mitochondrial antibodies.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "79b923ba-a9ef-47bd-b034-05a528411096",
+    "stem": "A 28-year-old woman is seen in the Cancer Genetics Clinic following a left mastectomy for breast cancer. Her mother passed away from breast cancer at the age of 42. Other members of the family have suffered from thyroid cancer, colon cancer and endometrial carcinoma. What is the most likely cause of cancer in the family?",
+    "options": [
+      "Adenomatous polyposis coli mutation",
+      "BRCA1 mutation",
+      "BRCA2 mutation",
+      "Phosphatase and tensin homologue mutation",
+      "TP53 mutation"
+    ],
+    "correct_option": 3,
+    "explanation": "Phosphatase and tensin homologue mutation\nPhosphatase and tensin homologue (PTEN) mutations lead to the development of Cowden syndrome. PTEN is a tumour-suppressor gene, and mutations lead to the development of several hamartomas, including mucocutaneous neuromas and acral keratosis. Common cancers associated with Cowden syndrome include breast cancer, colon cancer, thyroid and endometrial cancer. It is inherited in an autosomal-dominant fashion.\n\nAdenomatous polyposis coli mutation\nMutations in the adenomatous polyposis coli gene lead to the development of familial adenomatous polyposis coli and an increased risk of colon cancer. They are not associated with the development of breast cancer.\n\nBRCA1 mutation\nBRCA1 mutations are associated with increased risk for breast and ovarian cancer. They are also linked to increased risk for prostate cancer in males and pancreatic and colon cancer in both males and females.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "338a23d3-b185-49fb-9ef4-a0ba93c2fa03",
+    "stem": "A 35-year-old woman is referred to the Urogynaecology Clinic with recurrent incontinence when she laughs or strains. She says she is fine at other times but has had to wear pads to protect her clothing for some time. She has had four children by vaginal delivery. Her BMI is 26 kg/m 2. What is the most appropriate initial intervention?",
+    "options": [
+      "Botulinum toxin injections",
+      "Duloxetine",
+      "Mirabegron",
+      "Oxybutynin",
+      "Pelvic floor exercises"
+    ],
+    "correct_option": 4,
+    "explanation": "Pelvic floor exercises\nPelvic floor exercises are the initial intervention of choice for stress incontinence. If symptoms don't adequately respond to exercises, duloxetine may be a potential option. Anticholinergics and botulinum toxin injections are an option for overactive bladders and stress incontinence.\n\nBotulinum toxin injections\nLocal treatment with botulinum toxin is a potential option for patients with urge incontinence who fail to respond to systemic therapy with either an anticholinergic or beta-3 agonist therapy. In this case, the symptoms are consistent with stress incontinence.\n\nDuloxetine\nDuloxetine is a serotonin–noradrenaline-reuptake inhibitor. It is used as a second-line treatment for stress incontinence for patients who fail to respond adequately to pelvic floor exercises alone, and if women prefer pharmacological to surgical treatment or are not suitable for surgical treatment.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "65e68040-90af-4729-af60-0728a32e04f9",
+    "stem": "A 31-year-old woman who has been admitted to the Intensive Care Unit (ICU) twice previously due to severe asthma is brought to the Emergency Department with severe shortness of breath and wheezing. She started her rescue pack of oral prednisolone two days ago. Her peak expiratory flow rate (PEFR) is 190 l/minute (510 l/minute predicted) 30 minutes after back-to-back nebulisers. She has bilateral poor air entry and wheeze, on auscultation of the chest. What is the most appropriate next step?",
+    "options": [
+      "Aminophylline IV",
+      "Hydrocortisone IV",
+      "Magnesium IV",
+      "Montelukast oral",
+      "Salbutamol IV"
+    ],
+    "correct_option": 2,
+    "explanation": "Magnesium IV\nMagnesium infusion is indicated in the treatment of acute severe asthma, where peak flow has not improved despite intensive intervention, including a period of back-to-back nebulisers. A 2-g magnesium sulphate dose is usually administered over 20 minutes. It can be repeated. Studies suggest that symptoms and measures of morbidity, such as admission and time in the ICU, are improved. However, they are not able to confirm a mortality benefit.\n\nAminophylline IV\nAminophylline is not thought to improve outcomes in acute asthma beyond continuous nebulised beta-agonist therapy. It may also increase the risk of atrial fibrillation. Magnesium is the preferred option in this situation.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "eec25997-a7d0-4d3c-99f7-34a45ec8c7bd",
+    "stem": "A 54-year-old man is brought to the Emergency Department with night sweats, gradual weight loss and a new systolic murmur. He takes no regular medication. His temperature is 38.2 °C, BP is 112/82 mmHg, and heart rate is 84 bpm and regular. There are bilateral splinter haemorrhages on examination of the fingernails. He has an ejection systolic murmur, which is loudest in the aortic area. Investigation Result Normal value Haemoglobin 98 g/l 135–175 g/l Mean corpuscular volume 77 fl 80–100 fl White cell count 11.9 × 10 9/l 4.0–11.0 × 10 9/l Blood cultures Streptococcus gallolyticus What is the most useful next investigation?",
+    "options": [
+      "Colonoscopy",
+      "CT abdomen",
+      "Cystoscopy",
+      "Dental X-rays",
+      "Magnetic resonance cholangiopancreatography"
+    ],
+    "correct_option": 0,
+    "explanation": "Colonoscopy\nS. gallolyticus endocarditis is strongly associated with underlying colon cancer, meaning a colonoscopy is the most important next investigation. In patients where there is no sign of underlying colon cancer, investigation of the biliary tree indicates that S. gallolyticus is also associated with cholangiocarcinoma.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "77b96792-6d2e-4f4b-b708-8614d01c8e0d",
+    "stem": "A 28-year-old woman presents with a left lower limb DVT. She is 20 weeks' pregnant. Her mother suffered a DVT at a similar age. What is the most likely cause of her DVT?",
+    "options": [
+      "Factor V Leiden",
+      "Factor-VII deficiency",
+      "Protein-C deficiency",
+      "Protein-S deficiency",
+      "Von Willebrand disease"
+    ],
+    "correct_option": 0,
+    "explanation": "Factor V Leiden\nFactor V Leiden is the most common thrombophilic disorder, with a heterozygous prevalence of between 3% and 8% in Northern European populations. The homozygous form is much rarer, occurring in 1 in 5000 individuals. The risk of venous thrombosis is increased by about 7-fold in heterozygotes, so the standard three months of anticoagulation is recommended in provoked DVT. In pregnant women, continuation of low- molecular-weight heparin throughout pregnancy is recommended until at least six weeks' postpartum.\n\nFactor-VII deficiency\nFactor-VII deficiency is a very rare cause of bleeding, with a prevalence of 1 in 300 000–500 000 individuals. In contrast to factor V Leiden, it does not cause thrombosis.\n\nProtein-C deficiency\nHeterozygous protein-C deficiency has a prevalence of 1 in 200–500 people. This is rarer than heterozygous factor V Leiden, which has a prevalence of between 3% and 8%.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "a27c2a27-7852-479e-ac8e-eb697acfd803",
+    "stem": "A 45-year-old man is referred to the Endocrine Clinic with headaches, hypertension and an elevated fasting blood glucose. He says he cannot wear his wedding ring due to swelling of his fingers. An MRI scan revealed a 0.9-cm pituitary tumour. His BP is 159/92 mmHg, and his heart rate is 71 bpm and regular. His BMI is 23 kg/m 2. Investigation Value Normal range Insulin-like growth factor 1 (IGF-1) 102 nmol/l 10.5–47.0 nmol/l What is the most appropriate intervention for this patient?",
+    "options": [
+      "Cabergoline",
+      "Octreotide",
+      "Pegvisomant",
+      "Pituitary surgery",
+      "Radiotherapy"
+    ],
+    "correct_option": 3,
+    "explanation": "Pituitary surgery\nThis patient has a raised IGF-1, which is more than twice the upper limit of the normal range, and an abnormal pituitary MRI. The clinical picture is consistent with a diagnosis of acromegaly. Trans-sphenoidal excision of the pituitary adenoma is the initial intervention of choice. Radiotherapy is the next step, only where IGF-1 is not controlled post-surgery.\n\nCabergoline\nCabergoline is a dopamine agonist. It is the intervention of choice for prolactinoma and is used in case of only modest elevations of serum IGF-1 and, mild signs and symptoms of growth hormone (GH) excess. In Tutor this case, surgical intervention is the next optimal step.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "d9d09f09-10a4-432c-bca4-c35957694fee",
+    "stem": "A 27-year-old woman is thought to be suffering from an autoimmune disorder linked to major histocompatibility complex (MHC) class-I antigen presentation. Which of the following binds to MHC class I?",
+    "options": [
+      "CD3",
+      "CD4",
+      "CD8",
+      "CD19",
+      "CD20"
+    ],
+    "correct_option": 2,
+    "explanation": "CD8\nCD8 is predominantly expressed on the surface of cytotoxic T cells. It can also be found on natural killer cells, cortical thymocytes and dendritic cells. It functions as a dimer and binds to the alpha-3 domain of the MHC class-I molecule. It plays an important role in activating antigen-specific cytotoxic T cells directed against viral infection.\n\nCD3\nThe CD3 receptor is a T-cell receptor required for activating the T-cell-mediated immune response. Blockade of CD3 has been investigated as a method to increase the T regulatory cell response in autoimmune diseases, and teplizumab, an anti-CD3 monoclonal, has been licensed for the prevention of hyperglycaemia in type I diabetes.\n\nCD4\nCD4 is a T-cell co-receptor which binds to the beta-2 region of MHC class II. CD4 receptors are conserved through the evolutionary chain and function to modulate the T-cell response. CD4 cells are the site of HIV infection, and a reduction in CD4-positive T lymphocytes is associated with an increased risk of opportunistic",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "56ba0269-7a96-47c6-9299-c5c20c8e6842",
+    "stem": "A 52-year-old man who has type II diabetes presents to his General Practitioner complaining of double vision, which he says began all of a sudden a few days earlier. He has failure of adduction of the right eye, and there is horizontal nystagmus on looking to the left. Where is the most likely lesion?",
+    "options": [
+      "Left occipital lobe",
+      "Medial longitudinal fasciculus",
+      "Optic chiasm",
+      "Parietal lobe",
+      "Temporal lobe"
+    ],
+    "correct_option": 1,
+    "explanation": "Medial longitudinal fasciculus\nThis patient has a medial longitudinal fasciculus (MLF) lesion, which has led to internuclear ophthalmoplegia, where there is failure of adduction of the right eye and horizontal nystagmus on looking to the left. The MLF is found near the midline within the tegmentum of the midbrain. Given this patient has type II diabetes, a small infarct has potentially led to the sudden presentation.\n\nLeft occipital lobe\nA left occipital lobe lesion affects the visual cortex because the image is flipped by the lens, and a lesion on the left leads to a right hemianopia.\n\nOptic chiasm\nOptic chiasm lesions lead to bitemporal hemianopia, most commonly related to a pituitary or a hypothalamic tumour. The conjugate gaze palsy here is consistent with a MLF lesion.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "50f034cf-d67a-4cce-a2ab-d0a026c2772a",
+    "stem": "A 62-year-old man who has type II diabetes presents to the Emergency Department with right-arm weakness and aphasia. Which artery is most likely to have been occluded?",
+    "options": [
+      "Left anterior cerebral artery",
+      "Left middle cerebral artery",
+      "Left posterior cerebral artery",
+      "Right anterior cerebral artery",
+      "Right middle cerebral artery"
+    ],
+    "correct_option": 1,
+    "explanation": "Left middle cerebral artery\nLeft middle cerebral artery infarction leads to right-arm weakness, as seen here. Wernicke's area receives its blood supply from the inferior temporal branch of the middle cerebral artery, which leads to the aphasia seen here. The most prominent feature of Wernicke's aphasia is impaired language comprehension.\n\nLeft anterior cerebral artery\nAnterior cerebral artery strokes are very uncommon, only representing up to around 4.4% of ischaemic strokes. Symptoms include hemiparesis, sensory deficits, changes in behaviour, aphasia and apraxia. The clinical picture here fits much better with a middle cerebral artery infarction.\n\nLeft posterior cerebral artery\nPosterior cerebral artery infarction is primarily associated with visual-field deficit. It is a left-sided lesion resulting in a right homonymous hemianopia. It does not lead to the weakness and aphasia seen here.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "e20938e4-6436-4a4e-a4b7-2612632ff12d",
+    "stem": "A 42-year-old man presents to the Emergency Department with lethargy, night sweats, anorexia and gradual weight loss. He has recently returned from rural Kenya. His medical history is unremarkable, and he takes no medication. On examination, his BP is 105/72 mmHg, pulse is 85/min and regular, he is apyrexial and looks pale. Hepatosplenomegaly is noted, and he has a raised, erythematous plaque-like rash over his buttocks. Investigations: Investigation Result Normal value Haemoglobin 92 g/l 135–175 g/l White cell count (WCC) 5.2 × 10 9/l 4.0–11.0 × 10 9/l Platelets 142 × 10 9/l 150–400 × 10 9/l Sodium (Na +) 137 mmol/l 135–145 mmol/l Potassium (K +) 4.3 mmol/l 3.5–5.0 mmol/l Creatinine 110 µmol/l 50–120 µmol/l Alanine Aminotransferase (ALT) 220 IU/l 5–30 IU/l Alkaline Phosphatase 310 IU/l 30–130 IU/l Bone marrow aspirate Amastigotes identified Which of the following is the most appropriate therapy?",
+    "options": [
+      "Albendazole",
+      "Artemesin",
+      "Mebendazole",
+      "Liposomal amphotericin B",
+      "Tinidazole"
+    ],
+    "correct_option": 3,
+    "explanation": "Liposomal amphotericin B\nThe clinical presentation seen here, with an erythematous rash, hepatosplenomegaly, pancytopaenia, abnormal LFTs and amastigotes, suggests that visceral leishmaniasis is the most likely diagnosis. First-line therapy is with liposomal amphotericin B, which is safe and highly effective in most areas. Sodium stibogluconate is second- line therapy, is administered IV and may be associated with abdominal pain and nausea, fatigue, chemical pancreatitis and ECG changes. Pentamidine is an alternative therapy.\n\nAlbendazole\nAlbendazole is incorrect. This would have been the correct treatment option for helminth infection. There are several types of helminths that might mean that this is the correct treatment choice, but in general, mebendazole is the first-line treatment for most of these infections. Examples include hookworm, which presents with chronic iron deficiency anaemia by parasites causing slow upper GI bleeding, and Strongyloides which causes migrating urticarial lesions on the legs and trunk with pneumonitis, enteritis and diarrhoea.\n\nArtemesin\nArtemesin is incorrect. This would have been the correct choice if the patient had presented with symptoms consistent with malaria. Whilst malaria can cause hepatosplenomegaly, anaemia, fever, renal and hepatic injury, it does not cause a rash with plaques. In addition, the slow history makes it less likely.\n\nMebendazole\nMebendazole is incorrect. This would have been the correct treatment option for helminth infection. There are several types of helminths that might mean that this is the correct treatment choice, and mebendazole is the first-line treatment for most of these infections. Examples include hookworm, which presents with chronic iron deficiency anaemia by parasites causing slow upper GI bleeding, and Strongyloides which causes migrating urticarial lesions on the legs and trunk with pneumonitis, enteritis and diarrhoea.\n\nTinidazole\nTinidazole is incorrect. This would have been the correct choice if the patient had presented with symptoms consistent with Giardia. Giardia is a flagellated protozoon causing infection in the duodenum and jejunum following faecal–oral spread. It results in diarrhoea, which can be explosive, with abdominal pain and flatulence. The absence of diarrhoea and the presence of a rash make this less likely.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "4238655a-a599-42f3-895d-521405c6d592",
+    "stem": "A 45-year-old man presents to his General Practitioner with feelings of exhaustion. His exercise tolerance has reduced from walking 5 miles daily to 20 metres over the past four weeks. He looks pale and has a yellow- tinged complexion. His BP is 115/72 mmHg, and his heart rate is 100 bpm and regular. He has reduced proprioception and vibration sense in both feet. Investigation Result Normal value 46 g/l Haemoglobin (Hb) Evidence of red-cell fragmentation seen on blood 120–160 g/l film Mean corpuscular volume 103 fl 80–100 fl (MCV) White cell count 4.0 × 10 9/l 4.0–11.0 × 10 9/l Platelets 82 × 10 9/l 150–400 × 10 9/l Sodium 140 mmol/l 135–145 mmol/l Potassium 4.4 mmol/l 3.5–5.0 mmol/l Creatinine 90 µmol/l 60–120 µmol/l What is the most likely diagnosis?",
+    "options": [
+      "Autoimmune haemolytic anaemia",
+      "Haemolytic uraemic syndrome",
+      "Hereditary spherocytosis",
+      "Iron-deficiency anaemia",
+      "Pernicious anaemia"
+    ],
+    "correct_option": 4,
+    "explanation": "Pernicious anaemia\nSevere B 12 deficiency as a result of pernicious anaemia can result in severely low Hb, with evidence of haemolysis and low platelets. The MCV is elevated. Patients are often said to have lemon-tinged skin colour and can show peripheral motor or sensory neuropathy or a mixed picture with both motor and sensory symptoms. Serum B 12 levels are the most important investigation; accelerated oral or intramuscular B 12 replacements are possible treatment options.\n\nAutoimmune haemolytic anaemia\nAutoimmune haemolytic anaemia rapidly reduces haemoglobin due to red-cell haemolysis linked to red-blood- cell autoantibody formation. It can occur from viral infection, and MCV is raised because of increased reticulocytes. However, it does not fit with the peripheral neuropathy and relatively gradual onset of symptoms, which are more suggestive of B 12 deficiency.\n\nHaemolytic uraemic syndrome\nHaemolytic uraemic syndrome is associated with Shiga toxin-producing Escherichia coli infection and leads to microangiopathic haemolytic anaemia and renal impairment. It doesn't fit with the clinical picture seen here.\n\nHereditary spherocytosis\nHereditary spherocytosis is associated with an elevated MCV and increased risk of haemolysis, particularly associated with viral infection. The presence of peripheral neuropathy here, however, is a strong pointer towards B 12 deficiency.\n\nIron-deficiency anaemia\nIron-deficiency anaemia is associated with low MCV, rather than the elevated MCV seen here and low ferritin levels. The raised MCV here is more consistent with B 12 deficiency.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3e61fd54-6de1-4244-b052-fc7012a5f80c",
+    "stem": "A 42-year-old man presents to the Rheumatology Department with small-joint polyarthritis, particularly affecting his hands and feet. Symptoms have persisted for the past three months, and have not responded to two different NSAIDs prescribed by his General Practitioner. He has lost a small amount of weight. Examination confirms the arthritis; there are no rashes. The rheumatoid factor is negative. Testing for which autoantibody is likely to be most useful?",
+    "options": [
+      "Anti-mitochondrial",
+      "Anti-nuclear",
+      "Anti-Ro",
+      "Anti-smooth muscle",
+      "Anti-cyclic citrullinated peptide"
+    ],
+    "correct_option": 4,
+    "explanation": "Anti-cyclic citrullinated peptide\nThis patient has symptoms of rheumatoid arthritis and is rheumatoid-factor negative. Anti-cyclic citrullinated peptide (anti-CCP) antibodies are a logical next step in an investigation. They are associated with more aggressive joint disease and a poorer prognosis, particularly in male patients. In this patient, methotrexate with short-term glucocorticoids is a logical next intervention.\n\nAnti-mitochondrial\nPrimary biliary cholangitis is associated with anti-mitochondrial antibodies. This patient's symptoms are suspicious of rheumatoid arthritis, where testing for anti-CCP is recommended in patients who are rheumatoid factor negative, to help confirm the diagnosis.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "5b9e1f24-308d-4a09-a22c-47fb7517a0e1",
+    "stem": "An 18-year-old man is referred to the Cardiology Clinic after complaining of tiredness, shortness of breath and ankle swelling. He is 155 cm tall and has a webbed neck. His chest is broad with widely spaced nipples and pectus carinatum superiorly. Which cardiac defect is most likely to be seen in this patient?",
+    "options": [
+      "Aortic stenosis",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Mitral valve prolapse",
+      "Pulmonary stenosis",
+      "Ventricular septal defect"
+    ],
+    "correct_option": 3,
+    "explanation": "Pulmonary stenosis\nPulmonary stenosis is the most common defect seen in patients with Noonan syndrome, the most likely diagnosis here. Patients with Noonan syndrome present with short stature and webbing of the neck. Undescended testes are also common, and intellectual impairment is present in a significant percentage of patients. The swollen ankles here are consistent with right-heart failure. Case series suggest that 25–71% of patients with Noonan's have pulmonary stenosis.\n\nAortic stenosis\nAortic coarctation is seen in 2–9% of patients with Noonan syndrome, the most likely diagnosis here. The signs of right-heart failure (tiredness and ankle swelling) fit best with pulmonary stenosis, which is the most common cardiac defect in Noonan syndrome.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "2aa24f6e-d08f-43d2-baa8-e0ae6225e9a7",
+    "stem": "A 29-year-old woman attends the Oncology Clinic for follow up after thyroidectomy and radioiodine therapy for papillary thyroid cancer. What is the best way to monitor for cancer recurrence?",
+    "options": [
+      "Prolactin",
+      "Thyrotropin-releasing hormone",
+      "Thyroglobulin",
+      "Thyroid-stimulating hormone",
+      "Thyroxine"
+    ],
+    "correct_option": 2,
+    "explanation": "Thyroglobulin\nPapillary thyroid cancer is treated with both thyroidectomy and radioiodine to ensure the eradication of cancer cells where possible. Cancer cells produce thyroglobulin, which is the precursor for thyroid hormone production and a sensitive marker for cancer recurrence. Levels above 0.1 µg/l are potentially abnormal when measured post-thyroidectomy and radioiodine.\n\nProlactin\nProlactin is a marker for an underlying pituitary tumour. Non-functioning adenomas may lead to a moderate rise in prolactin levels. Prolactinomas lead to much more marked hyperprolactinaemia. Prolactinomas can be managed with dopamine-agonist therapy.\n\nThyrotropin-releasing hormone\nThyrotropin-releasing hormone (TRH) stimulates the release of thyroid-stimulating hormone and prolactin from the anterior pituitary. TRH production is negatively influenced by thyroxine, and given that this patient is treated with thyroid hormone replacement, TRH measurement is of no use.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c3810817-5e00-42ee-8be9-69c80e948a35",
+    "stem": "A 28-year-old man is referred to the Endocrine Clinic after some abnormal blood test results. His General Practitioner arranged a 24-hour urinary calcium before the clinic visit. Investigation Result Normal value Sodium 142 mmol/l 135–145 mmol/l Potassium 4.3 mmol/l 3.5–5.0 mmol/l Creatinine 85 µmol/l 60–120 µmol/l Calcium 2.79 mmol/l 2.1–2.65 mmol/l Parathyroid hormone (PTH) 5.1 pmol/l 1.6–6.9 pmol/l 24-h urinary calcium 1.5 mmol/24 h 2.5–7.5 mmol/24 h What is the most likely underlying diagnosis?",
+    "options": [
+      "Familial hypocalciuric hypercalcaemia",
+      "Milk alkali syndrome",
+      "Primary hyperparathyroidism",
+      "Secondary hyperparathyroidism",
+      "Tertiary hyperparathyroidism"
+    ],
+    "correct_option": 0,
+    "explanation": "Familial hypocalciuric hypercalcaemia\nThis patient has no symptoms of hypercalcaemia but is found to have incidentally elevated serum calcium. In addition, PTH is in the middle of the normal range. 24-hour urinary calcium is also significantly reduced. This fits best with a diagnosis of familial hypocalciuric hypercalcaemia, which occurs due to an autosomal-dominant mutation in the gene coding for the calcium-sensing receptor. Patients chronically run calcium above the upper limit of normal but usually have no other symptoms.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c31c81f5-3148-44d9-b52d-4770f26f6327",
+    "stem": "A 64-year-old man is diagnosed with coronary stent thrombosis. He suffered an anterior myocardial infarction three months ago, for which he received two stents to the left anterior descending artery and treatment with aspirin and clopidogrel. Which of the following medications is the most likely cause of his presentation?",
+    "options": [
+      "Clarithromycin",
+      "Omeprazole",
+      "Ramipril",
+      "Rifampicin",
+      "Rosuvastatin"
+    ],
+    "correct_option": 1,
+    "explanation": "Omeprazole\nOmeprazole is a cytochrome-P450 family-2 subfamily-C member 19 (CYP2C19) inhibitor that reduces the levels of the active metabolite of clopidogrel. A single 80-mg dose of omeprazole reduces exposure to a loading dose of clopidogrel by 45% and a maintenance dose by 40%. In this case, the reduction in exposure to clopidogrel has likely led to the stent thrombosis seen here.\n\nClarithromycin\nClarithromycin is predominantly an inhibitor of cytochrome-P450 3A4. Therefore, it does not significantly reduce levels of the active metabolite of clopidogrel produced by CYP2C19 metabolism.\n\nRamipril\nRamipril is commonly prescribed in conjunction with clopidogrel, and there is no clinically significant drug–drug interaction between the two agents. Ramipril is metabolised to its active metabolite, ramiprilat. 60% of an oral dose is excreted via the kidneys and 40% via the faeces.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "07a58f3c-898c-46b0-bb5f-4c5912e41af1",
+    "stem": "A 21-year-old woman is managed on the Endocrinology Ward for NG feeding and has deteriorated acutely. She has anorexia nervosa and has a BMI of 15 kg/m 2. Her BP is 90/50 mmHg, and her heart rate is 105 bpm and regular. There are coarse crackles at both lung bases on auscultation, consistent with heart failure. Replacement of what would have avoided the deterioration seen here?",
+    "options": [
+      "Free fatty acids",
+      "Glucose",
+      "Nitrogen",
+      "Phosphate",
+      "Potassium"
+    ],
+    "correct_option": 3,
+    "explanation": "Phosphate\nThis patient is suffering from refeeding syndrome with acute left-ventricular failure related to acute lowering of serum phosphate. It can be avoided by adequate phosphate replacement in the NG feed. The syndrome occurs because of reactive hyperinsulinaemia caused by carbohydrate in the feed, which drives phosphate and potassium from the extracellular to the intracellular space.\n\nFree fatty acids\nSupplementation of phosphate, not free fatty acids, can avoid the clinical picture seen here. This is because replacing phosphate avoids the large fall in extracellular phosphate precipitated by hyperinsulinaemia.\n\nGlucose\nCarbohydrates are a significant component of NG feed preparations. They can also precipitate refeeding syndrome by driving hyperinsulinaemia, but acute left-ventricular failure can be avoided by phosphate supplementation, the key component of the feed, which is missing here.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "d9078aff-b638-4019-8c23-4dfad052a0c9",
+    "stem": "A 45-year-old woman who has end-stage cervical carcinoma with renal impairment presents to the Oncology Clinic for review. Her pain is well controlled on morphine sulphate slow release twice a day, although she complains of increasing drowsiness. Investigation Result Normal value Creatinine 295 µmol/l 50–90 µmol/l What is the most appropriate medication to switch her to?",
+    "options": [
+      "Codeine",
+      "Fentanyl",
+      "Naproxen",
+      "Oramorph",
+      "Tramadol"
+    ],
+    "correct_option": 1,
+    "explanation": "Fentanyl\nIn a woman with terminal cervical cancer and significant renal impairment who is concerned about drowsiness, opiates that do not accumulate in renal failure are the most appropriate analgesic. Both fentanyl, alfentanil and buprenorphine are largely subject to hepatic clearance. Fentanyl is available as a transdermal preparation, which is changed every 72 hours. It is, therefore, the most appropriate choice for pain relief here.\n\nCodeine\nCodeine is metabolised to morphine and morphine-6-glucuronide, both of which accumulate in renal impairment. As such, it is not an appropriate alternative in this case.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ac60ad9f-16d0-4df5-bf98-849dbf9c6f45",
+    "stem": "A 19-year-old man is referred to the Psychiatry Clinic with intermittent motor tics including lip smacking, eye blinking and twitching of his left arm. These episodes are accompanied by copying phrases from others and involuntary swearing. His mother wonders if they started around five years ago but seemed to have worsened in the last year while at university. What is the most appropriate intervention?",
+    "options": [
+      "Clonidine",
+      "Exposure-and-response prevention",
+      "Haloperidol",
+      "Psychoeducation",
+      "Risperidone"
+    ],
+    "correct_option": 3,
+    "explanation": "Psychoeducation\nThis patient has some features consistent with Tourette syndrome, including motor tics, echolalia and coprolalia (excessive and unprovoked use of swear words). Psychoeducation is the initial intervention of choice in this situation, helping patients understand and potentially manage their tics. Where it is not effective, then targeted cognitive behavioural therapy is considered, followed by pharmacological intervention with alpha-agonists such as clonidine, the first step in drug therapy.\n\nClonidine\nClonidine is an alpha-agonist used as initial pharmacological therapy for Tourette syndrome after psychological therapy has been attempted. Alpha-agonists may relieve motor tics and can also help drive behavioural change.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "1cc6135d-4e9e-4d90-b158-b8a82f1f9fa9",
+    "stem": "A 54-year-old woman presents to the Emergency Department for the third time in the past four months with central, crushing, chest pain which lasts for 20 minutes. After the second episode, she underwent coronary artery angiography which showed normal coronary arteries. Her BP is 149/85 mmHg, and her heart rate is 95 bpm and regular. Her chest is clear. Investigation Result Normal value High-sensitivity (hs) troponin T 22 ng/l <14 ng/l ECG Inferior ST elevation What is the most appropriate intervention for her symptoms?",
+    "options": [
+      "Amlodipine",
+      "Bisoprolol",
+      "Clopidogrel",
+      "Fondaparinux",
+      "Percutaneous coronary intervention"
+    ],
+    "correct_option": 0,
+    "explanation": "Amlodipine\nThis middle-aged woman has had a recent angiogram that shows normal coronary arteries. Given that the troponin is only modestly increased and there is inferior ST elevation on the ECG, coronary artery spasm is the most likely cause of her symptoms. In this population, a range of calcium antagonists, including amlodipine, nifedipine and diltiazem, have evidence to support their use, making amlodipine 5 mg the most appropriate initial intervention. Long-acting nitrates may also be of value.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "855733c9-9fae-4a99-8cee-8d71ba18881e",
+    "stem": "The results of an observational study of BP in a group of final-year school students are reviewed. The mean of the diastolic BP is 80 mmHg. The standard deviation is 12 mmHg. What is the 95% confidence interval for diastolic BP in this population?",
+    "options": [
+      "80–104 mmHg",
+      "80–92 mmHg",
+      "68–104 mmHg",
+      "68–92 mmHg",
+      "56–104 mmHg"
+    ],
+    "correct_option": 4,
+    "explanation": "56–104 mmHg\nThe 95% confidence interval for diastolic blood pressure can be calculated by taking two standard deviations from the mean to give the lower limit, and adding two standard deviations to the mean to give the upper limit. This makes the calculation 80 - 24, which is 56 mmHg, and 80 + 24 which is 104 mmHg.\n\n80–104 mmHg\n80–104 mmHg is the mean to the mean plus two standard deviations. It is the upper half of the 95% confidence interval corresponding to 47.5% of BP values.\n\n80–92 mmHg\n80–92 mmHg is the mean to the mean plus one standard deviation. This corresponds to 34% of the possible values for BP. The 95% confidence interval spans 56–104 mmHg.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "e7f58a34-5666-46f9-a4b4-b47e9a3b07d0",
+    "stem": "A 21-year-old man who inhales nitrous oxide a number of times each day is brought to the Emergency Department because he is unable to move. He tells you that he has had pins and needles affecting both feet for the past four months. Most recently, his legs have become stiff, and he has found walking impossible. There is a weakness affecting both lower limbs with an impaired fine touch, vibration and position sense in the feet. What is the most likely cause of his symptoms?",
+    "options": [
+      "Vitamin B 1 deficiency",
+      "Vitamin B 3 deficiency",
+      "Vitamin B 6 deficiency",
+      "Vitamin B 12 deficiency",
+      "Spinal cord infarction"
+    ],
+    "correct_option": 3,
+    "explanation": "Vitamin B 12 deficiency\nVitamin B 12 deficiency is increasingly found in patients who are users of nitrous oxide canisters. Nitrous oxide drives the oxidation of B 12, which makes it inactive. This, in turn, leads to peripheral sensory and motor neuropathy, in particular with loss of vibration, fine touch and position sense. Reflexes may be decreased, increased or normal. Motor weakness may recover on B 12 supplementation, although some residual neurological deficits may persist over the longer-term.\n\nVitamin B 1 deficiency\nVitamin B 1 deficiency is associated with poor memory, loss of appetite and weight loss. Over time, symptoms of beriberi may develop, including wet beriberi, which leads to heart failure.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "707ceda5-ade7-4b91-b174-3670279d0abd",
+    "stem": "A 29-year-old woman is referred to the Rheumatology Clinic with a photosensitive rash affecting her face, arms and upper body and a small-joint polyarthritis for the past eight weeks. She also has intermittent left-sided pleuritic chest pain. Anti-cyclic citrullinated peptide antibodies are negative. Which autoantibody is most likely to be positive in this case?",
+    "options": [
+      "Anti beta-2 glycoprotein-1",
+      "Anti-cardiolipin",
+      "Anti-nuclear",
+      "Anti-Ro",
+      "Anti-smooth muscle"
+    ],
+    "correct_option": 2,
+    "explanation": "Anti-nuclear\nThis patient has features of systemic lupus erythematosus (SLE) with a photosensitive rash and small-joint polyarthritis. Although anti-nuclear antibodies are not specific for SLE because they are found at low titres in some phenotypically normal individuals, patients with symptoms have a rate of anti-nuclear antibody positivity of 95% or higher. A reduction in complement levels, particularly C3, is seen in patients with active SLE.\n\nAnti beta-2 glycoprotein-1\nAnti-beta-2-glycoprotein-1 antibodies, like anti-cardiolipin antibodies, are associated with anti-phospholipid antibody syndrome. They are not necessarily characteristic of SLE, the diagnosis here. Anti-nuclear antibodies are positive in at least 95% of patients with signs of active lupus.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3f19e5bc-c1f6-4c36-8070-00502586ffe7",
+    "stem": "A 29-year-old woman who has symptoms of hyperprolactinaemia presents to her General Practitioner following the results of her pituitary adenoma. She is found to have a microprolactinoma. A decision is made to treat her with cabergoline. What is the mode of action of cabergoline?",
+    "options": [
+      "Somatostatin analogue",
+      "Dopamine D2-receptor agonist",
+      "Dopamine D3-receptor antagonist",
+      "Dopamine D4-receptor agonist",
+      "Growth-hormone-receptor antagonist"
+    ],
+    "correct_option": 1,
+    "explanation": "Dopamine D2-receptor agonist\nCabergoline is an ergot-derived dopamine D2-receptor agonist which is used in the treatment of Parkinson's disease and hyperprolactinaemia. Other non-ergot-derived agents, such as ropinirole, are also used to treat prolactinomas. The reduction in prolactin in women often leads to an improvement in libido and a restoration of the menstrual cycle is also seen. In this regard, it is important to counsel women that their fertility will significantly increase with treatment.\n\nSomatostatin analogue\nOctreotide is a somatostatin analogue. It has been used in the treatment of acromegaly. It does not have significant effects in reducing hyperprolactinaemia, where dopamine D2-receptor agonism is the preferred intervention.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "40534f79-2c5b-4e7e-96e0-490f5ea432f2",
+    "stem": "A 35-year-old woman with a past medical history of peptic ulceration presents with a 3-day history of vomiting. Investigations reveal: Investigation Result Normal Value Haemoglobin 122 g/l 115–155 g/l Sodium (Na +) 130 mmol/l 135–145 mmol/l Potassium (K +) 3.0 mmol/l 3.5–5.0 mmol/l Urea 14 mmol/l 2.5–6.5 mmol/l Bicarbonate (HCO 3 -) 34 mmol/l 24–30 mmol/l Chloride 85 mmol/l 95-106 mmol/l pH 7.52 7.35–7.45 What treatment would be most appropriate in this condition?",
+    "options": [
+      "Acetazolamide",
+      "IV 5% dextrose",
+      "IV normal saline with potassium supplementation",
+      "Sodium bicarbonate",
+      "Thiazide diuretics"
+    ],
+    "correct_option": 2,
+    "explanation": "IV normal saline with potassium supplementation\nFor hypochloraemic alkalosis and hypokalaemia, as present in this case, treatment with IV normal saline and IV/oral potassium supplements is sufficient. This will replace both the water and potassium in the blood.",
+    "tags": [
+      "Jan 2024"
+    ],
+    "source": "PastPapers"
+  }
+]

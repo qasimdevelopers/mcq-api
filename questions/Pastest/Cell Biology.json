@@ -1,0 +1,1294 @@
+[
+  {
+    "id": "dad9eb6b-db0b-4269-9104-933bb5462753",
+    "stem": "For what metabolic process is riboflavin required?",
+    "options": [
+      "Synthesis of the protein collagen",
+      "Synthesis of glycogen from glucose phosphate",
+      "Synthesis of non-essential amino acids",
+      "Prostaglandin synthesis",
+      "The hydrogen-transfer chain in the mitochondria"
+    ],
+    "correct_option": 4,
+    "explanation": "The hydrogen-transfer chain in the mitochondria\nRiboflavin: Riboflavin is a substituted alloxazine ring linked to ribitol, an alcohol derived from the pentose sugar ribose Riboflavin is light-sensitive Dietary sources include liver, milk, cheese, eggs, some green vegetables and beer Other sources are yeast extracts (e.g. Marmite) and meat extracts (e.g. Bovril) Riboflavin is involved in redox processes involving the hydrogen-transfer chain in the mitochondria and the production of ATP Riboflavin is absorbed from the upper gastrointestinal tract There is no specific storage tissue for riboflavin, which is excreted in the urine either free or in small amounts of hydroxylated products.\n\nSynthesis of the protein collagen\nSynthesis of the protein collagen is incorrect. Collagen is produced from the amino acids glycine and proline, with the additional requirement of vitamin C as a co-factor. Inability to properly produce collagen in vitamin C deficiency is called scurvy, leading to scorbutic gums, poor wound healing and changes to hair.\n\nSynthesis of glycogen from glucose phosphate\nSynthesis of glycogen from glucose phosphate is incorrect. Glycogen is a form of storage for glucose and is synthesised in the liver using urinidine triphosphate and glucose-1-phosphate. In diabetes the levels of glycogen become abnormal. Hypoglycaemia can occur when large amounts of insulin prevent glycogen breakdown.\n\nSynthesis of non-essential amino acids\nSynthesis of non-essential amino acids is incorrect. Non-essential amino acids are those amino acids that can be produced endogenously and are therefore not needed within the diet. In what phase of mitosis do the nuclear envelopes form around each daughter nucleus?\n\nProstaglandin synthesis\nProstaglandin synthesis is incorrect. Prostaglandins are enzymatically active lipid molecules and have autocrine and paracrine activity. Aspirin targets cyclooxygenase and permanently inhibits it, causing reduction in prostaglandins.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "c9c48d82-af42-4af9-a39c-72dcea88b58f",
+    "stem": "In what phase of mitosis do the nuclear envelopes form around each daughter nucleus?",
+    "options": [
+      "Anaphase",
+      "Telophase",
+      "Interphase",
+      "Prophase",
+      "Metaphase"
+    ],
+    "correct_option": 1,
+    "explanation": "Telophase\nTelophase is the final stage of mitosis. During telophase the nuclear envelope forms around the nucleus of each daughter cell, the nucleoli reappear and chromosomes unwind. This is achieved by continuing elongation of polar microtubules.\n\nAnaphase\nAnaphase is incorrect. Anaphase is the third stage of mitosis, during which chromosomes break at centromeres and sister chromatids move to opposite ends of the cell. This is accomplished by the pulling of kinetochore microtubules.\n\nInterphase\nInterphase is incorrect. The cell spends most of its time in interphase, which includes the G1 phase where protein synthesis occurs and where cells remain if they are not to divide again. Other components of the interphase include the synthesis phase, where the cell duplicates its DNA, and the G2 phase, where growth occurs in preparation for division.\n\nProphase\nProphase is incorrect. Prophase is the first stage of mitosis, during which chromatin condenses into chromosomes, helping to prepare for division. You are asked to provide some general information about genetic sequencing for the Genetic Diseases Clinic of your university hospital.\n\nMetaphase\nMetaphase is incorrect. Metaphase is the second stage of mitosis. During metaphase, the centromeres of the chromosomes align themselves on the metaphase plate, an imaginary line that is equidistant from the two centrosome poles.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "74efd637-977e-401f-8697-50726283128c",
+    "stem": "You are approached to take part in a new trial of an islet cell therapy derived from embryonic stem cells for type 1 diabetes. The cells are encapsulated. Which of the following is primary reason for encapsulating them?",
+    "options": [
+      "Avoid spread of neoplastic cells",
+      "Enhance vascularisation",
+      "insulin release",
+      "Prevent apoptosis",
+      "Prevent autoimmune attack"
+    ],
+    "correct_option": 4,
+    "explanation": "Prevent autoimmune attack\nThe intention of encapsulation in stem cell-derived islet cell transplants is to prevent autoimmune attack by introducing a barrier (usually alginate) that prevents access by cells of the immune system (primarily T lymphocytes). Cells are extensively screened and trialled in immunosuppressed animal models of type 1 diabetes before initiation of human studies, to exclude the potential for malignant transformation. Any barrier including alginate reduces the success of vascularisation, although the efficiency of insulin release is marginally reduced by alginate encapsulation.\n\nAvoid spread of neoplastic cells\nAvoid spread of neoplastic cells is incorrect. There are no neoplastic cells being transplanted and therefore there would be low risk of spreading any malignancy. If malignant cells are manipulated in other procedures, such as aspiration of malignant ascites, there is a risk of transplanting malignant cells.\n\nEnhance vascularisation\nEnhance vascularisation is incorrect. Encapsulation is unlikely to affect vascularisation. The cells would naturally produce growth factors to develop angiogenesis and vascularise the cells.\n\ninsulin release\ninsulin release is incorrect. The transplanted stem cells would have to significantly grow and replicate before large numbers of cells in order to produce insulin. These cells would not be encapsulated and so would make little difference to insulin production.\n\nPrevent apoptosis\nPrevent apoptosis is incorrect. Apoptosis is induced by a cell when internal mechanisms suggesting damage or infection are triggered. Encapsulation limits external recognition by natural killer cells, which could induce apoptosis, but the description of preventing autoimmune attack is far more precise for this.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "39bfbc69-404f-4206-91be-06eb1419944c",
+    "stem": "A 23-year-old man has just completed a course of chemotherapy with bleomycin and attends the Oncology Clinic for a repeat CT thorax. Two mediastinal lymph nodes >4cm in diameter have shrunk to >2 cm in diameter on the repeat CT scan. Which of the following fits best with the mode of action of bleomycin?",
+    "options": [
+      "DNA alkylation",
+      "DNA cross-linking",
+      "DNA substitution",
+      "Inhibition of RNA polymerase",
+      "Single DNA strand scission"
+    ],
+    "correct_option": 4,
+    "explanation": "Single DNA strand scission\nThe mechanism of action of bleomycin is believed to involve single-strand scission of DNA, leading to inhibition of cell division, of growth and of DNA synthesis in tumour cells.\n\nDNA alkylation\nDNA alkylation is incorrect. Alkylating antineoplastic agents attach an alkyl group to DNA at guanine, causing increased error rate in DNA replication leading to cell toxicity. Cyclophosphamide is an example of a DNA alkylating agent.\n\nDNA cross-linking\nDNA cross-linking is incorrect. DNA-crosslinking is the result when a substance reacts with two different positions in DNA, creating an intra- or inter-strand cross-link. This blocks DNA replication and leads to cell apoptosis. DNA cross-linking occurs in response to cisplatin therapy.\n\nDNA substitution\nDNA substitution is incorrect. DNA substitution is a type of mutation that can change the expression of genes, including oncogenes. Substitution mutations are recognised to increase the risk of cancer when critical genes are affected. Which one of the following is associated with the correct disease?\n\nInhibition of RNA polymerase\nInhibition of RNA polymerase is incorrect. RNA polymerases open up DNA and synthesise mRNA, which then is translated to proteins. It is a hypothetical target that may lead to future chemotherapy agents.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "cf88149c-3ce2-498d-97b6-b9623a456aea",
+    "stem": "You are examining the action of a new oncology drug for the treatment of melanoma. The drug is thought to interfere with the production of DNA in cancer cells. Which of the following statements fits best with the cell cycle in eukaryotes?",
+    "options": [
+      "DNA is made in the G1 phase",
+      "DNA is made in the S phase",
+      "G2 determines variability in the length of the cell cycle in humans",
+      "G2 phase commences as G1 finishes",
+      "M phase signifies meiosis"
+    ],
+    "correct_option": 1,
+    "explanation": "DNA is made in the S phase\nIt is during the S phase that errors in replication may occur that subsequently lead to development of cancer.\n\nDNA is made in the G1 phase\nDNA is made in the G1 phase is incorrect. During the G1 phase the cell grows in size and synthesizes mRNA and proteins. Some anticancer agents work by holding cells in the G1 phase, preventing them moving into the S phase.\n\nG2 determines variability in the length of the cell cycle in humans\nG2 determines variability in the length of the cell cycle in humans is incorrect. The G1 phase, and not the G2 phase, determines the variability of the cycle length. The G2 phase directly follows the S phase.\n\nG2 phase commences as G1 finishes\nG2 phase commences as G1 finishes is incorrect. The G2 phase follows the S phase, not G1.\n\nM phase signifies meiosis\nM phase signifies meiosis is incorrect. Mitosis (not meiosis) occurs in the M phase of the eukaryotic cell cycle.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "85517622-a28d-4044-9e2d-f3433253b636",
+    "stem": "You are examining the effects of an endothelin-1 receptor antagonist in the treatment of pulmonary hypertension. Which of the following is true of endothelin-1?",
+    "options": [
+      "It is a heat-shock protein",
+      "It is a polypeptide",
+      "It is a vascular cell adhesion molecule",
+      "It is also known as ICAM-1",
+      "It was formerly known as IL-1"
+    ],
+    "correct_option": 1,
+    "explanation": "It is a polypeptide\nIt is a 21-amino-acid polypeptide and is a highly potent vasoconstrictor, playing a part in the modulation of vascular tone. Endothelin is recognised to have a role in diseases including pulmonary hypertension and Raynaud’s. Both dual endothelin receptor antagonists, such as bosentan, and selective antagonists, such as ambrisentan (for the A receptor), are licensed in the treatment of pulmonary hypertension.\n\nIt is a heat-shock protein\nHeat-shock proteins (HSP) are increased during tissue stress and where there is underlying inflammation or with AI hypoxia. Small molecule HSP inhibitors may have a role in prevention of cancer and in the Chat treatment ofTutor autoimmune conditions.\n\nIt is a vascular cell adhesion molecule\nVCAM-1 is an example of a vascular cell adhesion molecule, which facilitates passage of white cells into the extravascular space.\n\nIt is also known as ICAM-1\nICAM-1 is a cellular adhesion molecule (I = intercellular), which is upregulated during inflammation. PDE-5 inhibitors such as sildenafil are thought to mediate their effects via enhancing NO-mediated vasodilatation in the corpus cavernosum. Endogenous nitric oxide is derived from which one of the following?\n\nIt was formerly known as IL-1\nIL-1 is a pro-inflammatory cytokine involved in the pathogenesis of a number of inflammatory conditions, including acute gout.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "8c3ef042-f754-45f0-8d2e-a73ecd3eb941",
+    "stem": "PDE-5 inhibitors such as sildenafil are thought to mediate their effects via enhancing NO-mediated vasodilatation in the corpus cavernosum. Endogenous nitric oxide is derived from which one of the following?",
+    "options": [
+      "Cyclic GMP",
+      "Endothelium-derived relaxing factor",
+      "Glyceryl trinitrate",
+      "L-arginine",
+      "Nitrous oxide"
+    ],
+    "correct_option": 3,
+    "explanation": "L-arginine\nNitric oxide (NO) is a local cellular messenger. It is derived from L-arginine (an amino acid) by nitric oxide synthase. NO increases the levels of intracellular cyclic guanosine monophosphate (cyclic GMP), and the resulting effects depend on the site of action. Sildenafil is an inhibitor of PDE-5, which itself is responsible for the degredation of cyclic GMP; hence in its presence, the quality and duration of erections are enhanced.\n\nCyclic GMP\nCyclic GMP is incorrect. NO increases the levels of intracellular cyclic GMP, rather than cyclic GMP increasing levels of NO.\n\nEndothelium-derived relaxing factor\nEndothelium-derived relaxing factor is incorrect. Endothelium-derived relaxing factor (EDRF) is a historical name for NO.\n\nGlyceryl trinitrate\nGlyceryl trinitrate is incorrect. Glyceryl trinitrate is an exogenously administered nitrate donor, used in the treatment of angina.\n\nNitrous oxide\nNitrous oxide is incorrect. N 2O, also known as “laughing gas”, is often used in obstetrics and trauma for pain relief, because whilst it is an effective pain reliever, it does not sedate to the level that the patient’s airway is no longer adequately protected.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "b7d6a74a-dca6-42c4-bf3a-6abc82e62304",
+    "stem": "You are examining the potential of a new anti-arrhythmic agent which is thought to exert its mode on phase 0 of the action potential. Passage of which ions does phase 0 of the action potential relate to (outside the natural pacemaker cells of the heart)?",
+    "options": [
+      "Rapid efflux of calcium",
+      "Rapid influx of calcium",
+      "Rapid influx of chloride",
+      "Rapid efflux of potassium",
+      "Rapid influx of sodium"
+    ],
+    "correct_option": 4,
+    "explanation": "Rapid influx of sodium\nThis leads to a rapid reversal of membrane potential from negative to positive in cardiac myocytes. In pacemaker cells phase 0 is related to L-type calcium channels. Sodium channel blockers (class I antiarrhythmics) exert their effect via phase 0 of the action potential.\n\nRapid efflux of calcium\nRapid efflux of calcium is incorrect. Rapid calcium efflux is not seen in the phases of the action potential.\n\nRapid influx of calcium\nPhase 2 of the action potential is characterized by a small constant inward current of calcium ions via L-type calcium channels. Drugs which act via this pathway include cardioselective calcium channel blockers such as verapamil.\n\nRapid influx of chloride\nRapid influx of chloride is incorrect. Phase 0 as stated previously relates to rapid influx of sodium ions. You are investigating use of a novel agent for targeting solid tumours via p53 expression. Which one of the following phases is it most likely to target?\n\nRapid efflux of potassium\nRapid efflux of potassium is seen in phase 3 of the action potential, and class III anti-arrhythmics such as amiodarone have action on potassium influx.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "12f49a63-d460-468b-baf0-935687a38a03",
+    "stem": "You are investigating use of a novel agent for targeting solid tumours via p53 expression. Which one of the following phases is it most likely to target?",
+    "options": [
+      "G0",
+      "G1/S",
+      "S/G2",
+      "M",
+      "S"
+    ],
+    "correct_option": 1,
+    "explanation": "G1/S\nP53 is thought to promote growth arrest at the G1/S regulation point in the presence of DNA damage, and is a target for cancer therapy. Congenital mutation in the p53 gene is responsible for Li–Fraumeni syndrome.\n\nG0\nG0 is incorrect. This is the resting stage of the cell cycle during which cells do not divide.\n\nS/G2\nG2 is incorrect. G2 directly follows the successful completion of the S phase of the cell cycle. Pathways dependent on cyclin A2 (activity of which increases during G2) are thought to drive the development of cancer in some patients.\n\nM\nM is incorrect. This is the mitotic phase of the cell cycle and is not regulated by p53. You are evaluating a new matrix metalloproteinase 9 (MMP9) inhibitor to be used in the treatment of inflammatory arthritis. What type of enzyme is MMP9?\n\nS\nS is incorrect. The S phase represents pre-mitotic DNA synthesis; the S phase itself is not regulated by p53, but entry into the S phase is arrested by p53.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "8c7436c0-3f5c-418f-962d-fe1e51274110",
+    "stem": "You are developing a PCR-based test for a new DNA virus infection that has become prevalent in West Africa. Which one of the following statements about PCR-based testing is correct?",
+    "options": [
+      "A temperature of 55 °C is required for separation of DNA strands.",
+      "Cycling of the reaction-mixture temperature primarily enables sequential extension of the new DNA",
+      "Reverse transcriptase-PCR (RT-PCR) is able to identify the transcripts of a given gene by detecting",
+      "Specific sense and antisense primers that bind to part of the downstream target sequence are used",
+      "The Taq polymerase used is of viral origin"
+    ],
+    "correct_option": 2,
+    "explanation": "Reverse transcriptase-PCR (RT-PCR) is able to identify the transcripts of a given gene by detecting\nReverse transcriptase-PCR (RT-PCR) is able to identify the transcripts of a given gene by detecting the messenger (m)RNA coding for the gene Polymerase chain reaction (PCR) is a laboratory technique that is used to selectively amplify a specific segment of DNA. PCR involves three main steps: denaturation of dsDNA template (approx 95°C) annealing of primers (50–70°C) extension of dsDNA molecules(approx. 72°C) These steps are repeated for 30–40 cycles. There are numerous forms of PCR, for example reverse transcriptase PCR can be used for detection of specific cell gene signatures which may point towards virally infected or cancer cell phenotypes.\n\nA temperature of 55 °C is required for separation of DNA strands.\nThis is inorrect, as a temperature of 94 °C or higher is needed for separation of DNA strands during PCR testing.\n\nCycling of the reaction-mixture temperature primarily enables sequential extension of the new DNA\nCycling of the reaction-mixture temperature primarily enables sequential extension of the new DNA strand. Cycling of the reaction-mixture temperature primarily enables sequential extension of the new DNA strand is incorrect. Cycling of the reaction-mixture temperature enables sequential denaturation (separation of the double-stranded template).\n\nSpecific sense and antisense primers that bind to part of the downstream target sequence are used\nSpecific sense and antisense primers that bind to part of the downstream target sequence are used as the starting point of the polymerase Specific sense and antisense primers that bind to part of the downstream target sequence are used as the starting point of the polymerase is incorrect. Primers which are part of the upstream sequence are actually used as the starting point of the polymerase.\n\nThe Taq polymerase used is of viral origin\nThe Taq polymerase used is of viral origin is incorrect. The Taq polymerase used is actually derived from the bacterium Thermus aquaticus.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "ff1eb82a-7ffd-49c8-8810-35a29eccbfba",
+    "stem": "Your unit is trialing novel combination regimens for prevention of rejection in renal transplant. When selecting combinations, which of the following best fits with the mode of action of individual agents?",
+    "options": [
+      "Basiliximab inhibits inosine monophosphate dehydrogenase",
+      "Daclizumab blocks the de novo pathway of purine synthesis",
+      "Mycophenolate mofetil is a monoclonal antibody against IL-2",
+      "Sirolimus is a calcineurin inhibitor",
+      "Tacrolimus is a calcineurin inhibitor"
+    ],
+    "correct_option": 4,
+    "explanation": "Tacrolimus is a calcineurin inhibitor\nOne drawback of its use is that it leads to a significant increase in post transplant diabetes, potentially because it drives mitochondrial dysfunction, leading to both beta cell dysfunction and increased insulin resistance.\n\nBasiliximab inhibits inosine monophosphate dehydrogenase\nBasiliximab inhibits inosine monophosphate dehydrogenase is incorrect. Basiliximab is an IL-2 inhibitor. IL-2 is thought to promote T-cell differentiation and proliferation.\n\nDaclizumab blocks the de novo pathway of purine synthesis\nDaclizumab blocks the de novo pathway of purine synthesis is incorrect. Like basiliximab, daclizumab is an IL-2 inhibitor.\n\nMycophenolate mofetil is a monoclonal antibody against IL-2\nMycophenolate mofetil is a monoclonal antibody against IL-2 is incorrect. Mycophenolate mofetil blocks the de novo pathway of purine synthesis and inhibits inosine monophosphate dehydrogenase.\n\nSirolimus is a calcineurin inhibitor\nSirolimus is a calcineurin inhibitor is incorrect. Sirolimus inhibits receptor-dependent signal transduction of IL-2 and other cytokines via its action on mTOR. You are asked to assess a new agent which is thought to have positive effects in reducing the early asthma response (EAR).",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "9257b2d4-84ae-4b40-b8eb-ffbecb2e4742",
+    "stem": "You are discussing with a 31-year-old who presented with colon cancer that he may have a hereditary nonpolyposis colon cancer syndrome. It is thought to be due to a defect in the the 3'-5' exonuclease activity possessed by DNA polymerase that enables the enzyme to replace misincorporated nucleotide. What is this activity called?",
+    "options": [
+      "Proofreading",
+      "Recombination",
+      "Replication",
+      "Retrotransposition",
+      "Splicing"
+    ],
+    "correct_option": 0,
+    "explanation": "Proofreading\nProofreading occurs when DNA polymerase travels along a double-stranded piece of DNA. When a mismatched pair is recognised the incorrect base is excised.\n\nRecombination\nRecombination is incorrect. DNA recombination brings together DNA from multiple sources.\n\nReplication\nReplication is incorrect. DNA replication is the process of producing two identical copies of DNA from one template molecule.\n\nRetrotransposition\nRetrotransposition is incorrect. Retrotransposition is transposition via an RNA intermediate, whereas transposition is the movement of a genetic element from one site to another in a DNA molecule.\n\nSplicing\nSplicing is incorrect. Splicing is the removal of introns from the primary transcript of a discontinuous gene.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "46015549-8556-4a0b-9551-c964d55229a8",
+    "stem": "When assessing neuronal activity, which of the following statements best describes a resting neurone?",
+    "options": [
+      "It is depolarised",
+      "It is negatively charged externally",
+      "It is positively charged externally",
+      "It is unable to conduct impulses",
+      "It is uncharged"
+    ],
+    "correct_option": 2,
+    "explanation": "It is positively charged externally\nAt rest, excitable cell membranes are far less permeable to Na + than to K + ions. In its resting state, the inside of a neurone is rich in chloride ions and contains a lesser amount of potassium ions. The outside of the neurone is rich in sodium ions. The net result is that the neurone is polarised, i.e. negative on the inside and positive on the outside. This is called the “resting potential”.\n\nIt is depolarised\nIt is depolarised is incorrect. An active neurone is depolarised; when stimulated, the permeability of the neurone’s membrane changes, allowing sodium ions from the extracellular fluid to flood into the neurone and potassium ions to move out down their electrochemical gradients. This depolarisation causes the generation of an action potential.\n\nIt is negatively charged externally\nIt is negatively charged externally is incorrect. In the resting state a neurone is negatively charged internally, with a positive external charge.\n\nIt is unable to conduct impulses\nIt is unable to conduct impulses is incorrect. Neurones in the resting state are able to conduct impulses when required.\n\nIt is uncharged\nIt is uncharged is incorrect. Because of a differential between intracellular and extracellular ion concentrations, neurons retain a positive external charge in the resting state. You are examining the role of eosinophils in asthma which is resistant to conventional therapy.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "fb54af31-16f8-4943-8b1e-ea0a92641595",
+    "stem": "You are examining the role of eosinophils in asthma which is resistant to conventional therapy. Which of the following is true of eosinophils with respect to degranulation?",
+    "options": [
+      "Chemotaxis is a key step",
+      "Endocytosis of antigenic material is a key step",
+      "Fusion of the lysosomal membrane with the plasma membrane is a key step",
+      "IL-5 downregulates eosinophil activity",
+      "Intracellular enzymatic degradation"
+    ],
+    "correct_option": 2,
+    "explanation": "Fusion of the lysosomal membrane with the plasma membrane is a key step\nBasophils, eosinophils and mast cells contain lysosomes and can release the contents of these granules by degranulation. The process of degranulation involves lysosomes, which are intracellular, fusing with the plasma membrane, and discharging their contents. This allows them to act against larger infecting organisms such as protozoa and helminths, which cannot be engulfed by phagocytosis. Phagocytosis includes the following processes: chemotaxis, ingestion within a phagosome, intracellular enzymatic degradation and exocytosis.\n\nChemotaxis is a key step\nChemotaxis is a key step is incorrect. Chemotaxis is a key step in phagocytosis, rather than in degranulation.\n\nEndocytosis of antigenic material is a key step\nEndocytosis of antigenic material is a key step is incorrect. Endocytosis is a step in antigen presentation, rather than mast cell degranulation.\n\nIL-5 downregulates eosinophil activity\nIL-5 downregulates eosinophil activity is incorrect. IL-5 has a key role in upregulating eosinophil activity; antiIL5 agents are therefore a therapeutic target in asthma.\n\nIntracellular enzymatic degradation\nIntracellular enzymatic degradation is incorrect. This is a key step in the process of phagocytosis.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "949ebaba-067f-4eb7-9680-51d016d0fd68",
+    "stem": "A 56-year-old woman is to be given chemotherapy for metastatic colon cancer with irinotecan. Which of the following correctly represents the mode of action of irinotecan?",
+    "options": [
+      "Bcr-abl tyrosine kinase inhibition",
+      "Competitive inhibition of nucleotide synthesis",
+      "Inhibits microtubule assembly",
+      "Inhibits normal microtubule disassembly",
+      "Topoisomerase inhibition"
+    ],
+    "correct_option": 4,
+    "explanation": "Topoisomerase inhibition\nTopoisomerase inhibitors block the breaking and rejoining of the phosphodiester backbone of DNA strands during the normal cell cycle; irinotecan is an example of a drug in this class.\n\nBcr-abl tyrosine kinase inhibition\nBcr-abl tyrosine kinase inhibition is incorrect. Imatinib is an inhibitor of Bcr-abl tyrosine kinase.\n\nCompetitive inhibition of nucleotide synthesis\nCompetitive inhibition of nucleotide synthesis is incorrect. Nucleoside analogues such as fludarabine interfere with DNA polymerase activity and hence block replication.\n\nInhibits microtubule assembly\nInhibits microtubule assembly is incorrect. Vinca alkaloids inhibit the assembly of microtubules.\n\nInhibits normal microtubule disassembly\nInhibits normal microtubule disassembly is incorrect. Taxanes inhibit the normal cellular disassembly of the microtubule apparatus during mitosis.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "d6cb3247-6af5-412e-a0a4-40126bf755eb",
+    "stem": "A patient with a haematological malignancy is treated with the tyrosine kinase inhibitor imatinib. Which of the following neoplasms is best targeted with imatinib?",
+    "options": [
+      "Acute myeloid leukaemia",
+      "Gastrointestinal stromal tumours",
+      "Multiple myeloma",
+      "Philadelphia-negative acute lymphoid leukaemia",
+      "Philadelphia-negative chronic lymphoid leukaemia"
+    ],
+    "correct_option": 1,
+    "explanation": "Gastrointestinal stromal tumours\nSpecific tyrosine kinase inhibitors were developed after it was recognised that the Philadelphia chromosome (translocation 9:22) was associated with bcr–abl tyrosine kinase overexpression. STI571, later known as imatinib mesylate (Glivec), was therefore designed to treat chronic myeloid leukaemia, but it was also found to be effective in gastrointestinal stromal tumours (GIST) – previously known as leiomyosarcoma.\n\nAcute myeloid leukaemia\nAcute myeloid leukaemia is incorrect. Imatinib may have a role but only in the subset of patients who are c-kit positive.\n\nMultiple myeloma\nMultiple myeloma is incorrect. Although c-kit positivity is seen in patients with myeloma, no response to imatinib has been seen in clinical trials.\n\nPhiladelphia-negative acute lymphoid leukaemia\nPhiladelphia-negative acute lymphoid leukaemia is incorrect. Although Philadelphia translocation positive acute lymphoid leukaemia is treated with imatinib, there is no significant impact in patients who are Philadelphia chromosome negative.\n\nPhiladelphia-negative chronic lymphoid leukaemia\nPhiladelphia-negative chronic lymphoid leukaemia is incorrect. Some response to imatinib is seen in chronic lymphoid leukaemia, but only in Philadelphia-positive chronic lymphoid leukaemia.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "13c9171d-e93a-4ae4-96fa-ba74b721d941",
+    "stem": "Following a liver biopsy on a 38-year-old alcoholic man, the pathological examination reveals liver fibrosis. What is the most likely cell responsible for this process?",
+    "options": [
+      "Bile duct epithelial cells",
+      "Endothelial cells",
+      "Hepatocytes",
+      "Kupffer cells",
+      "Stellate cells"
+    ],
+    "correct_option": 4,
+    "explanation": "Stellate cells\nStellate cells have a similar morphology to fibroblasts but with the addition of fat droplets. They are located within the Disse space where a fine branching array of cytoplasmic processes circle sinusoids under the endothelial cells. Stellate cells are central to the process of hepatic fibrogenesis, responding to mediators released by parenchymal and Kupffer cells, and causing their transformation into myofibroblasts. Transforming growth factor-beta (TGF-β) initiates this process. The transformed stellate (Ito) cell then stimulates the production of extracellular matrix products (collagen types I, III and IV, fibronectin, laminin, chondroitin sulphate and hyaluronic acid) in addition to products for matrix degradation (collagenase, metalloproteinase and its inhibitor TIMP-1 (tissue inhibitor of metalloproteinase-1). The activation of Ito cells is also an important mechanism for the control of sinusoidal perfusion, through cytoskeletal actin within branching cellular processes beneath the endothelium.\n\nBile duct epithelial cells\nBile duct epithelial cells is incorrect. Bile duct epithelial cells are not primarily involved in the development of alcoholic cirrhosis, but are involved in the pathology of primary biliary cholangitis and primary sclerosing cholangitis.\n\nEndothelial cells\nEndothelial cells is incorrect. Liver sinusoidal endothelial cells may actually contribute to regeneration of liver after damage rather than to worsening cirrhosis/fibrosis.\n\nHepatocytes\nHepatocytes is incorrect. Although hepatocytes are not thought to be a primary cause of fibrogenesis in cirrhosis, they do undergo enlargement, probably as a result of prolonged cholestasis.\n\nKupffer cells\nKupffer cells is incorrect. Kupffer cells are not responsible for fibrogenesis, but they do produce mediators which stimulate stellate cells to drive the process of fibrosis.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "4aa63693-7031-4c0e-b0f1-7fd6f677cbe6",
+    "stem": "A 50-year-old company director was admitted to hospital because of a myocardial infarction (MI). He was thrombolysed and received a coronary artery bypass graft. The lesion leading to the MI started many years previously with foam cells. Which is the most important cell that drives formation of atherosclerotic plaques?",
+    "options": [
+      "Endothelial cells",
+      "Erythrocytes",
+      "Fibroblasts",
+      "Lymphocytes",
+      "Macrophages"
+    ],
+    "correct_option": 4,
+    "explanation": "Macrophages\nThe earliest lesions of atherosclerosis are fatty streaks. These consist of an accumulation of lipid-engorged macrophages (foam cells). The fatty streaks progress to intermediate lesions (or transitional plaque), which are composed mainly of macrophage foam cells and smooth muscle cells which migrate into the intima from the media. With time, these develop into raised fibrous (advanced) plaques, characterised by a dense fibrous cap of connective tissue and smooth muscle cells overlying a core containing necrotic material and lipid, mainly cholesterol esters, which may form cholesterol crystals on histological section.\n\nEndothelial cells\nEndothelial cells is incorrect. Although endothelial cell apoptosis may drive thrombus formation, it is not the primary event which leads to formation of an atherosclerotic plaque.\n\nErythrocytes\nErythrocytes is incorrect. Erythrocytes do not have a role in plaque formation.\n\nFibroblasts\nFibroblasts is incorrect. Fibroblasts do have a role in the organization of plaques/formation of a fibrous cap, but they are not primary drivers for their formation.\n\nLymphocytes\nLymphocytes is incorrect. T and B lymphocytes are involved in the generation of atherosclerotic plaques, but via generation of immune mediators rather than being primarily involved in lipid deposition.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "c96c6dcb-28fb-42a8-ad74-032a7334618f",
+    "stem": "A 60-year-old obese smoker has been admitted to hospital with chest pain due to unstable angina. A nitrate infusion is started to relieve his chest pain. Which blood vessels are most sensitive to the vasodilatory effect of nitrates?",
+    "options": [
+      "Capillaries",
+      "Distal coronary arteries",
+      "Large arteries",
+      "Large veins",
+      "Pulmonary arteries"
+    ],
+    "correct_option": 3,
+    "explanation": "Large veins\nNitrates have their greatest effect on large veins, leading to a significant reduction in ventricular preload, thus impacting on ventricular wall stress and myocardial oxygen demand. They are therefore of value both in the management of angina and in left ventricular failure with hypertension.\n\nCapillaries\nCapillaries is incorrect. Although nitrates do have some effect on arteriolar vasodilation in capillary beds, the effect is much smaller versus large veins.\n\nDistal coronary arteries\nDistal coronary arteries is incorrect. Coronary dilation occurs primarily in the large epicardial vessels, rather than more distal arteries, and the magnitude of dilatation overall is less than that for large veins.\n\nLarge arteries\nLarge arteries is incorrect. Most of the dilatation seen with respect to nitrate use is seen in large veins.\n\nPulmonary arteries\nPulmonary arteries is incorrect. Oral nitrates do reduce right ventricular pressure and have positive effects on vascular remodelling in PAH, although the magnitude of effect is perhaps less than that for other treatments licensed for the treatment of PAH.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "c3f747ec-f521-4416-89a7-91ebd2fa0fa0",
+    "stem": "You are reviewing a 54-year-old woman who is suffering from the blistering skin disorder pemphigus vulgaris. How would the underlying pathological process of this disorder best be described?",
+    "options": [
+      "It is a disorder affecting claudins",
+      "It is a disorder affecting connexins",
+      "It is a disorder affecting tissue transglutaminase",
+      "It is a disorder affecting desmoglein-3",
+      "It is a disorder affecting “tight junctions” between cells"
+    ],
+    "correct_option": 3,
+    "explanation": "It is a disorder affecting desmoglein-3\nAdherent junctions are continuous on the basal side of cells. They contain cadherins and are the major site of attachment of intracellular microfilaments. Intermediate filaments are attached to desmosomes, which are thickened areas of two apposed adjacent cell membranes. In blistering skin disorders autoantibodies cause damage by attacking cadherins such as desmoglein-3 in pemphigus vulgaris, and desmoglein-1 in pemphigus foliaceus. This leads to disruption of the adherent junctions between cells and results in blister formation.\n\nIt is a disorder affecting claudins\nIt is a disorder affecting claudins is incorrect. Claudins are proteins involved in tight junctions between cells. Tight junctions exist at the ends of margins adjacent to epithelial cells (e.g. intestinal and renal cells) and form a barrier to the movement of solutes and ions across the epithelium. Claudin disorders are described in association with a number of disorders, including neonatal sclerosing cholangitis.\n\nIt is a disorder affecting connexins\nIt is a disorder affecting connexins is incorrect. Connexins are protein channels formed between two adjacent cells to allow the passage of solutes up to a molecular weight of 1000 kDa. Connexin disorders are described in association with a number of congenital skin and connective tissue disorders including oculodendrodigital dysplasia.\n\nIt is a disorder affecting tissue transglutaminase\nIt is a disorder affecting tissue transglutaminase is incorrect. IgA tissue transglutaminase antibodies (tTG) are associated with dermatitis herpetiformis.\n\nIt is a disorder affecting “tight junctions” between cells\nIt is a disorder affecting “tight junctions” between cells is incorrect. Claudin disorders have the biggest impact on tight junctions.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "213d146e-8a5d-408d-826d-20f138ca69ec",
+    "stem": "A 49-year-old woman presents to her gynaecologist with CIN-3 changes. She has been reading on the Internet about how the human papillomavirus interferes with the programmed death of defective cells and may predispose to cancers. Which of the following proteins best identifies the DNA-binding protein with which the papillomavirus interferes?",
+    "options": [
+      "p51",
+      "p52",
+      "p53",
+      "p54",
+      "p55"
+    ],
+    "correct_option": 2,
+    "explanation": "p53\np53 is a DNA-binding protein that induces the expression of a number of genes involved in programmed cell death. p53 gene mutations or products that interfere with p53 protein functioning are implicated in carcinogenesis.\n\np51\np51 is incorrect. p51 is a colon cancer associated peptide correlated with recurrence of disease.\n\np52\np52 is incorrect. p52, also known as nF kappa B2, is overexpressed in patients with prostate cancer, and may facilitate progression of the disease.\n\np54\np54 is incorrect. p54 is a helicase protein which may be upregulated in association with certain forms of cancer.\n\np55\np55 is incorrect. p55 is a membrane scaffold protein, not involved in either the pathogenesis of cancer or reducing risk of progression to cancer. You are reviewing a 45-year-old woman who is suffering from multiple sclerosis and are considering prescribing beta-interferon for her.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "d4af448b-ddfa-481d-a79e-2d5081735b33",
+    "stem": "You are reviewing a 45-year-old woman who is suffering from multiple sclerosis and are considering prescribing beta-interferon for her. Which of the following best describes the action of beta-interferon?",
+    "options": [
+      "It activates macrophage and neutrophil intracellular killing",
+      "It increases MHC class-II expression on antigen-presenting cells",
+      "It is used in the treatment of hepatitis B",
+      "It leads to increased MHC class-I expression",
+      "It may be used as an adjunct in atypical mycobacterial disease"
+    ],
+    "correct_option": 3,
+    "explanation": "It leads to increased MHC class-I expression\nAlpha- and beta-interferon are produced mainly in response to viral infection. They bind the same cellular receptor and protect uninfected cells by inducing the upregulation of molecules that inhibit the viral production of RNA and DNA. They also induce major histocompatibility complex (MHC) class-I expression leading to enhanced lysis of cells that are already infected with virus. In addition, they have antiproliferative actions. Alpha-interferon is used in the treatment of chronic hepatitis B and C infections as well as some forms of leukaemia. Beta-interferon is used in the treatment of multiple sclerosis.\n\nIt activates macrophage and neutrophil intracellular killing\nIt activates macrophage and neutrophil intracellular killing is incorrect. It is alpha-interferon that activates macrophage and neutrophil intracellular killing.\n\nIt increases MHC class-II expression on antigen-presenting cells\nIt increases MHC class-II expression on antigen-presenting cells is incorrect. MHC class II expression is induced by gamma-interferon.\n\nIt is used in the treatment of hepatitis B\nIt is used in the treatment of hepatitis B is incorrect. Alpha-interferon is used in the treatment of hepatitis B.\n\nIt may be used as an adjunct in atypical mycobacterial disease\nIt may be used as an adjunct in atypical mycobacterial disease is incorrect. Alpha-interferon upregulates the host response and improves the chances of clearance of atypical mycobacterial disease.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "631fe6c2-ed7d-4328-9add-28a70c9c2e82",
+    "stem": "A 68-year-old man is admitted to hospital for elective femoral angioplasty. On examination, he is found to have widespread lymphadenopathy. Blood is taken for 'group and save'. His cells are not agglutinated by either anti-A or anti-B; his serum does not agglutinate A or B antigens. Based on these data, which one of the following is most likely to be his genotype?",
+    "options": [
+      "AB",
+      "AO",
+      "BB",
+      "BO",
+      "OO"
+    ],
+    "correct_option": 4,
+    "explanation": "OO\nIf this patient’s cells are not agglutinated by anti-A or anti-B, he must be blood group O. The O gene is recessive and his genotype must therefore be OO. Group O individuals have naturally occurring antibodies to A and B blood group antigens, and it would therefore be expected that his serum would agglutinate cells bearing these antigens. The fact that it does not suggests that he may have a humoral immune deficiency. The lymphadenopathy provides a clue to the likely cause of this: chronic lymphatic leukaemia is a relatively indolent condition characterised by generalised lymphadenopathy and may be associated with an immune paresis.\n\nAB\nThe fact that the blood is not agglutinated by either anti-A or anti-B means that the blood cannot contain A or B antigens.\n\nAO\nBlood group A blood would be seen to react with anti-A serum and no reaction is seen here.\n\nBB\nBB blood would be seen to react with anti-B serum and no reaction is seen here.\n\nBO\nLike BB blood, BO blood contains B antigens and would, therefore, react with anti-B serum.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "6a4ac1e2-aa13-4c92-8132-d94d6f1e429c",
+    "stem": "You are asked to describe to a group of medical students how solute particles pass across a membrane. By which process are solute particles moved along a concentration gradient across a selectively permeable membrane?",
+    "options": [
+      "Diffusion",
+      "Endocytosis",
+      "Exocytosis",
+      "Osmosis",
+      "Phagocytosis"
+    ],
+    "correct_option": 0,
+    "explanation": "Diffusion\nFat-soluble molecules, such as glycerol, can diffuse through the cell membrane easily. They dissolve in the phospholipid bilayer and pass through it in the direction of the concentration gradient, from a high concentration to a low concentration. Water, oxygen and carbon dioxide can also diffuse through the bilayer, passing easily through the temporary small spaces between the tails of the phospholipids.\n\nEndocytosis\nEndocytosis is an active process where particles are captured within the cell membrane; this can be receptor or non receptor mediated.\n\nExocytosis\nExocytosis is the export of particles out of the cell via secretory vesicles.\n\nOsmosis\nOsmosis is the diffusion of water across a membrane, in which water diffuses into a solution having a greater solute concentration.\n\nPhagocytosis\nPhagocytosis is the active process by which bacteria or other antigenic material is engulfed by macrophages.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "7c42351a-35c8-418d-a611-4df82a5b2d20",
+    "stem": "A family comes to the Genetics Clinic with history of a condition which is associated with accumulation of abnormal proteins within the CNS. It is thought to be related to a defect in RNA splicing. Where does RNA splicing occur?",
+    "options": [
+      "Golgi",
+      "Nucleus",
+      "Peroxisome",
+      "Proteasome",
+      "Ribosome"
+    ],
+    "correct_option": 1,
+    "explanation": "Nucleus\nOne of the most important stages in RNA processing is RNA splicing. In many genes, the DNA sequence coding for proteins, or “exons”, may be interrupted by stretches of non-coding DNA, called “introns”. In the cell nucleus, the DNA that includes all the exons and introns of the gene is first transcribed into a complementary RNA copy called “nuclear RNA”, or nRNA. In a second step, introns are removed from nRNA by a process called RNA splicing. The edited sequence is called “messenger RNA”, or mRNA. The mRNA leaves the nucleus and travels to the cytoplasm, where it encounters cellular bodies called ribosomes.\n\nGolgi\nGolgi is incorrect. The Golgi body is involved in post-translational modification of proteins, for example with glycosylation or lipidation.\n\nPeroxisome\nPeroxisome is incorrect. Peroxisomes are responsible for the breakdown of long-chain fatty acids through beta oxidation.\n\nProteasome\nProteasome is incorrect. The function of the proteasome is to degrade proteins via a process of proteolysis.\n\nRibosome\nRibosome is incorrect. The function of ribosomes is to drive initial protein synthesis via translation from mRNA. A patient with type 1 diabetes presents to clinic for review and says he has read about cloning as a cure for diabetes mellitus by providing replacement organs. He asks you about the mechanism.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "9b1dcd4e-7b72-48cb-9b07-b723b1720f53",
+    "stem": "A patient with type 1 diabetes presents to clinic for review and says he has read about cloning as a cure for diabetes mellitus by providing replacement organs. He asks you about the mechanism. Which of the following best describes the mechanism currently used for genetic cloning?",
+    "options": [
+      "An enucleated adult cell is fused with the nucleus from a donor cell",
+      "An enucleated adult cell is fused with the nucleus from an oocyte",
+      "An enucleated oocyte is fused with the nucleus from a donor cell",
+      "Genes are transfected into a donor oocyte using a retrovirus",
+      "Oocytes are harvested from the donor and fused with adult cells from the donor"
+    ],
+    "correct_option": 2,
+    "explanation": "An enucleated oocyte is fused with the nucleus from a donor cell\nThe technique is known as somatic nuclear transfer. Other potential methods include parthenogenesis, a technique of developing an embryo from unfertilised mammalian egg cells. So far this has resulted in the development of embryos in mice, but as yet not to full term. A modified version of the enucleation technique has been used to produce so called “3 person” babies, where a donor egg with the nucleus removed is used to provide healthy mitochondria.\n\nAn enucleated adult cell is fused with the nucleus from a donor cell\nAn enucleated adult cell is fused with the nucleus from a donor cell is incorrect. The donor cell would carry the same genetic material as the adult and, therefore, would not represent a clone.\n\nAn enucleated adult cell is fused with the nucleus from an oocyte\nAn enucleated adult cell is fused with the nucleus from an oocyte is incorrect. Again, the oocyte would carry different genetic material to the adult cell, so even if successful this would not represent a clone.\n\nGenes are transfected into a donor oocyte using a retrovirus\nGenes are transfected into a donor oocyte using a retrovirus is incorrect. Trials are, however, underway using adenovirus vectors as gene therapy. None so far have managed to reproduce glucose responsive insulin release. You review a young man with hypocalcaemia and notice that he has a shortened fourth and fifth digit on each hand. You wonder if he may have pseudohypoparathyroidism, caused by a G-protein abnormality.\n\nOocytes are harvested from the donor and fused with adult cells from the donor\nOocytes are harvested from the donor and fused with adult cells from the donor is incorrect. This may not promote cell division, gene expression would be unpredictable, and the cells would be unlikely to replicate.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "c77f1b1e-3fe0-4600-94b0-2499bddf3aa2",
+    "stem": "You review a young man with hypocalcaemia and notice that he has a shortened fourth and fifth digit on each hand. You wonder if he may have pseudohypoparathyroidism, caused by a G-protein abnormality. Which of the following best describes the location of G-proteins?",
+    "options": [
+      "In the cell membrane",
+      "In the cytoplasm",
+      "In the nuclear membrane",
+      "In the nucleolus",
+      "In the nucleus"
+    ],
+    "correct_option": 1,
+    "explanation": "In the cytoplasm\nG-proteins are coupled to transmembrane receptors (G protein-coupled receptors, GPCRs). These are transmembrane proteins that wind seven times back and forth through the plasma membrane.Their ligandbinding site is exposed outside the surface of the cell.Their effector site extends into the cytoplasm. Many ligands bind to the GPCR, including thyroid-stimulating hormone (TSH), adrenocorticotrophic hormone (ACTH), serotonin and γ-aminobutyric acid (GABA).\n\nIn the cell membrane\nTutor not In the cell membrane is incorrect. It is G-protein coupled receptors that are found within theChat cell with AI membrane, the G-proteins themselves.\n\nIn the nuclear membrane\nIn the nuclear membrane is incorrect. The nuclear membrane consists of two lipid bilayers, containing a number of active and passive transporters which impact on gene expression.\n\nIn the nucleolus\nIn the nucleolus is incorrect. A number of receptors are widely expressed, including within the nucleolus, an example is the steroid hormone family of receptors.\n\nIn the nucleus\nIn the nucleus is incorrect. Nuclear receptors do exist, but they are not G-protein receptors; examples include PPAR-gamma and PPAR-alpha, targets for glucose lowering and dyslipidaemia respectively.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "e245b682-5021-47a3-a3dd-e4fb105c321a",
+    "stem": "A 58-year-old man presents with progressively worsening indigestion and weight loss. His GP can feel an epigastric mass and arranges upper gastrointestinal (GI) endoscopy. Biopsy of a suspicious lesion in the stomach reveals numerous signet-ring cells. Which of the following is the most likely underlying diagnosis?",
+    "options": [
+      "Gastric adenocarcinoma",
+      "Gastric leiomyoma",
+      "Gastric lymphoma",
+      "Gastrinoma",
+      "Oesophageal carcinoma"
+    ],
+    "correct_option": 0,
+    "explanation": "Gastric adenocarcinoma\nGastric adenocarcinoma cells may show a number of different morphologies, each of which may be associated with a better or worse prognosis. Classification is based on the most unfavourable microscopic element seen; these are, in order of increasingly poor prognosis: tubular, papillary, mucinous or signet-ring cells. Undifferentiated lesions are associated with the worst outcome. Tumours are also characterised according to macroscopic appearance: ulcerative, polypoid, scirrhous, superficial spreading or multicentric.\n\nGastric leiomyoma\nGastric leiomyoma is incorrect. Gastric leiomyoma is a rare smooth muscle tumour with minimal atypical cells and no/rare mitoses.\n\nGastric lymphoma\nGastric lymphoma is incorrect. Gastric lymphoma biopsy reveals the presence of multiple lymphocytes rather than the signet-ring cells seen here.\n\nGastrinoma\nGastrinoma is incorrect. Gastrinomas occur in the pancreas or duodenum, not in the stomach. You review a 21-year-old man with albinism. He is from Central/South America and you believe that he has Hermansky–Pudlak syndrome (HPS). You believe that this is due to a defect in the transport of glycoproteins from the Golgi body.\n\nOesophageal carcinoma\nOesophageal carcinoma is incorrect. The position is not consistent with an oesophageal carcinoma. Squamous cell cancer is usually seen in the upper portion of the oesophagus, and gland-forming cells in the lower portion of the oesophagus in the case of adenocarcinoma.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "4f8d1fe2-2c3a-4ff6-8761-c43d4d603b11",
+    "stem": "You review a 21-year-old man with albinism. He is from Central/South America and you believe that he has Hermansky–Pudlak syndrome (HPS). You believe that this is due to a defect in the transport of glycoproteins from the Golgi body. Which of the following best fits the position of the Golgi body within the cell?",
+    "options": [
+      "Adjacent to the endoplasmic reticulum",
+      "In the nucleus",
+      "Just inside the cell membrane",
+      "Moves within the cytoplasm",
+      "Sits across the cell membrane"
+    ],
+    "correct_option": 0,
+    "explanation": "Adjacent to the endoplasmic reticulum\nThe Golgi body is one of the largest cellular organelles and is found adjacent to the endoplasmic reticulum. It was first described by Camillo Golgi in 1897 and is responsible for modification of proteins and lipids produced by other cellular organelles. HPS results from a mutation in the AP3 gene responsible for trafficking specific glycoproteins from the Golgi body. It is inherited in an autosomal recessive fashion.\n\nIn the nucleus\nIn the nucleus is incorrect. Nuclear receptor activation affects differential expression of mRNA and hence peptide production, although the Golgi body is not in the nucleus.\n\nJust inside the cell membrane\nJust inside the cell membrane is incorrect. Transmembrane receptors such as G-protein coupled receptors may drive protein expression, but the Golgi body does not lie just inside the cell membrane.\n\nMoves within the cytoplasm\nMoves within the cytoplasm is incorrect. Second messengers move within the cytoplasm, transmitting signals from transmembrane receptors, driving differential gene expression.\n\nSits across the cell membrane\nSits across the cell membrane is incorrect. Receptors which drive potential changes in the cell phenotype sit across the cell membrane.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "a7eef54e-5376-407c-afe3-2a1be6602c44",
+    "stem": "You are working as part of a team examining proteins that may be involved in the pathogenesis of a rare cancer. A key part of understanding how these proteins may be mutated is understanding their 3D structure. Which one of the following is the best way to determine the 3D structure of a particular protein?",
+    "options": [
+      "Dual polarisation interferometry",
+      "Northern blotting",
+      "Southern blotting",
+      "Western blotting",
+      "X-ray crystallography"
+    ],
+    "correct_option": 4,
+    "explanation": "X-ray crystallography\nX-ray crystallography is the method that provides data at the highest resolution with respect to the 3D structure of a protein. What it fails to provide, however, is information on how the conformation of a particular protein may change over time. This information is best determined by nuclear magnetic resonance or dual polarisation interferometry. The importance of determining protein structure is that, once known, it can provide information such as: why a particular receptor is fixed in the “on” position why substances designed to interact with a particular receptor or to perform a particular task fail to do so.\n\nDual polarisation interferometry\nDual polarisation interferometry is incorrect. Information on how the conformation of a particular protein may change over time is best provided by dual polarisation interferometry.\n\nNorthern blotting\nNorthern blotting is incorrect. Northern blotting is used to identify specific RNA sequences.\n\nSouthern blotting\nSouthern blotting is incorrect. Southern blotting is used to detect specific sequences of DNA. 15 50 You are investigating a genetic disease which is thought to result from a mutation that leads to a stop codon. What is the end product of a particular codon?\n\nWestern blotting\nWestern blotting is incorrect. Western blotting is used to identify specific proteins in a sample.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "302f40d0-42d5-49d2-9d7c-05ad4af5ccb2",
+    "stem": "You are investigating a genetic disease which is thought to result from a mutation that leads to a stop codon. What is the end product of a particular codon?",
+    "options": [
+      "Amino acid",
+      "Carbohydrate",
+      "DNA",
+      "Messenger ribonucleic acid (RNA)",
+      "Protein"
+    ],
+    "correct_option": 0,
+    "explanation": "Amino acid\nA codon is a series of three adjacent nucleotides that code for a particular amino acid. 61 codons specify the amino acids which form proteins, and there are three stop codons which signify the end of a peptide.\n\nCarbohydrate\nCarbohydrate is incorrect. Carbohydrates are not coded for by codons, but are produced as a result of enzymatic activity or absorbed via the GI tract.\n\nDNA\nDNA is incorrect. A codon consists of three adjacent nucleotides, and it codes for amino acid not for DNA.\n\nMessenger ribonucleic acid (RNA)\nMessenger RNA is incorrect. Although messenger RNA is created from a particular codon, the end product is a particular amino acid.\n\nProtein\nProtein is incorrect. A codon codes for an amino acid, which themselves are assembled into a peptide.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "396d9ea4-2263-4c96-b412-97209c1bb536",
+    "stem": "You are asked to take part in a study of embryonic islet stem cells, which are about to be studied in humans for the first time. These cells are packaged in a membrane which allows hormones and nutrients in and out, but prevents either stem cells from passing out of the device, or immune cells from moving into the device. Which of the following is the major concern with respect to this approach to treating type 1 diabetes?",
+    "options": [
+      "De-differentiation",
+      "Glucotoxicity",
+      "Oxidative stress",
+      "Senescence",
+      "Tumour formation"
+    ],
+    "correct_option": 4,
+    "explanation": "Tumour formation\nA number of cell lines have now been approved for use in embryonic stem cell studies. The major concern, however, is ensuring that only the target cells are transplanted into a suitable device. If other cells are transplanted then it is possible that they may continue to divide, leading to formation of a mass within the device.\n\nDe-differentiation\nDe-differentiation with AI De-differentiation is incorrect. De-differentiation does not appear so far to be a significant Chat problem withTutor embryonic stem cell transplants, but may be a concern with respect to transformation of adult stem cells.\n\nGlucotoxicity\nGlucotoxicity is incorrect. Patients subject to transplant are usually well controlled with respect to glucose status and may indeed remain insulin free for up to 2 years in 80% of cases. Therefore, glucotoxicity is rarely considered a significant problem.\n\nOxidative stress\nOxidative stress is incorrect. Glucotoxicity and free radical formation leading to oxidative stress are not a concern. Design aspects of implantation devices may exacerbate hypoxia, although refinements are currently under development. DNA splicing is used in a number of areas of genetic engineering.\n\nSenescence\nSenescence is incorrect. This is not a major concern with respect to embryonic stem cells because the transplanted material has a significantly younger cellular age than that of the patient they are transplanted into.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "ab4d1d61-0c0a-44ba-a61a-ee3f5771f1ec",
+    "stem": "Cerebrospinal fluid acts as a mechanical and immunological buffer for the brain and spinal cord. Approximately 500ml of cerebrospinal fluid is produced each day. What type of cells produce cerebrospinal fluid?",
+    "options": [
+      "Astrocytes",
+      "Ependymal cells",
+      "Microglia",
+      "Oligodendrocytes",
+      "Schwann cells"
+    ],
+    "correct_option": 1,
+    "explanation": "Ependymal cells\nThe ependymal cells line the ventricles and other cerebrospinal fluid-filled spaces of the central nervous system. They have cilia to waft the cerebrospinal fluid, and can also reabsorb it. Modified ependymal cells form the choroid plexus, found in the fourth ventricle.\n\nAstrocytes\nAstrocytes is incorrect. Astrocytes are found throughout the central nervous system and are responsible for maintaining biochemical stasis and providing the microarchitecture of the brain parenchyma. They do not produce cerebrospinal fluid; this function is performed by the ependymal cells.\n\nMicroglia\nMicroglia is incorrect. These cells are tissue macrophages and are responsible for responding to threat from pathogens, and “house-keeping”: clearing up cellular debris, tangled proteins and plaques. They do not produce cerebrospinal fluid; this is performed by the ependymal cells.\n\nOligodendrocytes\nOligodendrocytes is incorrect. These are the cells that form the myelin sheath that coats axons within the central nervous system. They do not produce cerebrospinal fluid; this is done by the ependymal cells. Cerebrospinal fluid (CSF) is formed by the ependymal cells that line the ventricles and other CSF-filled spaces in the central nervous system. Modified ependymal cells make up the choroid plexuses present in the ventricles, and responsible for making much of the CSF. CSF circulates within the subarachnoid space between the arachnoid mater and pia mater. It is absorbed into the circulation via the arachnoid villi. The epidural space (outside the dura mater) can be used for epidural analgesia. CSF is largely similar to plasma in composition, but has much lower levels of protein.\n\nSchwann cells\nSchwann cells is incorrect. These are the cells that form the myelin sheath coating axons in the peripheral nervous system. They do not produce cerebrospinal fluid; this is done by the ependymal cells.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "3c7ef59b-3421-47ed-b64f-4eefd87c3057",
+    "stem": "What malignant cell type is most likely to secrete parathyroid hormone related peptide?",
+    "options": [
+      "Columnar",
+      "Large cell",
+      "Transitional",
+      "Neuroendocrine",
+      "Squamous"
+    ],
+    "correct_option": 4,
+    "explanation": "Squamous\nSquamous cells line most cavities of the body and form the skin. Secretion of parathyroid hormone related peptide by squamous cell lung cancer is well-recognised. Other squamous cell cancers are also known to secrete parathyroid hormone related peptide, such as head and neck cancers, cervical cancer, and vulva cancer. Parathyroid hormone related peptide secretion in malignancy results in hypercalcaemia (as seen in this patient) through activation of the parathyroid hormone receptors, leading to bone resorption and increased resorption of calcium in the proximal tubules of the kidney. Other tumours known to secrete parathyroid hormone related peptide are: cancers of the ovary, breast, and kidney; phaeochromocytomas; haematological malignancies and pancreatic islet cell tumours.\n\nColumnar\nColumnar is incorrect. Columnar epithelium line most of the digestive tract. They are implicated in malignancy in Barrett’s oesophagus, where the normal squamous epithelium lining the base of the oesophagus is replaced by columnar epithelium and goblet cells, leading to an increased risk of the development of oesophageal adenocarcinoma. Tumours of squamous cells are more likely to produce parathyroid hormone related peptide; other tumours known to secrete it are: cancers of the ovary, breast, and kidney; phaeochromocytomas; haematological malignancies and pancreatic islet cell tumours.\n\nLarge cell\nLarge cell is incorrect. Large cell cancer of the lung is a type of non-small cell lung cancer. It is much more common to see paraneoplastic secretions in small cell lung cancers; however in some cases large cell cancers will also secrete agents such as parathyroid related hormone, antidiuretic hormone, or even plasminogen. It is much more likely that this patient’s syndrome would be caused by secretion from a squamous cell lung cancer. Other tumours known to secrete it are: cancers of the ovary, breast, and kidney; phaeochromocytomas; haematological malignancies and pancreatic islet cell tumours.\n\nTransitional\nTransitional cell carcinomas form in the transitional epithelium, which is found in the linings of the urinary tract including the bladder, ureters and kidney, and is not associated with the seretion of parathyroid hormone related peptide. It is much more likely that this patient’s syndrome would be caused by secretion from a squamous cell lung cancer.\n\nNeuroendocrine\nNeuroendocrine is incorrect. Neuroendocrine cells are found in the hypothalamus, pituitary and adrenal medulla. Neuroendocrine cells are also found in the lung throughout the respiratory tract, lining the nasal airways, the larynx, and the bronchi and bronchioles. Neuroendocrine cells of the lung are the source of small cell lung cancer; small cell lung cancer does not produce parathyroid hormone related peptide. It is much more likely that this patient’s syndrome would be caused by secretion from a squamous cell lung cancer. Other tumours known to secrete it are: cancers of the ovary, breast, and kidney; phaeochromocytomas; haematological malignancies and pancreatic islet cell tumours.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "8ee3ea02-c330-4348-b835-aad2b9dd1f63",
+    "stem": "You are investigating recurrent attacks of angioedema in a 54-year-old man who is treated with multiple agents for hypertension. You suspect they may be related to elevated bradykinin as a result of ACE inhibition. Which of the following fits best with the characteristics of bradykinin?",
+    "options": [
+      "Bradykinin agonism is a potential treatment for hereditary angioedema",
+      "Bradykinin B1 receptors are downregulated after injury",
+      "It promotes vasodilation",
+      "Levels are elevated by valsartan",
+      "Levels are reduced by indapamide"
+    ],
+    "correct_option": 2,
+    "explanation": "It promotes vasodilation\nBradykinin is a potent vasoactive peptide involved in the inflammatory response which is seen to: increase vascular permeability promote vasodilation, pain, and the contraction of smooth muscle stimulate arachidonic acid metabolism.\n\nBradykinin agonism is a potential treatment for hereditary angioedema\nBradykinin agonism is a potential treatment for hereditary angioedema is incorrect. Bradykinin B2 receptor antagonists are a potential therapeutic target for hereditary angioedema, blocking the binding of native bradykinin and downregulating the inflammatory response.\n\nBradykinin B1 receptors are downregulated after injury\nBradykinin B1 receptors are downregulated after injury is incorrect. Bradykinin B1 receptors are upregulated after injury, leading to upregulation of both acute and chronic inflammation.\n\nLevels are elevated by valsartan\nLevels are elevated by valsartan is incorrect. Levels of bradykinin are elevated by ACE inhibitors but not by angiotensin receptor blockers.\n\nLevels are reduced by indapamide\nLevels are reduced by indapamide is incorrect. Indapamide does not significantly affect levels of bradykinin.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "48c3c8c6-ee2c-4f85-bda6-e429e8fb3251",
+    "stem": "A 52-year-old woman of African American heritage comes to the Respiratory Clinic with symptoms of shortness of breath and a chronic cough. A chest X-ray shows bilateral hilar lymphadenopathy. Which of the following would be expected on a biopsy of a granuloma in this condition?",
+    "options": [
+      "Asteroid bodies",
+      "B lymphocytes",
+      "Caseation",
+      "Heinz bodies",
+      "T lymphocytes"
+    ],
+    "correct_option": 0,
+    "explanation": "Asteroid bodies\nAsteroid bodies are found in sarcoid granulomas (although not exclusively) and are thought to comprise lipids arranged into bilayer membranes.\n\nB lymphocytes\nB lymphocytes is incorrect. It is macrophages that are commonly found in granulomas rather than lymphocytes.\n\nCaseation\nCaseation is incorrect. Caseation or areas of focal necrosis are not a feature of granulomas associated with sarcoidosis.\n\nHeinz bodies\nHeinz bodies is incorrect. Heinz bodies are found in red blood cells, not as a feature of granulomas.\n\nT lymphocytes.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "e88bf3af-e218-41e0-9643-09bd6cee9a07",
+    "stem": "You are asked to provide some general information about genetic sequencing for the Genetic Diseases Clinic of your university hospital. Which of the following is true of the human genome?",
+    "options": [
+      "Exons are non coding sequences of DNA",
+      "Introns have no known purpose",
+      "It contains approximately 20,000 genes",
+      "It has significantly fewer segmental duplications compared to other mammals",
+      "Most genetic diseases are related to trinucleotide repeat sequences"
+    ],
+    "correct_option": 2,
+    "explanation": "It contains approximately 20,000 genes\nPrior to the human genome project, it was thought that the human genome may contain up to 100,000 genes. In fact, the total number is now thought to be far lower, at 20,000.\n\nExons are non coding sequences of DNA\nExons are non-coding sequences of DNA is incorrect. Exons are coding sequences of DNA which code for peptides produced from mRNA. Exons have spaces of DNA between them called introns, and through the process of splicing various mRNA sequences can be formed from exons.\n\nIntrons have no known purpose\nIntrons have no known purpose is incorrect. Introns were thought to have no known purpose, but it is now realised that they may well code for switches that control gene expression in splicing.\n\nIt has significantly fewer segmental duplications compared to other mammals\nIt has significantly fewer segmental duplications compared to other mammals is incorrect. The human genome contains a significantly greater number of segmental duplications vs other mammals.\n\nMost genetic diseases are related to trinucleotide repeat sequences.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "ca27000d-684e-499f-9823-b6f594d74f03",
+    "stem": "You are examining a novel agent which may delay programmed cell death (apoptosis). Which one of the following statements is true regarding the cellular and molecular mechanisms that control apoptosis?",
+    "options": [
+      "Abnormalities of caspase control are associated with a range of lymphomas and carcinomas",
+      "Caspase 8 is an example of an executioner protein",
+      "Death domains attract extracellular adapter proteins",
+      "The extrinsic pathway is initiated at the mitochondrial level",
+      "The intrinsic pathway is triggered at death receptors on the cell surface"
+    ],
+    "correct_option": 0,
+    "explanation": "Abnormalities of caspase control are associated with a range of lymphomas and carcinomas\nA range of lymphomas and carcinomas are associated with abnormalities of the extrinsic apoptosis pathway. In the extrinsic pathway, death domains attract intracellular adapter proteins (e.g. CD95/FADD (MORT-1)), which in turn attract procaspase 8. Procaspase 8 is then modified into a complex of two small and two large heterodimers, constituting active caspase 8. This activates downstream caspases, e.g. caspase 3 (a typical executioner caspase), and results in the host cell undergoing characteristic apoptotic changes, such as chromatin condensation and cell fragmentation (blebbing).\n\nCaspase 8 is an example of an executioner protein\nCaspase 8 is an example of an executioner protein is incorrect. Caspase 3 is an example of an executioner caspase.\n\nDeath domains attract extracellular adapter proteins\nDeath domains attract extracellular adapter proteins is incorrect. Death domains attract intracellular adapter proteins such as CD95/FADD (MORT-1).\n\nThe extrinsic pathway is initiated at the mitochondrial level\nThe extrinsic pathway is initiated at the mitochondrial level is incorrect. It is the intrinsic pathway which is initiated at the mitochondrial level.\n\nThe intrinsic pathway is triggered at death receptors on the cell surface.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "e2f441b6-b8c8-4460-b6fa-f1cdf5c42e51",
+    "stem": "Which one of the following is associated with the correct disease?",
+    "options": [
+      "HLA DR4 – ankylosing spondylitis",
+      "HLA B27 –Behçet’s disease",
+      "HLA B5 – haemochromatosis",
+      "HLA A3 – multiple sclerosis",
+      "HLA Cw6 – psoriasis"
+    ],
+    "correct_option": 4,
+    "explanation": "HLA Cw6 – psoriasis\nHLA is the genetic code on the short arm of chromosome 6 that codes for important aspects of the immune system. Questions addressing HLA associations are frequent in MRCP part 1 and it would be worthwhile committing the most common associations to memory: HLA-A Haemochromatosis (A3) HLA-B Behcet syndrome (B5) Ankylosing spondylitis (B27) Reactive arthritis (B27) HLA-C Psoriasis (Cw6) (Option E) HLA-DR Goodpasture syndrome (DR2) Multiple sclerosis (DR2) Addison's disease (DR3) Rheumatoid disease (DR4)\n\nHLA DR4 – ankylosing spondylitis\nHLA DR4 – ankylosing spondylitis is incorrect. See the table for more details of the correct associations.\n\nHLA B27 –Behçet’s disease\nHLA B27 –Behçet’s disease is incorrect. See the table for more details of the correct associations.\n\nHLA B5 – haemochromatosis\nHLA B5 – haemochromatosis is incorrect. See the table for more details of the correct associations.\n\nHLA A3 – multiple sclerosis.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "ccdadeec-265d-4a8a-98fa-61549b06933a",
+    "stem": "Concerning monoclonal free light chains, which one of the following statements is true?",
+    "options": [
+      "They are usually found in association with Waldenström’s macroglobulinaemia",
+      "They are never found in the serum of myeloma patients with normal renal function",
+      "They are found in isolation in 20–30% of cases of myeloma",
+      "They are not associated with IgE- or IgD-secreting myelomas",
+      "They are rarely associated with renal tubular damage"
+    ],
+    "correct_option": 2,
+    "explanation": "They are found in isolation in 20–30% of cases of myeloma\nThe observation that serum free light chains can occur in the absence of a detectable monoclonal protein in the peripheral blood is the explanation why two tests must always be done when investigating possible myeloma: both serum electrophoresis and either serum or urinary free light chains. Waldenstrom’s macroglobulinaemia is a monoclonal IgM disease. It is clinically quite distinct from myeloma, manifesting primarily with features of hyperviscosity. Bone lesions and renal disease are not usually seen.\n\nThey are usually found in association with Waldenström’s macroglobulinaemia\nThey are usually found in association with Waldenström’s macroglobulinaemia is incorrect. There is an absence of light chains and this is why renal disease is rarely seen.\n\nThey are never found in the serum of myeloma patients with normal renal function\nThey are never found in the serum of myeloma patients with normal renal function is incorrect. This is no longer true – as modern assays can now reliably detect light chains in serum (and, in many centres, have replaced urinary Bence Jones protein as the investigation of choice).\n\nThey are not associated with IgE- or IgD-secreting myelomas\nThey are not associated with IgE- or IgD-secreting myelomas is incorrect. IgD and IgE myelomas are rare, but should be considered as diagnostic possibilities in patients with detectable free light chains in the absence of an IgA, M or G band in the peripheral blood.\n\nThey are rarely associated with renal tubular damage.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "031bb675-119b-4aa1-8eb1-56edc5f432de",
+    "stem": "You are working on your PhD project into the underlying basis for an inherited neurological condition. Part of your project involves identifying a protein expressed in an abnormal cell line. Which one of the following is the appropriate method for identifying such a protein?",
+    "options": [
+      "Eastern blot",
+      "Northern blot",
+      "RT-PCR",
+      "Southern blot",
+      "Western blot"
+    ],
+    "correct_option": 4,
+    "explanation": "Western blot\nWestern blotting uses gel electrophoresis to separate proteins by polypeptide length. The proteins are then transferred to a membrane, at which point they can be probed with antibodies to a specific protein.\n\nEastern blot\nEastern blot is incorrect. Far-Eastern blotting is the name of the technique used for detecting lipid abnormalities.\n\nNorthern blot\nNorthern blot is incorrect. Northern blotting is the technique used to detect specific sequences of RNA.\n\nRT-PCR\nRT-PCR is incorrect. RT-PCR is the method used to amplify and identify specific sequences of RNA.\n\nSouthern blot.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "191b1a3c-1ea0-44d2-8ba9-b7bbea7d50ae",
+    "stem": "You are examining a new medicine that appears to affect the functioning of the testes in the dog model it has been tested in. It appears to affect chromatin condensation in mitosis. In which phase of mitosis does chromatin condensation occur?",
+    "options": [
+      "Anaphase",
+      "Interphase",
+      "Metaphase",
+      "Prophase",
+      "Telophase"
+    ],
+    "correct_option": 3,
+    "explanation": "Prophase\nThe prophase is the stage of mitosis in which chromatin condenses.\n\nAnaphase\nAnaphase is incorrect. The anaphase is the phase during which microtubular shortening occurs.\n\nInterphase\nInterphase is incorrect. The interphase consists of the G1, S and G2 phases. During the S phase DNA is duplicated via semi-conservative replication.\n\nMetaphase\nMetaphase is incorrect. The metaphase occurs between prophase and anaphase, and during this phase chromosomes become attached to the spindle fibres.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "549d0ba3-bb1d-4d29-9d66-4b1402a26302",
+    "stem": "You are evaluating a new matrix metalloproteinase 9 (MMP9) inhibitor to be used in the treatment of inflammatory arthritis. What type of enzyme is MMP9?",
+    "options": [
+      "Enamelysin",
+      "Epilysin",
+      "Gelatinase",
+      "Interstitial collagenase",
+      "Stromelysin"
+    ],
+    "correct_option": 2,
+    "explanation": "Gelatinase\nThe matrix metalloproteinases have a common structure.The three common domains are the pro-peptide, the catalytic domain, and the haemopexin-like C-terminal domain, which is linked to the catalytic domain by a flexible hinge region. MMP9 is a gelatinase, and it has functions in neutrophil action, angiogenesis and wound repair.\n\nEnamelysin\nEnamelysin is incorrect. MMP20 is an enamelysin; its function is to cleave enamel matrix proteins, and it potentially plays a role in how thick and mineralised enamel is.\n\nEpilysin\nEpilysin is incorrect. This is MMP28; it is thought to degrade casein and play a role in tissue homeostasis and wound repair.\n\nInterstitial collagenase\nInterstitial collagenase is incorrect. MMP1 is an interstitial collagenase, and MMP1 expression may play a role in progression of rheumatoid arthritis.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "fe38005e-252b-48b5-b312-f6620a069f96",
+    "stem": "You are reviewing data on a family group presenting with a number of cases of xeroderma pigmentosum. This is thought to be related to a defect in the enzyme responsible for separating base pairs in a double-stranded DNA molecule. Which enzyme is responsible?",
+    "options": [
+      "Helicase",
+      "Nuclease",
+      "Phosphodiesterase",
+      "Restriction endonuclease",
+      "Telomerase"
+    ],
+    "correct_option": 0,
+    "explanation": "Helicase\nDNA helicases are responsible for separating strands of a DNA double helix. Defects in helicases are thought to be related to a number of inherited diseases including xeroderma pigmentosum, Cockayne syndrome or trichothiodystrophy.\n\nNuclease\nNuclease is incorrect. Nucleases are enzymes that degrade nucleic acid molecules by cleaving the phosphodiesterase bonds between nucleic acid subunits.\n\nPhosphodiesterase\nPhosphodiesterase is incorrect. There are numerous subtypes of phosphodiesterases, which are involved in the inactivation of intracellular second messengers such as cyclic AMP and cyclic GMP. Inhibitors are used across a range of diseases including erectile dysfunction and COPD.\n\nRestriction endonuclease\nRestriction endonuclease is incorrect. Restriction endonucleases cut DNA molecules at a limited number of specific nucleotide sequences.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "d4fff8dd-59e0-416f-a240-d7b23fe434f0",
+    "stem": "A 19-year-old man presents to the Rheumatology Clinic with multiple episodes of joint dislocation. He is suspected to have Marfan’s syndrome. A defect in which protein is responsible for Marfan syndrome?",
+    "options": [
+      "Actin",
+      "Collagen",
+      "Elastin",
+      "Fibrillin",
+      "Myosin"
+    ],
+    "correct_option": 3,
+    "explanation": "Fibrillin\nMarfan’s is caused by mutations in the FBN1 gene which encodes for fibrillin-1. Fibrillin-1 is responsible for the formation of microfibrils which provide strength and stability to connective tissue.\n\nActin\nActin is incorrect. Normal functioning actin plays an important role in microfilament formation, and abnormalities of actin are associated with increased risk of a range of conditions including dilated and hypertrophic obstructive cardiomyopathies.\n\nCollagen\nCollagen is incorrect. Mutations in collagen genes are associated with Ehlers–Danlos syndrome and osteogenesis imperfecta.\n\nElastin\nElastin is incorrect. Elastin gene mutations are associated with the loss of elastic fibres in various tissues, which can lead to conditions such as supravalvular aortic stenosis, cutis laxa and Williams syndrome (associated with large vessel dilatation and aneurysm formation).",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "20d8a38b-5cf8-4b6f-bcf5-634e726f0d75",
+    "stem": "A 50-year-old obese patient has been complaining of gradually increasing firm nodules over the extensor surfaces of his fingers, hands and forearms. He also noticed similar ear lesions. When inhibited, which is the most likely enzyme to cause a reduction of these deposits?",
+    "options": [
+      "Adenylate kinase",
+      "Creatine kinase",
+      "Hypoxanthine phosphoribosyltransferase",
+      "Urease",
+      "Xanthine oxidase"
+    ],
+    "correct_option": 4,
+    "explanation": "Xanthine oxidase\nXanthine oxidase catalyses the oxidation of hypoxanthine to xanthine and can further catalyse the oxidation of xanthine to uric acid. Xanthine oxidase inhibition, a target of treatments for gout such as allopurinol, therefore drives a reduction in uric acid levels. In the event they are reduced significantly, gouty tophi may be partially reabsorbed (although combination therapy is often required).\n\nAdenylate kinase\nAdenylate kinase is incorrect. Adenylate kinase catalyses the interconversion of adenine nucleotides, and plays an important role in cellular energy homeostasis.\n\nCreatine kinase\nCreatine kinase is incorrect. Creatine kinase drives the production of phosphocreatine and is an important marker of tissue damage in skeletal and cardiac muscle.\n\nHypoxanthine phosphoribosyltransferase\nHypoxanthine phosphoribosyltransferase is incorrect. Although hypoxanthine phosphoribosyltransferase plays a central role in the generation of purines, inhibition is not a therapeutic target for the treatment of gout.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "f433d3ae-7e2a-436a-a50e-c8c00b97cf49",
+    "stem": "You are examining the inheritance of a genetic disease that is associated with abnormalities of actin. Which one of the following best describes the predominant location of actin?",
+    "options": [
+      "Cell membrane",
+      "Cytoskeleton",
+      "Elastin",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "correct_option": 1,
+    "explanation": "Cytoskeleton\nActin is a globular protein found in the microfilaments of the cytoskeleton and in the thin contractile filaments found in muscle cells. Alpha, beta and gamma forms have been identified; alpha actins are found in muscle cells, beta and gamma forms co-exist in most cell types as constituents of the cytoskeleton. Smaller amounts of actin are also found within the nucleus.\n\nCell membrane\nCell membrane is incorrect. The cell membrane is composed of phospholipids rather than a peptide.\n\nElastin\nElastin is incorrect. Elastin is a protein in its own right, and does not contain actin. It is highly elastic and has an important role in maintaining structure and function in load-bearing tissues.\n\nMitochondria\nMitochondria is incorrect. Mitochondria are connected to actin which helps target them to particular areas of the cell rather than containing actin themselves.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "7e6ad5bc-4245-4726-8522-9099ae2179fc",
+    "stem": "You are considering a trial of a new treatment which inserts a sequence of oligonucleotides into circular DNA. Where in the cell is circular double-stranded DNA found?",
+    "options": [
+      "Golgi body",
+      "Mitochondria",
+      "Nucleolus",
+      "Nucleus",
+      "Ribosomes"
+    ],
+    "correct_option": 1,
+    "explanation": "Mitochondria\nHuman mitochondria contain circular double-stranded DNA. Mitochondrial DNA is inherited from the mother, and various genetic disorders occur because of mitochondrial dysfunction. Examples of mitochondrial disorders include Leber’s optic atrophy, myoclonic epilepsy with ragged red fibres, and MELAS (Mitochondrial, Encephalomyopathy, Lactic acidosis, and Stroke-like episodes).\n\nGolgi body\nGolgi body is incorrect. The Golgi body is responsible for post-translational modification of proteins, not their primary manufacture, and consequently does not contain DNA.\n\nNucleolus\nNucleolus is incorrect. The nucleolus contains RNA and is responsible for assembly of ribosomal RNA.\n\nNucleus\nNucleus is incorrect. The nucleus contains linear rather than circular DNA.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "32f85e31-a7ee-4a9d-a56a-133cffb2f8fb",
+    "stem": "Apoptosis is a normal and essential cellular process. However, research has implicated abnormal apoptosis in a number of disease states. Which of these conditions is associated with abnormal apoptosis?",
+    "options": [
+      "Alzheimer’s disease",
+      "Frostbite",
+      "Stable angina",
+      "Pancreatitis",
+      "Tuberculosis"
+    ],
+    "correct_option": 0,
+    "explanation": "Alzheimer’s disease\nUnopposed apoptosis with progressive destruction of specific groups of nerve cells is considered to be one mechanism that ultimately leads to Alzheimer’s disease.\n\nFrostbite\nFrostbite is incorrect. In frostbite, crystals form within the tissues, leading to expansion and bursting of the cells, not apoptosis.\n\nStable angina\nStable angina is incorrect. The pathogenesis of ischaemic heart disease involves widespread cell death due to necrosis, which is associated with a local inflammatory reaction. Apoptosis in contrast occurs in isolated cells, and is a programmed cell death, without associated inflammatory reaction (this occurs after myocardial infartion but not in stable angina).\n\nPancreatitis\nPancreatitis is incorrect. The pathophysiology of pancreatitis involves the release of pancreatic enzymes which destroy cellular membranes and lead to fat necrosis, not apoptosis.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "d7c582c6-fa6e-455c-affc-d16ae83e1e22",
+    "stem": "A 16-year-old youth collapses during a game of football. He has previously been well. He has no carotid pulse and attempts at cardiopulmonary resuscitation are unsuccessful. At postmortem, he is found to have marked hypertrophy of the septum. Microscopic examination shows myocyte disarray and disorganisation of myofibrils within the myocytes. Which one of the following proteins is likely to be abnormal in this patient's condition?",
+    "options": [
+      "β-Myosin heavy chains",
+      "Myosin-binding protein C",
+      "Myosin light chains",
+      "Troponin I",
+      "Troponin T"
+    ],
+    "correct_option": 0,
+    "explanation": "β-Myosin heavy chains\nThis is the commonest form of hypertrophic obstructive cardiomyopathy (HOCM) which presents with early clinical signs of disease, being found in up to 25% of patients with HOCM overall, the diagnosis here. The age at presentation points us more toward a myosin-heavy chain mutation rather than a myosin-binding protein C mutation.\n\nMyosin-binding protein C\nMyosin-binding protein C is incorrect. Myosin-binding protein C mutations account for most cases of HOCM, but may present with lesser septal hypertrophy and present later in life.\n\nMyosin light chains\nMyosin light chains is incorrect. Myosin light chain HOCM is a very rare form of the disease, meaning in percentage terms it is unlikely to be the diagnosis here.\n\nTroponin I\nTroponin I is incorrect. Troponin I mutations account for approximately 7% of HOCM cases, and the Lys183 deletion mutation form of troponin I HOCM is associated with a particularly high risk of sudden death.\n\nTroponin T\nTroponin T is incorrect. Troponin T mutations account for up to 15% of HOCM, but the disease is usually much milder versus abnormal myosin forms of the disease.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "bf9d538d-a738-4083-84ae-497807581d17",
+    "stem": "You examine the biopsy results from an animal model being developed for assessment of the pathology of idiopathic Parkinson's disease. There is clearly increased protein aggregation and Lewy body formation. A defect in which one of the intracellular apparatus types listed below is most likely to be responsible for the biopsy appearance seen in idiopathic Parkinson’s?",
+    "options": [
+      "Endoplasmic reticulum",
+      "Golgi apparatus",
+      "Mitochondria",
+      "Peroxisome",
+      "Proteasome"
+    ],
+    "correct_option": 4,
+    "explanation": "Proteasome\nThe co-occurrence of protein aggregation and Lewy body formation suggests proteasome dysfunction. Proteasomes constitute the intracellular apparatus responsible for peptide degradation. Cellular stress leads to damage to intracellular proteins, which are then identified by the ubiquitin proteasome system for degradation. Disordered proteasome function may have a role in degenerative disorders such as Parkinson’s, or malignant disease. Bortezomib, a proteasome inhibitor, is used for the treatment of multiple myeloma.\n\nEndoplasmic reticulum\nEndoplasmic reticulum is incorrect. Endoplasmic reticulum (ER) is responsible for protein manufacture; defective ER function may therefore result in lower total amounts of protein rather than protein aggregation.\n\nGolgi apparatus\nGolgi apparatus is incorrect. The Golgi apparatus is responsible for post-translational modification of proteins, for instance by addition of lipid or carbohydrate moieties.\n\nMitochondria\nMitochondria is incorrect. Mitochondria are responsible for driving oxidative metabolism. Mitochondrial disorders are therefore most likely to present with syndromes that have features of defective energy utilization, for example leading to muscle weakness.\n\nPeroxisome\nPeroxisome is incorrect. Peroxisomes are responsible for the breakdown of long-chain fatty acids.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "dcae1a66-7ee1-46dd-accf-331f7a12c949",
+    "stem": "A couple come to the genetics clinic for counselling. They have a 7-year-old male child who who has missed his motor milestones, has proximal muscle weakness and pseudohypertrophy of both calves. The couple are concerned about the risk of any future children also inheriting the condition. Where is the genetic defect responsible for his condition most likely to lie?",
+    "options": [
+      "Chromosome 1",
+      "Chromosome 6",
+      "Chromosome 7",
+      "Chromosome 11",
+      "X chromosome"
+    ],
+    "correct_option": 4,
+    "explanation": "X chromosome\nThis patient has a clinical phenotype consistent with Duchenne’s muscular dystrophy. As such the underlying genetic mutation is most likely to reside on the X chromosome. Other examples of X-linked disorders include Becker’s muscular dystrophy and haemophilia.\n\nChromosome 1\nChromosome 1 is incorrect. The gene for variegate porphyria (the PPOX gene) has been located to chromosome 1. It has an autosomal-dominant pattern of inheritance.\n\nChromosome 6\nChromosome 6 is incorrect. Hereditary haemochromatosis is an autosomal-recessive disorder with variable penetrance, and results from a mutation of the HFE gene located on chromosome 6. This encodes a transport protein found in the duodenum. 77.5% of patients have two copies of the C282Y mutation, 4% have one copy, while 6.5% have one or two copies of a different mutation, H63D.\n\nChromosome 7\nChromosome 7 is incorrect. Cystic fibrosis is caused by a mutation of the CFTR gene, which is normally found on chromosome 7.\n\nChromosome.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "eb04eb40-1231-404e-ae69-d2e3a4f09a34",
+    "stem": "You are reviewing pre-clinical data on a new agent thought to decrease foam cell activity and plaque stability. Which of the following correctly describes the lineage of the majority of foam cells?",
+    "options": [
+      "Endothelial cells",
+      "Fibroblasts",
+      "Lymphocytes",
+      "Monocytes",
+      "Neutrophils"
+    ],
+    "correct_option": 3,
+    "explanation": "Monocytes\nA number of studies have attempted to define the lineage of foam cells. A large percentage of these cells are CD68-positive, which indicates a monocyte lineage. Other foam-like cells appear to be derived from smooth muscle cells; these contain extensive lipid inclusion bodies and stain positive for smooth muscle cell proteins such as actin, vimentin and desmin. Finally some cells expressing the foam cell phenotype that stain for S-100 are also found. S-100 is a protein expressed by vascular dendritic cells.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "262df541-a456-41d7-ab68-dc22b7db5c95",
+    "stem": "You are asked to see a patient who had a chest drain removed 4 days ago. There appears to be some infection around the chest drain site. Which one of the following statements regarding stages in the cell biology of normal wound healing is true?",
+    "options": [
+      "Acute inflammation usually lasts for 6–12 hours",
+      "Collagen deposition is the key process during demolition",
+      "Demolition is the first phase",
+      "Epithelial cell proliferation is the hallmark of the demolition phase",
+      "Maturation and remodelling can continue for up to a year"
+    ],
+    "correct_option": 4,
+    "explanation": "Maturation and remodelling can continue for up to a year\nMaturation and remodeling of a wound lasts for up to 12 months, during which time the tensile strength of the wound increases and the random collagen is replaced by a more stable form orientated along lines of stress.\n\nAcute inflammation usually lasts for 6–12 hours\nAcute inflammation usually lasts for 6–12 hours is incorrect. The first phase in healing by first intention is the phase of acute inflammation that lasts up to 3 days, if uncomplicated: The initiating factor appears to originate from platelets activated by mature collagen exposed in the wound. Platelets first aggregate then release a variety of active agents including lysosomal enzymes, ATP, serotonin and wound cytokines. A fibrin clot develops, which completes haemostasis and provides strength and support towith the AI wound. The surface dries to form a scab. Platelets and macrophage factors cause local vasodilatation, which produces warmth and increases capillary permeability, allowing serum and white blood cells to accumulate and cause swelling.\n\nCollagen deposition is the key process during demolition\nCollagen deposition is the key process during demolition is incorrect. After the initial acute inflammation, macrophages become active as the main agents of demolition, removing unwanted fibrin, dead cells and bacteria and creating fluid-filled spaces for granulation tissue. Macrophages also release factors that stimulate the formation of new capillary buds during this phase, and later they initiate and control fibroblast activity during repair. Within the connective tissue, randomly orientated collagen begins to form after a few days, reaching a peak of activity after 5–7 days.\n\nDemolition is the first phase\nDemolition is the first phase is incorrect. Acute inflammation that is the first phase of wound healing.\n\nEpithelial cell proliferation is the hallmark of the demolition phase\nEpithelial cell proliferation is the hallmark of the demolition phase is incorrect. Epithelial cells at the edge of the wound start to proliferate after 24 hours and this phase can last for up to 3 weeks, although it is macrophage proliferation which is the hallmark of the demolition phase. You are monitoring a man who has undergone a Whipple’s procedure for pancreatic carcinoma for signs of recurrence.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "3362d46f-adce-4324-915b-b5ab77bb688d",
+    "stem": "You are teaching molecular biology to a group of medical students, and one asks you about how reverse transcriptase works. Which one of the statements below explains how reverse transcriptase works?",
+    "options": [
+      "It amplifies segments of DNA",
+      "It cleaves specific portions of DNA",
+      "It is involved in protein synthesis",
+      "It transcribes DNA from RNA",
+      "It transcribes RNA from DNA"
+    ],
+    "correct_option": 3,
+    "explanation": "It transcribes DNA from RNA\nReverse transcriptase is a DNA polymerase enzyme that is involved in transcribing single-stranded portions of RNA into lengths of double-stranded DNA. Reverse transcriptase has an important role to play in the pathogenesis of RNA viruses, such as HIV, allowing their genetic code to be integrated into the host genome as DNA. It is also very important in molecular biology, allowing segments of DNA to be produced from messenger RNA.\n\nIt amplifies segments of DNA\nIt amplifies segments of DNA with It amplifies segments of DNA is incorrect. PCR is the technique used to amplify segments ofChat DNA.\n\nIt cleaves specific portions of DNA\nIt cleaves specific portions of DNA is incorrect. CRISPR/cas9 is the standard technique used for genome editing with removal of specific portions of DNA.\n\nIt is involved in protein synthesis\nIt is involved in protein synthesis is incorrect. Because reverse transcriptase is involved in transcribing DNA from RNA, it is not involved in protein synthesis, but instead is involved in incorporation of viral genetic code into host DNA. You are considering using a TNF-α antagonist in the treatment of a 45-year-old man with severe psoriasis. The patient wants to know more about this treatment and how it works. Which cells are mainly responsible for production of TNF-α?\n\nIt transcribes RNA from DNA\nIt transcribes RNA from DNA is incorrect. RNA polymerase transcribes RNA from DNA and is involved in protein synthesis.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "1694c377-763a-426b-8831-fdc699ec0186",
+    "stem": "You are examining a possible new treatment for solid tumours which is thought to exert its effect by pushing tumour cells into a state of cellular senescence. Which of the following defines that a cell has reached senescence?",
+    "options": [
+      "Apoptosis",
+      "Arrest of meiosis",
+      "Arrest of mitosis",
+      "Cellular necrosis",
+      "Shortening of telomeres"
+    ],
+    "correct_option": 2,
+    "explanation": "Arrest of mitosis\nSenescence was first described in the 1960s, when a theoretical maximum of around 50 cell divisions was proposed, and that cells which escape this maximum become cancerous. It is thought to occur not just because of DNA damage at telomeric sites (shortening occurs with each cell division), but also due to DNA damage at non-telomeric sites. This leads to a DNA damage response. Cultural stress also occurs when division is attempted in vitro, but the equivalent of this cultural stress in vivo is not well described.\n\nApoptosis\nApoptosis with by Apoptosis is incorrect. Apoptosis is programmed cell death and can occur via the intrinsic Chat pathway (driven mitochondrial dysfunction) or by the extrinsic pathway through cell receptor mediated cell death.\n\nArrest of meiosis\nArrest of meiosis is incorrect. Meiosis is required for sexual reproduction, and arrest of meiosis is not a marker of senescence.\n\nCellular necrosis\nCellular necrosis is incorrect. Cellular necrosis occurs due to autolysis and is a marker of premature cell death rather than sensescence.\n\nShortening of telomeres\nShortening of telomeres is incorrect. Progressive shortening of telomeres is thought to be one mechanism underlying sensescence, but does not define senescence itself. You are asked to take part in a study of embryonic islet stem cells, which are about to be studied in humans for the first time. These cells are packaged in a membrane which allows hormones and nutrients in and out, but prevents either stem cells from passing out of the device, or immune cells from moving into the device.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "524bd4c0-9e82-4db3-9adc-ad3ca627540d",
+    "stem": "Most cancer cells activate telomerase. Which one of the following is the most likely biological result of this activation?",
+    "options": [
+      "Angiogenesis",
+      "Cell death",
+      "Immortalisation",
+      "Major histocompatibility complex activation",
+      "Tumour suppression"
+    ],
+    "correct_option": 2,
+    "explanation": "Immortalisation\nTelomeres are structures at the end of chromosomes, which in normal cells progressively shorten with each cell division. When telomerase is inactive, shortened telomeres cause cell growth arrest. Physiological suppression of telomerase is a tumour-suppressor and normal ageing mechanism. In contrast, most cancer cells pathologically activate telomerase, resulting in stable telomeres and immortalisation. Normal stem cells may express telomerase in the adult, allowing perpetuation, while tumours arising from stem cells may have a similar prolongation of survival. Telomerase inhibition is a therapeutic target to force cell senescence.\n\nAngiogenesis\nAngiogenesis is incorrect. Angiogenesis is stimulated by tumours through mechanisms such as the upregulation of vascular endothelial growth factor receptors.\n\nCell death Cell death is incorrect. Cancer cells are characterised by aberrations causing prolonged and uncontrolled growth and proliferation, and the avoidance of physiological cell death and tumour suppressive mechanisms.\n\nMajor histocompatibility complex activation\nMajor histocompatibility complex (MHC) activation is incorrect. MHC is a cell surface protein activated by the presentation of specific antigens.\n\nTumour suppression.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "d7a86c13-a1e8-4762-9219-1c6d9f370e51",
+    "stem": "A 42-year-old man presents with difficulty climbing the stairs due to pain and cramping in both lower limbs, and intermittent coughing when he eats too quickly. Apparently, his maternal grandfather suffered from a similar problem and died in his mid-sixties of progressive muscle weakness and disability. No females in the family have been affected by the condition. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Amyotrophic lateral sclerosis",
+      "Becker’s muscular dystrophy",
+      "Kennedy disease",
+      "Sydenham’s chorea",
+      "Wallenberg’s syndrome"
+    ],
+    "correct_option": 2,
+    "explanation": "Kennedy disease\nKennedy disease, also known as “X-linked bulbospinal neuronopathy”, is a trinucleotide-repeat disorder.Other trinucleotide-repeat disorders include Huntington’s chorea, fragile-X syndrome, myotonic dystrophy and Friedreich’s ataxia. The typical age of onset is 40–60 years, but with repeat expansion it can appear as early as the 20s. The fact that no females have been affected by the condition drives us towards thinking about an Xlinked disorder, and the gradual onset of limb and bulbar muscle weakness points us towards Kennedy’s.\n\nAmyotrophic lateral sclerosis\nAmyotrophic lateral sclerosis is incorrect. This is a form of motor neurone disease where both upper and lower motor tracts are affected. Both upper and lower motor neurone signs are seen. Amyotrophic lateral sclerosis may follow an autosomal dominant inheritance pattern, hence male and female members of the family would be affected.\n\nBecker’s muscular dystrophy\nBecker’s muscular dystrophy is incorrect. This presents at an earlier age with predominant lower limb weakness and pseudohypertrophy of the calves.\n\nSydenham’s chorea\nSydenham’s chorea is incorrect. It is sometimes seen in patients with rheumatic fever and is also known as St Vitus’ dance. It is associated with choreaform movements rather than the features seen here.\n\nWallenberg’s syndrome.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "efbda2c9-8135-49a9-bcfc-90f709baaf0e",
+    "stem": "You are prescribing botulinum toxin for injection via endoscopy for the treatment of achalasia. Which of the following is true of the intervention?",
+    "options": [
+      "The effect usually wears off after 4 weeks",
+      "The maximum recommended dose can be exceeded by up to 75%",
+      "The toxin is not immunogenic",
+      "The toxin is produced from the type G neurotoxin",
+      "The toxin prevents the release of acetylcholine"
+    ],
+    "correct_option": 4,
+    "explanation": "The toxin prevents the release of acetylcholine\nBotulinum toxin blocks cholinergic transport at the neuromuscular junction by preventing the release of acetylcholine.\n\nThe effect usually wears off after 4 weeks\nThe effect usually wears off after 4 weeks is incorrect. The effect of botulinum toxin is usually seen for 12 weeks or more.\n\nThe maximum recommended dose can be exceeded by up to 75%\nThe maximum recommended dose can be exceeded by up to 75% is incorrect. The maximum recommended dose should not be exceeded because of the risk of systemic absorption and significant (and rarely fatal) neuromuscular blockade.\n\nThe toxin is not immunogenic\nThe toxin is not immunogenic is incorrect. Hypersensitivity reactions are seen in association with botulinum toxin administraton, and given it is a bacterial peptide this is hardly surprising.\n\nThe toxin is produced from the type G neurotoxin.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "a63c5381-bc8e-42a4-b20f-f5ed1a0c9b90",
+    "stem": "You are asked to assess a new agent which is thought to have positive effects in reducing the early asthma response (EAR). Which of the following is a characteristic of the EAR?",
+    "options": [
+      "Attraction of phagocytes is a predominant feature",
+      "Eosinophils are particularly important",
+      "It occurs between 3 and 5 hours after an initial response to an allergen",
+      "It usually resolves spontaneously after 6–8 hours",
+      "Mast cell degranulation is seen in response to IgE already produced by B cells"
+    ],
+    "correct_option": 4,
+    "explanation": "Mast cell degranulation is seen in response to IgE already produced by B cells\nInitial exposure to the antigen stimulates B cells to produce IgE antibodies, which bind antigens and become attached to the surface of mast cells by high-affinity FceRI receptors.\n\nAttraction of phagocytes is a predominant feature\nAttraction of phagocytes is a predominant feature is incorrect. This is an important feature of the late asthma, not EAR.\n\nEosinophils are particularly important\nEosinophils are particularly important is incorrect. Eosinophils are a prominent component of the late asthma response, potentiating inflammation; they are recruited in response to IL-13 produced by lymphocytes.\n\nIt occurs between 3 and 5 hours after an initial response to an allergen\nIt occurs between 3 and 5 hours after an initial response to an allergen is incorrect. The late asthma response (LAR) occurs between 3 and 5 hours after an initial response to an allergen, and resolves spontaneously after 6–8 hours.\n\nIt usually resolves spontaneously after 6–8 hours.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "ceaa3336-2c0b-4458-9f11-607278b57024",
+    "stem": "You are studying the effects of tetanus toxin on acetylcholine-mediated transmission at the motor endplate. Which of the following fits best with the effect of tetanus toxin?",
+    "options": [
+      "A tetanus toxin fusion complex is formed which is made of synaptobrevin, syntaxin and",
+      "Tetanus toxin cleaves specific sites of SNAP-25",
+      "Tetanus toxin cleaves specific sites of synaptobrevin (VAMP)",
+      "Tetanus toxin cleaves syntaxin",
+      "Tetanus toxin forms a SNAP complex, together with NSF, Ca2+ and other proteins"
+    ],
+    "correct_option": 2,
+    "explanation": "Tetanus toxin cleaves specific sites of synaptobrevin (VAMP)\nThe synaptic fusion complex is made up of synaptobrevin, syntaxin and synaptosome-associated protein (SNAP-25). The fusion complex serves to join the membranes of an acetylcholine vesicle and a nerve cell. Botulinum toxin types BoNT/B, D, F, G and tetanus toxin (TeNT) cleave specific sites of synaptobrevin (VAMP).\n\nA tetanus toxin fusion complex is formed which is made of synaptobrevin, syntaxin and\nA tetanus toxin fusion complex is formed which is made of synaptobrevin, syntaxin and synaptosome-associated protein A tetanus toxin fusion complex is formed which is made of synaptobrevin, syntaxin and synaptosomeassociated protein is incorrect. It is the synaptic fusion complex that is made up of synaptobrevin, syntaxin and synaptosome-associated protein (SNAP-25).\n\nTetanus toxin cleaves specific sites of SNAP-25\nTetanus toxin cleaves specific sites of SNAP-25 is incorrect. Botulinum toxin type A (BoNT/A) and E (BoNT/E) cleave specific sites of SNAP-25 (e.g. BoNT/A recognises Glu–Ala–Asn–Gln).\n\nTetanus toxin cleaves syntaxin\nTetanus toxin cleaves syntaxin is incorrect. Botulinum toxin type C (BoNT/C) cleaves syntaxin.\n\nTetanus toxin forms a SNAP complex, together with NSF, Ca2+ and other proteins.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "1dbbc60f-10bd-4c25-889f-8ca2b600daec",
+    "stem": "A 42-year-old man is put on a proton-pump inhibitor (PPI) to suppress symptoms of oesophagitis. Which of the following is true of the mode of action of a PPI?",
+    "options": [
+      "Acetylcholine-stimulated acid production overrides proton pump inhibition",
+      "Histamine-stimulated acid production overrides proton pump inhibition",
+      "PPIs are known to promote magnesium retention",
+      "Renal impairment does not necessitate dose reduction",
+      "Use with an H2 antagonist in combination significantly enhances efficacy"
+    ],
+    "correct_option": 3,
+    "explanation": "Renal impairment does not necessitate dose reduction\nThe pharmacokinetics of proton pump inhibitors are not affected by reduced renal function.\n\nAcetylcholine-stimulated acid production overrides proton pump inhibition\nAcetylcholine-stimulated acid production overrides proton pump inhibition is incorrect. The proton pump is the final common pathway of histamine- and acetylcholine-stimulated production and PPIs are therefore not overridden by acetylcholine-stimulated acid production.\n\nHistamine-stimulated acid production overrides proton pump inhibition\nHistamine-stimulated acid production overrides proton pump inhibition is incorrect. Because the proton pump is the final common pathway for acid production, PPI effectiveness is not overridden by histamine stimulation.\n\nPPIs are known to promote magnesium retention\nPPIs are known to promote magnesium retention is incorrect. PPIs may actually promote magnesium loss, which may become symptomatic where PPIs are co-prescribed with diuretics which also promote magnesium excretion.\n\nUse with an H2 antagonist in combination significantly enhances efficacy.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "e636da2f-0546-4a7a-bdb1-a46d4fdd2ea8",
+    "stem": "You are monitoring a man who has undergone a Whipple’s procedure for pancreatic carcinoma for signs of recurrence. Which of the following is the most useful tumour marker?",
+    "options": [
+      "Alpha-fetoprotein",
+      "CA 19-9",
+      "CA-125",
+      "CEA",
+      "HCG"
+    ],
+    "correct_option": 1,
+    "explanation": "CA 19-9\nCA 19-9 is a tumour surface marker, particularly associated with pancreatic cancer. It has a high false-positive rate in normal individuals without cancer, therefore it is less useful as a primary investigation and more useful to monitor for recurrence in patients with elevated levels at diagnosis.\n\nAlpha-fetoprotein\nAlpha-fetoprotein is incorrect. AFP is associated with hepatocellular carcinoma, hepatoblastoma, testicular teratoma and yolk sac tumours. A rapid increase in AFP can be seen in patients with cirrhosis who subsequently develop a hepatocellular carcinoma.\n\nCA-125\nCA-125 is incorrect. This is associated with ovarian epithelial cancers and can be considered as part of screening work-up.\n\nCEA\nCEA is incorrect. This is associated with colon cancer, and some head and neck and lung cancers.\n\nHCG.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "828a5a0c-8597-4653-8ee4-5f12597ac136",
+    "stem": "You are investigating periodic episodes of unexplained hypoglycaemia in a 23-year-old nurse and request a Cpeptide assay. Which of the following statements fits best with the characteristics of C-peptide?",
+    "options": [
+      "C-peptide cleavage is an example of post-transcriptional modification",
+      "C-peptide cleavage is an example of post-translational modification",
+      "C-peptide is attached to only the alpha chain",
+      "The level of C-peptide will be reduced in insulinoma",
+      "The level of C-peptide will be unchanged in factitious hypoglycaemia"
+    ],
+    "correct_option": 1,
+    "explanation": "C-peptide cleavage is an example of post-translational modification\nPro-insulin is cleaved after manufacture to produce insulin and C-peptide, hence the modification occurs after translation of mRNA into protein.\n\nC-peptide cleavage is an example of post-transcriptional modification\nC-peptide cleavage is an example of post-transcriptional modification is incorrect. Post-transcriptional modification occurs to mRNA, e.g. RNA splicing.\n\nC-peptide is attached to only the alpha chain\nC-peptide is attached to only the alpha chain is incorrect. The C-peptide is attached to both the alpha and beta insulin chains, and cleavage of C-peptide from pro-insulin leaves free insulin formed of a linked alpha and beta chain.\n\nThe level of C-peptide will be reduced in insulinoma\nThe level of C-peptide will be reduced in insulinoma is incorrect. An insulinoma leads to increased levels of endogenous insulin. Therefore, C-peptide is elevated because the insulin is produced first as pro-insulin.\n\nThe level of C-peptide will be unchanged in factitious hypoglycaemia.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "14a95605-8b5a-46d2-8d25-ee9e86c18a4e",
+    "stem": "A 22-year-old marathon runner is preparing for a special event in 3 months’ time and gradually increases his level of physical exercise. Which of the following biochemical processes is likely to contribute most to energy creation in his longdistance running?",
+    "options": [
+      "Creatine",
+      "Fatty acid oxidation",
+      "Glycogenesis",
+      "Ketogenesis",
+      "Lactate formation"
+    ],
+    "correct_option": 1,
+    "explanation": "Fatty acid oxidation\nLong-chain fatty acids and ketone bodies can only be metabolised aerobically, and their catabolism takes place exclusively in the mitochondria. Two-carbon fragments are successively removed from long-chain fatty acids (as long-chain fatty acid coenzyme A (CoA)) in a series of reactions known generically as beta-oxidation, to form acetyl-CoA. Each turn of beta-oxidation generates sufficient reducing equivalents to regenerate five ATP molecules. Acetyl-CoA is then oxidised through the tricarboxylic acid cycle to regenerate more ATP, hence the energy yield from long-chain fatty acid oxidation is considerable. Lipid-derived fuels are preferentially used by the heart, and their utilisation diminishes the use of carbohydrate, thereby conserving glucose for tissues that are obligatorily dependent on carbohydrate as an energy source.\n\nCreatine\nCreatine is incorrect. Creatine has been used as a food supplement, and may have minor effects on short-term athletic (high intensity) performance.\n\nGlycogenesis\nGlycogenesis is incorrect. Glycogen provides an initial source of energy during a long-distance run, although it is fatty acid oxidation which is most important as an energy source later in the run.\n\nKetogenesis\nKetogenesis is incorrect. Although ketone bodies do contribute as an energy source during endurance exercise, they are less important versus long chain fatty acids.\n\nLactate formation.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "2f7dd698-4529-4c47-b2b7-d87a6cd80cdd",
+    "stem": "A 54-year-old alcoholic comes to the clinic for review. He has been tired for some time and is found to be deficient in multiple B vitamins, including riboflavin. For what metabolic process is riboflavin required?",
+    "options": [
+      "Prostaglandin synthesis",
+      "Synthesis of glycogen from glucose phosphate",
+      "Synthesis of non-essential amino acids",
+      "Synthesis of the protein collagen",
+      "The hydrogen-transfer chain in the mitochondria"
+    ],
+    "correct_option": 4,
+    "explanation": "The hydrogen-transfer chain in the mitochondria\nRiboflavin is a substituted alloxazine ring linked to ribitol, an alcohol derived from the pentose sugar ribose. Dietary sources are liver, milk, cheese, eggs, some green vegetables and beer, other sources include yeast extracts (for example, Marmite) and meat extracts (for example, Bovril). Riboflavin is involved in redox processes involving the hydrogen-transfer chain in the mitochondria and the production of ATP, there is no specific storage tissue for riboflavin.\n\nProstaglandin synthesis\nProstaglandin synthesis is incorrect. Vitamin D is known to modulate prostaglandin E2 synthesis.\n\nSynthesis of glycogen from glucose phosphate\nSynthesis of glycogen from glucose phosphate is incorrect. Vitamin B6 is required coenzyme of glycogen phosphorylase, the enzyme which drives glycogenolysis.\n\nSynthesis of non-essential amino acids\nSynthesis of non-essential amino acids is incorrect. Folic acid is a key requirement for amino acid synthesis.\n\nSynthesis of the protein collagen.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "5e4093d9-4f2a-4adc-b783-11beed3dfe61",
+    "stem": "A family come to the Genetics Clinic with their child who has Tay–Sachs disease wishing to know some more about the condition. The accumulation of G M2 ganglioside in the central nervous system of individuals with Tay–Sachs disease is attributed to which of the following?",
+    "options": [
+      "Decreased Golgi stimulation",
+      "Decreased lysosomal hydrolysis",
+      "Increased permeability of the blood–brain barrier",
+      "Increased receptor-mediated endocytosis",
+      "Increase synthesis in the endoplasmic reticulum"
+    ],
+    "correct_option": 1,
+    "explanation": "Decreased lysosomal hydrolysis\nTay–Sachs disease is a fatal genetic lipid-storage disorder in which harmful quantities of a fatty substance called ganglioside G M2 build up in tissues and nerve cells in the brain.The condition is caused by insufficient activity of an enzyme called beta-hexosaminidase A that catalyses the biodegradation of acidic fatty materials known as gangliosides. Gangliosides are made and biodegraded rapidly in early life as the brain develops. The incidence of Tay–Sachs is particularly high among people of Eastern European and Ashkenazi Jewish descent. Presentation Infants with Tay–Sachs disease appear to develop normally for the first few months of life. Then, as nerve cells become distended with fatty material, a relentless deterioration of mental and physical abilities occurs: The child becomes blind, deaf and unable to swallow. Muscles begin to atrophy and paralysis sets in. Other neurological symptoms include dementia, seizures and an increased startle reflex to noise. A much rarer form of the disorder occurs in patients in their 20s and early 30s, and is characterised by an unsteady gait and progressive neurological deterioration. People with Tay–Sachs also have “cherry-red” spots in their eyes. Investigations and diagnosis Patients and carriers of Tay–Sachs disease can be identified by a simple blood test that measures betahexosaminidase A activity. Both parents must carry the mutated gene in order to have an affected child: In these instances, there is a 25% chance with each pregnancy that the child will be affected with Tay–Sachs disease. Prenatal diagnosis is available if desired.\n\nDecreased Golgi stimulation\nDecreased Golgi stimulation is incorrect. Golgi transport disorders are thought to be associated with hereditary autoimmune mediated lung disease and arthritis.\n\nIncreased permeability of the blood–brain barrier\nIncreased permeability of the blood–brain barrier is incorrect. Increased risk of inflammatory CNS disorders may be seen with underlying blood–brain barrier disorders.\n\nIncreased receptor-mediated endocytosis\nIncreased receptor-mediated endocytosis is incorrect. Dent’s disease, associated with nephrolithiasis, is an example of a disease associated with defective receptor-mediated endocytosis.\n\nIncrease synthesis in the endoplasmic reticulum.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "af43b687-d79a-4d81-8f08-129a287714cb",
+    "stem": "A 74-year-old man receives an aciclovir shingles treatment pack from his GP. He is a retired chemist and is interested in asking you about how aciclovir works. Which one of the following best describes the step required for aciclovir activation?",
+    "options": [
+      "Conversion to diphosphate form by viral thymidine kinase",
+      "Conversion to triphosphate form by host cell kinases",
+      "Metabolism by intracellular phosphatases",
+      "Reverse transcriptase activation",
+      "Viral protease activity"
+    ],
+    "correct_option": 1,
+    "explanation": "Conversion to triphosphate form by host cell kinases\nAciclovir is a guanine analogue pro-drug that is used primarily for the treatment of herpes zoster or simplex infection. The key step in making it an active drug is conversion into a triphosphate form by host cell kinases, which eventually allows it to incorporate into viral DNA resulting in chain termination. Viral DNA polymerase is then unable to function and replication of the herpes virus is terminated. Peak plasma concentration is reached 1–2 hours after oral administration of aciclovir. Aciclovir is fairly rapidly eliminated, which necessitates multiple daily dosing regimens. Intravenous aciclovir may be given for disseminated herpes infection or in immunocompromised individuals. In herpes simplex virus the viral thymidine kinase is responsible for phosphorylating acyclovir to its monophosphate form. After monophosphorylation the host cellular kinases convert the drug monophosphate to its triphosphate form, which then selectively inhibits the viral DNA polymerase activity.\n\nConversion to diphosphate form by viral thymidine kinase\nConversion to diphosphate form by viral thymidine kinase is incorrect. The triphosphate form of aciclovir is the active drug.\n\nMetabolism by intracellular phosphatases\nMetabolism by intracellular phosphatases is incorrect. It is the addition of phosphate to aciclovir rather than removal of it which converts the pro-drug to the active form.\n\nReverse transcriptase activation\nReverse transcriptase activation is incorrect. Reverse transcriptase has no role in aciclovir Chat activation, butTutor reverse with AI transcriptase inhibitors are of course used in the treatment of HIV.\n\nViral protease activity.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "244e0146-6701-43e6-9a9f-5df2bdbbf586",
+    "stem": "You are asked to help identify whether the child of a woman with a neuromuscular disorder is affected by the condition. A specific DNA sequence associated with the mutation which causes the disorder has been identified. Which one of the following methods can be used to identify a particular DNA sequence?",
+    "options": [
+      "Eastern blotting",
+      "Northern blotting",
+      "Southern blotting",
+      "Southwestern blotting",
+      "Western blotting"
+    ],
+    "correct_option": 2,
+    "explanation": "Southern blotting\nSouthern blotting is a technique developed by Edwin Southern, a British biologist. It combines agarose gel electrophoresis for size separation of DNA with use of a filter membrane for probe hybridization. In reality PCR is more cost and resource effective with respect to mainstream testing for DNA sequences.\n\nEastern blotting\nEastern blotting is incorrect. Eastern blotting is used to describe post-translational modifications of proteins.\n\nNorthern blotting\nNorthern blotting is incorrect. Northern blotting is a technique used to identify RNA expression.\n\nSouthwestern blotting\nSouthwestern blotting is incorrect. Southwestern blotting is used to describe/study DNA-binding proteins.\n\nWestern blotting.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "6fa6e82b-78c7-4c7a-8881-a058098e370f",
+    "stem": "You are consulting a 19-year-old man, who is thought to have a single gene congenital neurological degenerative disorder associated with progressive ataxia, for collection of genetic material. Concerning the identification of that gene, which one of the following statements is true?",
+    "options": [
+      "95% of possible human gene polymorphisms have already been identified",
+      "Neurological disorders can always be identified using a library of mutations associated with",
+      "RT-PCR is an evaluation method of choice",
+      "TP-PCR is an evaluation method of choice",
+      "Western blotting is a key step in work-up of the condition"
+    ],
+    "correct_option": 3,
+    "explanation": "TP-PCR is an evaluation method of choice\nTriple repeat primed PCR is useful in the evaluation of Friedreich’s ataxia, the most likely underlying diagnosis here. It has also been used in the evaluation of a number of other trinucleotide repeat disorders.\n\n95% of possible human gene polymorphisms have already been identified\n95% of possible human gene polymorphisms have already been identified is incorrect. 99% of the gene containing part of the human DNA sequence has been examined in the human genome project, with 15,000 full length human cDNAs identified.\n\nNeurological disorders can always be identified using a library of mutations associated with\nNeurological disorders can always be identified using a library of mutations associated with neurological disease Neurological disorders can always be identified using a library of mutations associated with neurological disease is incorrect. In some cases the specific DNA sequence for amplification may not yet have been identified.\n\nRT-PCR is an evaluation method of choice\nRT-PCR is an evaluation method of choice is incorrect. RT-PCR is used to identify specific sequences of RNA.\n\nWestern blotting is a key step in work-up of the condition.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "3a3fd5bf-0c5e-47dc-8e53-8bc0c20f84b1",
+    "stem": "You are considering using a TNF-α antagonist in the treatment of a 45-year-old man with severe psoriasis. The patient wants to know more about this treatment and how it works. Which cells are mainly responsible for production of TNF-α?",
+    "options": [
+      "Eosinophils",
+      "Macrophages",
+      "Mast cells",
+      "Regulatory B lymphocytes",
+      "T-helper lymphocytes"
+    ],
+    "correct_option": 1,
+    "explanation": "Macrophages\nTNF-α is a cytokine involved in inflammation and the acute phase response. It is produced in a very wide range of cells across the immune system, but in large part by macrophages. Other cells that produce TNF-α exist in the neuronal system and in adipose tissue. Anti-TNF agents are used in the therapy of rheumatoid arthritis, psoriasis and seronegative arthritides and inflammatory bowel disease. Use of anti-TNF may be associated with reactivation of tuberculosis and viral hepatitis.\n\nEosinophils\nEosinophils is incorrect. Eosinophils produce a range of cytokines including IL-1, IL-2, IL-4, IL-5, IL-6, IL-8, IL-13, and TNF alpha, but most of the total TNF-α produced comes from macrophages.\n\nMast cells\nMast cells of Mast cells is incorrect. Mast cells predominantly release histamine, IL-4, IL-5, TGF-β and smaller amounts TNF-α versus macrophages.\n\nRegulatory B lymphocytes\nRegulatory B lymphocytes is incorrect. Regulatory B lymphocytes are recognised to secrete IL-10 or TGF-β1.\n\nT-helper lymphocytes.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "11bc1869-cfb4-4283-b24c-7cfdf2e8cd07",
+    "stem": "A 31-year-old woman presents to the clinic with a mass in her right breast. It has been present for the past 2 months and has enlarged. She is extremely worried as her two sisters died of breast cancer a few years earlier. She undergoes genetic testing and is found to have a mutation in the BRCA1 gene. Which one of the following best describes the function of BRCA1?",
+    "options": [
+      "Apoptosis",
+      "DNA repair",
+      "DNA replication",
+      "Growth repair",
+      "It freezes the cell cycle"
+    ],
+    "correct_option": 1,
+    "explanation": "DNA repair\nBRCA1 is important in the repair of double-stranded breaks in DNA. The process in which it participates is known as homologous replication, using the sister chromatid or homologous chromosome (or the same chromosome), depending on the cell cycle, to act as a template for repair. In patients who carry the BRCA1 mutation, these breaks in DNA accumulate, increasing the chance of malignancy. People with this mutation have around a 60% chance of developing breast cancer, and a 55% chance of developing ovarian cancer by the time they reach old age.\n\nApoptosis\nApoptosis is incorrect. Defective apoptosis is present in patients with p53 mutations, and leads to increased risk of a number of cancers. Li–Fraumeni syndrome is an example of a p53-dependent familial cancer syndrome.\n\nDNA replication\nDNA replication is incorrect. DNA polymerase mutations are associated with a number of cancers, including increased risk of colorectal cancer.\n\nGrowth repair\nGrowth repair is incorrect. Growth repair gene mutations are recognised to be associated with increased risk of colorectal cancer.\n\nIt freezes the cell cycle.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "0b0eb119-7227-442f-932c-466529b81b2e",
+    "stem": "A 17-year-old man is diagnosed with an abnormality of oligopeptide disposal. Which one of the following intracellular organelles is associated with the metabolism of oligopeptides?",
+    "options": [
+      "Golgi apparatus",
+      "Lysosomes",
+      "Peroxisomes",
+      "Ribosomes",
+      "Smooth endoplasmic reticulum"
+    ],
+    "correct_option": 1,
+    "explanation": "Lysosomes\nLysosomes are membrane-enclosed organelles that contain an array of enzymes capable of breaking down all types of biological polymers including peptides, nucleic acids, carbohydrates and lipids. Lysosomal storage diseases are a heritable group of human disorders characterised by the accumulation of undigested macromolecules within the lysosomes themselves, resulting in an increase in the size and number of these organelles and ultimately in cellular dysfunction and clinical abnormalities.\n\nGolgi apparatus\nGolgi apparatus is incorrect. The Golgi apparatus is responsible for post-translational modification of proteins.\n\nPeroxisomes\nPeroxisomes is incorrect. Peroxisomes are responsible for the breakdown of long-chain fatty acids so that they can be metabolised by mitochondria to provide energy.\n\nRibosomes\nRibosomes is incorrect. Ribosomes are responsible for protein manufacture rather than peptide disposal.\n\nSmooth endoplasmic reticulum.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "80c0add3-ece1-42d8-90a1-ace026aa880b",
+    "stem": "DNA splicing is used in a number of areas of genetic engineering. Which of the following is the correct explanation of DNA splicing?",
+    "options": [
+      "Excision of introns",
+      "Introduction of additional introns",
+      "Introduction of peptide material",
+      "Introduction of RNA",
+      "Promotion of transcription"
+    ],
+    "correct_option": 0,
+    "explanation": "Excision of introns\nDNA splicing is the process of excision of introns and the joining together of exons which ultimately results in production of a peptide. Splicing has been used to genetically modify bacteria and yeasts to produce human peptides such as insulin and growth hormone. It is also the target of attempts at gene therapy to drive overexpression of therapeutic peptides or downregulate abnormal cellular processes.\n\nIntroduction of additional introns\nIntroduction of additional introns is incorrect. As introns are sequences of DNA which are not part of the final RNA sequence, it is exons which are the target for DNA splicing.\n\nIntroduction of peptide material\nIntroduction of peptide material is incorrect. Peptides are used as biological therapeutics, but do not have a role in DNA splicing.\n\nIntroduction of RNA\nIntroduction of RNA is incorrect. Both silencing RNAs and RNAs which drive protein expression are under development as therapeutics, but RNA introduction is not a feature of DNA splicing.\n\nPromotion of transcription.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "755d2ebd-21b6-4464-9a80-035b00bd0647",
+    "stem": "A 45-year-old woman presented with progressive weight gain over a 2 year period. She had HIV and was taking stavudine, didanosine and indinavir. On examination she had a dorsocervical fat pad and central adiposity. She was diagnosed with lipodystrophy related to her HIV medication. She was given the opportunity to take part in an open label trial using leptin therapy. Which of the following is an action of leptin?",
+    "options": [
+      "Inhibition of pubertal development",
+      "Reduction in cortical bone density",
+      "Slowing of gastric emptying",
+      "Stimulation of gonadotrophin releasing hormone secretion by the hypothalamus",
+      "Stimulation of hunger through actions at the hypothalamus"
+    ],
+    "correct_option": 3,
+    "explanation": "Stimulation of gonadotrophin releasing hormone secretion by the hypothalamus\nThe main function of leptin is to stimulate a sense of satiety at the level of the hypothalamus, however one of its other effects is to stimulate the release of gonadotrophin releasing hormone. In turn this stimulates the release of luteinising hormone and follicle stimulating hormone from the anterior pituitary gland.\n\nInhibition of pubertal development\nInhibition of pubertal development is incorrect. Leptin is implicated in the onset of puberty alongside kisspeptin, hence the high incidence of early menarche in obese women. The effect of leptin on puberty takes place at the level of the hypothalamus, though its exact actions are not yet defined. The key role of leptin is to stimulate a sense of satiety through actions at the hypothalamus. However, it also stimulates the release of gonadotropin releasing hormone from the hypothalamus although levels of leptin outside the normal range may adversely affect fertility.\n\nReduction in cortical bone density\nReduction in cortical bone density is incorrect. In fact leptin has a role in bone remodelling, but while it decreases cancellous bone formation, it stimulates the production of cortical bone. It is thought that this is a mechanism to adapt the skeleton to increasing weight, as leptin levels are higher in obese individuals. Further to its role in bone metabolism, leptin has other peripheral and central effects. Its key role is to stimulate the sensation of satiety through actions at the hypothalamus, but it also stimulates the release of gonadotrophin releasing hormone from the hypothalamus.\n\nSlowing of gastric emptying\nSlowing of gastric emptying is incorrect. Slowing of gastric emptying is one of the effects of amylin, another hormone involved in the feeling of satiety (the key function of leptin). Leptin does not have any effects on gastric emptying; it stimulates satiety through effects on the hypothalamus. It has a number of other effects on the hypothalamus, including stimulating the secretion of gonadotrophin releasing hormone.\n\nStimulation of hunger through actions at the hypothalamus.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "d2f23b08-530d-4cfa-9f88-b3971859592f",
+    "stem": "You are asked to review a 17-year-old who suffers from leprechaunism (Donohue Syndrome). You understand that this occurs as a result of a mutation associated with the insulin receptor. Where is the insulin receptor located?",
+    "options": [
+      "Cell membrane",
+      "Chromatin",
+      "Cytoplasm",
+      "Endoplasmic reticulum",
+      "Nucleus/nuclear membrane"
+    ],
+    "correct_option": 0,
+    "explanation": "Cell membrane\nThe insulin receptor is a transmembrane receptor which belongs to the tyrosine kinase family of receptors that are involved in intracellular signalling by phosphorylation of intracellular proteins. These proteins include IRS-1, whose effects include upregulation of the GLUT-4 glucose transporter, which is responsible for facilitating glucose entry into the cell. Leprechaunism (Donohue Syndrome) is an autosomal recessive condition that results from a mutation that leads to non-functioning insulin receptors.\n\nChromatin\nChromatin is incorrect. Chromatin is not a target for insulin as it is intracellular.\n\nCytoplasm\nCytoplasm is incorrect. The cytoplasm contains a number of second messengers; activity of some is upregulated by binding of insulin to its receptor, but the insulin receptor itself is not found within the cytoplasm.\n\nEndoplasmic reticulum\nEndoplasmic reticulum is incorrect. The endoplasmic reticulum is responsible for protein synthesis and does not possess insulin receptors.\n\nNucleus/nuclear membrane.",
+    "tags": [
+      "Cell Biology"
+    ],
+    "source": "Pastest"
+  }
+]

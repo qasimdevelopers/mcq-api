@@ -1,0 +1,1685 @@
+[
+  {
+    "id": "368f58fa-b043-4d37-8f83-0519dc43ec5d",
+    "stem": "A 72-year-old man presents to the Emergency Department with a 2-hour history of dizziness and palpitations. On examination, his pulse is irregular and bradycardic at 38 bpm. There is variable intensity of the jugular venous 'a' wave. An ECG confirms complete heart block. Which of the following is the most likely finding on cardiac auscultation?",
+    "options": [
+      "Fixed splitting of S2",
+      "Loud S1",
+      "Soft S1",
+      "Variable intensity of S1",
+      "Wide splitting of S2"
+    ],
+    "correct_option": 3,
+    "explanation": "Variable intensity of S1\nIn complete heart block, the atria and ventricles beat independently of each other due to the absence of conduction through the AV node. This results in a dissociation between atrial and ventricular contractions. Consequently, the timing of atrial contraction relative to ventricular contraction varies, leading to variability in the intensity of the first heart sound (S1). When the atria contract just before the ventricles, S1 is louder; when they contract just after, S1 is softer. This variability in S1 intensity is a classic auscultatory finding in complete heart block.\n\nFixed splitting of S2\nFixed splitting of the second heart sound (S2) is typically associated with conditions such as atrial septal defect, where increased right-sided heart flow leads to a constant delay in the closure of the pulmonic valve. In complete heart block, there is no such consistent delay affecting the closure of the aortic and pulmonic valves. Therefore, fixed splitting of S2 is not expected in this condition.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "8dc15a1c-4d4c-4e37-9dcf-65a1f04aa0e4",
+    "stem": "A 65-year-old man presents to the Emergency Department with progressively worsening shortness of breath and peripheral oedema. He has a history of chronic heart failure and is currently receiving optimal medical therapy. Blood tests reveal elevated levels of a specific endogenous substance. Which of the following substances contributes most directly to a reduction in systemic vascular resistance in this patient?",
+    "options": [
+      "Aldosterone",
+      "Angiotensin II",
+      "Brain natriuretic peptide",
+      "Endothelin",
+      "Vasopressin"
+    ],
+    "correct_option": 2,
+    "explanation": "Brain natriuretic peptide\nBrain natriuretic peptide (BNP) is a hormone produced by the heart in response to ventricular volume expansion and pressure overload. It promotes vasodilation, thereby reducing systemic vascular resistance and afterload. Additionally, BNP exerts diuretic and natriuretic effects, which decrease blood volume and preload, thereby further alleviating the heart's workload. Elevated BNP levels in heart failure indicate increased cardiac stress and have severe, important diagnostic and prognostic roles.\n\nAldosterone\nAldosterone promotes sodium and water retention, increasing blood volume and preload. It does not reduce afterload; rather, it can contribute to increased vascular resistance and hypertension. Aldosterone antagonists are used in heart failure to counteract these effects.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "cb2c1e9a-d560-4db3-a5cc-7dc39a13f60a",
+    "stem": "A 28-year-old woman presents to her General Practitioner with complaints of sharp chest pain and tingling in her left hand. She reports that the pain occasionally occurs with exertion. She has a significant family history of premature coronary artery disease, with her father having a myocardial infarction at the age of 48. Her physical examination is unremarkable, and her ECG shows sinus rhythm with no ischaemic changes. Which is the most appropriate investigation to further evaluate her condition?",
+    "options": [
+      "Cardiac MRI",
+      "CT coronary angiography",
+      "Coronary artery calcium scoring",
+      "Exercise stress test",
+      "Percutaneous coronary intervention"
+    ],
+    "correct_option": 1,
+    "explanation": "CT coronary angiography\nCT coronary angiography is the most appropriate investigation for this young woman with chest pain and a significant family history of premature cardiac disease. This non-invasive imaging technique enables detailed visualisation of the coronary arteries and can identify potential blockages or congenital coronary anomalies. Given her family history, there is a concern for possible hereditary coronary artery disease, which CT angiography can effectively evaluate. Additionally, when the diagnosis remains uncertain, CT angiography is preferred over invasive procedures such as PCI.\n\nCardiac MRI\nCardiac MRI is useful for assessing myocardial structure and function. However, it is not the best initial test for evaluating coronary artery disease, especially when there is a suspicion of blockages. While it provides excellent detail on myocardial viability and can be used to diagnose conditions such as myocarditis or cardiomyopathy, it does not allow for direct visualisation of the coronary arteries. In this scenario, where coronary artery disease is suspected, CT angiography is more appropriate.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "a4422542-d999-4919-9053-4edae53fa061",
+    "stem": "A 32-year-old man presents to the Emergency Department with a 2-hour history of palpitations and dizziness. An ECG confirms a diagnosis of Wolff-Parkinson-White (WPW) syndrome, and he is found to be in a stable supraventricular tachycardia. He is treated with intravenous procainamide, which successfully restores sinus rhythm. What is the site of action for this medication to control his symptoms?",
+    "options": [
+      "Atrioventricular node",
+      "Bundle of His",
+      "Purkinje fibres",
+      "Sinoatrial node",
+      "Accessory pathway"
+    ],
+    "correct_option": 4,
+    "explanation": "Accessory pathway\nIn WPW syndrome, an accessory pathway (also known as the bundle of Kent) allows electrical impulses to bypass the atrioventricular (AV) node, leading to pre-excitation of the ventricles and potential re-entrant tachycardias. Antiarrhythmic drugs used in WPW aim to block conduction through this accessory pathway, thereby preventing the arrhythmias associated with the condition. By targeting the accessory pathway, these medications can effectively control the symptoms and reduce the risk of tachyarrhythmias. Therefore, the accessory pathway is the correct site of action for these medications in patients with WPW syndrome.\n\nAtrioventricular node\nThe AV node is a critical component of the heart's conduction system, responsible for delaying the electrical impulse from the atria to the ventricles. In WPW syndrome, the problem is not primarily with the AV node but with the presence of an accessory pathway that bypasses it. While some antiarrhythmic drugs can affect the AV node, the primary goal in WPW is to target the accessory pathway to prevent re-entrantChattachycardias. Therefore, targeting the AV node would not be the most effective approach in this scenario.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ba914b23-b3b2-4991-a8f3-5709079230f7",
+    "stem": "A 55-year-old woman with a history of dilated cardiomyopathy and heart failure with preserved ejection fraction (HFpEF) is referred to the cardiology clinic. She presents with progressively worsening breathlessness (NYHA class II symptoms) despite established treatment with furosemide, an angiotensin receptor blocker (ARB), and a beta-blocker. On examination, she is euvolaemic. An ECG shows a normal sinus rhythm. Investigations: Investigation Result Normal value Sodium 139 mmol/L 135–145 mmol/L Potassium 4.4 mmol/L 3.5–5.0 mmol/L Creatinine 88 µmol/L 45–90 µmol/L Estimated glomerular filtration rate 62 mL/min/1.73m 2 > 60 mL/min/1.73m 2 N-terminal pro-B-type natriuretic peptide 1,200 pg/mL < 300 pg/mL What is the most appropriate next step in her management?",
+    "options": [
+      "Add digoxin",
+      "Add spironolactone",
+      "Increase the dose of beta-blocker",
+      "Increase the dose of furosemide",
+      "Cardiac resynchronisation therapy"
+    ],
+    "correct_option": 1,
+    "explanation": "Add spironolactone\nAdding spironolactone is the most appropriate next step in this patient's management. Spironolactone is a mineralocorticoid receptor antagonist that has been shown to improve morbidity and mortality Chatinwith AI patients with Tutor HFpEF, particularly those who remain symptomatic despite optimal therapy with an angiotensin-converting",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "e47cb64c-0c5a-45bb-a81d-682d04cd0973",
+    "stem": "A 43-year-old man is referred to the Cardiology Clinic with symptoms of breathlessness and palpitations. On examination, a diastolic murmur is heard at the left sternal border, and a wide pulse pressure is noted. An echocardiogram confirms the presence of aortic regurgitation. What is the most likely cause of aortic regurgitation in this patient?",
+    "options": [
+      "Congenital bicuspid aortic valve",
+      "Hypertension",
+      "Infective endocarditis",
+      "Rheumatic fever",
+      "Syphilitic aortitis"
+    ],
+    "correct_option": 0,
+    "explanation": "Congenital bicuspid aortic valve\nCongenital bicuspid aortic valve is the most common cause of aortic regurgitation in middle-aged individuals. This condition is characterised by the presence of two cusps instead of the normal three in the aortic valve. The abnormal valve structure predisposes individuals to progressive valvular degeneration and regurgitation. In middle-aged patients, the degenerative changes associated with a bicuspid aortic valve often become clinically apparent, manifesting in symptoms such as breathlessness and palpitations.\n\nHypertension\nHypertension typically leads to left ventricular hypertrophy and may cause aortic regurgitation indirectly by affecting the aortic root. However, it is not a direct cause of valvular regurgitation. In this patient, the presence of a diastolic murmur and wide pulse pressure suggests a primary valvular issue rather than hypertension- induced changes.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "4da796d6-1edf-4f43-b8a7-0357db24b246",
+    "stem": "A 75-year-old man presents to the Emergency Department with progressively worsening exertional dyspnoea over the past six months. He also reports occasional chest tightness and near-syncope during exertion. On examination, a systolic murmur is heard at the right second intercostal space, radiating to the carotids. What is the most likely diagnosis?",
+    "options": [
+      "Aortic regurgitation",
+      "Aortic stenosis",
+      "Mitral regurgitation",
+      "Mitral stenosis",
+      "Tricuspid regurgitation"
+    ],
+    "correct_option": 1,
+    "explanation": "Aortic stenosis\nAortic stenosis is characterised by an ejection systolic murmur best heard at the right second intercostal space and radiating to the carotids. This is due to turbulent blood flow across a narrowed aortic valve during systole. The condition is common in the elderly due to age-related calcific degeneration of the aortic valve. Symptoms such as dyspnoea on exertion occur as the heart struggles to pump blood effectively through the narrowed valve, leading to reduced cardiac output and subsequent pulmonary congestion.\n\nAortic regurgitation\nAortic regurgitation is associated with a diastolic murmur rather than a systolic one. It is typically heard as a high-pitched, blowing murmur along the left sternal border. This condition results from the backflow of blood from the aorta into the left ventricle during diastole. The clinical presentation often includes a wide pulse pressure and signs of left ventricular volume overload.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "a3e49c20-6e52-4212-8d6e-27bf464ccfd1",
+    "stem": "A 45-year-old woman, who is usually fit and well, presents to the General Practitioner with concerns about recent difficulty detecting odours. Where do G protein-coupled receptors exert their function?",
+    "options": [
+      "Cytoplasm",
+      "Endoplasmic reticulum",
+      "Golgi apparatus",
+      "Lysosome",
+      "Plasma membrane"
+    ],
+    "correct_option": 4,
+    "explanation": "Plasma membrane\nG protein-coupled receptors (GPCRs) are integral membrane proteins that are primarily located in the plasma membrane. They play a crucial role in signal transduction by binding extracellular ligands and activating intracellular G proteins. This activation initiates a cascade of cellular responses, making GPCRs essential for various physiological processes, including sensory perception, such as the sense of smell and taste. Their location in the plasma membrane enables them to effectively interact with external stimuli and transmit signals into the cell.\n\nCytoplasm\nThe cytoplasm is the intracellular fluid that contains organelles and is the site of many metabolic processes. However, it is not the location of GPCRs, which need to be embedded in the plasma membrane to interact with extracellular signals. GPCRs must be positioned where they can bind to ligands outside the cell and transmit signals inside, which is not possible from the cytoplasm. Therefore, the cytoplasm is not the appropriate location for GPCRs.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "08e5170c-a021-4fc4-bb77-5643a346c4bf",
+    "stem": "A 65-year-old man presents to the Emergency Department with sudden onset right-sided weakness and aphasia. Imaging confirms an infarction in the territory of the left middle cerebral artery. As part of the evaluation, the origin of the left common carotid artery is being assessed. From which vessel does the left common carotid artery originate?",
+    "options": [
+      "Aortic arch",
+      "Brachiocephalic trunk",
+      "Left subclavian artery",
+      "Right subclavian artery",
+      "Vertebral artery"
+    ],
+    "correct_option": 0,
+    "explanation": "Aortic arch\nThe left common carotid artery typically originates directly from the aortic arch. This is the most common anatomical configuration in humans. The aortic arch gives rise to three major branches: the brachiocephalic trunk the left common carotid artery and the left subclavian artery. This direct origin enables the left common carotid artery to efficiently supply blood to the left side of the head and neck.\n\nBrachiocephalic trunk\nThe brachiocephalic trunk is the first branch of the aortic arch, but it does not give rise to the left common carotid artery. Instead, it bifurcates into the right common carotid artery and the right subclavian artery. The left common carotid artery arises directly from the aortic arch, not from the brachiocephalic trunk.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "0e064e32-0d1a-441b-be92-9b8d3bfd710e",
+    "stem": "A 39-year-old woman presents to the General Practitioner for a routine check-up. She has a history of short bowel syndrome and has been receiving long-term parenteral nutrition. She reports recurrent infections and persistent fatigue. Which nutrient supplementation would be the most appropriate to reduce her risk of cardiovascular disease?",
+    "options": [
+      "Copper",
+      "Selenium",
+      "Thiamine",
+      "Vitamin C",
+      "Zinc"
+    ],
+    "correct_option": 1,
+    "explanation": "Selenium\nSelenium is an essential trace element that plays a critical role in the body's antioxidant defence system, primarily through its incorporation into selenoproteins, such as glutathione peroxidase. These enzymes help reduce oxidative stress and inflammation, both of which contribute to the development of cardiovascular disease. In patients receiving long-term parenteral nutrition, selenium deficiency may occur due to its low content in standard parenteral solutions. This deficiency may increase the risk of cardiovascular disease and atherosclerosis. Therefore, selenium supplementation with selenium is recommended to enhance antioxidant capacity and reduce cardiovascular disease in these individuals.\n\nCopper\nCopper is another essential trace element involved in various enzymatic processes, including those related to iron metabolism, antioxidant defence, and connective tissue formation. While copper deficiency can lead to anaemia, neutropenia, and neurological symptoms, it is not directly linked to an increased risk of with Chat cardiovascular",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ec6a3f9a-bb1f-4e71-85dc-1c891ed6e83c",
+    "stem": "A 44-year-old man with biochemically confirmed acromegaly is receiving treatment with lanreotide. Despite therapy, his insulin-like growth factor 1 (IGF-1) levels remain elevated and his symptoms persist. He is switched to pegvisomant. What is the mechanism of action of pegvisomant?",
+    "options": [
+      "Dopamine agonist",
+      "Inhibits growth hormone release from the pituitary gland",
+      "Directly inhibits IGF-1 synthesis in the liver",
+      "Growth hormone receptor antagonist",
+      "Stimulates somatostatin receptors"
+    ],
+    "correct_option": 3,
+    "explanation": "Growth hormone receptor antagonist\nPegvisomant is a human growth hormone analogue, meaning it binds to growth hormone receptors on cells and blocks the action of endogenous growth hormone. This prevents the usual downstream effects of growth hormone, including the production of insulin-like growth factor 1 (IGF-1) in the liver. By antagonising the receptor, pegvisomant effectively reduces the symptoms of acromegaly by lowering IGF-1 levels, which are responsible for the disease's manifestations.\n\nDopamine agonist\nDopamine agonists, such as bromocriptine and cabergoline, are used in the treatment of acromegaly, but they work by reducing growth hormone secretion from the pituitary gland. Pegvisomant, however, does not act on the dopamine receptors. Instead, it directly targets the growth hormone receptor, preventing the downstream effects of growth hormone.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "74cf83ec-3859-429c-813d-fe78bdec3c30",
+    "stem": "A 62-year-old man presents to the Cardiology Clinic with persistently elevated non-high-density lipoprotein (HDL) cholesterol levels despite being on maximum doses of atorvastatin and ezetimibe. His lipid profile indicates a significant risk for cardiovascular disease. What is the mechanism of action of Alirocumab?",
+    "options": [
+      "Bile acid sequestration",
+      "Cholesterol absorption inhibition",
+      "HMG-CoA reductase inhibition",
+      "Proprotein convertase subtilisin/kexin type 9 inhibition",
+      "Peroxisome proliferator-activated receptor alpha activation"
+    ],
+    "correct_option": 3,
+    "explanation": "Proprotein convertase subtilisin/kexin type 9 inhibition\nAlirocumab is a monoclonal antibody that inhibits proprotein convertase subtilisin/kexin type 9 (PCSK9). PCSK9 is a protein that binds to low-density lipoprotein (LDL) receptors on the liver surface and promotes their degradation. By inhibiting PCSK9, alirocumab increases the number of LDL receptors available to clear LDL cholesterol from the bloodstream, effectively lowering LDL cholesterol levels. This mechanism is particularly useful in patients who have not achieved target lipid levels with statins and ezetimibe alone.\n\nBile acid sequestration\nBile acid sequestrants work by binding bile acids in the intestine, which prevents their reabsorption. This leads to increased conversion of cholesterol to bile acids in the liver, thereby reducing cholesterol levels. However, this mechanism is not as effective as PCSK9 inhibitors in significantly lowering LDL cholesterol levels, especially in patients already on statins and ezetimibe. Additionally, bile acid sequestrants can cause GI side effects and may interfere with the absorption of other medications.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "e5763282-03a5-4d45-9c7c-3c4e16309117",
+    "stem": "A 55-year-old man presents to his General Practitioner for a routine check-up. He has a history of hyperlipidaemia and is currently taking atorvastatin. What is the mechanism of action of atorvastatin?",
+    "options": [
+      "Inhibition of cholesterol absorption",
+      "Inhibition of cyclooxygenase",
+      "Inhibition of HMG-CoA reductase",
+      "Inhibition of sodium-potassium ATPase",
+      "Inhibition of voltage-gated calcium channels"
+    ],
+    "correct_option": 2,
+    "explanation": "Inhibition of HMG-CoA reductase\nAtorvastatin is a statin, a class of drugs that primarily work by inhibiting the enzyme HMG-CoA reductase. This enzyme is crucial in the cholesterol biosynthesis pathway, catalysing the conversion of HMG-CoA to mevalonate, a precursor of cholesterol. By inhibiting this enzyme, statins effectively reduce the production of cholesterol in the liver, leading to a decrease in circulating low-density lipoprotein (LDL) cholesterol. This reduction in LDL cholesterol is beneficial in reducing the risk of cardiovascular events in patients with hyperlipidaemia.\n\nInhibition of cholesterol absorption\nThis is the mechanism of action of ezetimibe, which inhibits cholesterol absorption at the brush border of the small intestine, lowering LDL cholesterol levels. However, this mechanism is unrelated to the action of statins, which target cholesterol synthesis rather than absorption.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b08201e6-ee55-43fc-85e6-a0ec62ca60f2",
+    "stem": "A 49-year-old woman presents to the Emergency Department with jaundice. She was treated for a respiratory infection with antibiotics approximately three weeks ago. She has no significant past medical history and takes no regular medications. Investigations: Investigation Result Normal value Alanine transaminase (ALT) 75 IU/L 10–50 IU/L Alkaline phosphatase (ALP) 650 IU/L 10–50 IU/L Gamma-glutamyl transferase (GGT) 480 IU/L 10–50 IU/L Bilirubin 83 µmol/L < 21 µmol/L What is the most likely cause of her current condition?",
+    "options": [
+      "Amoxicillin",
+      "Azithromycin",
+      "Ciprofloxacin",
+      "Co-amoxiclav",
+      "Doxycycline"
+    ],
+    "correct_option": 3,
+    "explanation": "Co-amoxiclav\nCo-amoxiclav is well known to cause cholestatic liver injury due to a metabolic idiosyncrasy, which typically presents with jaundice and elevated liver enzymes, particularly GGT and ALP. This type of liver injury may develop after a delay of 2-4 weeks following the initiation of the drug, which matches the timeline in this patient. Co-amoxiclav is a combination of amoxicillin and clavulanic acid, and it is the clavulanic acid component that is most often implicated in liver injury.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "07b5a3af-b70e-4244-a695-cf6af3fbf3ce",
+    "stem": "A 25-year-old man is brought to the Emergency Department with agitation and confusion after attending a party the previous night. On examination, he is diaphoretic, febrile (temperature 39.6 °C), and tachycardic (heart rate 130 bpm). Urinalysis shows dark brown urine, and his creatine kinase level is 12,800 U/L. He admits to using a recreational drug at the party. Which drug is the most likely cause of his symptoms?",
+    "options": [
+      "Cocaine",
+      "Ecstasy",
+      "Ketamine",
+      "Lysergic acid diethylamide",
+      "Methamphetamine"
+    ],
+    "correct_option": 1,
+    "explanation": "Ecstasy\nEcstasy (MDMA) is known to cause agitation and confusion, as well as significantly elevated creatine kinase levels due to rhabdomyolysis. This condition occurs when muscle tissue breaks down, releasing myoglobin into the bloodstream, which can lead to kidney damage. MDMA can also cause hyperthermia, which exacerbates muscle breakdown and contributes to the elevated creatine kinase levels. The combination of these symptoms and laboratory findings makes MDMA the most likely cause of this patient's presentation.\n\nCocaine\nCocaine can cause agitation and confusion due to its stimulant effects on the central nervous system. However, while cocaine can lead to rhabdomyolysis, it is less commonly associated with the extreme elevation of creatine kinase levels seen in this case. Cocaine use is more frequently linked with cardiovascular complications such as myocardial infarction or arrhythmias.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c75311b5-c54c-4507-91f0-7a0aa03845fc",
+    "stem": "A 47-year-old man presents to his General Practitioner with a 5-day history of painful oral ulcers. He has been taking carbamazepine for epilepsy for the past six months. He reports no fever, sore throat, or other systemic symptoms. On examination, there are multiple aphthous ulcers on the buccal mucosa, but no lymphadenopathy or signs of infection. What is the most appropriate next step?",
+    "options": [
+      "Discontinue carbamazepine immediately",
+      "Prescribe topical corticosteroids",
+      "Reassure the patient",
+      "Switch to an alternative antiepileptic medication",
+      "Test for blood dyscrasias"
+    ],
+    "correct_option": 4,
+    "explanation": "Test for blood dyscrasias\nCarbamazepine is associated with potentially serious haematological adverse effects, including aplastic anaemia and agranulocytosis. Oral ulcers may represent an early manifestation of neutropenia, which can occur without systemic symptoms initially. While the patient appears otherwise well, a full blood count is necessary to exclude a serious complication. Timely investigation allows early detection and intervention, preventing progression to severe bone marrow suppression.\n\nDiscontinue carbamazepine immediately\nAbrupt discontinuation of carbamazepine is not advisable due to the risk of precipitating seizures, particularly in a patient with epilepsy who has been stable on treatment. Stopping the drug should only be considered if there is confirmed evidence of a serious adverse reaction such as agranulocytosis or Stevens-Johnson syndrome. In the absence of such findings, sudden withdrawal is disproportionate to the severity of isolated oral ulcers. A safer approach is to investigate further before making decisions about stopping antiepilepticChat medication.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "76a1c8c9-2bd8-4cc0-af64-203969888b6e",
+    "stem": "A 55-year-old man presents to the Emergency Department with a sudden onset of pain and swelling in his right heel after feeling a 'pop' while playing tennis. He reports that he has been taking a course of antibiotics for a UTI. Which medication is most likely responsible for his current condition?",
+    "options": [
+      "Amoxicillin",
+      "Azithromycin",
+      "Ciprofloxacin",
+      "Doxycycline",
+      "Trimethoprim"
+    ],
+    "correct_option": 2,
+    "explanation": "Ciprofloxacin\nCiprofloxacin is a fluoroquinolone antibiotic that is known to be associated with an increased risk of tendonitis and tendon rupture, particularly of the Achilles tendon. This risk is heightened in older individuals, those with end-stage kidney disease, and those on concurrent corticosteroid therapy. The mechanism is thought to involve the degradation of collagen fibres within the tendon. In this vignette, the patient's recent use of ciprofloxacin for a urinary tract infection aligns with the sudden onset of Achilles tendon rupture symptoms.\n\nAmoxicillin\nAmoxicillin is a penicillin antibiotic commonly used to treat bacterial infections. It is not associated with tendon damage or rupture. Its side effects typically include GI upset and allergic reactions such as rash. Therefore, it is unlikely to be the cause of the patient's Achilles tendon rupture.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "60e3d1c9-c0ca-4469-a512-4913bb81bffd",
+    "stem": "A 38-year-old woman presents to the Emergency Department with a sudden onset of involuntary rhythmic muscle contractions in her right leg. On examination, the clonus is most prominent when the ankle is dorsiflexed. Which of the following muscles is most likely involved in this presentation?",
+    "options": [
+      "Biceps femoris",
+      "Gastrocnemius",
+      "Rectus femoris",
+      "Soleus",
+      "Tibialis anterior"
+    ],
+    "correct_option": 1,
+    "explanation": "Gastrocnemius\nThe gastrocnemius muscle is a major component of the triceps surae group and plays a central role in plantar flexion of the ankle. When the foot is forcibly dorsiflexed, as during a neurological examination, this stretches the gastrocnemius and its associated tendon, activating the stretch reflex arc. In patients with an upper motor neuron lesion, loss of descending inhibition leads to a rhythmic, oscillating stretch reflex, known as clonus. As a large, superficial plantar flexor, the gastrocnemius is most commonly observed to contract rhythmically during ankle clonus.\n\nBiceps femoris\nThe biceps femoris is a muscle of the posterior thigh and is part of the hamstring group. It primarily functions to flex the knee and extend the hip. It is not involved in plantar flexion of the foot or in the reflex arc that results in clonus. Therefore, it is not the muscle responsible for the clonus observed in the ankle.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "a00083ae-e666-4824-ae71-41d9d9c6d25c",
+    "stem": "A 52-year-old woman presents to her General Practitioner with a six-month history of intermittent abdominal pain and diarrhoea. She reports no blood in her stool but mentions occasional mucus. A faecal calprotectin test is ordered, which reveals a raised level. What is the most likely source of the elevated faecal calprotectin?",
+    "options": [
+      "Bile duct",
+      "Gastric mucosa",
+      "Intestinal epithelial cells",
+      "Neutrophils",
+      "Pancreatic duct"
+    ],
+    "correct_option": 3,
+    "explanation": "Neutrophils\nFaecal calprotectin is a protein that is predominantly derived from neutrophils. It is released during inflammation in the GI tract, particularly in conditions such as inflammatory bowel disease (IBD). The presence of elevated calprotectin in the stool is indicative of neutrophil migration to the intestinal mucosa, a process that occurs during active inflammation. This makes it a sensitive, non-invasive marker for distinguishing between inflammatory and non-inflammatory bowel conditions.\n\nBile duct\nThe bile duct is involved in transporting bile from the liver to the duodenum, but it is not a source of calprotectin. Calprotectin is not released from the bile duct during inflammation. Inflammatory processes in the bile duct, such as cholangitis, do not typically result in elevated faecal calprotectin. Therefore, the bile duct is not the source of calprotectin in the stool.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "e9ec5d87-585e-48a9-a7d1-093d03bbede0",
+    "stem": "A 22-year-old man presents to his General Practitioner with a three-week history of intense nocturnal pruritus and firm, erythematous nodules in his axillae and groin. He is a university student living in shared accommodation. The rash has persisted despite the use of emollients and oral antihistamines. Examination reveals multiple excoriated, firm papulonodular lesions in the affected areas. What is the most appropriate next step in management?",
+    "options": [
+      "Clotrimazole cream",
+      "Hydrocortisone 1% cream",
+      "Ivermectin",
+      "Permethrin 5% cream",
+      "Topical fusidic acid"
+    ],
+    "correct_option": 3,
+    "explanation": "Permethrin 5% cream\nPermethrin 5% cream is the first-line treatment for scabies, including its nodular variant. It is a topical insecticide that kills Sarcoptes scabiei, the mite responsible for the condition. The cream should be applied to the entire body from the neck down and left on for 8 to 12 hours before washing it off. A repeat application should be made after one week to ensure complete eradication. In nodular scabies, the intense pruritus and firm lesions can persist due to a hypersensitivity reaction, but treating the infestation is the priority before addressing residual inflammation.\n\nClotrimazole cream\nClotrimazole cream is an antifungal medication used to treat fungal infections such as athlete's foot and ringworm. It is not effective against scabies mites and would not address the underlying cause of the patient's symptoms. Using clotrimazole would not alleviate the itching or resolve the nodular lesions associated with scabies.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "96faa1e6-a4d8-47a8-b54c-ed3ad8da1bbc",
+    "stem": "A 48-year-old woman presents to her General Practitioner with a 3-month history of itchy, violaceous papular lesions on her wrists and ankles. Examination reveals flat-topped papules on the flexor surfaces of her forearms and shins. She also reports discomfort in her mouth, and inspection reveals white reticulated patches on the buccal mucosa. What is the most likely association?",
+    "options": [
+      "Chronic hepatitis C infection",
+      "Coeliac disease",
+      "Gastric carcinoma",
+      "Psoriasis",
+      "Systemic lupus erythematosus"
+    ],
+    "correct_option": 0,
+    "explanation": "Chronic hepatitis C infection\nLichen planus is a chronic inflammatory condition affecting the skin and mucous membranes, characterised by pruritic, violaceous, flat-topped papules. A classic feature is Wickham’s striae, white, lacy patterns seen on mucous membranes, especially in the oral cavity. There is a well-established association between lichen planus and chronic hepatitis C infection, particularly in endemic regions. Screening for hepatitis C is recommended in patients with new-onset lichen planus, especially if oral lesions are present, due to the possible underlying viral aetiology.\n\nCoeliac disease\nWhile coeliac disease is associated with certain dermatological conditions, the most specific is dermatitis herpetiformis, not lichen planus. Coeliac disease typically presents with gastrointestinal symptoms and malabsorption, though it can have extra-intestinal features. The lesions in dermatitis herpetiformis are",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "72750622-30a2-4fa1-b5f7-ab6aa299bb7e",
+    "stem": "A 28-year-old man presents to the General Practitioner with a rash on his shoulders and knees, accompanied by muscle weakness in his thighs and upper arms. He reports difficulty climbing stairs and lifting objects above his head. On examination, there is a violaceous rash over the knuckles and erythematous patches on the posterior aspect of the shoulders. What is the most likely diagnosis?",
+    "options": [
+      "Dermatomyositis",
+      "Erythema multiforme",
+      "Psoriasis",
+      "Systemic lupus erythematosus",
+      "Tinea corporis"
+    ],
+    "correct_option": 0,
+    "explanation": "Dermatomyositis\nDermatomyositis is characterised by a distinctive skin rash and proximal muscle weakness. The rash often includes a heliotrope rash on the eyelids and Gottron's papules on the knuckles, which matches the description of the violaceous rash over the knuckles in this patient. The muscle weakness, particularly in the proximal muscles such as the thighs and upper arms, is a hallmark of the condition. This combination of skin and muscle symptoms is classic for dermatomyositis, making it the most likely diagnosis in this scenario.\n\nErythema multiforme\nErythema multiforme typically presents with target lesions, which are concentric rings of erythema with a central clearing, often on the palms, soles, and mucous membranes. It is usually triggered by infections or medications and does not typically cause muscle weakness. The rash described in the vignette does not fit the characteristic appearance of erythema multiforme. Additionally, proximal muscle weakness is not a feature of this condition.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "1f64b0d9-7117-490f-a34d-4732768677f0",
+    "stem": "A 24-year-old woman presents to her General Practitioner with a 6-month history of persistent facial redness and visible blood vessels across her cheeks and nose. She also reports episodes of facial flushing. There is no associated itching, and she denies use of new skincare products. She is concerned about the cosmetic appearance and seeks treatment. What is the most appropriate initial treatment for her condition?",
+    "options": [
+      "Azelaic acid gel",
+      "Brimonidine cream",
+      "Doxycycline",
+      "Isotretinoin",
+      "Oral corticosteroids"
+    ],
+    "correct_option": 1,
+    "explanation": "Brimonidine cream\nBrimonidine cream is the most appropriate initial treatment for rosacea when persistent facial erythema is the predominant symptom. It is a selective alpha-2 adrenergic receptor agonist that works by causing cutaneous vasoconstriction, thereby reducing visible redness. This addresses the main cosmetic concern in patients like this woman, who reports long-standing redness and visible telangiectasia. Alongside pharmacological therapy, patients should also be advised on general skin care measures such as high-factor sunscreen and avoidance of known triggers.\n\nAzelaic acid gel\nAzelaic acid gel is used in rosacea, particularly for papulopustular disease, where it can reduce inflammatory lesions. It works by reducing keratin production and has both antimicrobial and anti-inflammatory properties. However, it is not the first-line choice for persistent erythema, which is this patient’s main concern. It may also cause local irritation, so it is generally considered when metronidazole is ineffective or not tolerated, rather than being the most appropriate initial treatment in this case.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "54ed8d74-0532-495f-9855-e9bf554ed2b2",
+    "stem": "A 19-year-old man presents to his General Practitioner with complaints of excessive thirst and passing large volumes of urine both during the day and at night. He reports that this has been present since early childhood but has worsened in recent months. Examination is unremarkable, and his BP is 110/70 mmHg. Investigations: Investigation Result Normal value Fasting glucose 4.9 mmol/L 3.9–5.8 mmol/L Serum calcium 2.35 mmol/L 2.15–2.55 mmol/L Serum sodium 150 mmol/L 135–145 mmol/L What is the most likely diagnosis?",
+    "options": [
+      "Central diabetes insipidus",
+      "Nephrogenic diabetes insipidus",
+      "Primary polydipsia",
+      "Syndrome of inappropriate antidiuretic hormone secretion",
+      "Type I diabetes mellitus"
+    ],
+    "correct_option": 1,
+    "explanation": "Nephrogenic diabetes insipidus\nNephrogenic diabetes insipidus (NDI) results from renal resistance to the effects of antidiuretic hormone (ADH), often due to genetic mutations in the AVPR2 or AQP2 genes. The presentation of polyuria and polydipsia since childhood, especially in a young man, is characteristic of the congenital X-linked form of NDI. The presence of hypernatraemia, despite normal glucose and calcium levels, strongly supports a diagnosis of diabetes insipidus rather than primary polydipsia. In NDI, the kidneys are unable to concentrate urine even in the presence of ADH, leading to persistently dilute urine and a risk of dehydration and hypernatraemia if fluid intake does not match urinary losses.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3faf5da5-6733-4444-9c29-89d5a5eff472",
+    "stem": "A 55-year-old man presents to the nephrology clinic for a routine follow-up. He has been on haemodialysis for chronic kidney disease for the past three years. Investigations: Investigation Result Normal value Parathyroid hormone (PTH) 150 pg/mL 15–65 pg/mL 1,25-dihydroxycholecalciferol 10 pg/mL 20–60 pg/mL Serum calcium (adjusted) 1.90 mmol/L 2.20–2.60 mmol/L What is the most likely mechanism driving his secondary hyperparathyroidism in this context?",
+    "options": [
+      "Decreased intestinal calcium absorption",
+      "Increased renal phosphate excretion",
+      "Increased renal production of 1,25-dihydroxycholecalciferol",
+      "Increased intestinal absorption of phosphate",
+      "Increased renal excretion of calcium"
+    ],
+    "correct_option": 0,
+    "explanation": "Decreased intestinal calcium absorption\nIn chronic kidney disease, particularly in patients on haemodialysis, there is impaired conversion of 25- hydroxyvitamin D to 1,25-dihydroxycholecalciferol due to decreased renal function. This active form of vitamin D is crucial for calcium absorption in the gut. With low levels of 1,25-dihydroxycholecalciferol, there is decreased intestinal absorption of calcium, leading to hypocalcaemia. The parathyroid glands respond to low serum calcium by increasing parathyroid hormone (PTH) secretion, resulting in secondary hyperparathyroidism.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "55515957-c2ca-4e05-96e5-58db7c1dcc83",
+    "stem": "A 35-year-old woman presents to her General Practitioner with complaints of galactorrhoea. She has a history of hypothyroidism, for which she takes levothyroxine, and is also on risperidone for bipolar disorder. She has regular menses. Investigations: Investigation Result Normal value Prolactin 2500 mIU/L 100–500 mIU/L Luteinising hormone (LH) 2.1 IU/L 2–10 IU/L (follicular phase) Follicle-stimulating hormone (FSH) 3.2 IU/L 3–10 IU/L (follicular phase) Thyroid-stimulating hormone (TSH) 1.8 mU/L 0.4–4.0 mU/L What is the most likely cause of her hyperprolactinaemia?",
+    "options": [
+      "Hypothyroidism",
+      "Pituitary adenoma",
+      "Primary ovarian insufficiency",
+      "Risperidone",
+      "Stress-induced hyperprolactinaemia"
+    ],
+    "correct_option": 3,
+    "explanation": "Risperidone\nRisperidone is an atypical antipsychotic known to cause hyperprolactinaemia by antagonising dopamine D2 receptors in the tuberoinfundibular pathway, which leads to increased prolactin secretion. This is a common side effect of many antipsychotic medications. The patient's prolactin level is significantly elevated, and the presence of low to low-normal LH and FSH levels further supports the diagnosis of drug-induced hyperprolactinaemia. Given her current medication regimen, risperidone is the most likely cause of her elevated prolactin levels and subsequent galactorrhoea.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "fc3e3fe7-adc1-473b-a22e-44fda526f587",
+    "stem": "A 35-year-old woman presents to the Emergency Department with severe abdominal pain. She has a history of infertility and underwent a parathyroidectomy last year. An endoscopy reveals multiple duodenal ulcers. What is the most likely underlying diagnosis?",
+    "options": [
+      "Addison's disease",
+      "Cushing's syndrome",
+      "Multiple endocrine neoplasia type 1",
+      "Multiple endocrine neoplasia type 2A",
+      "Zollinger-Ellison syndrome"
+    ],
+    "correct_option": 2,
+    "explanation": "Multiple endocrine neoplasia type 1\nMultiple endocrine neoplasia type 1 (MEN 1) syndrome is characterised by the triad of parathyroid tumours, pituitary tumours and pancreatic endocrine tumours. This patient has a history of parathyroidectomy, which suggests a previous parathyroid tumour. The presence of multiple duodenal ulcers is indicative of gastrin- secreting tumours (gastrinomas), which are part of the pancreatic endocrine tumours seen in MEN 1. Infertility may be related to pituitary involvement, another component of MEN 1. Therefore, the combination of these clinical features strongly suggests MEN 1 syndrome.\n\nAddison's disease\nAddison's disease is characterised by adrenal insufficiency, leading to symptoms such as fatigue, weight loss and hyperpigmentation. It does not typically cause multiple duodenal ulcers or require parathyroidectomy. The presence of multiple endocrine tumours is not a feature of Addison's disease. Therefore, it is not the most likely diagnosis in this scenario.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "14fd9eb5-ce27-43ed-bae0-918a61401ac6",
+    "stem": "A 35-year-old woman presents to her General Practitioner with a non-tender, diffusely enlarged goitre that has developed gradually over the past 6 weeks. She is asymptomatic and her thyroid function tests show elevated TSH and normal T4 levels. Anti-thyroglobulin and anti-thyroid peroxidase antibodies are positive. What is the most likely diagnosis?",
+    "options": [
+      "Graves' disease",
+      "Hashimoto's thyroiditis",
+      "Multinodular goitre",
+      "Subacute thyroiditis",
+      "Thyroid cancer"
+    ],
+    "correct_option": 1,
+    "explanation": "Hashimoto's thyroiditis\nHashimoto's thyroiditis is an autoimmune condition characterised by the presence of anti-thyroid antibodies, such as anti-thyroid globulin antibodies. Patients may present with a diffusely enlarged goitre and often have normal thyroid function tests in the early stages. Over time, Hashimoto thyroiditis can lead to hypothyroidism as the thyroid gland becomes progressively damaged. The presence of anti-thyroid antibodies and the subclinical hypothyroidism in this vignette are most consistent with Hashimoto's thyroiditis.\n\nGraves' disease\nGraves' disease is an autoimmune disorder that typically causes hyperthyroidism, not subclinical hypothyroidism, which is indicated by elevated TSH and normal T4 levels. Patients with Graves' disease often present with symptoms of hyperthyroidism such as weight loss, palpitations and heat intolerance. Additionally, Graves' disease is associated with the presence of TSH receptor antibodies, not anti-thyroid globulin antibodies. The subclinical hypothyroidism and antibody profile in this case are not consistent with Graves' disease.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "d0d7de4a-a8e8-47f6-90c0-8b66c93d3ccc",
+    "stem": "A 32-year-old woman presents to the General Practitioner with symptoms of weight loss, palpitations and heat intolerance. Blood tests revealed elevated free T4 and suppressed TSH levels. She is not pregnant and has no significant past medical history. What is the most appropriate initial treatment for her condition?",
+    "options": [
+      "Carbimazole",
+      "Levothyroxine",
+      "Methimazole",
+      "Propylthiouracil",
+      "Radioactive iodine therapy"
+    ],
+    "correct_option": 0,
+    "explanation": "Carbimazole\nCarbimazole is the most appropriate initial treatment for hyperthyroidism in a non-pregnant patient. It works by inhibiting the synthesis of thyroid hormones, thereby reducing the levels of circulating thyroid hormones and alleviating symptoms. It is generally well-tolerated and is the first-line treatment in the UK for patients with hyperthyroidism who are not pregnant. Carbimazole is preferred over propylthiouracil due to a better safety profile and lower risk of hepatotoxicity.\n\nLevothyroxine\nLevothyroxine is a synthetic form of thyroxine (T4) used to treat hypothyroidism, not hyperthyroidism. Administering levothyroxine would exacerbate the symptoms of hyperthyroidism by increasing the levels of circulating thyroid hormones. Levothyroxine is typically used in patients with a hypoactive thyroid gland.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "561e565e-0784-496c-827e-544c28d2c428",
+    "stem": "A 49-year-old woman presents to her General Practitioner with a visible neck swelling. She denies any symptoms of hyperthyroidism or hypothyroidism. There is no family history of thyroid disease. On examination, there is a non-tender goitre with no lymphadenopathy. Her thyroid function tests are pending. What is the most appropriate initial imaging investigation to assess her thyroid gland?",
+    "options": [
+      "CT scan of the neck",
+      "MRI of the neck",
+      "Radionuclide thyroid scan",
+      "Ultrasound of the neck",
+      "X-ray of the neck"
+    ],
+    "correct_option": 3,
+    "explanation": "Ultrasound of the neck\nUltrasound of the neck is the most appropriate initial imaging investigation for assessing an enlarged goitre. It is a non-invasive and readily available method that provides detailed information about the thyroid gland's size, structure and the presence of nodules or cysts. Ultrasound can also help differentiate between solid and cystic lesions and guide fine-needle aspiration if needed. Additionally, it does not involve radiation exposure, making it a safe option for repeated use if necessary.\n\nCT scan of the neck\nA CT scan of the neck is not the first-line investigation for an enlarged goitre due to its exposure to ionising radiation and lack of detailed soft tissue contrast compared to ultrasound. It is typically reserved for cases where there is suspicion of retrosternal extension or when cross-sectional imaging is required for surgical planning. CT scans can provide information on the anatomical relationship of the thyroid to surrounding structures but are not necessary for initial assessment. Furthermore, the iodine contrast used in CT can interfere with subsequent thyroid function tests.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "7cc95843-b414-4009-9362-bbce514b7389",
+    "stem": "A 45-year-old man presents to the Emergency Department with progressive difficulty swallowing both solids and liquids over several months. He reports a weight loss of 2 kg over the last four months. An X-ray reveals an air-fluid level in the mediastinum and a loss of the gastric bubble. What is the most likely cause of this patient’s symptoms?",
+    "options": [
+      "Achalasia",
+      "Diffuse oesophageal spasm",
+      "Foreign body",
+      "Hiatal hernia",
+      "Oesophagus cancer"
+    ],
+    "correct_option": 0,
+    "explanation": "Achalasia\nThis condition is characterised by the failure of the lower oesophageal sphincter to relax and the absence of peristalsis in the oesophagus. The patient's symptoms of dysphagia for both solids and liquids, along with the weight loss, are classic for achalasia. The X-ray findings of an air-fluid level in the mediastinum and loss of the gastric bubble are indicative of a dilated oesophagus filled with fluid, which is typical in achalasia. The absence of the gastric bubble suggests that the lower oesophageal sphincter obstruction is not allowing air to pass into the stomach.\n\nDiffuse oesophageal spasm\nThis condition can cause dysphagia and chest pain, but it usually presents with intermittent symptoms. The X- ray findings of an air-fluid level and loss of the gastric bubble are not typical for diffuse oesophageal spasm. Additionally, diffuse oesophageal spasm would not typically cause significant weight loss over a short period.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "4f8ad01a-ca0a-4c04-8e8f-a85c76c13bc9",
+    "stem": "A 52-year-old woman presents to her General Practitioner with fatigue and generalised pruritus. She drinks approximately 14 units of alcohol per week. Her medications include amlodipine and sertraline. Investigations: Investigation Result Normal value Alanine transaminase (ALT) 28 U/L 7–56 U/L Aspartate transaminase (AST) 30 U/L 10–40 U/L Alkaline phosphatase (ALP) 320 U/L 30–130 U/L Gamma-glutamyl transferase (GGT) 180 U/L 9–48 U/L Anti-mitochondrial antibodies (AMA) Positive What is the most likely diagnosis?",
+    "options": [
+      "Alcoholic liver disease",
+      "Autoimmune hepatitis",
+      "Chronic hepatitis B infection",
+      "Non-alcoholic fatty liver disease",
+      "Primary biliary cholangitis"
+    ],
+    "correct_option": 4,
+    "explanation": "Primary biliary cholangitis\nPrimary biliary cholangitis is characterised by elevated ALP and GGT with normal or mildly elevated AST and ALT. The presence of anti-mitochondrial antibodies is highly specific for primary biliary cholangitis. Symptoms such as fatigue and pruritus are common in this condition. The patient's profile fits well with primary biliary cholangitis, making it the most appropriate diagnosis.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "34534dfb-d500-4238-b809-9ae38ee8d055",
+    "stem": "A 35-year-old man presents to the General Practitioner with a history of multiple colonic polyps. He reports a family history of colorectal cancer. Gene analysis reveals a defect in a specific gene. Histology of his colonic lesions shows adenomatous changes. Which gene is most likely defective in this patient?",
+    "options": [
+      "APC gene",
+      "BRCA1 gene",
+      "MLH1 gene",
+      "MSH2 gene",
+      "TP53 gene"
+    ],
+    "correct_option": 0,
+    "explanation": "APC gene\nThe adenomatous polyposis coli (APC) gene is most likely defective in this patient, given his presentation with multiple colonic polyps and a family history of colorectal cancer. Familial adenomatous polyposis (FAP) is an autosomal dominant condition caused by mutations in the APC gene, leading to the development of hundreds to thousands of adenomatous polyps in the colon and rectum. Without intervention, these polyps have a near 100% risk of progressing to colorectal cancer.\n\nBRCA1 gene\nThe BRCA1 gene is associated with hereditary breast and ovarian cancer syndrome, not with colonic polyposis. Mutations in BRCA1 increase the risk of breast and ovarian cancers, and to a lesser extent, other cancers such as prostate and pancreatic cancer. It is not linked to the development of adenomatous polyps in the colon. Therefore, a defect in the BRCA1 gene would not explain the patient's presentation.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "02eb69c4-0180-4c95-bc48-afc28acd724d",
+    "stem": "A 35-year-old woman presents to the General Practitioner with chronic diarrhoea, bloating, and weight loss. She has a history of Crohn's disease and has undergone significant small bowel resection. What is the most appropriate next investigation to confirm the diagnosis?",
+    "options": [
+      "Colonoscopy",
+      "CT enterography",
+      "Faecal calprotectin",
+      "Hydrogen breath test",
+      "Serum vitamin B 12 level"
+    ],
+    "correct_option": 3,
+    "explanation": "Hydrogen breath test\nThis test is the most appropriate investigation for diagnosing small intestinal bacterial overgrowth (SIBO), which is the likely diagnosis following small bowel resection due to Crohn's disease. It measures the amount of hydrogen in the breath after the patient ingests a carbohydrate substrate such as lactulose or glucose. In SIBO, bacteria in the small intestine ferment these carbohydrates, producing hydrogen that is absorbed into the bloodstream and subsequently exhaled. A positive test is indicated by an early rise in breath hydrogen levels, suggesting bacterial overgrowth.\n\nColonoscopy\nWhile colonoscopy is useful for visualising the colon and terminal ileum, it is not the appropriate test for diagnosing SIBO. Colonoscopy is more suited for evaluating structural abnormalities or inflammation in the colon. It does not assess the bacterial content of the small intestine. Additionally, colonoscopy is an invasive procedure and is not typically used to diagnose malabsorption syndromes.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "4bdc40ae-efe6-42b7-9a05-0a2e88460a86",
+    "stem": "A 52-year-old man presents to the General Practitioner with epigastric pain and unintentional weight loss over the past three months. He has a history of dyspepsia and was recently found to have Helicobacter pylori infection on a urea breath test. An endoscopy reveals a gastric mucosal lesion. What is the most characteristic type of cancer associated with H. pylori infection?",
+    "options": [
+      "Adenocarcinoma",
+      "Gastric mucosa-associated lymphoid tissue lymphoma",
+      "GI stromal tumour",
+      "Leiomyosarcoma",
+      "Squamous cell carcinoma"
+    ],
+    "correct_option": 1,
+    "explanation": "Gastric mucosa-associated lymphoid tissue lymphoma\nH. pylori infection is strongly associated with the development of gastric mucosa-associated lymphoid tissue (MALT) lymphoma. This type of lymphoma arises from the lymphoid tissue that is acquired in the gastric mucosa in response to chronic inflammation caused by H. pylori. Eradication of H. pylori can lead to regression of the lymphoma in many cases, highlighting the direct link between the infection and the malignancy. Gastric MALT lymphoma is a distinct entity from other gastric cancers due to its unique association with H. pylori and its potential for treatment with antibiotics.\n\nAdenocarcinoma\nWhile H. pylori infection is a common risk factor for gastric adenocarcinoma, it is not the most specific cancer type associated with H. pylori. The pathogenesis of adenocarcinoma involves multiple factors, including genetic predisposition and environmental influences. Unlike MALT lymphoma, adenocarcinoma does not typically regress with H. pylori eradication.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "06c88fd8-eade-4b5e-b133-8e0bb59df396",
+    "stem": "A 52-year-old woman presents to her General Practitioner with a 2-week history of right upper quadrant abdominal discomfort. She is obese and has a history of type II diabetes mellitus. She does not drink alcohol. Abdominal ultrasound reveals increased echogenicity of the liver parenchyma without focal lesions or biliary dilatation. Investigation Result Normal value Aspartate aminotransferase (AST) 48 U/L 10–40 U/L Alkaline phosphatase (ALP) 350 U/L 30–130 U/L Gamma-glutamyl transferase (GGT) 420 U/L 10–50 U/L Alanine aminotransferase (ALT) 70 U/L 10–50 U/L Bilirubin 14 µmol/L 3–21 µmol/L Albumin 42 g/L 35–50 g/L What is the most likely diagnosis?",
+    "options": [
+      "Alcoholic hepatitis",
+      "Autoimmune hepatitis",
+      "Metastatic liver disease",
+      "Non-alcoholic steatohepatitis",
+      "Primary biliary cholangitis"
+    ],
+    "correct_option": 3,
+    "explanation": "Non-alcoholic steatohepatitis\nNon-alcoholic steatohepatitis (NASH) is part of the spectrum of non-alcoholic fatty liver disease and is commonly seen in individuals with metabolic risk factors such as obesity, type II diabetes and dyslipidaemia. The presence of right upper quadrant pain, elevated liver enzymes, particularly ALT, ALP and GGT, and",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "cec71858-797f-4abd-b448-b47b5aff9369",
+    "stem": "A 32-year-old woman presents to her General Practitioner with a six-month history of intermittent diarrhoea and lower abdominal discomfort. She reports that her symptoms are often triggered by stress. She denies weight loss, rectal bleeding or nocturnal symptoms. There is no history of recent travel or antibiotic use. What is the most likely diagnosis?",
+    "options": [
+      "Coeliac disease",
+      "Crohn's disease",
+      "Irritable bowel syndrome",
+      "Lactose intolerance",
+      "Ulcerative colitis"
+    ],
+    "correct_option": 2,
+    "explanation": "Irritable bowel syndrome\nIrritable bowel syndrome (IBS) is a functional GI disorder characterised by abdominal pain and altered bowel habits, including diarrhoea, constipation or both. It is often exacerbated by dietary or psychological factors, including stress, which can increase bowel motility and gas production. The absence of alarm symptoms such as weight loss or blood in the stool, along with symptom exacerbation by stress, aligns well with IBS. Therefore, IBS is the most likely diagnosis in this case.\n\nCoeliac disease\nCoeliac disease is an autoimmune condition triggered by gluten ingestion, leading to malabsorption and symptoms such as diarrhoea, weight loss and fatigue. While diarrhoea is a common symptom, it is typically associated with gluten-containing foods rather than stress in general. Additionally, patients often experience other systemic symptoms and nutritional deficiencies. The absence of weight loss or other systemic symptoms in this patient makes coeliac disease less likely.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "711601b4-1fd0-4748-9a10-33bac47105e2",
+    "stem": "A 35-year-old man with genetically confirmed Anderson-Fabry disease attends the Genetic Counselling Clinic with his pregnant wife. She has no known history of Anderson-Fabry disease. They are expecting a baby boy and are concerned about the likelihood that their son will inherit the condition. What is the probability that their son will be affected by Anderson-Fabry disease?",
+    "options": [
+      "0%",
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correct_option": 0,
+    "explanation": "0%\nAnderson-Fabry disease is an X-linked recessive disorder caused by mutations in the GLA gene located on the X chromosome. Men have one X and one Y chromosome, while women have two X chromosomes. Affected men pass their Y chromosome to their sons and their X chromosome to their daughters. Therefore, a man with Anderson-Fabry disease cannot pass the disease to his sons because they inherit his Y chromosome, which does not carry the mutation. As a result, the probability that his son will have Anderson-Fabry disease is 0%.\n\n25%\nThis option might be considered in autosomal recessive disorders. Since Anderson-Fabry disease is an X-linked recessive disorder, the father passes his Y chromosome to his sons, so the risk remains 0%.\n\n50%\nThis will not occur in this scenario, as the daughters of affected fathers will always be carriers, but sons will not inherit the disease from their fathers.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b4ec2d7e-f492-4234-9ef6-e3e1c772b134",
+    "stem": "A 78-year-old woman presents to the Dermatology Clinic with tense blisters on her arms and legs. She reports that the blisters have been present for several weeks and are associated with mild itching but no pain. A biopsy is performed and direct immunofluorescence of perilesional skin is requested. What is the most likely finding on perilesional histology?",
+    "options": [
+      "Acantholysis with intraepidermal blister formation",
+      "Granular immunoglobulin A deposits in the dermal papillae",
+      "Granular immunoglobulin G deposits in the basement membrane",
+      "Linear deposition of immunoglobulin G and C3 along the dermoepidermal junction",
+      "Subepidermal blister with neutrophilic infiltrate"
+    ],
+    "correct_option": 3,
+    "explanation": "Linear deposition of immunoglobulin G and C3 along the dermoepidermal junction\nLinear immunoglobulin G (IgG) and C3 deposits along the basement membrane are a characteristic finding on direct immunofluorescence of bullous pemphigoid, a condition commonly seen in elderly patients. Bullous pemphigoid is an autoimmune blistering disorder in which autoantibodies target hemidesmosomes, resulting in subepidermal blister formation. This finding helps differentiate bullous pemphigoid from other blistering disorders.\n\nAcantholysis with intraepidermal blister formation\nAcantholysis with intraepidermal blister formation is typically seen in pemphigus vulgaris, not bullous pemphigoid. In pemphigus vulgaris, autoantibodies target desmogleins, which are components of desmosomes, leading to loss of cell adhesion within the epidermis. This results in intraepidermal blisters and acantholysis, which is the separation of keratinocytes from the epidermis. The clinical presentation often includes flaccid blisters and erosions, which differ from the tense blisters seen in bullous pemphigoid.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b49a3863-d77a-4639-be45-da1bbb59a627",
+    "stem": "A 76-year-old man presents to the Cardiology Clinic for evaluation of exertional chest discomfort. He has a history of hypertension, type II diabetes and hyperlipidaemia, and recently underwent a stress ECG, which was normal. His 38-year-old daughter, who has no past medical history, also had a normal stress ECG following an episode of atypical chest pain. What is the most appropriate interpretation of the difference between the two test results?",
+    "options": [
+      "Negative predictive value is higher",
+      "Positive predictive value is higher",
+      "Sensitivity is higher",
+      "Specificity is higher",
+      "Tests should be interpreted in the same way"
+    ],
+    "correct_option": 0,
+    "explanation": "Negative predictive value is higher\nThe negative predictive value (NPV) of a test refers to the likelihood that a person truly does not have a disease given a negative result. NPV is influenced by disease prevalence, and it increases when the pre-test probability of disease is low. The daughter has no cardiac risk factors and therefore a lower pre-test probability of coronary artery disease, making the NPV of her negative stress ECG result higher. In contrast, the elderly man has multiple cardiovascular risk factors, meaning a normal result does not rule out disease with the same confidence.\n\nPositive predictive value is higher\nPositive predictive value (PPV) refers to the probability that a person has the disease given a positive test result. While PPV is indeed higher when the pre-test probability is high, the question specifies that both individuals had normal (negative) test results. Since neither had a positive result, PPV is not applicable in distinguishing between the two cases. Therefore, this is not the most appropriate factor to consider.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b10700c9-b6fd-41b4-b91f-dd0b94a34094",
+    "stem": "A 78-year-old woman presents to the Emergency Department with a three-day history of profuse watery diarrhoea and abdominal cramps. She was recently discharged from hospital where she was treated for a UTI. She is taking multiple drugs for other conditions. Stool toxin testing confirms Clostridioides difficile infection. What drug most likely contributed to the development of her diarrhoea?",
+    "options": [
+      "Amoxicillin",
+      "Codeine phosphate",
+      "Loperamide",
+      "Omeprazole",
+      "Paracetamol"
+    ],
+    "correct_option": 3,
+    "explanation": "Omeprazole\nOmeprazole is a proton pump inhibitor (PPI) commonly used in older adults to manage gastro-oesophageal reflux or peptic ulcer disease. It reduces gastric acid secretion, which alters the gut microbiome and impairs the natural defence against gastrointestinal pathogens. This alteration creates an environment conducive to colonisation by Clostridioides difficile, increasing the risk of infection. Multiple observational studies and meta- analyses have demonstrated an association between PPI use and an increased risk of C. difficile infection, especially when used concurrently with antibiotics. Therefore, omeprazole is the most likely drug to have contributed to this patient’s diarrhoea.\n\nAmoxicillin\nWhile amoxicillin can indeed predispose to C. difficile infection, it is not the best answer in this scenario because it was given during a hospital admission, which is a background factor rather than the focus of the question. The question asks which drug most likely exacerbated the diarrhoea, not which initiated it. Moreover, the classic",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "a32ee100-923a-4218-be2a-c71e7db8ce1a",
+    "stem": "A 68-year-old woman presents to her General Practitioner with complaints of slight incontinence when she sneezes, coughs or laughs over the last 6 months. She has given birth to multiple children and denies urgency, increased frequency or nocturia. What is the most appropriate first-line treatment for her condition?",
+    "options": [
+      "Anticholinergic medication",
+      "Bladder catheterisation",
+      "Pelvic muscle exercises",
+      "Surgical intervention",
+      "Urethral bulking agents"
+    ],
+    "correct_option": 2,
+    "explanation": "Pelvic muscle exercises\nPelvic muscle exercises, also known as Kegel exercises, are the most appropriate first-line treatment for stress incontinence. These exercises strengthen the pelvic floor muscles, which support the bladder and urethra, helping to prevent involuntary urine leakage during activities that increase abdominal pressure, such as sneezing, coughing, or laughing. The exercises involve contracting and relaxing the pelvic floor muscles and are effective in improving symptoms of stress incontinence, especially in women who have had multiple childbirths. Regular practice can lead to significant improvement in bladder control and quality of life.\n\nAnticholinergic medication\nAnticholinergic medication is typically used to treat urge incontinence, not stress incontinence. These medications work by relaxing the bladder muscle and reducing involuntary contractions, which are not the primary issue in stress incontinence. Stress incontinence is typically caused by weakness of the pelvic floor muscles, rather than bladder overactivity. Therefore, anticholinergic medication would not address the underlying cause of the patient's symptoms and is not the first-line treatment.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "61f67daa-5af0-41c4-9c8b-90c73c7a5204",
+    "stem": "A 65-year-old man presents to the Emergency Department with complaints of persistent bone pain and fatigue. Investigations: Investigation Result Normal value Calcium (adjusted) 3.00 mmol/L 2.20 – 2.60 mmol/L Haemoglobin 90 g/L 130 – 180 g/L Creatinine 200 µmol/L 60 – 120 µmol/L Estimated GFR (eGFR) 35 mL/min > 90 mL/min Erythrocyte sedimentation rate (ESR) 80 mm/hr < 20 mm/hr Albumin 32 g/L 35 – 50 g/L What is the most likely diagnosis?",
+    "options": [
+      "Chronic kidney disease",
+      "Primary hyperparathyroidism",
+      "Multiple myeloma",
+      "Osteoporosis",
+      "Paget's disease of bone"
+    ],
+    "correct_option": 2,
+    "explanation": "Multiple myeloma\nMultiple myeloma is a malignancy of plasma cells that often presents with bone pain due to lytic bone lesions, hypercalcaemia, anaemia and renal dysfunction. The hypercalcaemia results from increased osteoclastic activity driven by cytokines released by myeloma cells. Anaemia is common due to bone marrow infiltration by",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c221c573-035d-4cd3-bc74-78f6d9111e31",
+    "stem": "A 55-year-old man presents to the Oncology Clinic for a routine follow-up. He is currently receiving induction chemotherapy for acute myeloid leukaemia. He is asymptomatic, but his neutrophil count today is 0.8 × 10 9/L, and neutropenia is expected to persist for over a week. What is the most appropriate next management step?",
+    "options": [
+      "Administer granulocyte colony-stimulating factor",
+      "Initiate antibiotic prophylaxis",
+      "Perform a bone marrow biopsy",
+      "Start antifungal prophylaxis",
+      "Transfuse granulocytes"
+    ],
+    "correct_option": 1,
+    "explanation": "Initiate antibiotic prophylaxis\nIn patients undergoing chemotherapy for haematologic malignancies, neutropenia is a common side effect that increases the risk of bacterial infections. With a neutrophil count of 0.8 × 10 9/L, this patient is at significant risk for infections despite being asymptomatic. Antibiotic prophylaxis, often with agents such as fluoroquinolones, is recommended to prevent bacterial infections in patients with prolonged neutropenia. This approach helps reduce the incidence of febrile neutropenia and associated complications.\n\nAdminister granulocyte colony-stimulating factor\nWhile granulocyte colony-stimulating factor (G-CSF) can be used to stimulate the proliferation and maturation of neutrophil progenitors and reduce the duration of neutropenia, it is typically reserved for patients with febrile neutropenia or those at high risk of complications from neutropenia. In an asymptomatic patient with stable neutropenia, antibiotic prophylaxis is preferred to prevent infection. G-CSF is not routinely used for prophylaxis in all patients with neutropenia due to cost and potential side effects.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "e434f794-27c3-44c9-897d-75e96737f71e",
+    "stem": "A 65-year-old man presents to his General Practitioner with increasing shortness of breath and fatigue over the last three months. He has also experienced night sweats, early satiety and unintentional weight loss. On examination, he is pale with a palpable spleen extending 4 cm below the costal margin. Blood tests reveal a haemoglobin of 90 g/L. A peripheral blood film shows teardrop poikilocytes and a leukoerythroblastic picture. What is the most likely diagnosis?",
+    "options": [
+      "Chronic myeloid leukaemia",
+      "Essential thrombocythaemia",
+      "Myelofibrosis",
+      "Polycythaemia vera",
+      "Sideroblastic anaemia"
+    ],
+    "correct_option": 2,
+    "explanation": "Myelofibrosis\nMyelofibrosis is characterised by the presence of anaemia, splenomegaly and teardrop poikilocytes on the peripheral blood smear. It is a myeloproliferative disorder where the bone marrow is replaced by fibrous tissue, leading to extramedullary haematopoiesis primarily in the spleen, causing splenomegaly. The tear drop cells, or dacryocytes, are a result of the mechanical damage to red blood cells as they are squeezed out of the fibrotic marrow. Patients often present with symptoms related to anaemia, such as fatigue and shortness of breath, as well as abdominal discomfort due to splenomegaly.\n\nChronic myeloid leukaemia\nChronic myeloid leukaemia (CML) typically presents with splenomegaly and an elevated white blood cell count with a left shift. The presence of the Philadelphia chromosome (BCR-ABL fusion gene) is a hallmark of CML. While anaemia can occur in CML, marked leucocytosis with basophilia is a characteristic finding rather than teardrop cells. The patient's presentation with tear drop cells and significant anaemia is more suggestive Chat of myelofibrosis.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "490bdad4-66b4-4259-af79-6cefd54fa70b",
+    "stem": "A 25-year-old woman presents to the Emergency Department with a two-week history of easy bruising and gum bleeding. She has no significant past medical history and is not taking any medications. A full blood count reveals isolated thrombocytopenia with a platelet count of 15 × 10 9/L. She has no signs of life-threatening bleeding. What is the most appropriate initial management?",
+    "options": [
+      "IV immunoglobulin",
+      "Platelet transfusion",
+      "Prednisolone",
+      "Splenectomy",
+      "Tranexamic acid"
+    ],
+    "correct_option": 2,
+    "explanation": "Prednisolone\nPrednisolone is the most appropriate initial management for immune thrombocytopenic purpura (ITP), particularly in adults presenting with significant thrombocytopenia and bleeding symptoms. ITP is an autoimmune condition in which antibodies target and destroy platelets. Corticosteroids such as prednisolone are effective in increasing platelet counts by reducing antibody production and platelet destruction. They are typically the first-line treatment due to their efficacy and relatively rapid onset of action in increasing platelet counts.\n\nIV immunoglobulin\nIV immunoglobulin (IVIG) can be used in the management of ITP, especially in cases where rapid platelet increase is necessary, such as severe bleeding or preparation for surgery. However, it is not the first-line treatment due to its cost and the transient nature of the platelet increase. Prednisolone is preferred initially unless there is an urgent need for a rapid response.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "cef0e035-8165-4037-b7e9-306066c1ec43",
+    "stem": "A 35-year-old woman with coeliac disease presents to the General Practitioner with a history of recurrent chest infections. Her immunoglobulin G (IgG) levels are normal, but she has a poor response to the pneumococcal vaccine. Which organ dysfunction is most likely contributing to her recurrent infections?",
+    "options": [
+      "Bone marrow",
+      "Liver",
+      "Lymph nodes",
+      "Spleen",
+      "Thymus"
+    ],
+    "correct_option": 3,
+    "explanation": "Spleen\nIn coeliac disease patients, hyposplenism is a recognised complication. The spleen plays a crucial role in filtering blood and mounting an immune response against encapsulated bacteria such as Streptococcus pneumoniae. A poorly functioning spleen (hyposplenism) can lead to an inadequate response to polysaccharide vaccines such as the pneumococcal vaccine, resulting in increased susceptibility to infections. The recurrent chest infections in this patient, alongside a poor vaccine response, suggest splenic dysfunction as the underlying issue.\n\nBone marrow\nWhile the bone marrow is responsible for producing immune cells, normal IgG levels in this patient suggest that the bone marrow is functioning adequately. Bone marrow dysfunction typically results in pancytopenia or specific cytopenias, which are not indicated in this vignette. Additionally, bone marrow issues would not specifically cause a poor response to the pneumococcal vaccine. Therefore, bone marrow dysfunction is unlikely to be the cause of her recurrent infections.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "80571c1b-7a5b-488e-830a-0cfc2451a340",
+    "stem": "A 28-year-old pregnant woman presents to the General Practitioner for a routine antenatal check-up. She has a history of systemic lupus erythematosus and is concerned about the possibility of congenital heart block in her fetus. Which maternal autoantibody is most strongly associated with congenital heart block in the fetus?",
+    "options": [
+      "Anti-centromere antibody",
+      "Anti-dsDNA antibody",
+      "Anti-Ro antibody",
+      "Anti-Smith antibody",
+      "Anti-topoisomerase antibody"
+    ],
+    "correct_option": 2,
+    "explanation": "Anti-Ro antibody\nAnti-Ro antibodies are associated with neonatal lupus syndrome, which can lead to congenital heart block in the fetus. These antibodies can cross the placenta and affect the foetal heart, leading to fibrosis and damage to the cardiac conduction system. Congenital heart block is a serious condition that can result in bradycardia and heart failure in the newborn. Pregnant women with systemic lupus erythematosus or Sjögren's syndrome are at increased risk for having anti-Ro antibodies, which necessitates close monitoring during pregnancy.\n\nAnti-centromere antibody\nAnti-centromere antibody is typically associated with limited scleroderma, also known as CREST syndrome. It is not linked to congenital heart block or neonatal lupus syndrome. CREST syndrome includes symptoms such as calcinosis, Raynaud's phenomenon, oesophageal dysmotility, sclerodactyly, and telangiectasia. These antibodies do not have a known impact on foetal cardiac conduction.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "e653916a-63a6-4d30-8ba5-fc38def2995e",
+    "stem": "A 19-year-old man presents to his General Practitioner with a one-week history of a 10 cm erythematous, expanding rash on his forearm. The lesion has central clearing, is neither painful or itchy. He recently returned from a trip to rural Nigeria two weeks ago. He has no systemic symptoms. What is the most appropriate next step?",
+    "options": [
+      "Test for Borrelia antibodies",
+      "Prescribe oral doxycycline",
+      "Reassure and observe",
+      "Send skin scrapings for mycology",
+      "Topical hydrocortisone"
+    ],
+    "correct_option": 1,
+    "explanation": "Prescribe oral doxycycline\nThe patient presents with a classic erythema migrans (EM) lesion—an expanding, erythematous rash with central clearing, often described as having a \"bull's-eye\" appearance. It is neither painful nor pruritic and typically appears 1–2 weeks after a tick bite, consistent with this presentation. He has recently returned from a region (rural Nigeria) where tick-borne infections may occur. Although Lyme disease is not endemic in Nigeria, tick bites and other vector-borne illnesses are possible in rural areas. Lyme disease is more commonly found in North America and Europe; however, given the characteristic clinical features, EM remains the most likely diagnosis in this case.\n\nTest for Borrelia antibodies\nSerological testing for Borrelia burgdorferi antibodies is not recommended in cases of early localised Lyme disease where there is the presence of a typical EM lesion. At this stage, antibody levels may be falsely negative due to the delay in antibody production. Moreover, serology cannot reliably distinguish active infection from past exposure. The diagnosis is clinical, and treatment should not be delayed pending Chat results.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ad6e27d2-83a5-48f9-b2d8-f2b5bdff694e",
+    "stem": "A 25-year-old man presents to the Emergency Department with multiple painful penile ulcers and tender inguinal lymphadenopathy. He returned from Sudan two weeks ago. What is the most likely diagnosis?",
+    "options": [
+      "Chancroid",
+      "Lymphogranuloma venereum",
+      "Mycobacterial infection",
+      "Penile warts",
+      "Syphilis"
+    ],
+    "correct_option": 0,
+    "explanation": "Chancroid\nChancroid is the most likely diagnosis given the presentation of multiple painful penile ulcers and tender lymphadenopathy, particularly following travel to Sudan, where chancroid is more prevalent. Chancroid is caused by the bacterium Haemophilus ducreyi and is characterised by painful genital ulcers, which are typically soft, ragged, and have undermined edges, as well as tender, unilateral inguinal lymphadenopathy that may suppurate and form buboes. The incubation period is typically 4 to 10 days, which aligns with the patient's recent travel history. The condition is more common in tropical and subtropical regions, making it the most likely diagnosis in this scenario.\n\nLymphogranuloma venereum\nLymphogranuloma venereum (LGV) is an invasive sexually transmitted infection caused by a specific serovar of Chlamydia trachomatis (L1–L3). LGV can present with genital ulcers and inguinal lymphadenopathy. However, it typically begins with a single painless ulcer, which is often unnoticed, followed by painful inguinal lymphadenopathy (bubo formation). The presence of multiple painful ulcers, as seen in this patient, is not characteristic of LGV. Additionally, LGV is more commonly seen in men who have sex with men Chat (MSM) and in",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "17c7c002-b2de-4a25-b82a-abe99b54a982",
+    "stem": "A 45-year-old man presents to the Emergency Department with rapid-onset confusion, fever, and seizures. A CT brain scan reveals bilateral temporal lobe haemorrhagic changes. What is the most appropriate treatment for this patient?",
+    "options": [
+      "Aciclovir",
+      "Amphotericin",
+      "Ceftriaxone",
+      "Dexamethasone",
+      "Vancomycin"
+    ],
+    "correct_option": 0,
+    "explanation": "Aciclovir\nAciclovir is the most appropriate treatment in this scenario as the presentation is highly suggestive of herpes simplex encephalitis (HSE), the most common cause of sporadic viral encephalitis in adults. HSE classically involves the temporal lobes, often bilaterally and can lead to haemorrhagic necrosis, leading to characteristic findings on CT or MRI. Clinical features often include fever, altered mental status (confusion, personality changes), seizures and focal neurological deficits. Aciclovir, a nucleoside analogue, inhibits viral DNA polymerase and is the antiviral of choice for HSV-1, the usual culprit in adult encephalitis. Prompt initiation is critical, even before PCR confirmation from CSF, as delays can lead to permanent neurological damage or death.\n\nAmphotericin\nAmphotericin is an antifungal agent used primarily to treat serious systemic fungal infections, such as cryptococcal meningitis, particularly in immunocompromised individuals (eg those with HIV/AIDS). However, the acute onset of confusion, fever, and bilateral temporal lobe haemorrhage seen in this patient is not typical of fungal CNS infections. Fungal infections usually present more sub-acutely, with symptoms such as headache",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "56c4a127-0750-4e68-aabe-8af45088dadc",
+    "stem": "A 25-year-old woman, a nurse, presents to the Occupational Health Department for routine screening. She is originally from Zimbabwe and has no known exposure to tuberculosis (TB) or symptoms. A chest x-ray is normal. A Mantoux test is performed, showing an induration of 15 mm. She has not previously received BCG vaccination. What is the most appropriate next management step?",
+    "options": [
+      "Rifampicin for 6 months",
+      "Perform an interferon-gamma release assay",
+      "Send sputum samples for acid-fast bacilli testing",
+      "Repeat the Mantoux test in 3 months",
+      "Start a four-drug anti-TB regimen for 2 months, followed by dual therapy for 4 months"
+    ],
+    "correct_option": 0,
+    "explanation": "Rifampicin for 6 months\nA Mantoux test of 15 mm or more induration is considered positive in all individuals. Although this patient is asymptomatic and has a normal chest X-ray, indicating no evidence of active TB, the positive Mantoux result suggests a diagnosis of latent TB infection (LTBI). Treatment of LTBI is recommended to reduce the risk of progression to active TB, particularly in healthcare workers, who are at increased risk of both acquiring and transmitting TB. Rifampicin for 6 months is one guideline-accepted first-line regimen. Alternative options include isoniazid for 6 months or a 3-month combination of isoniazid and rifampicin. The choice of regimen should be tailored to the individual, taking into account factors such as comorbidities, potential drug interactions, adherence likelihood, and hepatotoxicity risk.\n\nPerform an interferon-gamma release assay\nInterferon-gamma release assay (IGRAs) can be used to support the diagnosis of latent TB infection, particularly in individuals who have received BCG vaccination, as IGRAs are not affected by Chat priorwith BCG AI and Tutorhave greater specificity than the Mantoux test. However, like the Mantoux test, IGRAs cannot differentiate between",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "0933af3b-920c-4eda-8e0f-aaea2a33d159",
+    "stem": "A 67-year-old man presents to the Emergency Department after being found confused at home by a neighbour. He is febrile, tachycardic, and hypotensive on arrival. On examination, he appears acutely unwell with rigors and altered mental status. Initial tests show an elevated white cell count and raised inflammatory markers. Blood cultures later reveal the presence of Gram-negative bacilli. Which part of the organism is most likely responsible for triggering the patient's septic response?",
+    "options": [
+      "Capsule",
+      "Flagella",
+      "Lipopolysaccharide (endotoxin)",
+      "Peptidoglycan layer",
+      "Teichoic acid"
+    ],
+    "correct_option": 2,
+    "explanation": "Lipopolysaccharide (endotoxin)\nLipopolysaccharide (LPS), also known as endotoxin, is a major component of the outer membrane of Gram- negative bacteria. It is a potent activator of the innate immune system and plays a crucial role in the pathogenesis of sepsis caused by gram-negative organisms. When LPS enters the bloodstream, it is recognised by pattern recognition receptors such as Toll-like receptor 4 (TLR4) on immune cells, including macrophages and dendritic cells. This interaction triggers a signalling cascade that leads to the release of pro-inflammatory cytokines, particularly tumour necrosis factor-alpha (TNF-α), interleukin-1 (IL-1), and interleukin-6 (IL-6). This massive cytokine release, often termed a cytokine storm, results in widespread inflammation, vasodilation, increased vascular permeability, and coagulopathy. Clinically, this manifests as hypotension, fever, organ dysfunction, and in severe cases, septic shock and multi-organ failure—hallmarks of sepsis. Thus, LPS would be the principal molecular trigger for the development of sepsis in infections caused by Gram-negative bacteria, as in this case.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3a92bf2d-c728-4a6f-9e08-8ff3e2e03f25",
+    "stem": "A 17-year-old girl presents to the Emergency Department with a 3-day history of fever, cough, and sore, red eyes. She developed a maculopapular rash that began on her face and has spread to her trunk, arms, and legs. She recently attended a crowded music festival, where she camped with friends. What is the most likely diagnosis?",
+    "options": [
+      "Chickenpox",
+      "Measles",
+      "Meningococcal septicaemia",
+      "Rubella",
+      "Scarlet fever"
+    ],
+    "correct_option": 1,
+    "explanation": "Measles\nMeasles is a highly contagious viral infection characterised by a prodromal phase of fever, cough, conjunctivitis and coryza, followed by the appearance of a maculopapular rash. The rash typically begins on the face and spreads downwards to the trunk and extremities. The history of attending a crowded music festival increases the likelihood of exposure, as measles is highly transmissible in settings with close contact. The presence of sore, red eyes (conjunctivitis), fever and cough, along with the characteristic maculopapular rash and recent potential exposure, makes measles the most likely diagnosis.\n\nChickenpox\nChickenpox also presents with a rash, but it is typically vesicular (blister-like) in nature and starts on the trunk before spreading to the face and extremities. The rash in chickenpox is often intensely itchy, and lesions appear in crops, meaning that lesions at different stages of development (macules, papules, vesicles, and crusts) are present simultaneously. The prodrome of chickenpox is generally mild and does not usually include conjunctivitis. The history of the rash starting on the face, along with the presence of conjunctivitis, isAImore Tutor consistent with measles.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3ecc8963-d4a0-48c3-a4e2-2efadcec75e0",
+    "stem": "A 55-year-old woman presents to the Emergency Department with a widespread vesicular rash. She recently completed a course of chemotherapy for breast cancer. On examination, there are numerous vesicular lesions involving her trunk, limbs, and umbilical region. She reports mild pain and itching in the affected areas. She had chickenpox as a child What is the most likely diagnosis?",
+    "options": [
+      "Drug eruption",
+      "Herpes simplex infection",
+      "Herpes zoster infection",
+      "Impetigo",
+      "Varicella (chickenpox)"
+    ],
+    "correct_option": 2,
+    "explanation": "Herpes zoster infection\nHerpes zoster, also known as shingles, occurs due to the reactivation of the varicella-zoster virus, which remains dormant in the dorsal root ganglia after a primary chickenpox infection. Immunosuppression, such as that induced by chemotherapy, can trigger this reactivation. The presentation of vesicular lesions in a unilateral dermatomal distribution is characteristic of herpes zoster. In this case, the widespread distribution suggests disseminated herpes zoster, a condition that can occur in immunocompromised individuals. This is a serious condition requiring admission and prompt treatment with IV aciclovir.\n\nDrug eruption\nDrug eruptions typically present as maculopapular or morbilliform rashes rather than vesicular lesions. While they are often widespread, they usually lack the fluid-filled vesicles seen in this patient. Additionally, drug eruptions are less likely to cause lesions in a dermatomal pattern. Although the recent chemotherapy raises the possibility of a drug-induced reaction, the vesicular nature of the rash makes this diagnosis less Chat likely.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "73e4ce62-34cf-4f2e-be63-b1f319b6d151",
+    "stem": "A 49-year-old man presents to the Emergency Department with right-sided ptosis, diplopia and headache. On examination, the eye is deviated down and out, and the pupil is dilated and unreactive. What is the most likely site of the lesion?",
+    "options": [
+      "Cavernous sinus",
+      "Lateral geniculate nucleus",
+      "Optic chiasm",
+      "Superior colliculus",
+      "Trochlear nerve"
+    ],
+    "correct_option": 0,
+    "explanation": "Cavernous sinus\nThe symptoms described are characteristic of a third cranial nerve palsy. One important anatomical site where the oculomotor nerve can be compressed is the cavernous sinus, which also contains cranial nerves IV, V1, V2, and VI, as well as the internal carotid artery. Lesions in this region, such as aneurysms, tumours, or thrombosis, can result in multiple cranial nerve deficits, explaining the combination of diplopia, headache, and oculomotor dysfunction. The ‘down and out’ eye position occurs due to the unopposed action of the lateral rectus (VI) and superior oblique (IV) muscles when the oculomotor nerve is impaired. These muscles are not affected in isolated third nerve palsy, resulting in the characteristic eye deviation. The presence of a dilated, unreactive pupil indicates involvement of the superficial parasympathetic fibres, suggesting a compressive lesion rather than a microvascular cause, such as diabetes. Therefore, the cavernous sinus is the most likely location of the lesion.\n\nLateral geniculate nucleus\nThe lateral geniculate nucleus is part of the visual pathway, located in the thalamus, and is involved in the relay of visual information from the retina to the visual cortex. Lesions here typically cause visual Chat field with defects rather than eye movement abnormalities or ptosis. The symptoms described are more indicative of cranial nerve",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "bad8e47a-f4c6-4c0f-b57c-c3204549713e",
+    "stem": "A 55-year-old man presents to the Emergency Department with a sudden onset of right eye ptosis and diplopia. He has a history of poorly controlled type II diabetes mellitus. On examination, his right eye is down and out with a normal-sized pupil that is reactive to light. What is the most likely cause of his symptoms?",
+    "options": [
+      "Aneurysm of the posterior communicating artery",
+      "Diabetic third nerve palsy",
+      "Giant cell arteritis",
+      "Myasthenia gravis",
+      "Thyroid eye disease"
+    ],
+    "correct_option": 1,
+    "explanation": "Diabetic third nerve palsy\nIn the context of poorly controlled type II diabetes, the most likely cause is a microvascular ischaemic third nerve palsy. This condition is classically associated with pupil-sparing because the microvascular ischaemia affects the central fibres of the oculomotor nerve, which control eye movement, while sparing the superficial parasympathetic fibres that control pupil constriction. The sudden onset of ptosis and the ‘down and out’ position are classical signs of third nerve palsy. Diabetes is a common risk factor for microvascular cranial nerve palsies due to its impact on small blood vessels.\n\nAneurysm of the posterior communicating artery\nAneurysm of the posterior communicating artery typically causes a third nerve palsy with pupil involvement due to compression of the superficial parasympathetic fibres of the oculomotor nerve, which are responsible for pupillary constriction. This results in a dilated (non-reactive) pupil, often accompanied by ptosis and an eye that is positioned down and out. In contrast, the clinical scenario describes a diabetic patient with a normal-sized",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b06ccbb5-57b3-41b0-b0ba-997d415bdfb7",
+    "stem": "A 35-year-old woman presents to the Emergency Department with a one-day history of a right-sided facial droop. She has no other neurological signs. What is the most appropriate management for her condition?",
+    "options": [
+      "Oral aciclovir",
+      "Oral prednisolone",
+      "Oral prednisolone and oral aciclovir",
+      "IV prednisolone",
+      "IV aciclovir"
+    ],
+    "correct_option": 1,
+    "explanation": "Oral prednisolone\nIn a 35-year-old patient with an acute onset of an isolated, unilateral facial nerve palsy and no other neurological deficits, the most likely diagnosis is Bell’s palsy. This is an idiopathic condition thought to result from inflammation and oedema of the facial nerve, possibly triggered by a viral infection such as herpes simplex virus. The most appropriate initial management is oral prednisolone, ideally started within 72 hours of symptom onset. Early corticosteroid treatment has been shown to significantly improve the chances of complete recovery by reducing inflammation and nerve compression within the facial canal.\n\nOral aciclovir\nWhile viral infections are implicated in the aetiology of Bell’s palsy, antiviral therapy (aciclovir) as monotherapy has not demonstrated consistent benefit in clinical trials. Therefore, it is not recommended as the sole treatment for Bell’s palsy. The recommended first-line and most effective treatment remains corticosteroids.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "a44bd0d2-d5f8-4a1c-b9fd-4abd7a1aa2da",
+    "stem": "A 28-year-old woman presents to the Emergency Department with three episodes of generalised seizures occurring three days after delivering her first child. Her neurological examination is normal. What is the most likely diagnosis?",
+    "options": [
+      "Eclampsia",
+      "Epilepsy",
+      "Hypocalcaemia",
+      "Postpartum psychosis",
+      "Stroke"
+    ],
+    "correct_option": 0,
+    "explanation": "Eclampsia\nEclampsia is a condition characterised by the occurrence of seizures in a woman with pre-eclampsia, typically during pregnancy or shortly after delivery. It is most common in the first postpartum week and can occur even if the woman did not have seizures during pregnancy. The normal neurological examination suggests that the seizures are not due to a structural brain lesion or chronic epilepsy. Eclampsia requires prompt treatment to prevent further complications, including maternal and fetal morbidity.\n\nEpilepsy\nEpilepsy is a chronic condition characterised by recurrent seizures due to abnormal electrical activity in the brain. However, the sudden onset of seizures in the postpartum period in a woman with no prior history of epilepsy makes this diagnosis less likely. The normal neurological examination does not rule out epilepsy but makes it less probable in this acute setting.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "1fcb9ade-5a99-4e1c-8e0b-fccfd721f582",
+    "stem": "A 48-year-old man presents to the Emergency Department with a sudden onset of right-sided headache and visual disturbance. On examination, he has a right-sided dilated pupil, ptosis, and the right eye is positioned down and out, with difficulty moving the eye medially or upwards. What is the most likely diagnosis?",
+    "options": [
+      "Horner's syndrome",
+      "Myasthenia gravis",
+      "Oculomotor nerve palsy",
+      "Optic neuritis",
+      "Trochlear nerve palsy"
+    ],
+    "correct_option": 2,
+    "explanation": "Oculomotor nerve palsy\nOculomotor nerve palsy is characterised by a combination of symptoms, including ptosis, a dilated pupil, and impaired eye movements. The oculomotor nerve innervates most of the extraocular muscles, the levator palpebrae superioris, and the sphincter pupillae. When this nerve is affected, patients often present with a dilated pupil due to unopposed action of the sympathetic system, ptosis from levator palpebrae superioris paralysis, and inability to move the eye in certain directions, except abduction. The sudden onset of these symptoms, particularly with headache, may suggest an aneurysm or other acute causes affecting the nerve.\n\nHorner's syndrome\nHorner's syndrome is characterised by ptosis, miosis (constricted pupil), and anhidrosis, resulting from disruption of sympathetic pathways. The presence of a dilated pupil in this patient makes Horner's syndrome unlikely. Additionally, Horner's syndrome does not typically cause ophthalmoplegia.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ff055828-d080-421b-ba9f-24f6ea94beba",
+    "stem": "A 34-year-old man presents to the Emergency Department after a road traffic accident. He has bilateral periorbital swelling and bruising. He denies any loss of consciousness but complains of a headache. On examination, there is also bruising over the mastoid process. What is the most likely diagnosis?",
+    "options": [
+      "Extradural haematoma",
+      "Fracture at the base of the skull",
+      "Intracerebral haemorrhage",
+      "Subarachnoid haemorrhage",
+      "Subdural haematoma"
+    ],
+    "correct_option": 1,
+    "explanation": "Fracture at the base of the skull\nA fracture at the base of the skull, particularly involving the anterior cranial fossa, can lead to bilateral periorbital bruising (raccoon eyes). This occurs due to blood tracking into the soft tissues around the eyes. Other signs may include cerebrospinal fluid rhinorrhoea or otorrhoea and Battle's sign (bruising over the mastoid process). Given the presence of periorbital bruising after trauma, this is the most likely diagnosis.\n\nExtradural haematoma\nAn extradural haematoma is typically associated with a brief loss of consciousness followed by a lucid period and then rapid deterioration following a head injury and is often linked to a temporal bone fracture affecting the middle meningeal artery. Periorbital swelling and bruising over the mastoid process are not characteristic features of an extradural haematoma.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3976e966-082f-48f2-813a-5f8840cdafa0",
+    "stem": "A 54-year-old woman presents to the Emergency Department with sudden onset of right arm and leg weakness on day 10 after endovascular coiling for a subarachnoid haemorrhage. She had initially shown significant improvement after the procedure and is otherwise alert and oriented. On examination, she has 3/5 power in the right upper and lower limbs. What is the most likely cause of her new neurological deficit?",
+    "options": [
+      "Cerebral vasospasm",
+      "Hydrocephalus",
+      "Re-bleeding",
+      "Seizure",
+      "Embolic stroke"
+    ],
+    "correct_option": 0,
+    "explanation": "Cerebral vasospasm\nCerebral vasospasm is a common complication occurring after a subarachnoid haemorrhage, typically peaking around 4 to 10 days post-bleed. It results from the irritation of cerebral arteries by breakdown products of blood, leading to their constriction and a subsequent reduction in cerebral blood flow. This can cause focal neurological deficits, such as weakness, due to ischaemia in the affected brain regions. The timing of the weakness in this patient, ten days after the initial SAH, aligns with the typical window for vasospasm, making it the most likely cause.\n\nHydrocephalus\nHydrocephalus can occur after SAH due to obstruction of cerebrospinal fluid pathways by blood clots. It often occurs within the first three days post-haemorrhage and typically presents with symptoms such as headache, nausea, vomiting and altered mental status rather than focal neurological deficits such as isolated limb weakness. The presentation of hydrocephalus is usually more global and would likely involve more diffuse symptoms rather than unilateral weakness.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "d1cc393b-4fa0-4f37-adc3-4655936899fb",
+    "stem": "A 56-year-old woman presents to the Emergency Department with a six-month history of recurrent uncontrollable blinking and periocular muscle spasms, which worsen towards the end of the day and interfere with reading and driving. Examination is normal except for increased blinking. What is the most appropriate first-line treatment for her condition?",
+    "options": [
+      "Botulinum toxin injections",
+      "Carbamazepine",
+      "Propranolol",
+      "Sertraline",
+      "Trihexyphenidyl"
+    ],
+    "correct_option": 0,
+    "explanation": "Botulinum toxin injections\nBotulinum toxin injections are the most appropriate treatment for primary blepharospasm. This condition is characterised by involuntary spasms of the eyelid muscles leading to excessive blinking. Botulinum toxin works by blocking the release of acetylcholine at the neuromuscular junction, which reduces muscle contractions. It is considered the first-line treatment due to its efficacy in reducing symptoms and improving quality of life in patients with blepharospasm.\n\nCarbamazepine\nCarbamazepine is an anticonvulsant that is primarily used in the treatment of epilepsy and neuropathic pain. It is not effective for treating primary blepharospasm as it does not target the underlying muscle spasms associated with this condition. While carbamazepine can be used for other neurological disorders involving involuntary movements, it is not appropriate for blepharospasm. Additionally, carbamazepine has a side effect profile that includes dizziness and drowsiness, which may not be well tolerated by patients.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "f3f13f3d-37c0-4fbf-ac12-4b86e6199ffa",
+    "stem": "A 62-year-old man presents to the Emergency Department with difficulty speaking. He is able to understand spoken language and can follow commands, but struggles to repeat words and phrases. His speech is fluent but contains frequent paraphasic errors. Neurological examination is otherwise normal. What is the most likely type of aphasia he is experiencing?",
+    "options": [
+      "Broca's aphasia",
+      "Conduction aphasia",
+      "Global aphasia",
+      "Transcortical motor aphasia",
+      "Wernicke's aphasia"
+    ],
+    "correct_option": 1,
+    "explanation": "Conduction aphasia\nConduction aphasia is characterised by fluent speech with good comprehension but poor repetition. Patients often make paraphasic errors and have difficulty repeating phrases despite understanding them. This condition is due to damage to the arcuate fasciculus, which connects Broca's and Wernicke's areas. The vignette describes a patient with these exact symptoms, making conduction aphasia the most likely diagnosis.\n\nBroca's aphasia\nBroca's aphasia (motor or expressive aphasia) is characterised by non-fluent speech with good comprehension, but repetition abilities are affected to varying degrees. Patients typically have difficulty with speech production and often speak in short, broken sentences. They can understand language well and are usually aware of their difficulties. This does not match this patient, who has fluent speech with paraphasic errors and difficulty with repetition.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "e8ed2881-e208-412a-b7bd-fb952cec9d99",
+    "stem": "A 65-year-old man presents to the Dermatology Clinic with a non-healing ulcer on his lower lip. A biopsy confirms a diagnosis of squamous cell carcinoma (SCC). Which feature of the tumour has the highest poor impact on his prognosis?",
+    "options": [
+      "Histological differentiation",
+      "Lymphovascular invasion",
+      "Perineural invasion",
+      "Tumour location",
+      "Tumour thickness"
+    ],
+    "correct_option": 2,
+    "explanation": "Perineural invasion\nPerineural invasion (PNI) is a particularly important adverse prognostic factor in cutaneous SCC. It refers to the presence of tumour cells surrounding or infiltrating the nerves, which is associated with an increased risk of local recurrence and regional metastasis. PNI also correlates with higher rates of incomplete surgical excision and can complicate management due to the risk of nerve involvement extending beyond the clinically visible tumour margin. Guidelines from the British Association of Dermatologists consistently highlight PNI as one of the strongest independent predictors of poor outcomes in SCC.\n\nHistological differentiation\nHistological differentiation refers to how closely the tumour cells resemble normal squamous cells. While poor differentiation (ie poorly differentiated tumours) is associated with a more aggressive clinical course in SCC, it is generally considered a secondary prognostic feature. Unlike perineural invasion, it is not as strongly linked to local recurrence or nodal metastasis.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "cf84f532-a73f-4e7b-9d3a-fbf5b680c215",
+    "stem": "A 54-year-old man presents to the Oncology Clinic with a diagnosis of disseminated nasopharyngeal carcinoma. He has a history of recurrent sinus infections and persistent nasal obstruction. Biopsy of the nasopharyngeal tumour reveals undifferentiated carcinoma. Which organism is most likely associated with this type of cancer?",
+    "options": [
+      "Epstein-Barr virus",
+      "Human papillomavirus",
+      "Helicobacter pylori",
+      "Hepatitis B virus",
+      "Human immunodeficiency virus"
+    ],
+    "correct_option": 0,
+    "explanation": "Epstein-Barr virus\nEpstein-Barr virus (EBV) is strongly associated with nasopharyngeal carcinoma, particularly the undifferentiated type. EBV is a herpesvirus that infects epithelial cells and B lymphocytes, leading to a latent infection. In endemic regions such as Southeast Asia, EBV is implicated in the pathogenesis of nasopharyngeal carcinoma. The virus's oncogenic potential is linked to its ability to induce cellular proliferation and evade immune detection, contributing to tumour development.\n\nHuman papillomavirus\nHuman papillomavirus (HPV) is primarily associated with squamous cell carcinoma of the oropharynx, particularly in the tonsillar region, rather than nasopharyngeal carcinoma. While HPV is a significant risk factor for head and neck cancers, its role in nasopharyngeal carcinoma is minimal compared to EBV. HPV-related cancers often have a better prognosis due to increased radiosensitivity.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "ff3cd1e9-08a7-4c08-94c2-1ea8edc98789",
+    "stem": "A 45-year-old woman presents to the General Practitioner for genetic counselling after her sister was diagnosed with breast cancer. Genetic testing reveals that she carries a BRCA2 gene mutation. Which of the following cancers is she most likely at risk of developing?",
+    "options": [
+      "Colorectal cancer",
+      "Lung cancer",
+      "Ovarian cancer",
+      "Pancreatic cancer",
+      "Thyroid cancer"
+    ],
+    "correct_option": 2,
+    "explanation": "Ovarian cancer\nWomen with a BRCA2 gene mutation have a significantly increased risk of developing breast and ovarian cancer compared to the general population. The BRCA2 gene is involved in DNA repair and when mutated it can lead to the accumulation of genetic errors that contribute to cancer development. The lifetime risk of ovarian cancer in BRCA2 mutation carriers is estimated to be around 10-20%. This is substantially higher than the risk in women without the mutation, which is approximately 1-2%.\n\nColorectal cancer\nWhile BRCA2 mutations are primarily associated with breast and ovarian cancers, they are not significantly linked to an increased risk of colorectal cancer. Colorectal cancer is more commonly associated with other genetic syndromes such as Lynch syndrome. Therefore, the risk of colorectal cancer in BRCA2 mutation carriers is not markedly higher than in the general population.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "0b66772c-00e1-4c82-96ed-597471990ff8",
+    "stem": "A 34-year-old man presents to the Emergency Department with multiple violaceous nodular skin lesions on his lower limbs and face. He has a history of HIV infection and has been non-compliant with his antiretroviral therapy. He also reports a mild non-productive cough and occasional shortness of breath. On examination, the lesions are non-tender and vary in size. Recent laboratory tests show a CD4 count of 100 cells/mm 3. What is the most likely diagnosis?",
+    "options": [
+      "Basal cell carcinoma",
+      "Dermatofibroma",
+      "Kaposi's sarcoma",
+      "Melanoma",
+      "Seborrheic keratosis"
+    ],
+    "correct_option": 2,
+    "explanation": "Kaposi's sarcoma\nKaposi's sarcoma is a vascular tumour associated with Human Herpesvirus 8 (HHV-8) infection and is commonly seen in patients with HIV/AIDS. The lesions typically appear as purple or red nodules or plaques on the skin and can also affect mucosal surfaces and internal organs. The patient's history of HIV infection with non-compliance with antiretroviral therapy and low CD4 count (100 cells/mm³) increases the risk of opportunistic infections and neoplasms such as Kaposi's sarcoma. The mild cough and shortness of breath may also be associated with Kaposi's sarcoma, which can involve the lungs.\n\nBasal cell carcinoma\nBasal cell carcinoma is the most common form of skin cancer and typically presents as a pearly or translucent nodule with telangiectasia, often on sun-exposed areas. It is less likely to present as multiple purple nodules and is not associated with HIV infection. Basal cell carcinoma usually grows slowly and rarely metastasises, which does not match the patient's presentation.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "1d1e4137-0bf2-45d3-a75b-f7ee30cd0ed3",
+    "stem": "A 68-year-old man with advanced cancer takes 240 mg of oral diamorphine daily for pain control. He also currently uses 40mg of oral morphine as needed for breakthrough pain. Despite this, his breakthrough pain remains poorly controlled. What should his breakthrough morphine dose be adjusted to?",
+    "options": [
+      "20 mg",
+      "40 mg",
+      "60 mg",
+      "80 mg",
+      "100 mg"
+    ],
+    "correct_option": 3,
+    "explanation": "80 mg\nThe patient takes 240 mg of oral diamorphine daily for background pain. Using the commonly accepted 1:2 oral conversion ratio (1 mg oral diamorphine ˜ 2 mg oral morphine), this is equivalent to 480 mg of oral morphine daily. According to standard palliative care guidelines, the appropriate dose for breakthrough morphine is approximately one-sixth of the total daily oral morphine dose, which in this case equals 80 mg (480 mg ÷ 6 = 80 mg). Since the patient’s current breakthrough dose of 40 mg is ineffective, it is appropriate to increase the dose to 80 mg, as per standard guidance. This dose adjustment is safe in opioid-tolerant patients and provides proportionate escalation to achieve adequate pain control.\n\n20 mg\nThis dose is significantly below the calculated one-sixth of the total daily morphine equivalent and would likely provide inadequate analgesic benefit for this patient. It represents only one-twenty-fourth of the total daily dose, which is inadequate for breakthrough pain in a patient already receiving high-dose opioids. Administering",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b8ea0392-02fb-47a4-8743-1c45e1e945e4",
+    "stem": "A 78-year-old woman with metastatic lung cancer is receiving end-of-life care. She presents to the Emergency Department with increasing sputum production and haemoptysis. She is confused, agitated and breathless. Her oxygen saturation is 77% on room air, and she does not appear to be in pain. She has been recognised as being in the final hours or days of life. What is the most appropriate management for her symptoms?",
+    "options": [
+      "Administer nebulised saline",
+      "Administer high-flow oxygen",
+      "Start broad-spectrum antibiotics",
+      "Provide sedation with midazolam",
+      "Commence a continuous morphine infusion"
+    ],
+    "correct_option": 3,
+    "explanation": "Provide sedation with midazolam\nSedation using medications such as midazolam is used in palliative care to manage agitation, terminal delirium, and severe distress that is refractory to other treatments. In this case, where the patient is in the final hours to days of life and experiencing significant agitation and confusion, sedation is the most appropriate management. It can alleviate distress, reduce awareness of breathlessness, and improve overall comfort. At this stage, the goal is to prioritise symptom control and quality of life rather than pursue interventions that may prolong suffering without benefit, making this the most appropriate option.\n\nAdminister nebulised saline\nNebulised saline may help to loosen thick respiratory secretions in palliative patients who are struggling to expectorate. However, this patient is confused, agitated, and nearing death, so she likely cannot clear secretions even if loosened. Additionally, nebulised treatments can worsen agitation due to the noise and discomfort of",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "4bd30a1f-8d5b-4e12-923e-00e622ff6ae2",
+    "stem": "A 24-year-old man presents to the General Practitioner with recurrent episodes of vomiting. He believes he is overweight despite a BMI of 20 kg/m 2 and frequently attends the gym. He has a history of multiple drug overdoses and reports episodes of eating large amounts of food in a short period, followed by making himself vomit to prevent weight gain. What is the most likely diagnosis?",
+    "options": [
+      "Anorexia nervosa",
+      "Body dysmorphic disorder",
+      "Borderline personality disorder",
+      "Bulimia nervosa",
+      "Major depressive disorder"
+    ],
+    "correct_option": 3,
+    "explanation": "Bulimia nervosa\nBulimia nervosa is characterised by recurrent episodes of binge eating followed by inappropriate compensatory behaviours, such as self-induced vomiting, to prevent weight gain. Individuals with bulimia often have normal or near-normal body weight. This patient’s recurrent vomiting, distorted body image despite a normal BMI (20 kg/m 2) and frequent gym attendance as a potential compensatory behaviour all support this diagnosis and are all indicative of bulimia nervosa. Additionally, the history of multiple drug overdoses suggests impulsivity is a common feature in bulimia nervosa.\n\nAnorexia nervosa\nAnorexia nervosa is characterised by a significantly low body weight and an intense fear of gaining weight. Although this patient has a distorted body image, his BMI of 20 kg/m2 is within the normal range, which is not consistent with anorexia nervosa. The main mechanism in anorexia nervosa is restriction of food intake rather",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "e5181e56-94db-4f67-ba7e-ff75382b1799",
+    "stem": "A 35-year-old man is brought to the Emergency Department with sudden-onset diarrhoea, vomiting, confusion, hallucinations, rigidity and fever. He has schizophrenia and depression, treated with fluphenazine and fluoxetine. What is the most likely cause of his current symptoms?",
+    "options": [
+      "Anticholinergic toxicity",
+      "Extrapyramidal side effects",
+      "Neuroleptic malignant syndrome",
+      "Serotonin syndrome",
+      "Tardive dyskinesia"
+    ],
+    "correct_option": 3,
+    "explanation": "Serotonin syndrome\nSerotonin syndrome is a potentially life-threatening condition caused by excessive serotonergic activity in the CNS. It is characterised by a triad of cognitive effects (confusion, hallucinations), autonomic instability (hyperthermia, diarrhoea, vomiting), and neuromuscular abnormalities (rigidity, hyperreflexia). This patient is on fluoxetine, an SSRI, which significantly increases serotonin levels, especially in an overdose, as suspected in this case. The sudden onset of confusion, visual hallucinations, gastrointestinal symptoms, rigidity, and hyperthermia, combined with this medication history, strongly suggests serotonin syndrome as the most likely cause.\n\nAnticholinergic toxicity\nThis condition results from the inhibition of acetylcholine receptors and presents with symptoms such as dry mouth, urinary retention, blurred vision, constipation, and confusion. While this patient is confused, other features such as diarrhoea and hyperthermia are not typical of anticholinergic toxicity. Additionally, anticholinergic toxicity would not typically cause rigidity or visual hallucinations. The patient’s Chatmedication history also does not suggest a significant risk for anticholinergic effects, making this diagnosis unlikely.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b2daab27-1b22-4b14-848f-50ea44adb7a9",
+    "stem": "A 35-year-old man presents to the Emergency Department with a high-grade fever and muscle rigidity. On examination, he appears confused and diaphoretic. He has a history of depression. He takes sertraline and recently started taking risperidone three weeks ago, with a dose increase one week ago. What is the most appropriate initial management for this patient?",
+    "options": [
+      "Administer dantrolene",
+      "Administer lorazepam",
+      "Discontinue risperidone",
+      "Discontinue sertraline",
+      "Start IV fluids"
+    ],
+    "correct_option": 2,
+    "explanation": "Discontinue risperidone\nThe most appropriate initial management is to discontinue risperidone, as the patient is likely experiencing neuroleptic malignant syndrome (NMS), a life-threatening reaction to antipsychotics. NMS is characterised by hyperthermia, muscle rigidity, autonomic instability, and altered mental status, features consistent with the recent increase in risperidone dose. Prompt withdrawal of the offending agent is the first and most critical step to prevent clinical deterioration. Supportive care and medications such as dantrolene or bromocriptine may be considered later, but cessation of the antipsychotic remains the priority.\n\nAdminister dantrolene\nWhile dantrolene can be used in the treatment of NMS to help reduce muscle rigidity and hyperthermia, it is not the most appropriate initial step. The first and most critical action is to discontinue the offending antipsychotic medication. Although dantrolene is primarily used in malignant hyperthermia, it can be used in NMS as adjunctive therapy after drug cessation. However, it is not the most appropriate initial option in this case.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "94fa94f1-f60c-4a18-a47a-8017c3f8af75",
+    "stem": "A 45-year-old man presents to the Emergency Department with confusion and lethargy. He has a history of bipolar disorder for which he is taking lithium. Investigation Result Normal value Serum sodium 122 mmol/L 135–145 mmol/L Serum osmolality 260 mOsm/kg 275–295 mOsm/kg Urine osmolality 100 mOsm/kg 300–900 mOsm/kg Urine sodium < 20 mmol/L 20–40 mmol/L What is the most likely cause of his symptoms?",
+    "options": [
+      "Addison's disease",
+      "Diabetes insipidus",
+      "Psychogenic polydipsia",
+      "Syndrome of inappropriate antidiuretic hormone secretion",
+      "Thiazide diuretic use"
+    ],
+    "correct_option": 2,
+    "explanation": "Psychogenic polydipsia\nPsychogenic polydipsia is characterised by excessive water intake, commonly seen in patients with psychiatric disorders such as schizophrenia or bipolar disorder. This leads to dilutional hyponatremia, low serum osmolality, low urine osmolality and low urine sodium concentration, as the kidneys attempt to excrete excess free water. In this patient, the combination of psychiatric history and the specific laboratory results strongly suggests psychogenic polydipsia as the most likely cause.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "6c2e7a6a-881d-44eb-81bd-85169e93a07e",
+    "stem": "A 39-year-old man presents to his General Practitioner claiming that he is being followed by MI5. He states that he knows this because the house opposite his own is painted a certain colour, which he believes is a sign intended specifically for him. What is the most likely psychological phenomenon he is experiencing?",
+    "options": [
+      "Delusion of grandeur",
+      "Delusion of persecution",
+      "Delusion of reference",
+      "Hallucination",
+      "Thought insertion"
+    ],
+    "correct_option": 2,
+    "explanation": "Delusion of reference\nA delusion of reference is a type of delusional belief that occurs when an individual believes that ordinary events, objects or actions in the environment have a special and personal meaning specifically for them. In this scenario, the man believes that the colour of the house is a sign that he is being followed by MI5. This is a classic example of a delusion of reference where the individual misinterprets a neutral event as having a direct personal significance. Such delusions are often seen in schizophrenia and other psychotic disorders.\n\nDelusion of grandeur\nDelusion of grandeur involves an inflated sense of one's own importance, power or identity. Individuals may believe they have special powers, have a unique destiny or are famous or powerful figures. In this case, the man's belief that MI5 is following him because of the colour of a house does not reflect grandiosity, but rather a misinterpretation of external events, making delusion of grandeur an unlikely diagnosis.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "aeee81bb-5b10-423a-9af0-55f659f0e9ba",
+    "stem": "A 25-year-old woman presents to the Emergency Department with visible haematuria, which began one day after developing a sore throat. She has no significant past medical history and is otherwise well. Her BP is 125/80 mmHg and urinalysis shows red blood cell casts. What is the most likely diagnosis?",
+    "options": [
+      "Acute interstitial nephritis",
+      "Alport syndrome",
+      "Goodpasture's syndrome",
+      "Immunoglobulin A nephropathy",
+      "Post-streptococcal glomerulonephritis"
+    ],
+    "correct_option": 3,
+    "explanation": "Immunoglobulin A nephropathy\nImmunoglobulin A (IgA) nephropathy, also known as Berger's disease, is the most common cause of primary glomerulonephritis and is characterised by IgA deposition in the glomeruli. It usually presents with macroscopic haematuria one to two days after developing an upper respiratory tract infection (URTI), such as a sore throat, a key temporal relationship that helps distinguish it from post-streptococcal glomerulonephritis, which usually develops one to three weeks after a URTI. Additionally, IgA nephropathy is more common in young adults and may present with normal BP and renal function, as seen in this vignette. The presence of red blood cell casts on urinalysis confirms glomerular involvement and supports the correct diagnosis of IgA nephropathy.\n\nAcute interstitial nephritis\nAcute interstitial nephritis (AIN) is caused by acute inflammation of the renal tubulointerstitium, most commonly mediated by a hypersensitivity reaction to medications. It is frequently triggered by drugs such as NSAIDs and antibiotics, but can also result from infections and inflammatory conditions. AIN does not typically cause haematuria; instead, it often presents with fever, rash, and peripheral eosinophilia, none of which areAIpresent Tutor in",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "6eed7393-67ca-434c-941c-e61c4791ffc6",
+    "stem": "A 51-year-old man presents to the Emergency Department with generalised oedema. Urinalysis reveals 4+ proteinuria but no haematuria. He has no significant past medical history. Light microscopy examination of a renal biopsy shows no significant abnormalities. What is the most likely diagnosis?",
+    "options": [
+      "Focal segmental glomerulosclerosis",
+      "Immunoglobulin A nephropathy",
+      "Membranous nephropathy",
+      "Minimal change disease",
+      "Post-infectious glomerulonephritis"
+    ],
+    "correct_option": 3,
+    "explanation": "Minimal change disease\nMinimal change disease is a cause of nephrotic syndrome, which is characterised by heavy proteinuria, hypoalbuminaemia, normotension, and oedema. It is more common in children but can also occur in adults. On light microscopy, there are typically no significant abnormalities, which aligns with the clinical findings in this case. The diagnosis is usually confirmed by electron microscopy, which reveals effacement of podocyte foot processes. The absence of haematuria, together with the presence of proteinuria and oedema, and the normal light microscopy findings, strongly support a diagnosis of minimal change disease.\n\nFocal segmental glomerulosclerosis\nFocal segmental glomerulosclerosis (FSGS) can also present with nephrotic syndrome and significant proteinuria. However, it typically shows segmental sclerosis on light microscopy, which would not be described as insignificant. Although FSGS is more common in adults, the normal light microscopy findings make this diagnosis less likely in this case.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "9b31663d-ac9a-4677-9b9c-070b44c72af4",
+    "stem": "A 42-year-old man presents to the Emergency Department with fever, rash and joint pain. He was recently treated with an antibiotic for a UTI. Urinalysis reveals eosinophiluria. What is the most likely diagnosis?",
+    "options": [
+      "Acute glomerulonephritis",
+      "Acute tubular necrosis",
+      "Chronic kidney disease",
+      "Nephrotic syndrome",
+      "Tubulointerstitial nephritis"
+    ],
+    "correct_option": 4,
+    "explanation": "Tubulointerstitial nephritis\nTubulointerstitial nephritis is an inflammatory condition affecting the renal interstitium and tubules, most commonly caused by a hypersensitivity reaction to drugs, particularly antibiotics such as beta-lactams, fluoroquinolones, sulfonamides, and NSAIDs. Symptoms typically develop days to weeks after drug exposure and may include fever, rash and joint pain. Other causes include infections, autoimmune conditions (eg Sjögren’s syndrome, sarcoidosis), and idiopathic forms. A classic diagnostic clue is eosinophiluria, as seen in this case. Furthermore, the combination of systemic symptoms and recent antibiotic use strongly supports the diagnosis. Prompt withdrawal of the offending agent is essential to prevent progression to acute kidney injury.\n\nAcute glomerulonephritis\nAcute glomerulonephritis involves inflammation of the glomeruli and typically presents with haematuria, proteinuria and hypertension. Eosinophiluria is not a typical feature of this condition. The patient's recent antibiotic use and systemic symptoms are more suggestive of an allergic interstitial process rather than glomerular disease. Additionally, acute glomerulonephritis would more likely present with red blood cell casts in the urine rather than eosinophils.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "c3f130a8-b108-4be0-92a6-66a8ff948756",
+    "stem": "A 56-year-old man is referred to the Renal Clinic with a history of polycystic kidney disease (PCKD) and stage 4 chronic kidney disease (CKD). Recent blood tests reveal hyperphosphataemia. Which of the following is the most likely primary reason for the raised phosphate levels in this patient?",
+    "options": [
+      "Decreased intestinal absorption of phosphate",
+      "Decreased renal clearance of phosphate",
+      "Increased dietary intake of phosphate",
+      "Increased renal clearance of phosphate",
+      "Secondary hyperparathyroidism"
+    ],
+    "correct_option": 1,
+    "explanation": "Decreased renal clearance of phosphate\nIn patients with chronic kidney disease, particularly as it progresses, the kidneys lose their ability to effectively excrete phosphate. This is due to a reduction in the number of functioning nephrons, resulting in a decreased glomerular filtration rate (GFR) and impaired phosphate excretion. As a result, phosphate accumulates in the blood, leading to hyperphosphataemia. This is a common finding in CKD caused by conditions such as PCKD.\n\nDecreased intestinal absorption of phosphate\nThis would typically lead to hypophosphataemia rather than hyperphosphataemia. Conditions that cause decreased intestinal absorption include vitamin D deficiency, malabsorption syndromes, or CKD due to the reduction of active vitamin D, which is crucial for intestinal phosphate absorption. In this patient with CKD and PCKD, the primary issue is more related to renal handling of phosphate rather than intestinal absorption.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "4fc62f38-98ca-4349-bc8b-ba9dd1839d92",
+    "stem": "A 39-year-old woman presents to the Emergency Department with confusion and seizures. Investigations reveal a serum sodium level of 110 mmol/L. After initial treatment with IV hypertonic saline, her sodium level rose to 125 mmol/L within 24 hours. What is the most appropriate next step in her management to prevent complications?",
+    "options": [
+      "Administer normal saline",
+      "Continue current treatment",
+      "Initiate fluid restriction",
+      "Monitor neurological status closely",
+      "Slow the rate of sodium correction"
+    ],
+    "correct_option": 4,
+    "explanation": "Slow the rate of sodium correction\nRapid correction of severe hyponatraemia can lead to osmotic demyelination syndrome, also known as central pontine myelinolysis. This condition occurs when brain cells cannot adapt quickly enough to the rapid changes in osmotic pressure, resulting in demyelination. In this patient, the sodium level has increased by 15 mmol/L within 24 hours, which exceeds the recommended safe correction rate of 8-10 mmol/L per day. Slowing the rate of sodium correction is crucial to prevent this serious complication.\n\nAdminister normal saline\nAdministering normal saline would further increase the sodium level rapidly, exacerbating the risk of central pontine myelinolysis. Normal saline is typically used for chronic, asymptomatic hypovolaemic hyponatraemia. In this case, the sodium level has already increased significantly, and further rapid correction is contraindicated. Therefore, this option is inappropriate for preventing complications.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "10a86ecf-1b42-432b-ba59-90a9955372d6",
+    "stem": "A 65-year-old woman presents to the Emergency Department with acute confusion and lethargy. Her serum sodium is 122 mmol/L. She is euvolaemic on examination. Her medications include sertraline for depression and prednisolone for polymyalgia rheumatica. What is the most appropriate initial management for her hyponatraemia?",
+    "options": [
+      "Demeclocycline",
+      "Fluid restriction",
+      "Hypertonic saline",
+      "Increase prednisolone dose",
+      "Stop sertraline"
+    ],
+    "correct_option": 2,
+    "explanation": "Hypertonic saline\nHypertonic (3%) saline is the most appropriate initial treatment for symptomatic hyponatraemia, particularly when neurological symptoms such as confusion or lethargy are present. This patient’s sodium level of 122 mmol/L combined with new-onset confusion and lethargy represents moderate symptomatic hyponatraemia. In this situation, hypertonic saline is recommended to raise the serum sodium by 4–6 mmol/L per day with a maximum of 8-10 mEq/L in 24 hours, aiming to reduce cerebral oedema and prevent progression to seizures or coma.\n\nDemeclocycline\nDemeclocycline induces nephrogenic diabetes insipidus, making it useful in the chronic management of syndrome of inappropriate antidiuretic hormone secretion (SIADH) when other treatments fail. However, it has a delayed onset of action, taking several days to exert its effect, and carries a risk of nephrotoxicity, especially in older adults. For these reasons, demeclocycline is inappropriate in the acute setting, particularly when neurological symptoms are already present.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "5f182cc9-32a0-4c1f-b4c6-6a3b4f06b075",
+    "stem": "A 54-year-old man presents with persistent ankle swelling and fatigue. He has hypertension treated with spironolactone and bendroflumethiazide. Which part of the nephron is the primary site of action of spironolactone?",
+    "options": [
+      "Distal tubules and collecting duct",
+      "Distal convoluted tubule",
+      "Glomerulus",
+      "Loop of Henle",
+      "Proximal convoluted tubule"
+    ],
+    "correct_option": 0,
+    "explanation": "Distal tubules and collecting duct\nSpironolactone is an aldosterone antagonist that primarily acts on the distal tubules and collecting duct of the nephron. It works by competitively inhibiting the action of aldosterone, reducing sodium reabsorption and increasing potassium retention, which can lead to hyperkalaemia. The distal tubules and collecting duct are the final segment of the nephron where fine-tuning of electrolyte and fluid balance occurs, making it the most appropriate site for spironolactone's action.\n\nDistal convoluted tubule\nThe distal convoluted tubule is primarily involved in the reabsorption of sodium and calcium, and it is the main site of action for thiazide diuretics. While some sodium reabsorption occurs in the distal convoluted tubule, it is not alone the primary site of action for aldosterone antagonists.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "0fbf6320-49bf-4d32-8eb3-89a6cf130f3b",
+    "stem": "A 25-year-old woman presents to her General Practitioner with frequent exacerbations of newly diagnosed asthma despite being on a low-dose inhaled corticosteroid/long-acting beta-agonist (ICS/LABA) combination inhaler for the past six weeks. She reports using her inhaler regularly and denies missing any doses, but her symptoms have not improved. She has a history of allergic rhinitis and no recent changes in environment. What is the most appropriate next step in her management?",
+    "options": [
+      "Increase to a medium-dose ICS/LABA combination",
+      "Check inhaler technique",
+      "Add a leukotriene receptor antagonist",
+      "Refer to a respiratory specialist",
+      "Switch to a different LABA"
+    ],
+    "correct_option": 1,
+    "explanation": "Check inhaler technique\nIncorrect inhaler technique is one of the most common causes of poor asthma control. Patients may report using their inhaler regularly but still fail to deliver medication effectively to the lungs. Guidelines recommend always checking technique and adherence before escalating therapy, as this step alone can dramatically improve control. Therefore, this is the most appropriate next step in this patient’s management.\n\nIncrease to a medium-dose ICS/LABA combination\nThis is a reasonable consideration if asthma remains uncontrolled despite good use of low-dose ICS/LABA. Increasing the corticosteroid dose can improve symptoms but carries a higher risk of side effects, such as oral candidiasis and systemic steroid exposure. However, before escalating therapy, it is essential to confirm that the current treatment is being delivered effectively. If inhaler technique or adherence is poor, increasing the dose will not improve control.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "3c1ff013-c1af-4633-8516-b7412357af43",
+    "stem": "A 25-year-old man presents to the Emergency Department with a one-week history of haemoptysis. He has no fever, weight loss, or systemic symptoms. He smokes five cigarettes per day. A chest X-ray reveals right upper lobe collapse. What is the most likely diagnosis?",
+    "options": [
+      "Bronchiectasis",
+      "Bronchial carcinoid",
+      "Pneumonia",
+      "Squamous cell lung cancer",
+      "Tuberculosis"
+    ],
+    "correct_option": 1,
+    "explanation": "Bronchial carcinoid\nBronchial carcinoid tumours, although rare, can occur in younger patients and are known to cause haemoptysis. They are typically central lesions that can lead to bronchial obstruction, resulting in atelectasis or collapse of the lung lobe, as seen in this patient. While smoking is a risk factor for many lung conditions, lung carcinoid is not strongly associated with smoking, making it a plausible diagnosis in a young person with minimal smoking history and these symptoms. The upper lobe collapse on the chest X-ray is consistent with an obstruction caused by a central lesion such as a carcinoid tumour.\n\nBronchiectasis\nBronchiectasis is characterised by chronic cough, sputum production, and recurrent infections, often with a history of childhood infections or conditions such as cystic fibrosis. It typically presents with lower lobe involvement rather than upper lobe collapse. Haemoptysis can occur but is usually associated with chronic symptoms. The patient's smoking history and acute presentation do not align well with bronchiectasis.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "061ecca6-f5ff-4b27-a0a8-59ed53629dec",
+    "stem": "A 25-year-old man is admitted with a spontaneous pneumothorax and undergoes chest tube insertion. Two days later, he develops a fever of 38.5 °C. His chest drain remains functional, and chest X-ray shows no new consolidation. Pleural fluid aspirated from the drain is cloudy, and microscopy shows 2+ polymorphs with few negative gram stain organisms. Which organism is most likely responsible for his fever?",
+    "options": [
+      "Escherichia coli",
+      "Klebsiella pneumoniae",
+      "Pseudomonas aeruginosa",
+      "Staphylococcus aureus",
+      "Streptococcus pneumoniae"
+    ],
+    "correct_option": 2,
+    "explanation": "Pseudomonas aeruginosa\nPseudomonas aeruginosa is a common cause of nosocomial infections, particularly in patients with indwelling devices such as chest tubes. It is a Gram-negative organism that can be difficult to detect on initial Gram stain due to its ability to form biofilms and its low numbers in early infection. The presence of polymorphs without visible organisms suggests a Gram-negative organism that is not easily stained or identified, such as Pseudomonas. This organism is known for its resistance to many antibiotics and its ability to thrive in moist environments, such as those around a chest tube.\n\nEscherichia coli\nE. coli is a Gram-negative bacillus commonly associated with urinary tract infections and abdominal infections. It is less likely to be involved in post-procedural respiratory or pleural infections unless there is a direct contamination from an abdominal source.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "e25452eb-64e2-4f99-85f8-e4533421c047",
+    "stem": "A 62-year-old obese man presents to his General Practitioner with progressive shortness of breath over 6 months. He has a 45 to 50 pack-year smoking history and worked in shipbuilding. Spirometry shows reduced FEV1 and FVC with an FEV1/FVC ratio of less than 0.70, and no reversibility post-bronchodilator. Chest X-ray shows a few bilateral pleural plaques and TLco is reduced. What is the most likely cause of his shortness of breath?",
+    "options": [
+      "Asthma",
+      "Chronic obstructive pulmonary disease",
+      "Obesity",
+      "Pleural plaques",
+      "Pulmonary fibrosis"
+    ],
+    "correct_option": 1,
+    "explanation": "Chronic obstructive pulmonary disease\nChronic obstructive pulmonary disease (COPD) is the most likely cause of this patient's progressive dyspnoea, given his extensive smoking history and the spirometry findings. The FEV1/FVC ratio of less than 0.70 is consistent with airflow obstruction; in restrictive lung disease the ratio is usually normal or elevated. The lack of significant reversibility following a bronchodilator challenge supports a diagnosis of COPD rather than asthma. The reduction in TLco suggests emphysematous changes, which are common in smokers with COPD and contribute to gas exchange impairment. Although pleural plaques are present, they are not typically associated with significant functional impairment, and the overall clinical picture points most clearly to COPD.\n\nAsthma\nAsthma typically presents earlier in life and is associated with variable airflow obstruction that is reversible with bronchodilators. This patient’s lack of reversibility following a bronchodilator test makes asthma less likely. Furthermore, asthma is not usually associated with a reduced TLco unless there is coexisting emphysema,",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b79ec1f7-fab9-4ddb-a6db-529f334e84de",
+    "stem": "A 65-year-old man presents to the Emergency Department with a 3-month history of cough productive of sputum and progressive dyspnoea. He has a 40 pack-year smoking history. A chest X-ray reveals a solitary suspicious mass in the right upper lobe with no visible pleural effusion. What is the most appropriate next investigation?",
+    "options": [
+      "Bronchoscopy",
+      "CT chest",
+      "PET scan",
+      "Sputum cytology",
+      "Thoracentesis"
+    ],
+    "correct_option": 1,
+    "explanation": "CT chest\nA CT scan of the chest is the most appropriate next step in the investigation of a suspected lung cancer following an abnormal chest X-ray. It provides detailed imaging of the lung parenchyma, mediastinum, and pleura, which helps in assessing the size, location, and extent of the mass. It also aids in evaluating lymph node involvement and detecting any metastasis to other thoracic structures. This information is crucial for staging the cancer and planning further diagnostic procedures such as a biopsy.\n\nBronchoscopy\nWhile bronchoscopy is useful for obtaining tissue samples for histological diagnosis, it is not the next step following a suspicious finding on a chest X-ray. A CT chest is typically performed first to better characterise the lesion and guide the bronchoscopy procedure. Bronchoscopy is more invasive and is usually reserved for cases where direct visualisation and biopsy of the airway are necessary.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "cf94c563-ae8a-4271-b186-e2dfd16b8d53",
+    "stem": "A 53-year-old woman presents with sudden-onset pleuritic chest pain and shortness of breath. She recently returned from long-haul travel and is taking the oral contraceptive pill. She is tachycardic and mildly hypoxic but haemodynamically stable. What is the most appropriate test to confirm her diagnosis?",
+    "options": [
+      "Chest X-ray",
+      "CT pulmonary angiography",
+      "D-dimer test",
+      "Echocardiography",
+      "Ventilation-perfusion scan"
+    ],
+    "correct_option": 1,
+    "explanation": "CT pulmonary angiography\nCT pulmonary angiography is the most appropriate diagnostic test to confirm pulmonary embolism in this patient. It is a highly sensitive and specific imaging modality for detecting emboli in the pulmonary arteries. Given the patient's clinical presentation and risk factors, such as recent long-haul travel and use of oral contraceptives, there is a high suspicion of pulmonary embolism. CT pulmonary angiography provides direct visualisation of the pulmonary vasculature and can quickly confirm or rule out the presence of emboli, making it the preferred choice in acute settings.\n\nChest X-ray\nA chest X-ray is not the most appropriate test to confirm a pulmonary embolism, as it does not directly visualise the pulmonary arteries. While it can help rule out other causes of chest pain and dyspnoea, such as pneumonia or pneumothorax, it is not sensitive or specific for pulmonary embolism. Chest X-ray findings in pulmonary embolism are often normal or non-specific, such as pleural effusion or atelectasis.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "e281efef-3eb1-4ade-b5f9-2bb9ada25885",
+    "stem": "A 55-year-old man presents to the Emergency Department with shortness of breath. He has a history of rheumatoid arthritis and his pulmonary function tests show an FEV1: FVC ratio of 0.8 and a reduced transfer factor for carbon monoxide (TLCO). What is the most likely cause of his respiratory symptoms?",
+    "options": [
+      "Asthma",
+      "Chronic obstructive pulmonary disease",
+      "Interstitial lung disease",
+      "Pulmonary embolism",
+      "Pulmonary hypertension"
+    ],
+    "correct_option": 2,
+    "explanation": "Interstitial lung disease\nInterstitial lung disease is the most likely cause of the patient's respiratory symptoms, given his history of rheumatoid arthritis. Rheumatoid arthritis is associated with several pulmonary complications, including interstitial lung disease, which can lead to fibrosis of the lung tissue. The reduced TLCO indicates impaired gas exchange, which is consistent with interstitial lung disease. The FEV1: FVC ratio of 0.8 suggests a restrictive pattern rather than obstructive, which aligns with interstitial lung disease.\n\nAsthma\nAsthma typically presents with an obstructive pattern on pulmonary function tests, characterised by a reduced FEV1: FVC ratio (less than 0.7). The normal FEV1: FVC ratio of 0.8 in this patient does not support a diagnosis of asthma. Additionally, asthma is not commonly associated with a reduced TLCO unless there is significant airway remodelling or other complications. The patient's history of rheumatoid arthritis makes interstitial lung disease a more plausible cause.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "6019cb4f-b8d3-402d-8f6c-d7f3acc14aa2",
+    "stem": "A 28-year-old man presents to the Rheumatology Clinic with persistent lower back pain and stiffness for the past six months. He has been diagnosed with ankylosing spondylitis, and despite a 12-week trial of two different NSAIDs, his symptoms remain poorly controlled. His BASDAI score remains elevated. What is the most appropriate next step in managing this patient’s condition?",
+    "options": [
+      "Adalimumab",
+      "Methotrexate",
+      "Oral corticosteroids",
+      "Physiotherapy",
+      "Sulfasalazine"
+    ],
+    "correct_option": 0,
+    "explanation": "Adalimumab\nAdalimumab is a tumour necrosis factor (TNF) inhibitor that is effective in treating ankylosing spondylitis, especially in patients who do not respond adequately to NSAIDs and his Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) score of 4 units or more and a spinal visual analogue scale (VAS) of 4 cm or more. TNF inhibitors are recommended as the next line of treatment for patients with active disease who have not responded to conventional therapies. Adalimumab has been shown to reduce inflammation and improve physical function in patients with ankylosing spondylitis. It is administered as a subcutaneous injection and requires monitoring for potential side effects such as infections.\n\nMethotrexate\nMethotrexate is primarily used in the treatment of rheumatoid arthritis and certain other inflammatory conditions. While it may be used for peripheral joint involvement in spondyloarthritis, it does not address the axial inflammation characteristic of ankylosing spondylitis. Methotrexate is typically administered orally or via injection and requires regular monitoring of liver function and blood counts due to potential Chat toxicity.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b65695bf-3eaf-4beb-be44-1e403608c7ff",
+    "stem": "A 49-year-old man presents with a 6-week history of sharp right elbow pain, worsened by gripping or shaking hands. Examination reveals tenderness over the lateral epicondyle and pain on resisted wrist extension. What is the most likely diagnosis?",
+    "options": [
+      "Carpal tunnel syndrome",
+      "Cubital tunnel syndrome",
+      "Lateral epicondylitis",
+      "Medial epicondylitis",
+      "Radial tunnel syndrome"
+    ],
+    "correct_option": 2,
+    "explanation": "Lateral epicondylitis\nLateral epicondylitis, also known as tennis elbow, is a common condition characterised by pain over the lateral aspect of the elbow, particularly with activities that involve wrist extension or gripping. The condition results from overuse and microtrauma to the extensor tendons, particularly the extensor carpi radialis brevis, at their origin on the lateral epicondyle of the humerus. The clinical presentation typically includes tenderness over the lateral epicondyle and pain on resisted wrist extension, especially when the elbow is extended, which aligns with the symptoms described in the vignette. Management often involves activity modification, physiotherapy, and, in some cases, corticosteroid injections.\n\nCarpal tunnel syndrome\nCarpal tunnel syndrome is caused by compression of the median nerve at the wrist and typically presents with numbness, tingling, and pain in the thumb, index, middle, and half of the ring finger. Symptoms often worsen at night and may be associated with weakness in thumb abduction. The pain and sensory changes are usually located in the hand, not the elbow, and are not associated with wrist extension. Therefore, carpal tunnel syndrome is unlikely given the patient's symptoms and examination findings.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "5103541b-b27b-4fa0-8166-43e16ec4dcc5",
+    "stem": "A 70-year-old man presents to the Cardiology Clinic with a history of ankylosing spondylitis and reports new- onset breathlessness. On examination, a cardiac murmur is detected. Which type of murmur is most likely associated with his condition?",
+    "options": [
+      "Aortic regurgitation",
+      "Mitral stenosis",
+      "Pulmonary stenosis",
+      "Tricuspid regurgitation",
+      "Ventricular septal defect"
+    ],
+    "correct_option": 0,
+    "explanation": "Aortic regurgitation\nAortic regurgitation is the most likely murmur associated with ankylosing spondylitis. Ankylosing spondylitis is a chronic inflammatory disease that can affect the cardiovascular system, particularly the aortic valve. Inflammation can cause the aortic root to dilate and the valve cusps to thicken, leading to improper closure and regurgitation. This condition can cause a diastolic murmur and symptoms such as breathlessness due to the backflow of blood from the aorta into the left ventricle during diastole.\n\nMitral stenosis\nMitral stenosis is characterised by a diastolic murmur but is typically associated with rheumatic fever rather than ankylosing spondylitis. Rheumatic fever can lead to thickening and fusion of the mitral valve leaflets, causing stenosis. While mitral valve involvement can occur in ankylosing spondylitis, it is less common than aortic valve involvement. Therefore, mitral stenosis is not the most likely murmur in this context.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "645a49b5-ba6d-44a7-91cd-6b431f8cbef1",
+    "stem": "A 55-year-old woman with rheumatoid arthritis presents to the Emergency Department with progressive shortness of breath over the last 8 weeks. Spirometry shows an obstructive pattern with increased total lung capacity. What is the most likely diagnosis?",
+    "options": [
+      "Asthma",
+      "Bronchiolitis obliterans",
+      "Chronic obstructive pulmonary disease",
+      "Pulmonary fibrosis",
+      "Sarcoidosis"
+    ],
+    "correct_option": 1,
+    "explanation": "Bronchiolitis obliterans\nBronchiolitis obliterans is the most likely diagnosis in this scenario. It is characterised by an obstructive pattern on spirometry and often an increased total lung capacity due to air trapping. This condition is a form of small airway disease and is associated with inflammatory processes affecting the bronchioles. The presence of rheumatoid arthritis increases the risk of developing bronchiolitis obliterans, and the clinical presentation of progressive shortness of breath aligns with this diagnosis.\n\nAsthma\nAsthma typically presents with an obstructive spirometry pattern; however, it is less likely in this context due to the patient's age and the presence of rheumatoid arthritis. Asthma is characterised by reversible airway obstruction and often presents with wheezing and episodic symptoms rather than persistent progressive symptoms. Additionally, asthma is not commonly associated with increased total lung capacity unless there is significant air trapping, which is more typical of bronchiolitis in this context. Furthermore, the chronicity and association with rheumatoid arthritis make bronchiolitis a more plausible diagnosis.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "5d167e4c-3f2e-410e-b8bf-05b6f20f8a36",
+    "stem": "A 48-year-old woman presents to her General Practitioner with gritty eyes, dry mouth, parotid swelling and joint pain in her fingers without swelling. What is the most likely diagnosis?",
+    "options": [
+      "Fibromyalgia",
+      "Rheumatoid arthritis",
+      "Sjögren’s syndrome",
+      "Systemic lupus erythematosus",
+      "Thyroid disease"
+    ],
+    "correct_option": 2,
+    "explanation": "Sjögren’s syndrome\nSjögren’s syndrome is an autoimmune disorder characterised by dry eyes and dry mouth due to lymphocytic infiltration of the lacrimal and salivary glands. The gritty sensation in the eyes and parotid gland swelling are classic symptoms of this condition. Joint pain, particularly in the small joints, can also occur in Sjögren’s syndrome, although it typically presents without significant swelling. The combination of these symptoms, along with the patient's age and gender, strongly suggests Sjögren’s syndrome as the most likely diagnosis.\n\nFibromyalgia\nFibromyalgia is a condition characterised by widespread musculoskeletal pain, fatigue, and tenderness in specific areas. It does not typically cause dry eyes or parotid swelling, which are key symptoms in this vignette. Also, joint pain in fibromyalgia is more diffuse and not limited to specific joints, such as the proximal phalanges, which makes fibromyalgia an unlikely diagnosis.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "5172de60-4982-41a1-8508-4ecaa3dc68c2",
+    "stem": "A 52-year-old woman presents to the General Practitioner with pain in the distal phalanges of her hands. She reports that the pain worsens with use and is alleviated by rest. An X-ray of her hands shows loss of joint space. What is the most likely diagnosis?",
+    "options": [
+      "Gout",
+      "Osteoarthritis",
+      "Psoriatic arthritis",
+      "Rheumatoid arthritis",
+      "Systemic lupus erythematosus"
+    ],
+    "correct_option": 1,
+    "explanation": "Osteoarthritis\nOsteoarthritis is the most likely diagnosis, given the patient's age and the presentation of joint pain in the distal phalanges, which worsens with use and improves with rest. The X-ray finding of loss of joint space is characteristic of osteoarthritis, a degenerative joint disease that commonly affects middle-aged and older individuals. It typically presents with joint pain and stiffness, particularly in weight-bearing joints, such as the hips and knees, as well as those frequently used, including the proximal and distal interphalangeal joints and the first carpometacarpal joints of the hands.\n\nGout\nGout is characterised by acute episodes of joint pain, often affecting the big toe, and is caused by the deposition of monosodium urate crystals. It typically presents with sudden onset of severe pain, redness, and swelling in the affected joint. The chronic form of gout can lead to joint damage, but the presentation of pain worsening with use and improving with rest is not typical. Additionally, gout would not typically present with loss of joint space on X-ray as an initial finding.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "9157bf33-3259-4ac1-b01d-f5bd749e04a8",
+    "stem": "A 54-year-old farmer presents to the General Practitioner with complaints of intermittent episodes of finger blanching followed by cyanosis and redness, particularly in cold weather. He reports using vibrating tools regularly as part of his work. On examination, there are no signs of skin thickening or joint deformities. What is the most likely cause of his symptoms?",
+    "options": [
+      "Connective tissue disease",
+      "Secondary Raynaud's phenomenon",
+      "Primary Raynaud's phenomenon",
+      "Smoking",
+      "Thoracic outlet syndrome"
+    ],
+    "correct_option": 1,
+    "explanation": "Secondary Raynaud's phenomenon\nThis is the most likely cause of Raynaud's phenomenon in this patient, given his occupation as a farmer and regular use of vibrating tools. Vibration-induced white finger (VWF) is a secondary form of Raynaud's phenomenon caused by prolonged use of vibrating machinery. The condition is characterised by episodic blanching of the fingers, particularly in response to cold or stress, similar to primary Raynaud's but with an identifiable occupational cause.\n\nConnective tissue disease\nWhile connective tissue diseases such as scleroderma or lupus can cause secondary Raynaud's phenomenon, they are usually associated with other systemic symptoms or signs such as skin thickening, joint pain, or rashes. In this vignette, there are no such systemic features, making this option less likely. Additionally, the patient's occupation and use of vibrating tools point towards an occupational cause rather than an autoimmune one.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "b5b28e6d-6256-4454-9438-71d112536c35",
+    "stem": "A 62-year-old man requests a prostate-specific antigen (PSA) test after reading about prostate cancer screening. He has no urinary symptoms or family history of prostate cancer. In the general population, the prevalence of prostate cancer in men of his age is approximately 10%. The PSA test used has a sensitivity of 80% and a specificity of 90%. What is the positive predictive value (PPV) of the PSA test in this population?",
+    "options": [
+      "10%",
+      "18%",
+      "30%",
+      "48%",
+      "80%"
+    ],
+    "correct_option": 3,
+    "explanation": "48%\nThe positive predictive value (PPV) is the probability that a person with a positive test result truly has the disease. It depends not only on the sensitivity and specificity of the test but also on the prevalence of the disease in the population. In this example, with a prevalence of 10%, a sensitivity of 80%, and specificity of 90%, the PPV can be estimated using the formula: PPV = (sensitivity × prevalence) / [(sensitivity × prevalence) + (1 - specificity) × (1 - prevalence)] PPV = (0.8 × 0.1) / [(0.8 × 0.1) + (0.1 × 0.9)] = 0.08 / (0.08 + 0.09) = 0.08 / 0.17 ˜ 47%, which is closest to 48%. Thus, this means that slightly less than half of those with a positive test truly have prostate cancer.\n\n10%\nThis answer confuses disease prevalence with positive predictive value. While prevalence influences PPV, it is not equivalent to it. A test with reasonable sensitivity and specificity will have a higher PPVChat thanwith theAIbase Tutor prevalence when the disease is not rare. Choosing this option overlooks the impact of the test characteristics.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "a296c43f-6b3b-4a49-95fb-78fc805d4c05",
+    "stem": "A 58-year-old man presents to his General Practitioner to discuss the results of a recent clinical trial he participated in for a new antihypertensive medication. The trial showed that 10% of patients in the placebo group had a myocardial infarction compared to 6% in the treatment group. He asks about the benefit of the drug in terms of relative risk reduction. What is the relative risk reduction of the new antihypertensive medication?",
+    "options": [
+      "2%",
+      "4%",
+      "40%",
+      "60%",
+      "94%"
+    ],
+    "correct_option": 2,
+    "explanation": "40%\nRelative risk reduction (RRR) is calculated using the formula: RRR = (Risk in control group - Risk in treatment group) ÷ Risk in control group. In this case, the risk in the placebo group is 10% (0.10) and in the treatment group is 6% (0.06). Therefore, RRR = (0.10 - 0.06) ÷ 0.10 ×100%= 0.04 ÷ 0.10 = 0.4, or 40%. This value reflects the proportion by which the risk is reduced in the treatment group relative to the control group, making 40% the correct answer.\n\n2%\nThis value underestimates the actual benefit. A 2% figure may be confused with a minimal difference in rates, but it does not apply in this case. The relative risk reduction considers the proportion of reduction in risk between the treatment and control groups.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  },
+  {
+    "id": "03cfb2eb-8242-4900-acf4-da803a8d0587",
+    "stem": "A 35-year-old man with haemophilia presents to the Genetic Counselling Clinic with his 32-year-old wife, who is a known carrier of the haemophilia gene. They are concerned about the genetic implications for their future children. What is the probability that their daughter will have haemophilia?",
+    "options": [
+      "0%",
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correct_option": 2,
+    "explanation": "50%\nA daughter inherits one X chromosome from each parent. In this case, the father has haemophilia and therefore passes on his affected X chromosome to all of his daughters. The mother is a carrier, so she has a 50% chance of passing either her normal X or her affected X. If the mother passes on her affected X, the daughter will inherit two affected X chromosomes and thus have haemophilia. Therefore, there is a 50% chance that a daughter of this couple will have haemophilia.\n\n0%\nThis option is incorrect because it fails to consider that both parents carry the affected gene. While haemophilia is less common in females due to its X-linked recessive inheritance, it can still occur when a daughter inherits two defective X chromosomes. Since the father is affected and the mother is a carrier, there is a possibility of this combination occurring. Therefore, it is not accurate to state that there is a 0% chance of the daughter having haemophilia.",
+    "tags": [
+      "MAy 2025"
+    ],
+    "source": "PastPapers"
+  }
+]

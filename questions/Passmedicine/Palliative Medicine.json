@@ -1,0 +1,648 @@
+[
+  {
+    "id": "eb8e5dbb-0b29-4dc1-a053-ac7e5cbc55fa",
+    "stem": "A 76-year-old female with multiple myeloma is experiencing acute back pain. Her oral regular analgesic medications include 7.5mg morphine QDS and 1g paracetamol QDS. What breakthrough dose of morphine should be given?",
+    "options": [
+      "2mg",
+      "5mg",
+      "7.5mg",
+      "10mg",
+      "15mg"
+    ],
+    "correct_option": 1,
+    "explanation": "5mg\nBreakthrough dose = 1/6th of daily morphine dose. The total daily dose of morphine is equal to 30mg (7.5*4). The breakthrough dose is 1/6 of the total daily dose of morphine which is 5mg (30/6).",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "6b7309f4-13dd-4136-a4f5-65a88dc3ab3e",
+    "stem": "A 65-year-old man is reviewed on the inpatient ward round by the palliative care team. He has a past medical history of metastatic lung cancer and has been admitted for optimization analgesia due to worsening chest wall pain. He has been commenced on oral paracetamol 1g four times daily, oral codeine phosphate 60mg four times daily and oral immediate-release morphine 5mg four times daily and his pain is now well controlled. A decision is made to rationalize his opiate medication into a modified-release regimen. From the list below, what dosing schedule is most appropriate?",
+    "options": [
+      "Modified release oral morphine 5mg twice daily",
+      "Modified release oral morphine 10mg twice daily",
+      "Modified release oral morphine 15mg twice daily",
+      "Modified release oral morphine 20mg twice daily",
+      "Modified release oral morphine 30mg twice daily"
+    ],
+    "correct_option": 3,
+    "explanation": "Modified release oral morphine 20mg twice daily\nModified release oral morphine 20mg twice daily is the correct answer. He is taking 240mg codeine daily and 20mg oral morphine daily. 240mg codeine is equivalent to 24mg of morphine. 24mg + 20mg = 44mg of total daily morphine. The closest approximation to this dose is 20mg twice daily of oral modified release morphine.\n\nModified release oral morphine 5mg twice daily\nAll of the other options are incorrect as they are worse approximations of his current medication regimen, which is controlling his pain.\n\nModified release oral morphine 10mg twice daily\nAll of the other options are incorrect as they are worse approximations of his current medication regimen, which is controlling his pain.\n\nModified release oral morphine 15mg twice daily\nAll of the other options are incorrect as they are worse approximations of his current medication regimen, which is controlling his pain.\n\nModified release oral morphine 30mg twice daily\nAll of the other options are incorrect as they are worse approximations of his current medication regimen, which is controlling his pain.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "578236d3-a30e-4093-b278-ebc6a2fa7f8b",
+    "stem": "A 65-year-old man on palliative treatment for metastatic oesophageal cancer is finding it increasingly difficult to take his morphine and as such is in increasing discomfort. His current prescription is for 60 mg BD oral. Which of the following is the most appropriate option to manage his pain?",
+    "options": [
+      "Switch to subcutaneous morphine infusion at 120 mg/24hrs",
+      "Switch to gabapentin",
+      "Switch to fentanyl '100' patch (100 micrograms/hour)",
+      "Switch to subcutaneous morphine infusion at 60 mg/24hrs",
+      "Increase oral morphine solution to 90 mg BD"
+    ],
+    "correct_option": 3,
+    "explanation": "Switch to subcutaneous morphine infusion at 60 mg/24hrs\nThis is correct as a subcutaneous dose of 60 mg/24 hours is equivalent to 120 mg of oral morphine.\n\nSwitch to subcutaneous morphine infusion at 120 mg/24hrs\nThis dose is, therefore, double his current requirements. The ratio of oral to parenterally administered morphine is 2:1, that is to say, subcutaneous or intravenous doses are half that of the oral dose.\n\nSwitch to gabapentin\nThere has been no change in his condition or nature of his pain. As such, it would not be appropriate to switch to a different class of pain relief.\n\nSwitch to fentanyl '100' patch (100 micrograms/hour)\nTransdermal patches are suitable for those with stable levels of pain who will not require regular titration of their pain relief. This will not always be the case in a palliative cancer patient. They should also not be given to opioid naÃ¯ve patients. At this dose, a fentanyl 100 patch will deliver 2400 micrograms or 2.4 mg of fentanyl per 24 hours. The conversion of oral morphine to transdermal fentanyl is however 1:100, and as such this is equivalent to 240 mg oral morphine per 24 hours, double his current requirements.\n\nIncrease oral morphine solution to 90 mg BD\nThis option would be inappropriate as it is the patient's difficulty in taking his pain relief that is causing his pain, not an increase in his pain requirements.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "acba1621-511f-4e54-ab58-862fa13f6270",
+    "stem": "A 69-year-old man with metastatic prostate cancer presents with worsening pain. He currently takes oral modified-release morphine sulphate 60mg bd but it is decided to convert this to subcutaneous administration as he is frequently vomiting. What is the most appropriate dose of morphine to give over a 24 hour period using a continuous subcutaneous infusion?",
+    "options": [
+      "20mg",
+      "30mg",
+      "40mg",
+      "60mg",
+      "120mg"
+    ],
+    "correct_option": 3,
+    "explanation": "60mg\nThe BNF recommend half the oral dose of morphine in this situation:\n\nThe equivalent parenteral dose of morphine (subcutaneous, intramuscular, or intravenous) is about half of the oral dose. If the patient becomes unable to swallow, generally morphine is administered as a continuous subcutaneous infusion\n\nThis patient is on 60mg bd = 120mg. Divided by 2 = 60mg of subcutaneous morphine.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "63c21014-3241-4694-a723-de23b3420349",
+    "stem": "A 78-year-old woman presents to her general practitioner with widespread pains that are increasingly difficult to control. She has a background of lung cancer with bone and liver metastases. Her past medical history also includes stage 5 chronic kidney disease, hypertension and osteoarthritis. What is the most appropriate next step in analgesia for this patient?",
+    "options": [
+      "Buprenorphine",
+      "Codeine",
+      "Diamorphine",
+      "Dihydrocodeine",
+      "Morphine"
+    ],
+    "correct_option": 0,
+    "explanation": "Buprenorphine\nBuprenorphine or fentanyl are the opioids of choice for pain relief in palliative care patients with severe renal impairment, as they are not renally excreted and therefore are less likely to cause toxicity than morphine. This is administered transdermally and, importantly, does not accumulate in renal impairment.\n\nCodeine\nCodeine is a weak opioid. Several of its active metabolites are renally excreted and so codeine should be avoided in patients with stage 4 or 5 chronic kidney disease.\n\nDiamorphine\nDiamorphine is a highly potent opioid sometimes used for severe pain. However, it is ultimately renally excreted and so should be avoided in stage 4 or 5 chronic kidney disease.\n\nDihydrocodeine\nDihydrocodeine is a weak opioid, similar to codeine. It is also renally excreted and should be avoided in patients with stage 4 or 5 chronic kidney disease.\n\nMorphine\nMorphine is generally a first-line agent for moderate to severe pain, particularly in a palliative context. However, it is renally excreted and so should not be used in patients with stage 4 or 5 chronic kidney disease.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "9b9e8145-9fdd-4b6d-83d0-0853df342a86",
+    "stem": "A 68-year-old man with metastatic prostate cancer is reviewed in the oncology clinic. He was started on modified-release morphine 30mg twice daily with 10mg immediate-release morphine for breakthrough pain two weeks ago. He reports persistent pain requiring 4-5 breakthrough doses daily. His bowels are opening regularly with laxatives and initial nausea has resolved. What is the most appropriate next step in managing his analgesia?",
+    "options": [
+      "Increase modified-release morphine to 45mg twice daily",
+      "Increase modified-release morphine to 40mg twice daily",
+      "Increase breakthrough morphine dose to 15mg",
+      "Add paracetamol and ibuprofen",
+      "Switch to transdermal fentanyl patch"
+    ],
+    "correct_option": 0,
+    "explanation": "Increase modified-release morphine to 45mg twice daily\nIn palliative patients increase morphine doses by 30-50% if pain not controlled. Increase modified-release morphine to 45mg twice daily is correct. This patient requires an increase in his background analgesia as evidenced by frequent breakthrough dose requirements (4-5 doses daily). When pain is not adequately controlled on opioids, the dose should be increased by 30-50% according to palliative care guidelines. His current total daily morphine dose is 60mg (30mg twice daily). A 50% increase would give 90mg daily, which equates to 45mg twice daily. This represents appropriate dose escalation. The breakthrough dose should also be adjusted to one-sixth of the new daily dose (15mg). The patient's tolerance of morphine is good, with resolved nausea and controlled bowels, supporting further dose escalation rather than switching to alternative analgesics or routes.\n\nIncrease modified-release morphine to 40mg twice daily\nIncrease modified-release morphine to 40mg twice daily represents only a 33% increase in total daily dose (from 60mg to 80mg daily). Whilst this falls within the acceptable 30-50% range, it represents the lower end and may provide suboptimal pain control. Given this patient is requiring 4-5 breakthrough doses daily, a more substantial increase of 50% would be more appropriate to achieve adequate analgesia. This option might be considered if there were concerns about opioid tolerance or side effects, but the scenario indicates good tolerance.\n\nIncrease breakthrough morphine dose to 15mg\nIncrease breakthrough morphine dose to 15mg addresses only part of the problem. Whilst the breakthrough dose should indeed be increased when background analgesia is increased, the primary issue here is inadequate background pain control, as evidenced by frequent breakthrough requirements. Simply increasing breakthrough doses without adjusting background analgesia would not address the underlying problem and could lead to erratic pain control with peaks and troughs throughout the day.\n\nAdd paracetamol and ibuprofen\nAdd paracetamol and ibuprofen represents a step backwards in the WHO analgesic ladder. This patient is already on strong opioids with inadequate control, indicating the need for opioid dose escalation rather than addition of simple analgesics. Whilst these agents can be used adjunctively, they would not provide sufficient additional analgesia for someone requiring multiple breakthrough opioid doses daily. NSAIDs also carry risks of gastrointestinal and renal side effects in this population.\n\nSwitch to transdermal fentanyl patch\nSwitch to transdermal fentanyl patch is not indicated at this stage. NICE guidelines recommend that oral modified-release morphine should be used in preference to transdermal patches. This patient is tolerating oral morphine well with no significant side effects, and switching formulations would complicate dose titration. Transdermal routes are typically reserved for patients unable to take oral medications or those with specific side effects from oral morphine that might be improved by an alternative opioid.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "8b8cca7a-d41e-47bc-8c8b-9f999491ee5c",
+    "stem": "A 68-year-old woman with advanced metastatic cancer is receiving subcutaneous medications via a syringe driver. She becomes increasingly unsettled with upper abdominal discomfort and audible gurgling sounds during respiration. On examination, her abdomen is mildly distended, with active bowel sounds and intermittent cramping. What is the most effective drug to manage the patient’s symptoms?",
+    "options": [
+      "Glycopyrronium bromide",
+      "Levomepromazine",
+      "Metoclopramide",
+      "Midazolam",
+      "Ondansetron"
+    ],
+    "correct_option": 0,
+    "explanation": "Glycopyrronium bromide\nGlycopyrronium bromide is the most effective treatment for this patient's symptoms. Her abdominal discomfort and intermittent cramping are consistent with bowel colic, and the audible respiratory gurgling suggests terminal respiratory secretions. Glycopyrronium is an antimuscarinic agent that reduces secretions and smooth muscle spasm, making it particularly useful in palliative care settings. Unlike other anticholinergics, it does not cross the blood–brain barrier, reducing the risk of sedation or confusion. It is commonly delivered via syringe driver for combined management of respiratory secretions and bowel colic in terminal care.\n\nLevomepromazine\nLevomepromazine is a broad-spectrum antiemetic and sedative often used in palliative care, particularly when nausea is refractory. However, it does not have antimuscarinic or antispasmodic properties and is not effective for managing respiratory secretions or bowel colic. In this patient, the main issues are secretion accumulation and abdominal cramping, which levomepromazine would not address. Its sedative effect may mask symptoms without treating the underlying causes. Therefore, it is not an appropriate choice in this scenario.\n\nMetoclopramide\nMetoclopramide is a prokinetic and antiemetic drug, useful in nausea related to delayed gastric emptying. While it may seem helpful in a patient with abdominal discomfort, it is contraindicated in bowel colic, as it can exacerbate cramping by increasing gastrointestinal motility. Additionally, it has no effect on respiratory secretions, which are a key concern in this case. Its use would risk worsening abdominal symptoms while failing to address the noisy breathing.\n\nMidazolam\nMidazolam is a short-acting benzodiazepine used in palliative care for agitation, anxiety, and terminal restlessness. Although the patient is described as 'unsettled,' her symptoms are primarily due to bowel colic and secretions, not anxiety. Midazolam does not treat either colicky pain or respiratory gurgling, and would only provide temporary sedation. It would not address the underlying causes of her discomfort, making it an inappropriate first-line option here.\n\nOndansetron\nOndansetron is a 5-HT3 antagonist used to treat nausea and vomiting, particularly that caused by chemotherapy or opioid use. While the patient has some abdominal symptoms, they are not typical of nausea or vomiting and are more consistent with bowel colic. Ondansetron does not relieve abdominal spasm or reduce secretions and therefore would not address the key issues present. Its selection would miss the underlying cause of her distress.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "dc4022d2-6bee-4e3c-81ae-fc5b7da4d435",
+    "stem": "Jean is an 85-year-old lady who is currently suffering from metastatic ovarian cancer. She is currently being treated with palliative intent. She has deteriorated further and her husband calls you for a home visit. She is currently taking 60 mg BD of MST (morphine slow release tablet) but is no longer able to tolerate oral medications. What dose of subcutaneous morphine over 24 hours would you prescribe?",
+    "options": [
+      "60 mg",
+      "30 mg",
+      "120 mg",
+      "20 mg",
+      "90 mg"
+    ],
+    "correct_option": 0,
+    "explanation": "60 mg\nJean is having a total of 120 mg of morphine over 24 hours currently via an oral route. Given that we are converting her from an oral to subcutaneous morphine we must divide by 2. Therefore the correct dose of subcutaneous morphine over 24 hours is 60 mg.\n\n30 mg\n30 mg is incorrect because the correct dose of subcutaneous morphine over 24 hours is 60 mg.\n\n120 mg\n120 mg is incorrect because the correct dose of subcutaneous morphine over 24 hours is 60 mg.\n\n20 mg\n20 mg is incorrect because the correct dose of subcutaneous morphine over 24 hours is 60 mg.\n\n90 mg\n90 mg is incorrect because the correct dose of subcutaneous morphine over 24 hours is 60 mg.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "2ef658d2-1370-4a5a-afa0-36583160a57e",
+    "stem": "A 68-year-old man with metastatic pancreatic cancer is admitted with intractable vomiting and is unable to tolerate oral medications. His regular analgesia is modified-release oral morphine 60mg twice daily. Over the past 24 hours, he has also required two 20mg doses of immediate-release oral morphine for breakthrough pain. The decision is made to convert him to a continuous subcutaneous infusion of morphine sulphate. What is the most appropriate total 24-hour dose of subcutaneous morphine sulphate?",
+    "options": [
+      "53 mg",
+      "60 mg",
+      "80 mg",
+      "120 mg",
+      "160 mg"
+    ],
+    "correct_option": 2,
+    "explanation": "80 mg\n80 mg is the correct answer. The calculation for converting from oral morphine to a continuous subcutaneous infusion (CSCI) involves two key steps. First, the total 24-hour oral morphine equivalent dose must be calculated. This includes both the regular background analgesia and any breakthrough doses taken. In this case, the regular dose is 60mg twice daily, totalling 120mg. The patient also took two breakthrough doses of 20mg, totalling 40mg. Therefore, the total 24-hour oral morphine dose is 120mg + 40mg = 160mg. The second step is to convert this oral dose to the equivalent subcutaneous dose. The standard conversion factor from oral morphine to subcutaneous morphine is to divide by two, reflecting the increased bioavailability of the subcutaneous route. Therefore, the correct 24-hour subcutaneous dose is 160mg / 2 = 80mg. This dose would be administered via a syringe driver over 24 hours.\n\n53 mg\n53 mg is incorrect. This dose would be reached by dividing the total 24-hour oral morphine dose (160mg) by three. A division factor of three is used when converting from oral morphine to subcutaneous diamorphine, not subcutaneous morphine. This is a common point of confusion, and it is crucial to use the correct conversion factor for the specific opioid and route being used to avoid dosing errors.\n\n60 mg\n60 mg is incorrect. This dose is calculated by taking only the regular modified-release morphine dose (120mg per 24 hours) and correctly dividing by two. However, this calculation fails to account for the 40mg of breakthrough morphine the patient required. When converting to a syringe driver, it is essential to include the total opioid requirement over the preceding 24 hours to ensure the new regimen provides adequate pain control. Omitting the breakthrough doses would likely result in the patient experiencing undertreated pain.\n\n120 mg\n120 mg is incorrect. This value represents the total daily dose of the patient's regular modified-release morphine (60mg x 2). This calculation makes two errors: it fails to include the breakthrough doses the patient required, and it does not apply the necessary conversion factor for the change in route from oral to subcutaneous. This would result in a significant underdose and inadequate analgesia.\n\n160 mg\n160 mg is incorrect. This is the correct total 24-hour oral morphine equivalent dose (120mg regular + 40mg breakthrough). However, the question asks for the subcutaneous dose. This option fails to account for the increased bioavailability of subcutaneous morphine. The conversion factor of dividing by two must be applied. Prescribing 160mg subcutaneously would represent a significant overdose, doubling the required dose and placing the patient at high risk of opioid toxicity, including respiratory depression and profound sedation.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "ff46e5bf-9764-4d21-9191-7c78df4976ca",
+    "stem": "A 68-year-old woman with metastatic breast cancer presents to the oncology clinic with worsening lower back pain over 3 weeks. She describes constant aching pain rated 7/10, worse at night and when moving. She is currently taking modified-release morphine 60mg twice daily with breakthrough morphine, but reports minimal improvement. CT shows multiple lytic lesions in the lumbar spine. She has already commenced zoledronic acid. What is the most appropriate next step in management?",
+    "options": [
+      "Increase morphine to 90mg twice daily",
+      "Add naproxen",
+      "Switch to transdermal fentanyl",
+      "Palliative radiotherapy",
+      "Add pregabalin"
+    ],
+    "correct_option": 3,
+    "explanation": "Palliative radiotherapy\nPalliative radiotherapy is the most appropriate next step for this patient with metastatic bone pain that is poorly controlled despite adequate opioid analgesia and bisphosphonate therapy. According to SIGN guidelines, metastatic bone pain may respond to strong opioids, bisphosphonates, or radiotherapy. This patient is already on substantial opioid therapy (120mg morphine daily) and has commenced bisphosphonates, yet continues to experience significant pain. Radiotherapy is particularly effective for localised metastatic bone pain and can provide durable pain relief, often within 1-2 weeks of treatment. Given the CT findings of multiple lytic lesions in the lumbar spine corresponding to her symptoms, she would be an excellent candidate for palliative radiotherapy to the affected vertebrae. The constant aching nature and nocturnal worsening are typical features of bone pain that respond well to radiotherapy.\n\nIncrease morphine to 90mg twice daily\nIncrease morphine to 90mg twice daily could provide additional analgesia, but this patient is already on a substantial dose with minimal benefit. Simply escalating opioids without addressing the underlying cause of bone pain is less likely to be effective and increases the risk of opioid-related side effects. While dose escalation may be appropriate, radiotherapy offers a more targeted approach to treating the source of pain.\n\nAdd naproxen\nAdd naproxen might seem logical as NSAIDs are sometimes suggested for bone pain, but SIGN guidelines specifically state that the assertion that NSAIDs are particularly effective for metastatic bone pain is not supported by studies. Additionally, this patient is likely to be at increased risk of NSAID-related complications given her age and potential for other comorbidities.\n\nSwitch to transdermal fentanyl\nSwitch to transdermal fentanyl represents an opioid rotation, which might be considered if there were issues with morphine tolerance or side effects. However, there's no indication in the scenario that the patient is experiencing problematic side effects from morphine, and switching opioids alone is unlikely to significantly improve bone pain that has not responded to adequate morphine dosing.\n\nAdd pregabalin\nAdd pregabalin would be appropriate for neuropathic pain, but this patient's presentation is more consistent with nociceptive bone pain rather than neuropathic pain. The constant aching quality and relationship to movement are typical of bone pain rather than the burning, shooting, or electric shock-like qualities associated with neuropathic pain that would respond to pregabalin.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "70c8be1a-00c6-4a6d-b055-fa6244d97d64",
+    "stem": "A 76-year-old female with stage 4 endometrial cancer is admitted to a hospice for end-of-life care. She has her nausea managed with cyclizine, any agitation managed with midazolam and her increased respiratory secretions managed with hyoscine hydrobromide. Her pain has been self-reported as well-controlled on 240mg a day of oral codeine phosphate tablets. The hospice has decided that all the medications can stay at the same doses, but wish to convert the codeine phosphate to an equivalent dose of oral morphine. What dose of morphine per day should be prescribed?",
+    "options": [
+      "12mg",
+      "24mg",
+      "60mg",
+      "80mg",
+      "120mg"
+    ],
+    "correct_option": 1,
+    "explanation": "24mg\n24mg is the correct answer as oral codeine to oral morphine is a divide by 10 calculation, thus 240/10 = 24mg.\n\n12mg\n12mg is an incorrect conversion for the 240mg daily dose of codeine phosphate.\n\n60mg\n60mg is an incorrect conversion for the 240mg daily dose of codeine phosphate.\n\n80mg\n80mg is an incorrect conversion for the 240mg daily dose of codeine phosphate.\n\n120mg\n120mg is an incorrect conversion for the 240mg daily dose of codeine phosphate.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "c0a30e22-11d4-443d-a739-5ad4c8a642cb",
+    "stem": "A 93-year-old man has been admitted to the medical ward for end-of-life care following an intracranial haemorrhage. You are asked to review his drug chart following his arrival on the ward. The nurse looking after him states that he seems comfortable but has a lot of upper airway secretions. What is the most appropriate first-line subcutaneous medication?",
+    "options": [
+      "Glycopyrronium bromide",
+      "Hyoscine butylbromide",
+      "Levomepromazine",
+      "Metoclopramide",
+      "Midazolam"
+    ],
+    "correct_option": 1,
+    "explanation": "Hyoscine butylbromide\nHyoscine butylbromide (Buscopan) is an antimuscarinic normally used first-line for upper airway secretions in palliative care. It can be given orally or subcutaneously either as required or as a continuous infusion.\n\nGlycopyrronium bromide\nGlycopyrronium bromide is an alternative antimuscarinic for excessive secretions in palliative care but is not normally used first-line. However, it is considered first-line for sialorrhoea (excessive drooling) in, for example, patients with neurodegenerative disorders.\n\nLevomepromazine\nLevomepromazine is indicated for either nausea and vomiting or terminal agitation in palliative care. It is not indicated for upper airway secretions and there is no indication that this patient has either nausea or agitation.\n\nMetoclopramide\nMetoclopramide is used for nausea and vomiting, bowel obstruction or hiccups in palliative care. It has no role in the management of secretions and there is no indication that this patient has nausea, bowel obstruction or hiccups.\n\nMidazolam\nMidazolam is used as an anxiolytic or sedative for agitation or breathlessness in palliative care. It has no role in managing secretions and there is no indication in this scenario that the patient is agitated or breathless.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "a4f1719b-3bb9-499c-be82-5f6312639010",
+    "stem": "A 91-year-old man is admitted with a general decline. During this admission, he is found to have prostate cancer with widespread metastases. This is felt most appropriate for palliative management. He complains of significant pain despite regular paracetamol and codeine. He is frail, but has stable observations and good oral intake. His most recent blood tests are shown below. Hb 140 g/L Male: (135-180) Female: (115 - 160) Platelets 176 * 109/L (150 - 400) WBC 10.6 * 109/L (4.0 - 11.0) Na+ 142 mmol/L (135 - 145) K+ 4.9 mmol/L (3.5 - 5.0) Urea 7.7 mmol/L (2.0 - 7.0) Creatinine 182 µmol/L (55 - 120) What is the most appropriate next step in the management of his pain?",
+    "options": [
+      "Morphine by continuous subcutaneous infusion",
+      "Oxycodone by continuous subcutaneous infusion",
+      "Regular immediate-release oxycodone",
+      "Regular modified-release morphine",
+      "Regular modified-release oxycodone"
+    ],
+    "correct_option": 4,
+    "explanation": "Regular modified-release oxycodone\nRegular modified-release oxycodone is correct. Strong opiate analgesia is appropriate, but as this patient has impaired renal function, oxycodone is the preferred option.\n\nMorphine by continuous subcutaneous infusion\nMorphine by continuous subcutaneous infusion is incorrect. The impaired renal function makes oxycodone a better choice. Additionally, the patient can take oral medication therefore this should be used preferentially.\n\nOxycodone by continuous subcutaneous infusion\nOxycodone by continuous subcutaneous infusion is incorrect as this patient can take oral medication. Oral oxycodone should, therefore, be used preferentially.\n\nRegular immediate-release oxycodone\nRegular immediate-release oxycodone is incorrect, as this will not provide regular, consistent pain relief.\n\nRegular modified-release morphine\nRegular modified-release morphine is incorrect. The impaired renal function makes oxycodone a better choice.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "3340be88-9521-4c0a-8523-93bcaf02d646",
+    "stem": "You are working in palliative care and are asked to see a 60-year-old man due to drowsiness. He has metastatic prostate cancer and chronic kidney disease stage 4. His most troublesome symptoms include pain, nausea, and agitation and he has commenced a syringe driver. When you assess him he responds only to voice. Power is 5/5 in all four limbs but you notice frequent myoclonic jerks. Pupils measure <1mm and do not react to light. What medication is most likely to have contributed to this presentation?",
+    "options": [
+      "Dexamethasone",
+      "Haloperidol",
+      "Levomepromazine",
+      "Midazolam",
+      "Morphine"
+    ],
+    "correct_option": 4,
+    "explanation": "Morphine\nThis is likely opiate toxicity due to morphine which has accumulated due to his chronic kidney disease. The typical presentation can include reduced conscious level, slow respiratory rate, myoclonic jerks, and pinpoint pupils. In the early stages, not all of these features will be present. In patients with CKD, alternative opiates such as oxycodone or alfentanil are preferred to morphine.\n\nDexamethasone\nDexamethasone can cause agitation, confusion, and hyperglycaemia but drowsiness is not a typical side effect.\n\nHaloperidol\nHaloperidol is often used as an anti-emetic in palliative care. It can cause drowsiness and myoclonus has also been reported, but it would not account for pinpoint pupils.\n\nLevomepromazine\nLevomepromazine is used for nausea and terminal agitation. It may cause drowsiness and movement disorders such as tardive dyskinesia, but myoclonus and pinpoint pupils would be unusual.\n\nMidazolam\nMidazolam can cause drowsiness but would not account for myoclonic jerks or pinpoint pupils.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "21f186a7-1f86-498c-b21e-e83d082791e3",
+    "stem": "You are asked to review an 85-year-old man who was admitted 5 days ago with community acquired pneumonia. He has a past medical history of type 2 diabetes mellitus, angina, chronic obstructive pulmonary disease (COPD) and spinal stenosis. Unfortunately, despite optimal ward-based treatment including IV coamoxiclav, the patient has continued to deteriorate. He currently scores 11 on the Glasgow coma scale. His pupils are 3mm bilaterally and reactive to light. He has been unable to take his morning medications which include morphine sulphate modified release (Zomorph) 30mg twice daily, oramorph 10mg as required, and metoclopramide 10mg three times a day. In the past 24 hours, he has used 4 doses of PRN oramorph. He is reviewed on the consultant ward round and the decision is made that he should be for end of life care. He is currently comfortable, with no evidence of hallucinations, pruritis or myoclonus. The nurse asks you to convert his medications to a syringe driver. What will you prescribe?",
+    "options": [
+      "Metoclopramide 30mg s/c + morphine 50mg s/c",
+      "Metoclopramide 30mg s/c + morphine 100mg s/c",
+      "Metoclopramide 30mg s/c + morphine 80mg s/c",
+      "Metoclopramide 30mg s/c + oxycodone 100mg s/c",
+      "Metoclopramide 30mg s/c + oxycodone 50mg s/c"
+    ],
+    "correct_option": 0,
+    "explanation": "Metoclopramide 30mg s/c + morphine 50mg s/c\nDivide by two for oral to subcutaneous morphine conversion. This question is asking you to convert oral morphine to subcutaneous morphine for use in a syringe driver - also known as a continuous subcutaneous infusion (CSCI). The first step to calculate doses for use in a CSCI is to calculate the total 24-hour usage of the drug. We are told this patient is taking both zomorph (modified release morphine), and oramorph (immediate release) - we need to include both of these medications in our calculation. The patient is taking 30mg zomorph twice daily = 60mg/24 hours. He has also taken 4 doses of 10mg oramorph = 40mg/24 hours. This gives us a total of 60mg + 40mg = 100mg/24 hours of oral morphine. In order to convert this to subcutaneous morphine, we must divide by two. Therefore the amount of morphine needed in the CSCI is 100mg/2 = 50mg/24 hours. The patient is comfortable, with no evidence of opioid toxicity, and so there is no indication to change to oxycodone at the moment.\n\nMetoclopramide 30mg s/c + morphine 100mg s/c\nThis option suggests a higher dose of subcutaneous morphine (100mg) than is required. The correct dose, as calculated, is 50mg/24 hours.\n\nMetoclopramide 30mg s/c + morphine 80mg s/c\nThis option suggests a higher dose of subcutaneous morphine (80mg) than is required. The correct dose, as calculated, is 50mg/24 hours.\n\nMetoclopramide 30mg s/c + oxycodone 100mg s/c\nThis option suggests using oxycodone instead of morphine. There is no indication to change to oxycodone as the patient is comfortable and there is no evidence of opioid toxicity.\n\nMetoclopramide 30mg s/c + oxycodone 50mg s/c\nThis option suggests using oxycodone instead of morphine. There is no indication to change to oxycodone as the patient is comfortable and there is no evidence of opioid toxicity.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "8e1a9b1d-4322-447c-9964-3fe00a13e65c",
+    "stem": "A 72-year-old male with metastatic lung cancer is referred to the palliative care team for end of life care. Currently, he takes 10mg oral morphine daily which effectively controls his pain. Anticipatory medications are prescribed in a syringe driver. How much daily subcutaneous morphine needs to be given?",
+    "options": [
+      "3.3mg",
+      "5mg",
+      "6.7mg",
+      "10mg",
+      "15mg"
+    ],
+    "correct_option": 1,
+    "explanation": "5mg\nDivide by two for oral to subcutaneous morphine conversion. Oral morphine is half as strong as subcutaneous/intravenous morphine mainly due to first-pass metabolism.\n\n10mg\nOral morphine is half as strong as subcutaneous/intravenous morphine mainly due to first-pass metabolism. Therefore, 10mg oral morphine would convert to 5mg subcutaneous morphine, not 10mg.\n\n15mg\nOral morphine is half as strong as subcutaneous/intravenous morphine mainly due to first-pass metabolism. Therefore, 10mg oral morphine would convert to 5mg subcutaneous morphine, not 15mg.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "1bb69f0b-c25a-4d07-af5f-529ec4215fef",
+    "stem": "A 64-year-old man presents with a headache. He describes the headache as a constant throbbing pain that is worse in the mornings and improves on standing. It is associated with occasional visual loss lasting for a few seconds at a time. He has a history of metastatic melanoma but has been managing well since starting on Pembrolizumab. On examination, there is no focal neurology. Fundoscopy shows obscuration of the optic disc and peri-papillary halo. What would you recommend to treat his headache?",
+    "options": [
+      "Acetazolamide",
+      "Dexamethasone",
+      "Oxycodone",
+      "Prednisolone",
+      "Sumatriptan"
+    ],
+    "correct_option": 1,
+    "explanation": "Dexamethasone\nHeadache caused by raised intracranial pressure due to brain cancer (or metastases) can be palliated with dexamethasone. This patient describes a headache secondary to raised intracranial pressure - worse in the mornings, improves on standing, occasional visual changes. The fundoscopy findings describe papilloedema and further cement the diagnosis. In this case, the raised intracranial pressure is likely due to metastatic deposits in his brain, melanoma commonly metastasizes to this area. Dexamethasone is the treatment of choice for headaches caused by metastatic disease. It works by reducing surrounding oedema and thus reducing the pressure burden.\n\nAcetazolamide\nAcetazolamide is usually used for the treatment of glaucoma and idiopathic intracranial hypertension. These are not the most likely diagnoses here.\n\nOxycodone\nOxycodone is a good analgesic, but opiate analgesia is associated with medication overuse headache. There is also better evidence for dexamethasone use in high-pressure headaches secondary to metastatic disease in the brain. Oxycodone is therefore not the correct answer.\n\nPrednisolone\nPrednisolone is incorrect. It is less efficacious at reducing cerebral oedema as compared to dexamethasone and so in this circumstance dexamethasone would be the preferred option.\n\nSumatriptan\nSumatriptan is a good medication for migraine but would not be appropriate here. The history is not typical of migraine and given the fundoscopy findings, we know there is an element of raised intracranial pressure.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "15711fd8-cfa3-43fb-9c38-41703cc36f64",
+    "stem": "A 76-year-old man with renal cell carcinoma and lung metastases is admitted to the hospital. He is experiencing significant pain and is deemed to be in the final days of his life. The following blood test results were obtained in the community before his admission: Na+ 142 mmol/L (135 - 145) K+ 4.3 mmol/L (3.5 - 5.0) Bicarbonate 27 mmol/L (22 - 29) Urea 21.2 mmol/L (2.0 - 7.0) Creatinine 356 µmol/L (55 - 120) What is the most appropriate medication to control this man's pain?",
+    "options": [
+      "Buprenorphine",
+      "Low dose ketamine",
+      "Oxycodone",
+      "Paracetamol",
+      "Tramadol"
+    ],
+    "correct_option": 0,
+    "explanation": "Buprenorphine\nBuprenorphine or fentanyl are the opioids of choice for pain relief in palliative care patients with severe renal impairment, as they are not renally excreted and therefore are less likely to cause toxicity than morphine. The patient in this scenario has terminal cancer and requires effective analgesia. Given that he is nearing the end of his life, concerns regarding dependency are not relevant. The blood tests indicate severe renal impairment secondary to renal cell carcinoma. Consequently, analgesics such as buprenorphine or fentanyl would be the preferred choice, as they are primarily metabolised and excreted by the liver, minimising the risk of drug accumulation and toxicity.\n\nLow dose ketamine\nKetamine can be utilised as an anaesthetic agent and may occasionally be used off-label for analgesia within palliative care settings. Its hepatic metabolism allows for its use in patients with severe renal impairment. However, ketamine is generally reserved for use as an adjunctive treatment for refractory pain rather than a first-line option.\n\nOxycodone\nOxycodone is another opioid that can be considered for patients with mild to moderate renal impairment; however, it is still renally excreted and therefore will accumulate in cases of severe kidney impairment. Thus, buprenorphine and fentanyl are typically preferred options within the context of palliative care for patients with substantial renal impairment.\n\nParacetamol\nParacetamol will likely be used in conjunction with buprenorphine or fentanyl but is not a strong enough analgesic to be used for this purpose as a solo agent. Paracetamol is metabolised by the liver and is therefore often used in cases of renal impairment. However, the dose should be reduced when eGFR falls below 10.\n\nTramadol\nTramadol offers effective pain relief and may have a place in palliative care treatment regimens. Nonetheless, given that it is renally excreted, it is generally not recommended for patients with severe renal impairment. Buprenorphine and fentanyl remain the analgesics of choice under these clinical conditions.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "0a731fba-c82d-419d-be38-e3ccec740398",
+    "stem": "A 79-year-old female with a history of COPD and metastatic lung cancer is admitted with increasing shortness of breath. Following discussion with family it is decided to withdraw active treatment, including fluids and antibiotics, as the admission likely represents a terminal event. Two days after admission she becomes agitated and restless. What is the most appropriate management?",
+    "options": [
+      "Subcutaneous midazolam",
+      "Intramuscular haloperidol",
+      "Oral lormetazepam",
+      "Oral haloperidol",
+      "Recommence fluids and antibiotics"
+    ],
+    "correct_option": 0,
+    "explanation": "Subcutaneous midazolam\nThe most appropriate management for this patient is the use of subcutaneous midazolam. Midazolam is a short-acting benzodiazepine that provides sedation, anxiolysis, and amnesia. In this case, it can help to alleviate the patient's agitation and restlessness while providing comfort during the withdrawal of active treatment. The subcutaneous route is preferred in palliative care settings as it allows for continuous administration via a syringe driver, ensuring consistent symptom control.\n\nIntramuscular haloperidol\nIntramuscular haloperidol would not be the best choice in this situation. Haloperidol is an antipsychotic medication used to treat agitation and restlessness, but its intramuscular administration can be painful and distressing for patients. Additionally, haloperidol may cause extrapyramidal side effects such as dystonia or akathisia, which could worsen the patient's symptoms.\n\nOral lormetazepam\nOral lormetazepam is also not ideal for this patient. Lormetazepam is a long-acting benzodiazepine that can cause excessive sedation and respiratory depression in elderly patients with comorbidities such as COPD. Furthermore, oral medications may not be suitable for patients with terminal illness who have difficulty swallowing or are at risk of aspiration.\n\nOral haloperidol\nThe use of oral haloperidol might not provide adequate symptom control in this scenario. Oral administration may be difficult due to swallowing difficulties or aspiration risk, and haloperidol has the potential to cause extrapyramidal side effects that could exacerbate the patient's agitation and restlessness.\n\nRecommence fluids and antibiotics\nRecommencing fluids and antibiotics would go against the decision made by the family to withdraw active treatment in light of her terminal condition. This option would not address her agitation and restlessness, and it would not be in line with the patient's goals of care.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "cc3dda8d-c4a4-49f8-8254-25137cf8034a",
+    "stem": "An 82-year-old woman was admitted with gradually progressive headaches, nausea, and receptive and expressive aphasias. Papilloedema was seen on examination. Her clinical frailty score is 8. Imaging of the brain showed an oedematous left temporal lobe with loss of normal architecture and a 4x4cm heterogeneous mass. She appears to be in distress and paracetamol with morphine sulphate modified-release 10mg twice daily, with immediate-release morphine 5mg, is no longer providing adequate analgesia. What is the appropriate next step in management?",
+    "options": [
+      "Dexamethasone",
+      "Fentanyl patch",
+      "Increased dose of oral morphine",
+      "Referral to palliative care",
+      "Referral to the pain team"
+    ],
+    "correct_option": 0,
+    "explanation": "Dexamethasone\nHeadache caused by raised intracranial pressure due to brain cancer (or metastases) can be palliated with dexamethasone. Dexamethasone can reduce cerebral oedema, and therefore, reduce intracranial pressure, help alleviate symptoms of headaches and improve associated neurological deficits. Once satisfactory improvements have been achieved, the dose should be weaned to the lowest effective dose.\n\nFentanyl patch\nFentanyl patch would not improve the raised intracranial pressure, and can take up to 72 hours to reach peak serum concentrations. Thus, it is not a logical option when analgesia is desired swiftly.\n\nIncreased dose of oral morphine\nIncreased dose of oral morphine would not improve the raised intracranial pressure, therefore, not best placed to manage this patient's headache.\n\nReferral to palliative care\nReferral to palliative care may be required for this patient, and they would be well-placed to guide pain management. However, it may be some time before the referral is received, processed and a member of their team is available to review the patient. As the attending medical team, it would be appropriate to try to provide optimal analgesia whilst the palliative review is awaited.\n\nReferral to the pain team\nReferral to the pain team would also take some time before the patient can be reviewed. However, given this patient's severe frailty it is likely the palliative care team would be involved, and they would be best placed to guide pain management.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "95f292e3-1ed7-4786-8ad5-7976665bb5c6",
+    "stem": "You are reviewing an elderly man with prostate cancer. Unfortunately his pain is not currently controlled by co-codamol 30/500 2 tablets qds and diclofenac 50mg tds. You decide to switch him to oral morphine. What is the conversion factor between oral codeine and oral morphine?",
+    "options": [
+      "Divide by 4",
+      "Divide by 15",
+      "Divide by 6",
+      "Divide by 20",
+      "Divide by 10"
+    ],
+    "correct_option": 4,
+    "explanation": "Divide by 10\nThe correct answer for the conversion factor between oral codeine and oral morphine is to divide by 10. This is based on the general consensus that the potency of oral morphine is approximately 10 times greater than that of oral codeine. Therefore, when converting a patient's dose from codeine to morphine, you should divide the total daily dose of codeine by 10 to obtain the equivalent daily dose of oral morphine.\n\nDivide by 4\nDividing by 4 would overestimate the potency of oral morphine in comparison to oral codeine. This could potentially lead to an excessive dose of morphine being prescribed, which could result in serious adverse effects such as respiratory depression or even overdose.\n\nDivide by 15\nDividing by 15 would underestimate the potency of oral morphine in comparison to oral codeine. This could result in inadequate pain control for the patient, as they would be receiving a lower equivalent dose of morphine than required.\n\nDivide by 6\nDividing by 6 again overestimates the potency of oral morphine compared to oral codeine. Similar to dividing by 4, this could lead to excessive dosing and potential harm to the patient.\n\nDivide by 20\nDividing by 20 significantly underestimates the potency of oral morphine relative to oral codeine. This option would also likely result in inadequate pain control due to underdosing with morphine.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "c8b422a8-6b55-446c-8d1f-eb71dacc042a",
+    "stem": "An 88-year-old woman with advanced, metastatic colon cancer is put onto the end-of-life care pathway after long discussions between the patient, family and healthcare team. The palliative care team have extensive input and are asked to review the patient after she describes significant oral pain. Which of the following would be a useful medication to alleviate this?",
+    "options": [
+      "Benzydamine mouthwash",
+      "Chlorhexidine mouthwash",
+      "Oral glycopyrronium",
+      "Soluble aspirin as a mouthwash",
+      "Transdermal hyoscine"
+    ],
+    "correct_option": 0,
+    "explanation": "Benzydamine mouthwash\nBenzydamine hydrochloride mouthwash or spray may be useful in reducing the discomfort associated with a painful mouth that may occur at the end of life. This, or a spray formulation, may be useful in reducing the discomfort and pain in the mouth that can often occur towards the end of life. Benzydamine is a non-steroidal anti-inflammatory drug which acts topically.\n\nChlorhexidine mouthwash\nChlorhexidine mouthwash may be useful to treat secondary infections or when pain is limiting other mouth care methods such as toothbrushing. It is not known to reduce mouth pain significantly.\n\nOral glycopyrronium\nOral glycopyrronium is often used at the end of life to reduce excessive drooling and secretions. It does not play a role in the alleviation of oral pain.\n\nSoluble aspirin as a mouthwash\nSoluble aspirin, used as a mouthwash, provides no topical relief from pain and so is not recommended.\n\nTransdermal hyoscine\nTransdermal hyoscine is another medication used to reduce oral secretions at the end of life; it does not alleviate oral pain.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "cc1ebb64-1c5e-49f4-87e3-3b4a2a0cc425",
+    "stem": "A 60-year-old veteran with a background of metastatic lung cancer and CKD stage 4 is deteriorating and complains of a chronic generalised pain in his chest. Which regular pain relief would be the most appropriate option for him?",
+    "options": [
+      "Morphine sulphate liquid",
+      "Morphine sulphate tablets",
+      "Diamorphine",
+      "Naproxen",
+      "Oxycodone"
+    ],
+    "correct_option": 4,
+    "explanation": "Oxycodone\nOxycodone - A relatively safer opioid to use as it is mostly cleared by the liver. Other options include fentanyl, buprenorphine, alfentanil and methadone although it is best to discuss with the palliative care team first.\n\nMorphine sulphate liquid\nMorphine sulphate liquid - This is the wrong answer for two reasons: 1. It is short-acting so would be better for PRN use 2. It is not recommended in patients with renal failure as its active metabolites are renally excreted. Immediate release Oxycodone liquid would be the preferred choice for PRN use.\n\nMorphine sulphate tablets\nMorphine sulphate tablets - Active metabolites are renally cleared so not recommended in patients with renal failure.\n\nDiamorphine\nDiamorphine - As above however if a patient is imminently dying, it may be used in a syringe driver preferably after discussion of the risk/benefits with the palliative care team.\n\nNaproxen\nNaproxen - Not recommended as it would be nephrotoxic in this case and also unlikely to provide adequate pain relief for this gentleman.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "22e2a420-6ba6-4f9c-a6ba-205cb27f814c",
+    "stem": "You are reviewing a palliative patient with terminal colon cancer on the ward having been admitted due to reduced oral intake. Following prolonged use, the patient is known to be opioid-tolerant and is currently on a total of 44mg of codeine four times a day. You decide to convert the patient to a morphine-based regime. What regimen should the patient be commenced on?",
+    "options": [
+      "Modified release (MR) morphine 17.6mg twice a day",
+      "Modified release (MR) morphine 22mg twice a day",
+      "Modified release (MR) morphine 4.4mg twice a day",
+      "Modified release (MR) morphine 44mg twice a day",
+      "Modified release (MR) morphine 8.8mg twice a day"
+    ],
+    "correct_option": 4,
+    "explanation": "Modified release (MR) morphine 8.8mg twice a day\nTo convert codeine to morphine you divide by 10. This patient's current total codeine dose is 176mg (4x44mg) and they therefore require 17.6mg of morphine. Divided into two doses this is 8.8mg of morphine twice a day.\n\nModified release (MR) morphine 17.6mg twice a day\n17.6mg of MR morphine twice a day is a total of 35.2mg of morphine a day which is the equivalent of 352mg of codeine (35.2mg x10). This is therefore much higher than the patient's current opioid regimen.\n\nModified release (MR) morphine 22mg twice a day\n22mg of MR morphine twice a day is a total of 44mg of morphine a day which is the equivalent of 440mg of codeine. This is therefore much higher than the patient's current opioid regimen.\n\nModified release (MR) morphine 4.4mg twice a day\n4.4mg of MR morphine twice a day is a total of 8.8mg of morphine a day which is the equivalent of 88mg of codeine. This regimen is therefore lower than the patient's current opioid intake and likely to provide inadequate analgesia.\n\nModified release (MR) morphine 44mg twice a day\n44mg of MR morphine twice a day is a total of 88mg of morphine a day which is the equivalent of 880mg of codeine. This is therefore much higher than the patient's current opioid regimen.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "1591fa19-10f6-49cd-a836-e2db4017e454",
+    "stem": "You are asked to review the palliative care medication for a patient with advanced breast cancer. The patient is opioid-tolerant after prolonged use and is currently on 18mg of oral morphine, four times a day. Which of the following regimes is the correct starting conversion based on the patient's current doses?",
+    "options": [
+      "Morphine modified release (MR) 9mg four times a day with morphine 9mg for breakthrough pain",
+      "Morphine modified release (MR) 18mg four times a day with morphine 3mg for breakthrough pain",
+      "Morphine modified release (MR) 18mg twice a day with morphine 9mg for breakthrough pain",
+      "Morphine modified release (MR) 36mg twice a day with morphine 12mg for breakthrough pain",
+      "Morphine modified release (MR) 72mg once a day with morphine 12mg for breakthrough pain"
+    ],
+    "correct_option": 3,
+    "explanation": "Morphine modified release (MR) 36mg twice a day with morphine 12mg for breakthrough pain\nThe patient's current total morphine requirement is 72mg (4x 18mg); the patient should therefore receive 36mg of modified-release morphine twice a day. Breakthrough dose for increased pain is then set at one-sixth the total daily dose and should be given as required. The patient's current morphine breakthrough dose is 72mg divided by 6 = 12mg. Morphine modified-release should be suitable to cover the patients for a period of 12 hours and so a twice-daily dose should be used, not four times daily. These twice-daily doses can then be adjusted based on how much breakthrough morphine is required over a 24-hour period.\n\nMorphine modified release (MR) 9mg four times a day with morphine 9mg for breakthrough pain\nMorphine modified-release should be suitable to cover the patients for a period of 12 hours and so a twice-daily dose should be used, not four times daily. The breakthrough dose should be 12mg, not 9mg.\n\nMorphine modified release (MR) 18mg four times a day with morphine 3mg for breakthrough pain\nMorphine modified-release should be suitable to cover the patients for a period of 12 hours and so a twice-daily dose should be used, not four times daily. The breakthrough dose should be 12mg, not 3mg.\n\nMorphine modified release (MR) 18mg twice a day with morphine 9mg for breakthrough pain\nThe correct total daily dose of modified-release morphine is 36mg, not 18mg, and the breakthrough dose should be 12mg, not 9mg.\n\nMorphine modified release (MR) 72mg once a day with morphine 12mg for breakthrough pain\nThe correct total daily dose of modified-release morphine is 36mg, not 72mg, and it should be given twice a day, not once a day.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "87e645d7-0245-4423-90ef-6177645ae993",
+    "stem": "A 67-year-old with chronic kidney disease stage 4 and metastatic prostate cancer presents as his pain is not controlled with co-codamol. Which one of the following opioids is it most appropriate to use given his impaired renal function?",
+    "options": [
+      "Buprenorphine",
+      "Morphine",
+      "Hydromorphone",
+      "Diamorphine",
+      "Tramadol"
+    ],
+    "correct_option": 0,
+    "explanation": "Buprenorphine\nThe correct answer is Buprenorphine as it is the safest opioid choice in patients with renal impairment. Buprenorphine undergoes predominantly hepatic metabolism with minimal renal excretion. It is eliminated primarily through the biliary system, with less than 30% excreted in urine. Additionally, its metabolites are not pharmacologically active, making it a particularly safe choice in chronic kidney disease (CKD).\n\nMorphine\nMorphine is not appropriate in severe renal impairment as both morphine and its active metabolites (particularly morphine-6glucuronide) accumulate in renal failure. This accumulation can lead to serious adverse effects including respiratory depression and confusion. The risk is particularly high in CKD stage 4, where glomerular filtration rate is severely reduced.\n\nHydromorphone\nHydromorphone is also problematic in renal impairment. Although it has fewer active metabolites than morphine, its primary metabolite (hydromorphone-3-glucuronide) can accumulate in renal failure and may cause neurotoxicity. Dose adjustment would be required, making it a less suitable choice.\n\nDiamorphine\nDiamorphine is metabolised to morphine in the body, and therefore presents the same risks as morphine in renal impairment. The active metabolites will accumulate, potentially leading to opioid toxicity. It should be avoided or used with extreme caution in severe renal impairment.\n\nTramadol\nTramadol is contraindicated in severe renal impairment as both the parent drug and its active metabolite (O-desmethyltramadol) accumulate. This can lead to increased risk of seizures and serotonin syndrome. Additionally, tramadol's analgesic effect may be reduced in renal failure due to decreased conversion to its active metabolite.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "c352f5eb-69f8-4728-a63f-1018dd161c49",
+    "stem": "A 72-year-old man with metastatic small cell lung cancer is admitted to the local hospice for symptom control. His main problem at the moment is intractable hiccups. What is the most appropriate management?",
+    "options": [
+      "Chlorpromazine",
+      "Codeine phosphate",
+      "Diazepam",
+      "Methadone",
+      "Phenytoin"
+    ],
+    "correct_option": 0,
+    "explanation": "Chlorpromazine\nChlorpromazine is a first-generation antipsychotic drug that has been shown to be effective in the treatment of intractable hiccups, particularly in patients with advanced cancer. The exact mechanism of action is not well understood, but it's believed to involve the modulation of various neurotransmitter systems in the brain. It should be used at the lowest effective dose due to its potential side effects, such as extrapyramidal symptoms and sedation.\n\nCodeine phosphate\nCodeine phosphate is an opioid analgesic used primarily for the relief of mild to moderate pain. While it can suppress cough reflex by a direct effect on the cough centre in the medulla, there's no evidence supporting its use for hiccups.\n\nDiazepam\nDiazepam, a benzodiazepine, is typically used for its anxiolytic, muscle relaxant, and sedative properties. Although it might theoretically help with hiccups due to its muscle-relaxing effects, there's limited clinical evidence supporting this use. Furthermore, using diazepam could potentially cause excessive sedation or respiratory depression in a patient with advanced cancer.\n\nMethadone\nMethadone is another opioid analgesic that's primarily used for severe pain management or opioid detoxification. It has no known efficacy in treating hiccups and could potentially cause serious adverse effects like respiratory depression or addiction.\n\nPhenytoin\nPhenytoin is an antiepileptic medication that stabilises neuronal membranes and decreases seizure activity. While it may have some off-label uses, there's no established role for phenytoin in managing hiccups.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "d703114b-ef6b-4061-9ddd-0c415d9c6dd9",
+    "stem": "A 68-year-old man with advanced lung cancer admitted to a hospice is in distress due to excessive respiratory secretions. He cannot effectively clear these secretions, causing considerable discomfort and anxiety. What is the most appropriate first-line medication to manage this man's secretions?",
+    "options": [
+      "Atropine",
+      "Glycopyrronium bromide",
+      "Haloperidol",
+      "Hyoscine hydrobromide",
+      "Ipratropium bromide"
+    ],
+    "correct_option": 3,
+    "explanation": "Hyoscine hydrobromide\nHyoscine hydrobromide or hyoscine butylbromide is generally used first-line to manage secretions in a palliative care setting. Hyoscine hydrobromide, also known as scopolamine, is the preferred medication for managing excessive upper airway secretions in palliative care. As an anticholinergic agent, it reduces saliva and other respiratory secretions production, thereby alleviating distressing symptoms such as profuse drooling and respiratory discomfort. This can significantly enhance the comfort of patients during end-of-life care. Hyoscine hydrobromide can be administered through various routes including subcutaneous injection, oral administration, or transdermal application using patches.\n\nAtropine\nAlthough atropine shares anticholinergic properties with hyoscine hydrobromide, it is not routinely used as a first-line treatment for respiratory secretions in palliative care settings. Atropine's primary use is in acute scenarios such as bradycardia or organophosphate poisoning within the emergency department due to its rapid onset of action. While atropine can effectively reduce secretions in palliative care, its use is generally reserved for cases requiring more immediate intervention.\n\nGlycopyrronium bromide\nGlycopyrronium bromide also possesses anticholinergic effects and plays a role in managing respiratory secretions. It is frequently prescribed for conditions like COPD and hyperhidrosis (excessive sweating). Despite its efficacy, glycopyrronium bromide is less favoured than hyoscine hydrobromide as an initial treatment option for secretion management within a palliative context. It may be considered when alternative anticholinergics are either ineffective or poorly tolerated by the patient.\n\nHaloperidol\nHaloperidol, an antipsychotic agent commonly used to treat delirium, agitation, and psychosis among hospice patients, has secondary anticholinergic effects that may lead to some reduction in secretions. However, the primary role of haloperidol in palliative care focuses on addressing neuropsychiatric symptoms rather than managing respiratory secretions per se. In situations where patients exhibit agitation, hallucinations or delirium within hospice environments, haloperidol might be indicated.\n\nIpratropium bromide\nIpratropium bromide, another anticholinergic medication, is predominantly utilised as a bronchodilator in the management of chronic obstructive pulmonary disease (COPD) and asthma. It may contribute to a reduction in respiratory secretions; however, it is not the medication of choice for this purpose within palliative care. Its main indication lies in relieving bronchospasm and enhancing airflow during exacerbations of COPD or asthma attacks.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "909cb5db-9d02-498e-80fa-c8760aa5275c",
+    "stem": "A 67-year-old man with lung cancer is currently taking MST 30mg bd for pain relief. What dose of oral morphine solution should he be prescribed for breakthrough pain?",
+    "options": [
+      "5 mg",
+      "10 mg",
+      "15 mg",
+      "20 mg",
+      "30 mg"
+    ],
+    "correct_option": 1,
+    "explanation": "10 mg\nThe correct answer is 10 mg. When prescribing immediate-release oral morphine for breakthrough pain, the standard recommendation is to prescribe one-sixth of the total daily morphine dose. In this case, the patient is taking MST (morphine sulfate tablets) 30mg twice daily, making the total daily dose 60mg. Therefore, one-sixth of 60mg equals 10mg, which should be prescribed as oral morphine solution for breakthrough pain. This can be given up to every 4 hours as needed, with a maximum of 6 doses in 24 hours.\n\n5 mg\n5 mg is too low a dose for breakthrough pain in this scenario. This would represent approximately one-twelfth of the total daily dose, which would likely be insufficient for adequate pain control during breakthrough episodes.\n\n15 mg\n15 mg represents one-quarter of the total daily dose, which is higher than recommended. This could lead to excessive sedation or other opioid-related side effects when used alongside the regular MST dose.\n\n20 mg\n20 mg is too high a dose, representing one-third of the total daily dose. This could potentially cause dangerous levels of sedation and respiratory depression when combined with the background modified-release morphine.\n\n30 mg\n30 mg would be inappropriate as this equals a full regular dose of the patient's MST. Using such a high breakthrough dose could lead to serious adverse effects including severe sedation, respiratory depression, and potentially death. It would represent half of the total daily dose given as a single breakthrough dose.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "f0857fb3-bf72-43d4-ad29-f1e4be6b7fb8",
+    "stem": "A 72-year-old man with metastatic prostate cancer is admitted with worsening bone pain. His current analgesia of paracetamol and codeine is inadequate. Blood tests reveal chronic kidney disease. Urea 18.2 mmol/L (2.0 - 7.0) Creatinine 245 µmol/L (55 - 120) eGFR 22 mL/min/1.73m² (>90) Which opioid would be most appropriate to initiate for his pain management?",
+    "options": [
+      "Morphine",
+      "Oxycodone",
+      "Tramadol",
+      "Buprenorphine",
+      "Codeine"
+    ],
+    "correct_option": 3,
+    "explanation": "Buprenorphine\nBuprenorphine is the most appropriate choice for this patient with severe renal impairment (eGFR 22 mL/min/1.73m²). Unlike other opioids, buprenorphine undergoes hepatic metabolism and is not significantly renally excreted, making it safe in severe chronic kidney disease. The SIGN guidelines specifically recommend buprenorphine (along with fentanyl and alfentanil) for palliative patients with severe renal impairment, as there is minimal risk of drug accumulation and subsequent toxicity. This patient's significantly elevated urea (18.2 mmol/L) and creatinine (245 µmol/L) indicate severe renal dysfunction where renally-excreted opioids would pose substantial risks. Buprenorphine can be administered via transdermal patches or sublingually, providing effective analgesia without the need for dose adjustment in renal impairment. The mnemonic 'bupRENOrphine' helps remember its suitability in renal failure.\n\nMorphine\nMorphine would be inappropriate in this patient with severe renal impairment. Morphine and its active metabolites (particularly morphine-6-glucuronide) are renally excreted and accumulate in kidney disease, leading to prolonged sedation, respiratory depression, and neurotoxicity. Even with dose reduction, morphine carries significant risks in patients with eGFR <30 mL/min/1.73m².\n\nOxycodone\nOxycodone is preferred over morphine in mild-moderate renal impairment but is still not ideal for severe renal dysfunction. While oxycodone has fewer active metabolites than morphine, it still requires dose reduction and careful monitoring in severe CKD. Given this patient's eGFR of 22, oxycodone would require significant dose adjustments and carries risks of accumulation.\n\nTramadol\nTramadol is contraindicated in severe renal impairment. Both tramadol and its active metabolite are renally excreted, leading to accumulation and increased risk of seizures and serotonin syndrome. The prolonged half-life in renal impairment makes tramadol particularly hazardous in this patient.\n\nCodeine\nCodeine is inadequate for this patient's severe cancer pain and inappropriate given his renal impairment. Codeine requires conversion to morphine for analgesic effect, and its metabolites are renally excreted. Additionally, codeine provides insufficient analgesia for metastatic bone pain requiring strong opioid therapy.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "2413df87-3f6c-4b88-932c-18fde479bc18",
+    "stem": "A 78-year-old man presents to the emergency department reporting severe back pain. He has a known diagnosis of prostate cancer with bony metastases. His blood results are as follows: Na 139 mmol/L (135 - 145) K+ 4.0 mmol/L (3.5 - 5.0) Bicarbonate 25 mmol/L (22 - 29) Urea 5.0 mmol/L (2.0 - 7.0) Creatinine 193 µmol/L (55 - 120) eGFR 51 ml/min (>90) What analgesia would be the most appropriate for his pain management?",
+    "options": [
+      "Diamorphine",
+      "IV morphine",
+      "Naproxen",
+      "Oramorph",
+      "Oxycodone"
+    ],
+    "correct_option": 4,
+    "explanation": "Oxycodone\nOxycodone is preferred to morphine in palliative patients with mild-moderate renal impairment. Oxycodone is the opioid of choice in patients with moderate renal impairment as in this patient. It is metabolized in the liver to noroxycodone and oxymorphine and ten percent of unmetabolized oxycodone is renally excreted. Whilst noroxycodone and oxymorphine are renally excreted, generally, their accumulation does not lead to any adverse effects and oxycodone has been monitored as safe to use at half doses with low creatinine clearances.\n\nDiamorphine\nDiamorphine is an incorrect option. Morphine is less appropriate than oxycodone for this patient given his moderate renal impairment. This is because certain opioids including morphine produce toxic metabolites which require renal excretion. Morphine itself produces glucuronide metabolites which hence accumulate in renal failure.\n\nIV morphine\nIV morphine is an incorrect option. Morphine is less appropriate than oxycodone for this patient given his moderate renal impairment. This is because certain opioids including morphine produce toxic metabolites which require renal excretion. Morphine itself produces glucuronide metabolites which hence accumulate in renal failure.\n\nNaproxen\nNaproxen is not generally an appropriate starting medication. The assertion that NSAIDs are particularly effective for metastatic bone pain is not supported by studies. Strong opioids have the lowest number needed to treat for relieving the pain and can provide quick relief.\n\nOramorph\nOramorph is an incorrect option. Morphine is less appropriate than oxycodone for this patient given his moderate renal impairment. This is because certain opioids including morphine produce toxic metabolites which require renal excretion. Morphine itself produces glucuronide metabolites which hence accumulate in renal failure.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "5a3377c6-d60d-4080-ada1-2e3b2782fa7f",
+    "stem": "A 68-year-old woman has been investigated as an inpatient for a six month history of cough and weight loss. Following a CT scan of her chest she is diagnosed with lung cancer. Biopsy and further imaging confirm this to be metastatic small cell lung cancer. After discussion at the multidisciplinary team meeting and subsequently with the patient it is agreed that her treatment be palliative. On the ward she has been taking codeine sulphate 60mg four times a day for pain however this is still poorly controlled. The decision is made to convert this to oral morphine. What is the equivalent dose of oral morphine daily?",
+    "options": [
+      "6mg",
+      "20mg",
+      "24mg",
+      "80mg",
+      "120mg"
+    ],
+    "correct_option": 2,
+    "explanation": "24mg\nCodeine to morphine - divide by 10. This woman is taking 240mg of codeine per day (60mg x 4). To convert to morphine, this figure needs to be divided by 10. This gives a daily dose of 24mg.\n\n6mg\n6mg represents 1/10th of her codeine dose, however as she takes these four times daily the daily dose of morphine required needs to be 4 times this figure.\n\n20mg\n20mg would be 1/12th of the daily dose which is incorrect.\n\n80mg\n80mg is 1/3rd of her daily codeine dose which is an incorrect conversion. Converting oral morphine to subcutaneous diamorphine requires dividing by 3.\n\n120mg\n120mg is half of her daily codeine dose which is an incorrect conversion. Converting oral morphine to subcutaneous morphine requires dividing by 2.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "f6613633-1d79-482d-9809-b9d3d2d4541b",
+    "stem": "An 87-year-old man with metastatic non-squamous cell lung carcinoma was asked to be reviewed for symptom control by nurses due to concerns about his breathing. He had been struggling to breathe over the last couple of hours with harsh breath sounds being heard on inspiration. On auscultation, it is likely this upper airway sounds are being caused by his respiratory secretions. He denied any chest pain and currently reported not feeling nauseous. What would be the most suitable medication to help with his symptoms?",
+    "options": [
+      "Hyoscine hydrobromide",
+      "Midazolam",
+      "Morphine sulphate",
+      "Normal saline nebulisers",
+      "Oxycodone"
+    ],
+    "correct_option": 0,
+    "explanation": "Hyoscine hydrobromide\nHarsh inspiratory breath sounds in the last hours of life are caused by respiratory secretions, and can be treated with hyoscine hydrobromide. Hyoscine butylbromide is the most appropriate first-line medication which can be administered to help reduce respiratory secretions with glycopyrronium bromide a suitable second-line agent.\n\nMidazolam\nMidazolam is commonly used for anxiety/agitation/breathlessness.\n\nMorphine sulphate\nMorphine sulphate is commonly used for pain relief and/or breathlessness.\n\nNormal saline nebulisers\nNormal saline nebulisers can be used to assist sputum expectoration in patients.\n\nOxycodone\nOxycodone is used in patients with renal impairment.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "16bbe20e-ba55-4e87-a2b2-dd02e30aee57",
+    "stem": "You are asked to review a 76-year-old woman on the ward who was admitted for community-acquired pneumonia. She is on palliative care for metastatic lung carcinoma. The patient complains of severe dull pain in her shoulder and back. The patient is not responding to antibiotic treatment and is progressively unwell. Her latest blood test results are as follows: Hb 95 g/L Male: (135-180) Female: (115 - 160) WBC 17.4 * 109/L (4.0 - 11.0) CRP 206 mg/L (< 5) Na+ 139 mmol/L (135 - 145) K+ 5.1 mmol/L (3.5 - 5.0) Urea 12.4 mmol/L (2.0 - 7.0) Creatinine 188 µmol/L (55 - 120) In addition to paracetamol, what is the initial analgesia of choice in this patient?",
+    "options": [
+      "Dexamethasone",
+      "Gabapentin",
+      "Morphine sulfate",
+      "Naproxen",
+      "Oxycodone"
+    ],
+    "correct_option": 4,
+    "explanation": "Oxycodone\nOxycodone is preferred to morphine in palliative patients with mild-moderate renal impairment. This patient is clinically unwell and appears to be approaching the terminal phase of life. The pain here is secondary to a combination of chest infection and carcinoma, and she requires adequate analgesia to maintain her comfort. Her blood results show impaired renal function, in which case oxycodone is the most appropriate analgesia. It is mainly metabolised in the liver, reducing the risk of opioid toxicity.\n\nDexamethasone\nDexamethasone may be useful as adjuvant analgesia in bony and liver capsular pain. However, it is not appropriate as the next choice of analgesia without first trying opioids.\n\nGabapentin\nGabapentin is effective in neuropathic pain, where patients present with burning or shooting pain with sensory disturbance.\n\nMorphine sulfate\nMorphine sulfate is inappropriate as the patient has impaired renal function. The active metabolites accumulate in renal failure and patients are at risk of opioid toxicity such as respiratory depression.\n\nNaproxen\nNaproxen is inappropriate as it is nephrotoxic and can exacerbate the patient's renal impairment.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "1a1abd12-4e33-4288-9494-9a1e192e3063",
+    "stem": "You review a palliative care patient at home. They are currently on 30mg MST bd. This is controlling the pain but the patient is no longer able to swallow. After discussion with all concerned you agree to switch to morphine through a syringe driver. What would be the most appropriate dose to start on?",
+    "options": [
+      "60mg over 24 hours",
+      "30mg over 24 hours",
+      "40mg over 24 hours",
+      "10mg over 24 hours",
+      "6mg over 24 hours"
+    ],
+    "correct_option": 1,
+    "explanation": "30mg over 24 hours\nParenteral diamorphine is approximately three times as potent as oral morphine, so the total daily dosage of oral morphine should be divided by three to obtain the 24-hour subcutaneous dose of diamorphine. The oral to subcutaneous potency ratio of morphine is between 1:2 and 1:3 (that is, the subcutaneous dose is one third to one half of the oral dose). In practice, most centres divide the oral dose by two and re-titrate as necessary. Therefore, 30mg MST bd (60mg total daily dose) divided by 2 gives 30mg over 24 hours.\n\n60mg over 24 hours\n60mg over 24 hours is too high. The oral to subcutaneous potency ratio of morphine is between 1:2 and 1:3, so the subcutaneous dose should be one third to one half of the oral dose.\n\n40mg over 24 hours\n40mg over 24 hours is not the most appropriate dose. The oral to subcutaneous potency ratio of morphine is between 1:2 and 1:3, so the subcutaneous dose should be one third to one half of the oral dose.\n\n10mg over 24 hours\n10mg over 24 hours is too low. The oral to subcutaneous potency ratio of morphine is between 1:2 and 1:3, so the subcutaneous dose should be one third to one half of the oral dose.\n\n6mg over 24 hours\n6mg over 24 hours is too low. The oral to subcutaneous potency ratio of morphine is between 1:2 and 1:3, so the subcutaneous dose should be one third to one half of the oral dose.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "bf3c206b-6a60-46ca-bec0-9859944841b6",
+    "stem": "An 82-year-old man presents to the acute oncology service with poorly controlled pain. He has metastatic prostate cancer and is supported by the community palliative care team. Despite increasing his oral modified-release oxycodone to 20mg twice per day, he has needed to access four breakthrough doses in the last 24 hours. Each breakthrough dose is 5mg of immediate-release oxycodone. You are considering some changes to his analgesia. What is the most appropriate course of action?",
+    "options": [
+      "Increase his modified-release oxycodone to 25mg twice per day",
+      "Increase his modified-release oxycodone to 30mg twice per day and breakthrough dose to 7.5mg",
+      "Increase his modified-release oxycodone to 40mg twice per day and breakthrough dose to 7.5mg",
+      "Increase the breakthrough dose to 7.5mg only",
+      "No change"
+    ],
+    "correct_option": 1,
+    "explanation": "Increase his modified-release oxycodone to 30mg twice per day and breakthrough dose to 7.5mg\nIn palliative patients increase morphine doses by 30-50% if pain not controlled. Increase his modified-release oxycodone to 30mg twice per day and breakthrough dose to 7.5mg is the correct answer. When increasing the dose of maintenance opioids, it is important to consider how much breakthrough analgesia a patient is using. In this scenario, he has required an additional 20mg of immediate-release (IR) oxycodone per day. It is not generally advised to increase opioid doses by more than 30 - 50% in one go due to the risk of toxicity or troublesome side effects. In this scenario, it would be reasonable to increase his modified-release (MR) oxycodone to incorporate the additional four breakthrough doses. Since breakthrough opioids should be dosed between one-sixth and one-tenth of the total daily dose of maintenance opioids, it would be acceptable to dose his breakthrough oxycodone between 6mg and 10mg.\n\nIncrease his modified-release oxycodone to 25mg twice per day\nIncrease his modified-release oxycodone to 25mg twice per day and breakthrough dose to 7.5mg is not correct. Increasing the total maintenance dose of oxycodone from 40mg to 50mg is an overly cautious titration. It would likely mean further changes are required since he has needed 20mg of IR oxycodone in the preceding 24 hours.\n\nIncrease his modified-release oxycodone to 40mg twice per day and breakthrough dose to 7.5mg\nIncrease his modified-release oxycodone to 40mg twice per day and breakthrough dose to 10mg is incorrect. Increasing the total maintenance dose of oxycodone from 40mg to 80mg represents a 100% increase and leaves this patient at risk of toxicity.\n\nIncrease the breakthrough dose to 7.5mg only\nIncrease the breakthrough dose to 7.5mg only. By increasing the breakthrough dose of oxycodone only, this patient will likely become increasingly dependent on the IR preparation. Given its short effect interval, it would risk periods of the day where analgesic control is insufficient. A better approach would be to increase the longer-acting MR oxycodone for effective background control and then use breakthrough doses for episodes of acute pain or before activities known to precipitate pain.\n\nNo change\nNo change is not correct. The patient in this scenario does not have well-controlled pain, despite opioid analgesia. The proper course of action would be to increase his maintenance dose of oxycodone (by no more than 50%) and to ensure his breakthrough dose is between one-sixth and one-tenth of his total daily dose of oxycodone.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "9649f399-c967-4b26-9e2e-6c4fbf42d2bb",
+    "stem": "A 62-year-old woman with known metastatic ovarian cancer is at the end of life, receiving supportive care at home. She has a syringe driver delivering continuous analgesia and antiemetics. Over the past few days, her bowel movements have ceased, and she is in increasing pain. On examination, she is frail, drowsy, and appears uncomfortable. Her abdomen is distended and tender, but not peritonitic. Bowel sounds are high-pitched and frequent. Which option is the best immediate step to alleviate her symptoms?",
+    "options": [
+      "Cyclizine",
+      "Dexamethasone",
+      "Haloperidol",
+      "Hyoscine butylbromide",
+      "Metoclopramide"
+    ],
+    "correct_option": 3,
+    "explanation": "Hyoscine butylbromide\nHyoscine butylbromide is the best choice here as it reduces gastrointestinal secretions and smooth muscle spasms, giving rapid relief of colicky pain and bowel distension. This patient’s most likely diagnosis is malignant bowel obstruction secondary to metastatic ovarian cancer. The diagnosis is supported by abdominal distension, tenderness without peritonitis, absent bowel movements, and high-pitched bowel sounds. In contrast, hyoscine butylbromide provides immediate symptom relief, which is essential in a patient at the end of life with acute distress.\n\nCyclizine\nCyclizine is incorrect. Cyclizine is an antiemetic that blocks histamine and muscarinic receptors, reducing nausea and vomiting but not bowel secretions or smooth muscle spasms. This patient’s primary problem is malignant bowel obstruction with colicky pain, distension, and absent bowel movements. In this context, cyclizine does not relieve acute pain or reduce bowel distension, so it does not address the main issue.\n\nDexamethasone\nDexamethasone is incorrect. Dexamethasone reduces inflammation and oedema in malignant bowel obstruction and is often prescribed. However, it does not provide rapid symptom relief, as its effect develops over several days. In this patient at the end of life with acute colicky pain, hyoscine butylbromide is more appropriate because it directly reduces spasms and secretions, giving faster relief.\n\nHaloperidol\nHaloperidol is incorrect. Haloperidol is an antiemetic and antipsychotic that blocks dopamine receptors, controlling nausea and agitation. It does not reduce bowel secretions or relieve smooth muscle spasms. This patient has mechanical bowel obstruction with colicky pain, distension, and absent bowel movements. Haloperidol may be used for nausea due to metabolic causes or opioid treatment, but it does not address obstruction-related pain or distension.\n\nMetoclopramide\nMetoclopramide is incorrect. Metoclopramide is a prokinetic agent that stimulates gastrointestinal motility. It is contraindicated in complete mechanical bowel obstruction, as in this patient, because it increases peristalsis against a blocked segment. This can worsen pain and lead to perforation. Metoclopramide may be appropriate in functional motility disorders such as gastroparesis, but not in malignant bowel obstruction.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  },
+  {
+    "id": "b0e06aa7-6ff1-4727-a7d8-457dd1824a4a",
+    "stem": "A 72-year-old man with metastatic colon cancer is reviewed. He currently takes co-codamol 30/500 2 tablets qds for pain relief. Unfortunately this is not controlling his pain. What is the most appropriate change to his medication?",
+    "options": [
+      "Switch to MST 15mg bd + paracetamol 1g qds",
+      "Switch to MST 35mg bd + paracetamol 1g qds",
+      "Add tramadol 50-100mg 1-2 qds",
+      "Switch to MST 25mg bd",
+      "Switch to MST 15mg bd"
+    ],
+    "correct_option": 0,
+    "explanation": "Switch to MST 15mg bd + paracetamol 1g qds\nHis total codeine dose is 30 * 2 * 4 = 240 mg/day. Converting this to oral morphine = 24 mg/day. It is therefore reasonable to start MST 15mg bd as his pain is not currently controlled. Paracetamol should be continued as it has been shown to give benefits even to patients on large doses of morphine.",
+    "tags": [
+      "Palliative Medicine"
+    ],
+    "source": "Passmedicine"
+  }
+]

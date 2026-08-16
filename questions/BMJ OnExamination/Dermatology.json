@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "d883717c-aa78-49de-bf83-5c855eca16b4",
+    "stem": "Which of the following statements is correct regarding this patient's condition?",
+    "options": [
+      "It is associated with a reduced diffusion capacity for carbon monoxide",
+      "Rheumatoid factor is positive in more than 90% of cases",
+      "It is associated with an erosive arthritis",
+      "It occurs more commonly in men",
+      "Raynaud's phenomenon is a feature in ~10%"
+    ],
+    "correct_option": 0,
+    "explanation": "The slide shows a patient with systemic sclerosis (SSc).\nFeatures present include:MicrostomiaFacial telangiectasia, andBeaking of the nose.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "7cb706e7-6b8d-461d-8859-156e55083726",
+    "stem": "A 78-year-old gentleman with learning diﬃculties, is admitted to hospital with an acute exacerbation of congestive cardiac failure.\nHe is currently on bumetanide 2 mg TDS, carvedilol 25 mg OD, perindopril 4 mg BD and was recently started on spironolactone 100 mg OD.\nOn examination you notice severe raised plaques of psoriasis covering his chest, elbows, knees and scalp. He mentions that he has beentreating it with topical creams for years but has seen no improvement and did not seek medical advice because he was too embarrassed.\nWhat treatment would you recommend for his psoriasis?",
+    "options": [
+      "Refer for PUVA",
+      "Start on oral steroids and taper off gradually",
+      "Advise tar applications",
+      "Start methotrexate",
+      "Emolient baths and ointments"
+    ],
+    "correct_option": 0,
+    "explanation": "The safest treatment - that which produces the best clinical effect with minimal side effects in this patient - would be psoralen andultraviolet light (PUVA). It requires his carer bringing him in for appointments and the clinic staff recording his progress.\nEmollients, baths and use of methotrexate require a fair amount of input from the patient in order to be effective and safe, whichmay not be the best option in this man.\nOral steroids are contraindicated in psoriasis and although one may see an initial improvement, a very serious rebound effect may beseen.\nCertain drugs can exacerbate psoriasis (such as beta blockers) so the list of medications ought to be reviewed.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "69a74a3f-c0cd-4a76-bb7f-b8101c67b4a4",
+    "stem": "A 26-year-old male epileptic is admitted with temperature and rash.\nOver the last one week a rash has developed and he has become increasingly ill. Recently he has had some problems with epileptic controland has commenced carbamazepine with valproate.\nExamination reveals an unwell patient with a temperature of 39°C, a diffuse erythematous, painful rash with evidence of some lateral slidingof these erythematous areas on palpation.\nThere is also blistering and inﬂammation of the oral cavity.\nWhat is the likely diagnosis?",
+    "options": [
+      "Pustular psoriasis",
+      "Toxic shock syndrome",
+      "Exfoliative dermatitis",
+      "Toxic epidermal necrolysis",
+      "Erythema elevatum diutinum"
+    ],
+    "correct_option": 3,
+    "explanation": "This patient's presentation and clinical description suggests a diagnosis of toxic epidermal necrolysis (TEN) due to carbamazepinetherapy.\nTEN is a severe mucocutaneous exfoliative disease with an uncertain pathogenesis and a high mortality rate.\nIt is diﬃcult to say whether it is another variant of Stevens-Johnson syndrome and treatment of both are similar.\nIt is often idiopathic but may be associated with:Viral infectionsLeukaemiaLymphoma, andDrugs (in particular sulphonamides and anticonvulsants).\nThe suggested association with carbamazipine in this case makes toxic shock syndrome due to Staph. aureus remote, which likepustular psoriasis would not be expected to affect the mucous membranes.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "46e2700c-67c8-4225-a98f-0e5865920575",
+    "stem": "A 45-year-old gardener was referred to the dermatology clinic with a well-circumscribed, raised erythematous lesion on his ﬁnger.\nThe lesion had enlarged steadily over the previous three weeks, was tender and bled easily when touched.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Malignant melanoma",
+      "Keratoacanthoma",
+      "Cutaneous anthrax",
+      "Pyogenic granuloma",
+      "Mycobacterium marinum infection"
+    ],
+    "correct_option": 3,
+    "explanation": "Pyogenic granuloma (lobular capillary haemangioma) is a benign vascular lesion of the skin and mucosa. The cause is unknown.\nThe name is a double misnomer - the lesion is neither pyogenic nor a granuloma.\nPyogenic granulomata are usually solitary lesions, appearing as a glistening red papule or nodule that is prone to bleeding andulceration. Lesions often grow rapidly (over weeks), frequently occurring at sites of trauma and commonly involve the digits, arms,head and face. Pathologically, it is an inﬂammatory lesion composed of granulation tissue and chronic inﬂammatory cells.\nKeratoacanthoma is a low-grade malignancy that originates in the pilosebaceous glands. Clinically and pathologically the lesionsresemble squamous cell carcinoma. Lesions typically are solitary with a central area of ulceration that may contain a characteristickeratin plug.\nCutaneous anthrax would not be expected on the basis of the history given. Anthrax lesions begin as reddened, indurated papules,later becoming necrotic with a characteristic black centre (eschar).\nPictures of cutaneous anthrax appear in the MRCP Part 2 examination, though the usual history given is of someone from (or whohas visited) the Middle East and had contact with cattle/sheep/goats.\nMalignant melanomas may occur at any site, but given the context provided in this case, are a less likely option.\nMycobacterium marinum is the cause of ﬁsh tank granuloma. Lesions are ovoid and usually occur on the hands (following contactwith ﬁsh). Fishermen, ﬁshmongers and tropical ﬁsh enthusiasts are susceptible.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "7f145ea8-d07b-47fe-a27d-9544b85432e6",
+    "stem": "Which of the following is the most important in establishing the cause of these lesions?",
+    "options": [
+      "Erythrocyte sedimentation rate",
+      "Serum angiotensin converting enzyme (ACE)",
+      "Anti-streptolysin O titre",
+      "Skin biopsy",
+      "Chest x ray"
+    ],
+    "correct_option": 4,
+    "explanation": "Erythema nodosum is shown in the slide.\nErythema nodosum is commonly idiopathic, although streptococcal infection is the most common underlying cause.\nHowever, the commonest potentially serious causes (and therefore those that should be excluded ﬁrst) include sarcoidosis andtuberculosis. A chest x ray is an important investigation to exclude both of these causes.\nErythema nodosum can also be related to drugs such as the oral contraceptive pill, sulphonamides and penicillins. Rarer causesinclude inﬂammatory bowel disease, tuberculosis, Behçet's disease and other connective tissue disorders.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "0269c588-a833-4f8f-8d77-d56a8b8e8550",
+    "stem": "Which of the following is not a recognised complication of this condition?",
+    "options": [
+      "Gastrointestinal haemorrhage",
+      "Angioid streaks of the fundus",
+      "Mitral valve prolapse",
+      "Marked joint laxity",
+      "Accelerated atherosclerosis"
+    ],
+    "correct_option": 3,
+    "explanation": "The slide shows the typical 'plucked chicken skin' appearance of pseudoxanthoma elasticum.\nThe disease is rare and is characterised by progressive calciﬁcation and degeneration of elastic ﬁbres and primarily affects the skin,retina and cardiovascular system. Cutaneous manifestations are typical. Small, yellow papules of 1-5 mm in diameter are seen andmay coalesce to form plaques.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "69141228-d276-4e43-bda8-faeb4f33b1f7",
+    "stem": "This patient has an abnormal chest x ray.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Secondary syphilis",
+      "Squamous cell carcinoma",
+      "Tuberculosis (TB)",
+      "Sarcoidosis",
+      "Amyloidosis"
+    ],
+    "correct_option": 2,
+    "explanation": "The slide shows cutaneous tuberculosis (lupus vulgaris).\nCutaneous TB usually occurs due to spread from an endogenous source; more than 80% of cases occur on the face and neck.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "e1347833-f7c2-4ade-a2b5-5123daad4c65",
+    "stem": "A 42-year-old man presented to the dermatology outpatient clinic with a pruritic photosensitive skin rash.\nHis liver function tests were abnormal.\nHistology from his liver biopsy is shown.\nWhat is the diagnosis?",
+    "options": [
+      "Pemphigus vulgaris",
+      "Porphyria cutanea tarda",
+      "Mastocytosis",
+      "Dermatomyositis",
+      "Molluscum contagiosum"
+    ],
+    "correct_option": 1,
+    "explanation": "Porphyria cutanea tarda (PCT) is associated with reduced hepatic uroporphyrinogen decarboxylase activity and risk factors such asalcohol abuse, medication (for example, oral contraceptives and certain other drugs) and hepatitis C virus (HCV) infection.\nWhen exposed to light, uroporphyrinogen generates free radicals that cause blistering of the skin.\nPCT can be treated with phlebotomy to deplete the excess iron stores that exacerbate the porphyria.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "327efaea-9301-4545-9aee-ee30c835b715",
+    "stem": "A 45-year-old dockyard worker presented with symptoms of fatigue and general malaise, especially after working outside. He also reporteddeveloping ulcers on his hands after minor trauma.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Porphyria cutanea tarda",
+      "Acute intermittent porphyria",
+      "Haemachromatosis",
+      "Contact dermatitis",
+      "Alcoholic haemosiderosis"
+    ],
+    "correct_option": 0,
+    "explanation": "Porphyria cutanea tarda (PCT) is associated with deﬁciency of hepatic uroporphyrinogen (URO) decarboxylase.\nThe major clinical feature is cutaneous photosensitivity. Bullae develop on sun-exposed areas and lesions heal slowly, leaving scars.\nPorphyrins are increased in liver, plasma, urine and stool. Porphobilinigen (PBG) is normal.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "cc0f6043-7485-4683-876d-99e989f7af7a",
+    "stem": "With which of the following is this condition associated?",
+    "options": [
+      "Bronchiectasis",
+      "Tuberose sclerosis",
+      "Carcinoma of the bronchus",
+      "Trichophyton rubrum infection",
+      "Gout"
+    ],
+    "correct_option": 0,
+    "explanation": "Yellow nail syndrome is caused by hypoplastic lymphatics and is characterised by the triad of:LymphoedemaPleural effusions, andYellow discolouration of the nails.\nApproximately 40% of patients also have bronchiectasis.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "618d753e-c646-4131-b707-bf74d9f57f7e",
+    "stem": "This patient originally presented ten years ago with a pruritic rash on her abdomen. These lesions now cover her entire body.\nThis disease is caused by inﬁltration of which of the following?",
+    "options": [
+      "Mast cells",
+      "Neutrophils",
+      "B cells",
+      "T cells",
+      "Eosinophils"
+    ],
+    "correct_option": 3,
+    "explanation": "The diagnosis is mycosis fungoides, a cutaneous T cell lymphoma.\nThe disease presents as a pruritic eczematous rash (the pre-malignant stage) and develops telangiectasias and areas of 'cigarettepaper' atrophy.\nAs malignancy develops, nodular lesions appear and proceed to become necrotic.\nFurther Reading:1. Elmer KB, George RM. Cutaneous T-cell lymphoma presenting as benign dermatoses. Am Fam Physician. 1999;59:2809-13.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "70a5a715-8700-4840-8058-7211ee685e24",
+    "stem": "On skin examination of a patient, you notice a scaly, erythematous thickened plaque with accentuation of normal skin markings.\nHow is this surface change best described?",
+    "options": [
+      "Telangiectasias",
+      "Licheniﬁcation",
+      "Atrophy",
+      "Ulceration",
+      "Fissuring"
+    ],
+    "correct_option": 1,
+    "explanation": "Licheniﬁcation of the skin is due to epidermal thickening characterised by visible and palpable thickening of the skin withaccentuation of skin markings.\nAtrophy of the skin may be due to loss of epidermis, dermis or subcutaneous tissue. Thinning of the epidermis presents as skin thatappears thin and translucent. Thinning of the dermis and subcutaneous tissue leads to a depression in the skin.\nFissures are cracks in the skin that are narrow but deep.\nTelangiectasias are collections of enlarged capillaries visible on the skin or mucous membranes.\nUlcers are seen as discontinuity of the skin with complete loss of the epidermis and often portions of the dermis and subcutaneousfat.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "36b76d7b-df7b-4f4f-a5a3-2b32a8942638",
+    "stem": "This 19-year-old woman presented to the Emergency department complaining of painful legs.\nWhat is the most likely cause for these lesions?",
+    "options": [
+      "Sarcoidosis",
+      "Oral contraceptive pill",
+      "Streptococcal infection",
+      "Secondary syphilis",
+      "Cat scratch fever"
+    ],
+    "correct_option": 2,
+    "explanation": "Erythema nodosum is characterised by the presence of tender subcutaneous nodules, usually on the shins.\nHistology of these lesions shows a vasculitis of small venules and panniculitis. The commonest cause is streptococcal infection.\nOther common common causes include:Other upper respiratory tract infectionsSarcoidosis, andInﬂammatory bowel disease.\nLess common causes are:TBHistoplasmosisCoccidioidomycosisPsittacosis",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "e4ed1c02-e590-4a8e-8b6f-ce65d1e796f0",
+    "stem": "This gentleman's condition worsens in the summer and following ingestion of alcohol\nWhich of the following therapies is the most appropriate for inducing its remission?",
+    "options": [
+      "Gluten-free diet",
+      "Venesection",
+      "Intravenous benzylpenicillin + ﬂucloxacillin",
+      "Aciclovir",
+      "Systemic corticosteroids"
+    ],
+    "correct_option": 1,
+    "explanation": "Porphyria cutanea tarda (PCT) is associated with deﬁciency of hepatic uroporphyrinogen (URO) decarboxylase. Cutaneousphotosensitivity is the predominant clinical ﬁnding.\nExcess alcohol, iron and oestrogen are common precipitants. The condition may be familial.\nTreatment is with withdrawal of the precipitant. Venesection is effective (450 ml/week) until haemoglobin is 120 g/L.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d8bd6e1e-a35a-45ba-9939-45e07dead7f9",
+    "stem": "Botulinum toxin type A has many applications in everyday medical practise.\nWhich of the following is a recognised indication for the toxin?",
+    "options": [
+      "Muscle breakdown, for example, rhabdomyolysis",
+      "Muscle rigidity, for example, Parkinson's disease",
+      "Muscle spasticity, for example, cerebral palsy",
+      "Muscle ﬂaccidity, for example, polio affecting lower motor neurones",
+      "Muscle atrophy, for example, motor neurone disease"
+    ],
+    "correct_option": 2,
+    "explanation": "Botulinum toxin type A (or trade name Botox®) acts by decreasing transmission of acetylcholine across the neuromuscular junctionin striated muscles, so inducing a temporary ﬂaccid paralysis in the muscle into which it is injected.\nWrist and hand disability due to upper limb spasticity associated with stroke in adults, and use in cases of muscle spasticity, such ascases of cerebral palsy are well recognised indications for the use of Botox®.\nThough not licensed, Botox has been used in other medical conditions, including:Primary axillary hyperhidrosisBlepharospasmStrabismus, andCervical dystonia.\nReference:\nElectronic Medicines Compendium (eMC). Botox 100 Units.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "66be1875-67b0-4480-b17d-bcaffb01b967",
+    "stem": "On skin examination of a patient presenting with a rash, you notice an erythematous, scaly, raised lesion measuring 6 cm in diameter.\nHow would this lesion best be described?",
+    "options": [
+      "Macule",
+      "Papule",
+      "Ulcer",
+      "Plaque",
+      "Vesicle"
+    ],
+    "correct_option": 3,
+    "explanation": "A plaque is a descriptive term for a skin lesion that is raised and greater than 1 cm in diameter.\nAn area of altered skin colour is a macule irrespective of the size.\nA papule is a raised lesion less than 1 cm in diameter.\nAn ulcer is a discontinuity of the skin with complete loss of the epidermis and often portions of the dermis and subcutaneous fat.\nA vesicle is a ﬂuid-ﬁlled, well-circumscribed raised lesion.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "7db5fde7-6b2a-481f-9c6f-f68333ffe6ea",
+    "stem": "This infant presents with this rash a few days after birth. It worsens on sun exposure.\nWhich of the following is a recognised long-term complication?",
+    "options": [
+      "Hepatomegaly",
+      "Complete heart block",
+      "Sun sensitivity",
+      "Thrombocytopenia",
+      "Splenomegaly"
+    ],
+    "correct_option": 1,
+    "explanation": "This infant has neonatal lupus. He presents with a characteristic peri-orbital 'raccoon-eyes' rash.\nOther similar pink to red macules, which may have an annular conﬁguration, may be seen on the scalp, face and extremities. Themother is usually positive for anti-Ro or anti-La antibodies but may not have overt lupus erythematosus.\nCongenital heart block is sequela that may occur in some infants with neonatal lupus, sometimes requiring pace-maker insertion.\nThe other manifestations listed here may also be seen in neonatal lupus but they resolve after a few months and do not lead topermanent sequelae.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "e2313605-fc3b-4042-934b-610cffe0c18c",
+    "stem": "A 40-year-old male presents with this lesion on his leg which has been present for approximately three months and is minimally painful.\nHe has also been aware of recurrent bouts of abdominal pain and bloody diarrhoea.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Ulcerative colitis (UC)",
+      "Collagenous colitis",
+      "Glucagonoma",
+      "Acute intermittent porphyria (AIP)",
+      "Crohn's disease"
+    ],
+    "correct_option": 0,
+    "explanation": "This picture shows pyoderma gangrenosum.\nEstimates of the prevalence in inﬂammatory bowel disease (IBD) range between 2% and 5%. It tends to be associated with colonicinvolvement and is perhaps slightly more common in patients with UC. The clinical presentation here favours a diagnosis of UC overCrohn's.\nIt is most common on the lower limb and in scars or sites of previous trauma. It is treated by immunosupression. Lesions begin assmall papules or pustules before breaking down into an ulcer. Ulcers are deep with a violaeceous border and edge which overhangsthe ulcer base.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a8dda71f-46fd-4374-8fb2-01da7cd54afe",
+    "stem": "This 52-year-old Greek woman presented with a right popliteal deep vein thrombosis.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Pemphigus vulgaris",
+      "Secondary syphilis",
+      "Behcet's disease",
+      "Reactive arthritis",
+      "Crohn's disease"
+    ],
+    "correct_option": 2,
+    "explanation": "Behcet's disease is a rare multisystem vasculitis more common in males than females.\nClinical features include the classical triad of:1. Recurrent oral ulceration2. Recurrent genital ulceration, and3. Iritis.\nOther features include:FeverAbdominal painDiarrhoea",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "7841f460-1560-466e-a740-bca19fa3ed1e",
+    "stem": "An 18-year-old woman presented with a pruritic rash which had started as a single lesion on her abdomen two weeks previously with multiplesmaller lesions developing over the chest and abdomen.\nShe was known to have asthma and hay fever, and was taking salbutamol inhalers. There was a family history of diabetes. A urine examinationwas negative for glucose.\nExamination revealed a scaly rash over the abdomen and chest wall (see slide).\nWhat is the most likely diagnosis?",
+    "options": [
+      "Eczema",
+      "Pityriasis rosea",
+      "Guttate psoriasis",
+      "Erythema multiforme",
+      "Erythema migrans"
+    ],
+    "correct_option": 1,
+    "explanation": "This is the classical history of pityriasis rosea.\nThere is a history of a herald patch, which presents as a single large erythematous plaque on the trunk. This is followed by multipleerythematous plaques along the rib lines on the chest and abdomen, within a few weeks of the herald patch.\nThe condition is self limiting, can be pruritic or asymptomatic and usually lasts six to eight weeks. The aetiology is unknown. Noparticular treatment is necessary, although moisturisers can help the pruritus.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "d7f2d610-9773-4d7b-b76c-fd07be24793f",
+    "stem": "This patient was admitted to hospital with severe central abdominal pain.\nWhat name is given to this appearance?",
+    "options": [
+      "Chickenpox",
+      "Adenoma sebaceum",
+      "Condyloma acuminatum",
+      "Eruptive xanthomata",
+      "Tophaceous gout"
+    ],
+    "correct_option": 3,
+    "explanation": "Typical lesions of eruptive xanthomata are shown: raised lesions, typically occurring on extensor surfaces.\nEruptive xanthomata occur in hyperlipidaemic states associated with hypertriglyceridaemia.\nWell-recognised associations of hypertriglyceridaemia include acute pancreatitis and lipaemia retinalis.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "5b36eb0c-a972-43c0-9096-01ca34a08983",
+    "stem": "A healthy 12-year-old boy presents with a three week history of localised hair loss over the vertex of his scalp. There is no associated itch orpain over the patch.\nOn examination, you notice a localised, non-scarring patch of alopecia. On gentle traction, several hairs, easily dislodged from the peripheryof the lesion, are noted to be tapered toward the base.\nWhat is this condition?",
+    "options": [
+      "Telogen eﬄuvium",
+      "Trichotillomania",
+      "Alopecia areata",
+      "Androgenetic alopecia",
+      "Discoid lupus erythematosus"
+    ],
+    "correct_option": 2,
+    "explanation": "Alopecia areata is common in children as well as adults. It presents with localised patches of non-scarring hair loss. Remaining hairshave a characteristic 'exclamation mark' appearance, and are tapered towards the base. More severe involvement may present asalopecia totalis (total loss of scalp hair) or alopecia universalis (total loss of all body hair).\nAndrogenetic alopecia presents after puberty as a more diffuse slow hair loss with characteristic loss over the temporal regions andvertex in males.\nDiscoid lupus erythematosus (DLE) presents as scarring alopecia. Areas of alopecia are usually atrophic with visible loss of hairfollicles. Patients may have DLE lesions elsewhere. If not treated early, hair loss is usually irreversible.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "431b3be3-ca2c-483e-80b0-f15d2ffbeed1",
+    "stem": "A young woman presents to clinic with a three week history of intermittent joint pain and raised rash over lower legs (picture). Shecomplained of pain on palpation of the rash on the lower legs.\nThere was no history of recent travel and no other recent illnesses. She had a previous history of type 1 diabetes, for which she receives basalbolus insulin therapy. She had a family history of diabetes on her maternal side and psoriasis on her paternal side.\nWhat investigation should be performed next?",
+    "options": [
+      "Skin biopsy",
+      "Rheumatoid factor",
+      "Chest x ray",
+      "Complement levels",
+      "x Ray wrists and ankles"
+    ],
+    "correct_option": 2,
+    "explanation": "The picture shows erythema nodosum.\nThis is inﬂammation of the subcutaneous tissue (panniculitis) and is tender and palpable. It has a number of causes.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "3e1f1c97-d074-4d49-b809-c6ad27d06e32",
+    "stem": "This 34-year-old female presents with a one month history of weight loss, fatigue and this painless rash on her shin.\nWhich of the following investigations would you choose for this patient?",
+    "options": [
+      "Anti-thyroid antibodies",
+      "OGD with duodenal biopsy",
+      "Chest x ray",
+      "ACE concentrations",
+      "Fasting plasma glucose"
+    ],
+    "correct_option": 0,
+    "explanation": "This is pre-tibial myxoedema with slightly raised, pinkish, indurated patches usually on the fronts of the shins or dorsum of the footand often associated with acropachy.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "edec7a6b-db25-45dd-be8f-e19745243734",
+    "stem": "This 52-year-old female presents with a one day history of fever and this facial appearance.\nThe patient is penicillin allergic having had a problems with facial swelling previously.\nWhich of the following antibiotics would be the most appropriate treatment for this patient?",
+    "options": [
+      "Erythromycin",
+      "Cefuroxime",
+      "Co-trimoxazole",
+      "Vancomycin",
+      "Chloramphenicol"
+    ],
+    "correct_option": 0,
+    "explanation": "Erysipelas is a Streptococcus pyogenes infection of the deep dermis and subcutis.\nTreatment relies upon IV antibiotics such as benzylpenicillin and erythromycin. In a penicillin allergic patient a macrolide is the drugof choice from the above list.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "ad0d1cdb-3055-41f4-8f37-cd13668414ee",
+    "stem": "A 60-year-old man presents with this lesion on his right arm which has been progressively enlarging since he ﬁrst noticed it two months ago.\nWhat is your best diagnosis?",
+    "options": [
+      "Keratoacanthoma",
+      "Actinic keratosis",
+      "Acral lentiginous melanoma",
+      "Viral wart",
+      "Basal cell carcinoma"
+    ],
+    "correct_option": 4,
+    "explanation": "Keratoacanthomas are now considered as a well-differentiated variant of squamous cell carcinoma. It presents as a rapidly enlargingnodule with a central keratinous crateriform scab. There are reports of spontaneous regression but generally they should be treatedwith full excision.\nAcral lentiginous melanoma presents as a dark brown to black plaque or nodule on acral sites.\nActinic keratosis presents as a scaly, erythematous macule or papule on sun-damaged skin.\nBasal cell carcinoma most commonly presents as an ulcerated nodule with pearly, rolled edges with telangiectasias.\nViral warts present as verrucous papules, usually of a ﬁliform nature.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "505255c5-ad0e-4d5b-b42b-1979bd91cc29",
+    "stem": "A 25-year-old man presents with a single, painless, indurated ulcer on his penile shaft for the past one week. Several small, painless, inguinallymph nodes were palpable bilaterally. His last unprotected sexual encounter was with a prostitute three weeks prior to presentation.\nWhich of the following laboratory investigations will help to conﬁrm the diagnosis?",
+    "options": [
+      "Culture of secretions from the ulcer on Thayer-Martin medium",
+      "Fungal culture from a scraping of the ulcer edge",
+      "KOH preparation of secretions from the ulcer",
+      "Darkﬁeld microscopy of secretions from the ulcer",
+      "Bacterial culture of secretions from the ulcer"
+    ],
+    "correct_option": 3,
+    "explanation": "This patient presents with a chancre of primary syphilis. It usually occurs two to six weeks after exposure. It is caused by thespirochaete Treponema pallidum. Diagnosis of primary syphilis may be conﬁrmed either with darkﬁeld microscopy of secretionsfrom the ulcer or with serology.\nBacterial culture of secretions from the ulcer is",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "74a07a73-4e6a-4d3e-884e-31534120f077",
+    "stem": "A 13-year-old girl presents with this nail abnormality which is seen on almost all of her ﬁnger and toe nails bilaterally. Her mother says thatshe ﬁrst noticed it about two months ago.\nWhat further history or examination ﬁnding would aid in your diagnosis?",
+    "options": [
+      "Family member that was recently treated for tinea pedis",
+      "A localised scaly patch of alopecia on her scalp",
+      "Episode of severe dengue fever two months prior to presentation",
+      "Treatment with minocycline for moderately severe acne",
+      "Family history of psoriasis"
+    ],
+    "correct_option": 2,
+    "explanation": "This patient has Beau's lines, a benign nail condition that presents as a jagged transverse groove on the nail plate corresponding toan episode of nail growth arrest, which can occur during an episode of severe medical illness. It usually affects several nails.\nThe clinical description of localised scaly patch of alopecia on her scalp is consistent with tinea capitis. Fungal nail infections presentwith thickening and discolouration of the nail plate with prominent subungual debris. It usually only affects one or several nails.\nNail psoriasis presents with pitting, onycholysis, subungual debris and yellowish nail discolouration.\nFungal nail infections present with thickening and discolouration of the nail plate with prominent subungual debris. It usually onlyaffects one or several nails.\nMinocycline treatment can lead to discolouration of nails.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "52be721a-4c07-447e-aa01-619cae946a5d",
+    "stem": "A 44-year-old HIV seropositive man presented to the clinic with this rash.\nWhat agent should be used to treat this condition?",
+    "options": [
+      "Ganciclovir",
+      "Malathion",
+      "Topical corticosteroids",
+      "Flucloxacillin",
+      "Aciclovir"
+    ],
+    "correct_option": 4,
+    "explanation": "The rash shown is typical of herpes zoster, which should be treated with aciclovir.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "de5366aa-42ef-403a-a8a1-c1075b112fb6",
+    "stem": "A 47-year-old lady presented two weeks after returning from a holiday in the Caribbean complaining of an intensely pruritic rash on herabdomen.\nWhat is the causative organism?",
+    "options": [
+      "Ancylostoma braziliense",
+      "Onchocerca volvulus",
+      "Chironex ﬂeckeri Southcott (box jelly ﬁsh)",
+      "Treponema pallidum",
+      "Borrelia burgdorferi"
+    ],
+    "correct_option": 0,
+    "explanation": "The ﬁgure shows cutaneous larva migrans (creeping eruption).",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "6bfdb8b7-7e42-4ecc-8005-e5cc91afeebc",
+    "stem": "A 16-year-old boy presents with these asymptomatic, skin-coloured lesions on his face for the past three months.\nWhich of the following treatments is an option for treating this patient?",
+    "options": [
+      "Topical hydrocortisone",
+      "Topical ketoconazole",
+      "Watchful waiting",
+      "Topical cantharidin",
+      "Oral aciclovir"
+    ],
+    "correct_option": 2,
+    "explanation": "This patient has molluscum contagiosum, presenting as multiple skin-coloured, dome-shaped, umbilicated papules. It is mostcommon in children.\nTreatment options for molluscum include watchful waiting (especially in children), cryotherapy, topical imiquimod and topicalcantharidin. Oral cimetidine may also be attempted in some patients especially those with widespread lesions.\nOral aciclovir and topical ketoconazole are not indicated for patients with molluscum.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "3b062dfd-887f-4fb3-aad3-e9d07bff6ef4",
+    "stem": "A 15-year-old girl presents with a one year history of a photo-distributed rash occurring on her face and dorsal arms. She describes the rashas small red bumps, that would appear a few hours after sun-exposure and would resolve after a few days without scarring.\nShe is otherwise well with no other complaints, and laboratory tests were normal.\nWhat is your best diagnosis?",
+    "options": [
+      "Discoid lupus erythematosus",
+      "Xeroderma pigmentosum",
+      "Polymorphous light eruption",
+      "Acute lupus erythematosus",
+      "Solar urticaria"
+    ],
+    "correct_option": 2,
+    "explanation": "Polymorphous light eruption presents most commonly in young females. Various morphologies have been described, for example,macules, papules, patches or plaques. However, in a given patient, the rash usually appears the same whenever it recurs. Itcommonly occurs a few hours after sun-exposure and resolves after a few days, without scarring.\nAcute lupus erythematosus may present with a similar rash to polymorphous light eruption. However, patients will usually haveother symptoms like joint pains, oral ulcers, hair loss, etc. They frequently have positive anti-nuclear antibodies.\nDiscoid lupus erythematosus presents with chronic scaly, erythematous-to-hyperpigmented papules and plaques that leave residualscars and dyspigmentation. The rash is worsened by sun-exposure.\nSolar urticaria presents with urticaria upon sun-exposure. This usually resolves in a few hours instead of a few days.\nPatients with xeroderma pigmentosum present with exquisite sun sensitivity from a very young age. They also present with multiplesolar lentigines, nevi and malignant skin tumours, for example, basal cell carcinoma, squamous cell carcinoma and malignantmelanoma.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "6f5e0d08-5232-4539-b6eb-327648a2c3ce",
+    "stem": "A 65-year-old woman presents with extensive blisters and erosions on her trunk and limbs for the past one month.\nShe denies any new medications in the last one year. On further examination, there is no mucosal involvement.\nWhat is your ﬁrst line of treatment?",
+    "options": [
+      "Oral prednisolone",
+      "Topical coal tar",
+      "Oral methotrexate",
+      "Topical mid-potency corticosteroids",
+      "Oral ketoconazole"
+    ],
+    "correct_option": 0,
+    "explanation": "This patient presents with bullous pemphigoid. She has multiple tense blisters that rupture with residual erosions. In view of theextensive involvement, oral corticosteroids are indicated as ﬁrst line therapy.\nOral ketoconazole is wrong as there is no evidence of fungal disease in this patient.\nOral methotrexate may be added if there is poor response to oral corticosteroids or as a steroid sparing agent. Other steroid sparingagents include dapsone, azathioprine and mycophenolate mofetil.\nTopical coal tar is not indicated in the treatment of bullous pemphigoid. It is used mainly in patients with psoriasis.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a14b6785-f50e-4917-b845-252806dff3a4",
+    "stem": "This 20-year-old woman presents with this asymptomatic pigmentary condition on bilateral arms and legs.\nWhich of the following conditions has been reported as an association?",
+    "options": [
+      "Inﬂammatory bowel disease",
+      "Autoimmune thyroiditis",
+      "Chronic myeloid leukaemia",
+      "Pyoderma gangrenosum",
+      "Hypertension"
+    ],
+    "correct_option": 1,
+    "explanation": "This patient has vitiligo. The condition presents with these typical well demarcated depigmented patches.\nIt is associated with a higher incidence of other autoimmune conditions in patients and their relatives, for example:Autoimmune thyroiditisPernicious anaemiaAlopecia areata, andDiabetes mellitus.\nThe incidences of the other conditions listed here have not been reported to be increased in patients with vitiligo.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "29f4a672-57b4-462e-addb-6c0088d7757d",
+    "stem": "A 56-year-old seaman presents to his general practitioner with this appearance on the front of his legs.\nHe has had this lesion for at least one year and has received treatment with topical steroids and courses of antibiotics. Despite this the lesionhas deteriorated. The lesion is painless and recently he has noticed that the centre has broken down and is slightly oozing.\nHe has a ﬁve year history of diabetes mellitus and receives metformin 500 mg tds. He has also undergone dermatological surgery for skinmalignancies on his face over the last six years.\nWhat is this skin lesion?",
+    "options": [
+      "Arteriopathic ulcer",
+      "Squamous cell carcinoma",
+      "Necrobiosis lipoidica diabeticorum",
+      "Basal cell carcinoma",
+      "Yaws"
+    ],
+    "correct_option": 2,
+    "explanation": "Necrobiosis lipoidica is a disorder of collagen degeneration with a granulomatous response, thickening of blood vessel walls, and fatdeposition.\nThe exact cause of necrobiosis lipoidica is unknown, but the leading theory of necrobiosis lipoidica has focused on diabeticmicroangiopathy.\nNecrobiosis is often mistaken for eczema but rather than responding to steroids may actually deteriorate. Occasionally ulceration ofthe lesion may occur.\nNecrobiosis is typically painless.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "f92f0c92-18f7-46e0-829c-e02931ab249e",
+    "stem": "What is the diagnosis?",
+    "options": [
+      "Erysipelas",
+      "Myasthenia gravis",
+      "Lupus pernio",
+      "Dermatomyositis (DM)",
+      "Systemic lupus erythematosus (SLE)"
+    ],
+    "correct_option": 3,
+    "explanation": null,
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "2b163a7f-b33e-4bc5-8a45-18420d619006",
+    "stem": "This patient has hypertension and is an insulin dependent diabetic. She developed this painless lesion over several weeks.\nWhat is the diagnosis?",
+    "options": [
+      "Pyoderma gangrenosum",
+      "Tuberculoid leprosy",
+      "Morphoea",
+      "Pre-tibial myxoedema",
+      "Necrobiosis lipoidica dibeticorum"
+    ],
+    "correct_option": 4,
+    "explanation": "Necrobiosis lipoidica is a disorder of collagen degeneration with a granulomatous response, thickening of blood vessel walls, and fatdeposition.\nThe exact cause of necrobiosis lipoidica is unknown, but the leading theory of necrobiosis lipoidica has focused on diabeticmicroangiopathy.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "ed7eae0e-9374-45d7-a615-d9b90858fc00",
+    "stem": "A 31-year-old man was referred to the dermatology clinic after developing a scaly rash on his arms and legs, predominantly on the knees andelbows. The rash had been present for four weeks.\nHe had a history of hypertension and had been started on treatment with furosemide and rampiril by his general practitioner six monthspreviously. He also had a long history of bipolar disorder and had been started on lithium three months previously by his psychiatrist havingbeen taking chlorpromazine for ﬁve years. Six weeks previously he had been given a course of oxytetracycline for acne.\nWhich of his medications is most likely to have precipitated the rash?",
+    "options": [
+      "Furosemide",
+      "Lithium",
+      "Oxytetracycline",
+      "Chlorpromazine",
+      "Ramipril"
+    ],
+    "correct_option": 1,
+    "explanation": "The clinical history gives a good description of psoriasis. Lithium is the most likely precipitant.\nSeveral drugs are known to exacerbate or trigger the onset of psoriasis, including:Beta blockersLithiumAntimalarials, andNon-steroidal anti-inﬂammatory drugs (NSAIDs).\nReactions may occur from less than one month to one year after the medication is initiated.\nTreatment of drug-induced psoriasis comprises withdrawal of all beta-blocking medications, NSAIDs, antimalarials and lithium,unless absolutely necessary.\nSkin punch biopsy may be performed to exclude other forms of erythroderma or pustulosis.\nBed rest, bland topical compresses, and low potency topical steroids are useful. Frequent emollient use is advisable.\nEtretinate, methotrexate, or phototherapy might be considered.\nChlorpromazine may be associated with the development of drug-induced lupus.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "8af9db12-6f16-4d04-84b7-5596a1733b44",
+    "stem": "A 65-year-old woman presents with extensive blisters and erosions on her trunk and limbs for the past one month.\nShe denies any new medications in the last one year. There is no mucosal involvement.\nWhat will a skin biopsy most likely reveal?",
+    "options": [
+      "Subepidermal blister with eosinophils",
+      "Inﬂammatory cells within the septa of the subcutaneous fat (panniculitis)",
+      "Subcorneal blister ﬁlled with numerous neutrophils",
+      "Thickening of the stratum corneum (hyperkeratosis) and spongiosis within the epidermis",
+      "Intraepidermal blister with acantholytic cells"
+    ],
+    "correct_option": 0,
+    "explanation": "This patient presents with bullous pemphigoid. She has multiple tense blisters that rupture with residual erosions. Skin biopsy willreveal a subepidermal blister with an inﬁltrate of eosinophils. Direct immunoﬂuorescence studies will reveal IgG and C3 in thebasement membrane zone.\nInﬂammatory cells within the septa of the subcutaneous fat (panniculitis describes septal panniculitis, where there is aninﬂammatory inﬁltrate within the septa of the subcutaneous fat. The commonest cause is erythema nodosum.\nIntraepidermal blister with acantholytic cells is seen in the pemphigus group of disease (pemphigus vulgaris and pemphigusfoliaceus). Clinically, they present with ﬂaccid blisters as the split in the skin is more superﬁcial.\nSubcorneal blister ﬁlled with numerous neutrophils describes a superﬁcial pustule which may be seen in pustular drug eruptions andpustular psoriasis.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "32541715-a3f6-4ae3-9720-358f46e19b24",
+    "stem": "A 30-year-old man is seen with recurrent episodes of guttate psoriasis. He has been prone to recurrent episodes of tonsillitis and these havetriggered several episodes of the psoriasis.\nHe has come to see you again with a post-tonsillitis guttate psoriasis eruption across his trunk and limbs. It is affecting less than 10% of hisbody surface area.\nIn terms of the management and prevention of guttate psoriasis in this gentleman, which of the following options should be considered?",
+    "options": [
+      "Referral to an ear, nose, and throat specialist",
+      "Prescribe a ten day course oral penicillin 500 mg QDS",
+      "Prescribe a seven day course of oral erythromycin 500 mg QDS",
+      "Prescribe prophylactic oral erythromycin 500 mg BD long term",
+      "Prescribe prophylactic oral penicillin 500 mg BD long term"
+    ],
+    "correct_option": 0,
+    "explanation": "There is no clear study evidence to support the use of antibiotics or tonsillectomy in managing or preventing guttate psoriasis afterstreptococcal throat infections. However, there are recommendations based on expert opinion (from NICE and the BritishAssociation of Dermatologists) that tonsillectomy may be an option in those suffering with recurrent guttate psoriasis triggered byepisodes of tonsillitis. In such cases referral to ENT should be considered and discussed with the patient.\nFurther reading:\nNICE Guidelines: Psoriasis",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "2e74e40a-8998-400e-8696-6a1c2b0145e0",
+    "stem": "This patient presented with a three month history of a gradually enlarging rash on her foot.\nShe had a past history of rheumatoid arthritis. Urine dipstick was negative and a fasting blood glucose was normal.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Squamous cell carcinoma",
+      "Myxoedema",
+      "Necrobiosis lipoidica",
+      "Neuropathic ulcer",
+      "Morphoea"
+    ],
+    "correct_option": 2,
+    "explanation": "Necrobiosis lipoidica is a disorder of collagen degeneration with a granulomatous response, thickening of blood vessel walls, and fatdeposition.\nIt is usually related to diabetes, but can also occur in patients with rheumatoid arthritis, as in this patient. Necrobiosis may precedesymptoms and signs of diabetes by several months. The exact cause of necrobiosis lipoidica is unknown, but the leading theory ofnecrobiosis lipoidica in diabetes has focused on diabetic microangiopathy.\nNecrobiosis is often mistaken for eczema, but rather than responding to steroids it may actually deteriorate.\nOccasionally ulceration of the lesion may occur.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a058b24e-62bf-40c2-8dda-62e50ed9f6c4",
+    "stem": "This 35-year-old lady was referred to the outpatient clinic for advice regarding persistent acne.\nShe has been married for several years but does not have any children. She is a smoker and works as a secretary.\nAll the basic observations were within normal limits, however glycosuria was noted on urine dipstick testing.\nFrom the given history, what is the most likely diagnosis?",
+    "options": [
+      "Congenital adrenal hyperplasia",
+      "Addison's disease",
+      "Acromegaly",
+      "Polycystic ovarian syndrome",
+      "Ovarian cancer"
+    ],
+    "correct_option": 3,
+    "explanation": "The slide shows axillary acanthosis nigricans.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "ee9d4733-824d-46a0-8935-0cebed415a28",
+    "stem": "A 22-year-old female student presents with generalised pruritus of six weeks duration.\nShe has little other history of note and has otherwise been well. This itching has deteriorated over this time and is particularly worse at night.She has been unaware of any rashes and denies taking any prescribed drugs. There is no history of atopy.\nShe shares a ﬂat with her boyfriend and drinks approximately 12 units per week and smokes cannabis occasionally.\nOn examination, there is little of note except there are some scratch marks over the shoulders and back and she has some erythemabetween the ﬁngers. Otherwise cardiovascular, respiratory and abdominal examination is normal.\nWhich of the following therapies would be most appropriate treatment for this patient?",
+    "options": [
+      "Ciproﬂoxacin",
+      "Chlorpromazine",
+      "Permethrin cream",
+      "Calamine lotion",
+      "Astemizole"
+    ],
+    "correct_option": 2,
+    "explanation": "This patient has scabies, a highly contagious disease caused by the mite Sarcoptes scabiei, and is quite common in the sexuallyactive.\nIt is well recognised to cause generalised pruritus and one should make a careful examination between the ﬁnger spaces forburrows.\nAppropriate treatment includes permethrin cream, topical benzyl benzoate, and malathion. The permethrin cream doesn't have anydirect effect on the pruritis itself but helps to settle symptoms indirectly by killing the mite, which is the root cause. You shouldcounsel your patients that it may take longer for the itching to settle as the allergic reaction to the mite abates and that the creamshould be appplied everywhere below the neck, not merely where there is rash present.\nReferences:\nBritish National Formulary: Permethrin\nBMJ Best Practice: Scabies\nPrimary Care Dermatology Society: Scabies",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "13e3afaf-810d-4c5f-82e3-a15e849cf178",
+    "stem": "A 24-year-old man presents with a widespread, acute skin eruption consisting of red, slightly scaly 'drop-like' skin lesions on his trunk andlimbs. This eruption followed a throat infection which has now settled.\nThe skin lesions are diffuse and cover about 25% of his body. He works as a lifeguard at the local swimming pool and so he is concernedabout the appearance of the rash.\nHe is usually ﬁt and well with no signiﬁcant past medical history or drug allergies.\nWhich of the following is the most appropriate management approach?",
+    "options": [
+      "Prescribe a seven day course of oral prednisolone 30 mg daily",
+      "Prescribe a ten day course of oral penicillin 500 mg QDS",
+      "Refer urgently to a dermatologist",
+      "Prescribe a topical emollient",
+      "Reassurance and no treatment needed"
+    ],
+    "correct_option": 2,
+    "explanation": "This patient has guttate psoriasis. Guttate psoriasis is typically an acute eruption of drop-like psoriatic skin lesions. The trunk andlimbs are usually affected and onset can occur after a streptococcal throat infection.\nNo treatment is a viable option in many patients with guttate psoriasis, as it is usually self-limiting and typically will resolve withinthree - four months. No treatment would be appropriate if lesions are not widespread (<10% body surface area) and the person isnot impacted physically, psychologicall,y or socially by the problem. \nIf the lesions are not widespread (<10% body surface area) and treatment is desired, then topical treatment can be used as would beused for any trunk or limb psoriasis.\nIf lesions are widespread (>10% body surface area), as is the case in this scenario, then it is appropriate to refer them urgently to adermatologist as phototherapy can be considered.\nAlthough guttate psoriasis can be triggered by an acute sore throat, it is not recommended to treat guttate psoriasis with anti-streptococcal antibiotics.\nFurther reading:\nNICE Guidelines: Psoriasis",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "00c43b8b-d669-4a7d-a4fb-0618ed3e44a3",
+    "stem": "This 71-year-old lady presented with several months history of facial discomfort and a perceived change in her facial expression.\nShe also complained of having 'gritty' eyes.\nWhat is the diagnosis?",
+    "options": [
+      "Sarcoidosis",
+      "Granulomatosis with polyangiitis",
+      "Systemic sclerosis",
+      "Systemic lupus erythematosus",
+      "Relapsing polychondritis"
+    ],
+    "correct_option": 2,
+    "explanation": "The photograph shows typical features of systemic sclerosis, including facial telangiectasia, small mouth, beaking of the nose.\nSystemic sclerosis is a small vessel vasculitis that causes deposition of connective tissue in oragns. The classical feature of thecondition is deposition in the skin, known as scleroderma, which is why the condition is often known just as 'scleroderma'.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "84ba3615-77d3-42f4-8a7c-d7d202d90c3b",
+    "stem": "A 46-year-old man presents with an extensive pruritic rash shown in picture A.\nTwo weeks previously he had a sore throat with the appearance shown in picture B.\nWhat is the cause of the rash?",
+    "options": [
+      "Pityriasis rubra pilaris",
+      "Pityriasis rosea",
+      "Scarlet fever",
+      "Cutaneous T-cell lymphoma",
+      "Guttate psoriasis"
+    ],
+    "correct_option": 4,
+    "explanation": "Guttate psoriasis takes its name from the appearance of the lesions which are 'drop like'. It is a common presentation of psoriasis inchildren and young adults and may often follow an upper respiratory tract infection especially streptococcal.\nPityriasis rosea is of unknown aetiology and is a widespread pink patchy rash that appears after a 'herald patch'.\nPityriasis rubra pilaris is a papulosquamous disorder of unknown aetiology which presents as red-orange plaques. It is a cause oferythroderma.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "1a79c71c-fc36-4ee9-8522-6881850391ec",
+    "stem": "This 45-year-old man presents with these lesions on his face for the past three years.\nThe lesions are worse after sun-exposure. He has no systemic complaints.\nWhich of the following treatment options is indicated in this patient?",
+    "options": [
+      "Topical low potency corticosteroids",
+      "Oral itraconazole",
+      "Narrow-band phototherapy (NBUVB)",
+      "Photochemotherapy (PUVA)",
+      "Oral anti-malarials"
+    ],
+    "correct_option": 4,
+    "explanation": "This patient has discoid lupus erythematosus.\nHe presents with scaly, hyperpigmented, erythematous plaques on sun-exposed areas. This condition may lead to severe scarring.\nTreatment options include:Topical potent corticosteroidsTopical calcineurin inhibitorsIntralesional corticosteroidsAnti-malarials, andOral corticosteroids.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "078bfded-6083-4a1a-a70e-c92e1d7c64f6",
+    "stem": "A 28-year-old woman is seen with a rash. This started within a few days of an acute sore throat. The throat has improved but two weeks laterthe rash persists.\nOn examination, there are multiple, small, red, scaly plaques that affect the trunk. The lesions cover only about 5% of her body surface area.She is completely well in herself and the rash is not bothering her in terms of appearance or any symptoms.\nWhich is the most appropriate management approach?",
+    "options": [
+      "Oral aciclovir",
+      "No treatment required",
+      "Topical Ketoconazole",
+      "Oral terbinaﬁne",
+      "Topical selenium sulﬁde"
+    ],
+    "correct_option": 1,
+    "explanation": "This patient has guttate psoriasis. Guttate psoriasis is typically an acute eruption of drop-like psoriatic skin lesions. The trunk andlimbs are usually affected and onset can occur after a streptococcal throat infection.\nNo treatment is a viable option as it is usually self-limiting and typically will resolve within three - four months. This is particularly thecase if lesions are not widespread (<10% body surface area) and the person is not impacted physically, psychologically, or socially bythe problem. If the lesions are not widespread (<10% body surface area) and treatment is desired, then topical treatment can beused as would be used for any trunk or limb psoriasis.\nIf lesions are widespread (>10% body surface area) then it is appropriate to refer them urgently to a dermatologist as phototherapycan be considered.\nFurther reading:\nNICE Guidelines: Psoriasis",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "ba6faa08-2808-49db-abee-bb39b7ce894b",
+    "stem": "A 42-year-old lady with known psoriasis presents to you with symptoms of a severe ﬂare-up. The patient is very upset and confesses that herdisease is affecting her quality of life.\nShe is presently on methotrexate and folic acid as long term maintenance, after a failed trial of phototherapy and an apparent allergy tocyclosporin.\nWhich of the following would you consider as the next step in her management?",
+    "options": [
+      "Continue methotrexate",
+      "Non-steroidal anti-inﬂammatory drugs (NSAIDs)",
+      "Topical coal tar",
+      "Biologic immune modifying agent",
+      "Steroids"
+    ],
+    "correct_option": 3,
+    "explanation": "Psoriasis can have a signiﬁcant psychosocial effect on the patient. Control of the disease is incredibly important to maintain a normallife for psoriasis sufferers.\nBiological immune modifying agents licensed to treat moderate to severe psoriasis, include TNF alpha-blockers (e.g. etanercept,inﬂiximab, adalimumab) and blockers of interleukin 12/23 (i.e. Ustekinumab).\nTreatment for psoriasis can be grouped into topical or systemic. Mild to moderate disease can be controlled via topical treatmentssuch as:coal tartopical steroidstopical tacrolimus, andphototherapy.\nSystemic treatments include:methotrexatecyclosporin, andbiological immune modifying agents (as listed above).",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "389f304b-f9ae-4091-8cb0-6acb2e56af49",
+    "stem": "What is the commonest cause for this appearance?",
+    "options": [
+      "Streptococcal infection",
+      "Herpes virus infection",
+      "Systemic lupus erythematosus (SLE)",
+      "Salmonella typhi infection",
+      "Ulcerative colitis"
+    ],
+    "correct_option": 1,
+    "explanation": "The slide shows typical target lesions of erythema multiforme (EM).\nHerpes simplex virus infection is the commonest cause. Other common causes include infection with Mycoplasma andStreptococci.\nEM may also:Be idiopathicBe drug-induced (sulfonamides, sulphonylureas, barbiturates)Occur in systemic diseases (SLE, inﬂammatory bowel disease, malignancy).",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "10650417-337a-426d-af93-c3a047e39abb",
+    "stem": "This 72-year-old lady presented with dysphagia.\nWhich of the following autoantibodies is highly speciﬁc for this condition?",
+    "options": [
+      "Rheumatoid factor",
+      "Antinuclear factor",
+      "Anticardiolipin antibody",
+      "Antimitochondrial antibody",
+      "Anticentromere antibody"
+    ],
+    "correct_option": 4,
+    "explanation": "The slide shows the hands of a patient with systemic sclerosis/CREST (the distinction cannot be made on the basis of the picturealone).\nRheumatoid factor is non-speciﬁc and is positive in 25% of cases; ANF is positive 95%.\nAutoantibodies strongly associated with SSc include antinucleolar antibodies and anti-U3 nucleolar RNP.\nAnticentromere antibodies are strongly associated with CREST syndrome. Anti-SSA (Ro) and anti-SSB (La) antibodies are seen in SScassociated with Sjögren's syndrome.\nAnticardiolipin antibodies may be found in association with SLE.\nAntimitochondrial antibodies are associated with primary biliary cirrhosis.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "a11ba735-31ee-457a-9e5c-45f636393513",
+    "stem": "A 50-year-old woman presents with this non-pruritic rash on her arms and legs for the past month.\nShe gives a history that she has been able to eat only soft foods for the past three months due to dental problems. She also complains of atraumatic wound on her hand that has taken a longer time to heal.\nWhat is your best diagnosis?",
+    "options": [
+      "Beri-beri",
+      "Vasculitis",
+      "Scurvy",
+      "Vitamin A deﬁciency",
+      "Pellagra"
+    ],
+    "correct_option": 2,
+    "explanation": "Scurvy is a result of vitamin C deﬁciency. It is required for collagen synthesis. The ﬁnding shown is peri-follicuar haemorrhage. Otherﬁndings include bleeding gums, corkscrew hair and poor wound healing. High-dose vitamin C replacement will usually lead to rapidresolution of symptoms in a few days.\nBeri-beri is a result of deﬁciency of thiamine (vitamin B1). It can present with neurological, cardiovascular and gastrointestinalsymptoms.\nPellagra is a result of niacin deﬁciency. It can present with clinical symptoms and signs starting with the four Ds:dermatitis (photodistributed)dementiadiarrhoea, and",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "1284e895-bdf6-4394-9abb-8b5ce4432d15",
+    "stem": "This 40-year-old female is admitted with a two month history of abdominal pains, watery diarrhoea and has noted this extensive rash.\nWhat is this rash?",
+    "options": [
+      "Erythema ab igne",
+      "Erythema repens gyratum",
+      "Acquired ichthyosis",
+      "Erythema migrans",
+      "Necrolytic migratory erythema"
+    ],
+    "correct_option": 4,
+    "explanation": "The symptoms with this rash, which is typical of necrolytic migratory erythema, suggest a glucagonoma.\nOther features of glucagonoma include:Diabetes mellitusHypoaminoacidaemiaCheilosisNormochromic normocytic anaemiaVenous thrombosisNeuropsychiatric features.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "96abe570-6854-4657-8925-7ccfdaed1762",
+    "stem": "A 40-year-old man presents with this chronic rash on his right middle ﬁnger for the past six months.\nHe is otherwise healthy and his hobbies include tennis, golf and rearing ornamental ﬁsh.\nBy which organism is this most likely to be caused?",
+    "options": [
+      "No organism is usually found",
+      "Candida albicans",
+      "Sporothrix schenckii",
+      "Mycobacterium marinum",
+      "Trichophyton tonsurans"
+    ],
+    "correct_option": 0,
+    "explanation": "This patient has a ﬁsh-tank granuloma, caused by the atypical mycobacterium, Mycobacterium marinum. It is found in ornamentalﬁsh and is commonly seen in individuals who rear ﬁsh as a hobby.\nCandida albicans causes cutaneous candidiasis which usually affects intertriginous areas with typical satellite lesions.\nMycobacterium marinum is the causative organism so it would be wrong to suggest that no organism is usually found in thisinstance.\nSporothrix schenckii is a fungus that causes sporotrichosis which presents with erythematous papules and nodules along alymphatic.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "2ab335a8-1b9d-402b-bbb4-0d02410efc64",
+    "stem": "This 60-year-old man presented to his general practitioner with a three month history of proximal muscle weakness. There is a barelyperceptible purple rash on sun exposed areas, but more noticeable over the knuckles.\nHe was a smoker of 20 cigarettes a day for 40 years.\nWhat is the diagnosis?",
+    "options": [
+      "Polymyalgia rheumatica",
+      "Myotonic dystrophy",
+      "Cushing's syndrome",
+      "Dermatomyositis",
+      "Ectopic parathyroid hormone production"
+    ],
+    "correct_option": 3,
+    "explanation": "Dermatomyositis is an autoimmune disease characterised by polymyositis and a skin rash.\nThe classic purple (heliotrope) rash is seen on sun-exposed areas, especially the eyelids, nose, cheeks, forehead, knees, knuckles andaround the nail beds. The rash may be pruritic.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "ebee2654-ea0c-48eb-953a-3d557da0b2a6",
+    "stem": "A 25-year-old man presents with this rash on both ankles for the past three years.\nHe admits to scratching these areas frequently, especially during times of stress.\nWhat is your diagnosis?",
+    "options": [
+      "Tinea",
+      "Lichen simplex chronicus",
+      "Psoriasis vulgaris",
+      "Subacute lupus erythematosus",
+      "Squamous cell carcinoma"
+    ],
+    "correct_option": 1,
+    "explanation": "Lichen simplex chronicus (LSC) presents with hyperpigmented, scaly, licheniﬁed plaques. Patients may volunteer a history of chronicscratching or manipulation, especially during times of stress. The ankles are common sites for LSC.\nPsoriasis vulgaris presents with well-demarcated, scaly, pinkish plaques.\nSquamous cell carcinomas occur in older patients and present with an eroded or ulcerated, hyperkeratotic plaque, nodule ortumour. They rarely present with symmetric bilateral involvement.\nSubacute lupus erythematosus does not commonly occur on the lower limbs, unless there is widespread involvement of the head,trunk and upper extremities. It presents either with psoriasiform or annular plaques.\nTinea, although common on the legs, presents with scaly, annular plaques with central clearing.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "44341403-4c3f-49a4-a422-49c12a6aeb91",
+    "stem": "This 45-year-old white female presented to her general practitioner asking for advice regarding removal of these lesions for cosmeticreasons.\nWhat additional investigation should be performed?",
+    "options": [
+      "Serum cryptococcal antigen assay",
+      "Tzanck smear",
+      "Herpes virus serology",
+      "HIV antibody test",
+      "Biopsy of lesion for histology"
+    ],
+    "correct_option": 3,
+    "explanation": "This is a case of molluscum contagiosum.\nSuch umbilicated, pearly papules 2-5 mm in diameter are seen in patients with advanced HIV/AIDS (CD4 count less than 200cells/mm).\nThey are caused by a DNA pox virus called molluscum contagiosum virus (MCV).\nThey commonly occur on the face, especially near the eyelids; they also occur on genitals and trunk.\nThey should be treated with cryotherapy, liquid nitrogen or curettage.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "9be264a1-38f2-458e-ae51-7701bd642834",
+    "stem": "An 18-year-old female who has had stable atopic dermatitis presents with this worsening rash over the right side of her face and neck overthe past one week.\nShe has been only on daily moisturisers and topical corticosteroid therapy prior to this ﬂare. She denies any new contactants. She was alsonoted to have a low-grade temperature of 38.1°C.\nWhat treatment should be rendered?",
+    "options": [
+      "Oral cephalexin",
+      "Oral griseofulvin",
+      "Oral aciclovir",
+      "Topical miconazole cream",
+      "Topical aciclovir"
+    ],
+    "correct_option": 2,
+    "explanation": "This patient presents with eczema herpeticum.\nIt is a cutaneous infection caused by herpes virus, seen in patients with pre-existing inﬂammatory skin disorders, for example,eczema, Darier's disease.\nPatients present with new onset of clustered blisters and erosions over an erythematous base. The eruption can be widespread andpatients may be ill. Lesions may be secondarily impetiginised with Staphylococcus infection.\nTreatment requires systemic anti-virals, for example, aciclovir. Systemic antibiotics may be required if lesions are secondarilyimpetiginised.\nThe patient does not present with a fungal infection and will not require treatment of topical or oral anti-fungals.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "e0b14de8-e7c9-4fd1-a2ac-52dde8f5db35",
+    "stem": "A 75-year-old man presents with this lesion on his scalp for the past three months which has been slowly increasing in size. It occasionallybleeds after minor trauma. He has been on aspirin for previous strokes.\nWhat is your best diagnosis?",
+    "options": [
+      "Angiosarcoma",
+      "Bruise",
+      "Kaposi's sarcoma",
+      "Pyogenic granuloma",
+      "Senile purpura"
+    ],
+    "correct_option": 2,
+    "explanation": "Angiosarcomas are malignant vascular tumours most commonly seen in elderly men. They most commonly occur on the scalp andforehead. They present an inﬁltrative vascular patch or plaque with super-imposed nodules which may bleed with minor trauma.They have a poor prognosis. Angiosarcomas can also occur in areas of chronic lymphoedema.\nBruises occur after trauma and usually resolve over a few weeks in stages, ﬁrst becoming purpuric, then dark grey or green.\nKaposi's sarcoma is most commonly seen in patients with HIV. It can also occur in elderly men without HIV. It most commonlypresents on the lower limbs and patients may present with multiple lesions. It is considered a low-grade vascular malignancy and isassociated with HHV-8 infection.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "e603186e-78e4-403c-87cf-e7324d4fc2f6",
+    "stem": "What is the diagnosis in this 78-year-old man?",
+    "options": [
+      "Pemphigus vulgaris",
+      "Pemphigoid",
+      "Necrolytic migratory erythema",
+      "Dermatitis herpetiformis",
+      "Toxic epidermal necrolysis"
+    ],
+    "correct_option": 1,
+    "explanation": "Pemphigoid is a disease of the elderly (over 60 years) characterised by the development of large blisters that heal without scarring.\nThe condition is caused by immunoglobulin (IgG) autoantibodies against components of the basement membrane.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "fc48e9c1-eb1a-4bc9-b2fc-0c1ef98ce36a",
+    "stem": "A 48- year-old man with diabetes mellitus presents with a 24 hour history of an increasingly painful left leg.\nWhat is the most likely causative organism?",
+    "options": [
+      "Staphylococcus aureus",
+      "Group A Streptococcus",
+      "Staphylococcus epidermidis",
+      "Group G Streptococcus",
+      "Group B Streptococcus"
+    ],
+    "correct_option": 4,
+    "explanation": "Ascending cellulitis is shown.\nStaphylococcus aureus and Streptococci are the commonest causative organisms.\nGroup B Streptococcus has a predilection for diabetic patients and is the likeliest causative organism in this scenario.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "5eb5670f-9806-426d-bfd1-57149700f978",
+    "stem": "A 70-year-old man presents with a growth on his nose for the past six months. He is a retired sailor.\nWhat is your best diagnosis?",
+    "options": [
+      "Angiosarcoma",
+      "Basal cell carcinoma",
+      "Actinic keratosis",
+      "Keratoacanthoma",
+      "Seborrheic keratosis"
+    ],
+    "correct_option": 1,
+    "explanation": "This patient presents with a typical 'rodent ulcer' with rolled pearly edges and small telangiectasias. It is the commonest malignantskin tumour and most commonly occurs in elderly patients with sun-damaged skin.\nActinic keratosis is a pre-malignant condition, seen most commonly on sun-damaged skin in older patients. It presents as a small,scaly, erythematous macule or papule. Less than 10% of actinic keratoses progress to invasive squamous cell carcinoma.\nAngiosarcoma is a malignant vascular tumour seen most commonly in elderly males. It most commonly affects the scalp andforehead and presents with a purpuric patch or plaque, often with nodules that may bleed.\nKeratoacanthoma can be considered a well-differentiated squamous cell carcinoma, most commonly occurring in elderly patients. Itpresents as a crateriform nodule with central scabbing.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "2d716ff3-130f-41c2-b765-49ea2ab889e0",
+    "stem": "This gentleman ﬁrst presented in his early 20s with haemoptysis. He has required intermittent blood transfusions throughout his life.\nWhat is the diagnosis?",
+    "options": [
+      "Hereditary haemorrhagic telangiectasia",
+      "Peutz-Jegher's syndrome",
+      "Granulomatosis with polyangiitis",
+      "Hepatitis C",
+      "Kaposi's sarcoma"
+    ],
+    "correct_option": 0,
+    "explanation": "Typical telangiectasia of hereditary haemorrhagic telangiectasia are seen.\nThe condition is inherited as an autosomal dominant trait; sporadic cases also occur.\nPatients typically present early in adult life with anaemia due to occult bleeding from gastrointestinal telangiectasiae.\nLesions commonly occur in the mouth and on the face.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "82aa3b37-53be-4fda-8d8e-98655e9eeb3f",
+    "stem": "A 20-year-old male presents with this rash on his scalp for the past six months. It is only mildly itchy.\nHis father has had a similar rash since he was a teenager.\nWhat is your ﬁrst line of treatment?",
+    "options": [
+      "Oral methotrexate",
+      "Oral griseofulvin",
+      "Miconazole cream",
+      "Topical permethrin",
+      "Topical corticosteroid preparations"
+    ],
+    "correct_option": 4,
+    "explanation": "This patient presents with typical scalp and hairline psoriasis. First line treatment would involve topical corticosteroid preparations aswell as medicated shampoos containing zinc, coal tar, salicylic acid, corticosteroids or ciclopirox.\nMiconazole is an imidazole antifungal topical preparation and is indicated for superﬁcial cutaneous fungal infections.\nOral griseofulvin is indicated for tinea capitis which presents with alopecia and localised scaly patches on the scalp, associated withshort, broken hair shafts.\nOral methotrexate is indicated for moderate and severe psoriasis not responding to topical therapies.\nTopical permethrin is used to treat scabies infestations. Scabies does not affect the scalp in older children and adults.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "63203763-6d85-4cc3-a5c3-39636bb8ac8f",
+    "stem": "An 82-year-old Jewish lady presented with the following rash:\nImmunoﬂuorescent staining of a skin biopsy from this patient showed intercellular deposition of IgG within the epidermis.\nWhat is the diagnosis?",
+    "options": [
+      "Dermatitis herpetiformis",
+      "Pemphigus vulgaris",
+      "Staphylococcal scalded skin syndrome",
+      "Pemphigoid",
+      "Necrolytic migratory erythema"
+    ],
+    "correct_option": 1,
+    "explanation": "The slide shows the characteristic rash of pemphigus vulgaris. Blisters are thin-walled and rupture easily (intact blisters are rarelyseen). Large surface areas of the body can be affected and the mortality without treatment is high.\nMucosal involvement is common at presentation (unlike pemphigoid). Treatment is with high-dose corticosteroids.\nPemphigus vulgaris is a blistering disease seen predominantly in patients ages 50-60, but can affect many ages. It is characterised bythe formation of thin-walled blisters that rupture easily. Immunoﬂuorescent staining of a biopsy sample shows deposition ofimmunoglobulin (IgG) directed against to keratinocyte desmosomes and to desmosome-free areas of the keratinocyte cellmembrane, resulting in a 'chicken wire' appearance. The binding of autoantibodies results in a loss of cell-to-cell adhesion, a processtermed acantholysis.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "72bd9e83-8016-453e-a515-0c38beeda584",
+    "stem": "A 50-year-old wine grower presented with a six month history of recurrent blisters on the dorsum of his hand. These tended to be worse inthe summer and were occasionally itchy.\nHe had previously lived in the tropics when he was in the army. His only medication was bendroﬂumethiazide for hypertension and he hadbeen on the same treatment for the previous three years.\nA picture of the hands is shown.\nWhat is the diagnosis?",
+    "options": [
+      "Erythema multiforme",
+      "Scabies",
+      "Eczema",
+      "Drug reaction",
+      "Porphyria cutanea tarda"
+    ],
+    "correct_option": 4,
+    "explanation": "Out of the possible answers porphyria cutanea tarda is the most likely to induce a blistering rash on the dorsum of the hand.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "94df9d4d-068e-4e78-afb9-09c125cb4eb7",
+    "stem": "This 30-year-old man developed this mildly pruritic rash on his lower abdomen, which started about a week ago. He gives a history ofspending some time on the beaches of Brazil a week before the rash began.\nWhat treatment should you prescribe?",
+    "options": [
+      "Oral ivermectin",
+      "Wide local excision",
+      "Oral terbinaﬁne",
+      "Oral aciclovir",
+      "Topical miconazole cream"
+    ],
+    "correct_option": 0,
+    "explanation": "From the history of spending time on a tropical beach and the clinical picture of a creeping eruption, this patient has cutaneous larvamigrans. It is caused by hookworms, most commonly Ancylostoma brasiliense and A. caninum.\nThe disease is self-limiting but the duration of disease varies considerably. Oral ivermectin in a single dose of 200 µg/kg body weightis the main treatment. Other treatment options include oral albendazole or topical thiabendazole.\nOral aciclovir is used to treat herpetic infections or infections caused by varicella-zoster virus.\nTerbinaﬁne is an anti-fungal used to treat dermatophyte infections.\nMiconazole is a topical anti-fungal.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "138e03e2-16be-4e9f-ab85-19d04ffab4a3",
+    "stem": "A 40-year-old man presents with a three day history of a generalised painful rash associated with erosions in his mouth and genitals. He wasrecently started on allopurinol for gout. He is febrile and appears ill.\nOn examination, there are dusky, targetoid papules and plaques on his face, trunk and limbs, which desquamate easily on rubbing the skin.\nWhat is your best diagnosis?",
+    "options": [
+      "Erythema multiforme",
+      "Toxic epidermal necrolysis",
+      "Fixed drug eruption",
+      "Drug reaction with eosinophilia and systemic symptoms (DRESS)",
+      "Pemphigus vulgaris"
+    ],
+    "correct_option": 1,
+    "explanation": "This patient has toxic epidermal necrolysis (TEN), a severe idiosyncratic drug reaction, with a high morbidity and mortality rate.Commonly implicated drugs include anti-epileptics, penicillins, NSAIDS and allopurinol. Patients present with erythematous-to-dusky plaques and targetoid lesions that progress rapidly to painful, full-thickness, epidermal desquamation involving more than30% of body surface area. Mucosal involvement is also seen. Nikolsky's sign is elicited when rubbing of the skin results indesquamation.\nDRESS is another severe drug eruption characterised by generalised erythematous rash often associated with facial oedema,involvement of internal organs (liver dysfunction), haematologic abnormalities (eosinophilia) and systemic illness (fever).\nErythema multiforme presents with target lesions on the acral areas most commonly associated with herpes infections.\nFixed drug eruption presents with one or several erythematous-to-dusky patches or plaques with central blister. It is not associatedwith systemic symptoms and patients are not ill.\nPemphigus vulgaris presents with ﬂaccid blisters and erosions as well as mucosal involvement. The history is not as acute as in TENand drugs are less often implicated. Nikolsky's sign is also positive in pemphigus.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "feb9712b-a8d9-4dd3-9541-c20b510e1dd3",
+    "stem": "This 55-year-old patient presented with a four month history of nausea and weight loss (8 kg).\nHe complained of vague abdominal discomfort with no clear exacerbating or relieving factors. His only past history was of a partialgastrectomy twenty years previously for a gastric ulcer. He was not taking any prescribed medications.\nWhat is the most likely diagnosis?",
+    "options": [
+      "Blind loop syndrome",
+      "Carcinoma of the pancreas",
+      "Adenocarcinoma of the stomach",
+      "Acute intermittent porphyria",
+      "Peptic ulcer disease"
+    ],
+    "correct_option": 2,
+    "explanation": "Acanthosis nigricans (pictured) has a characteristic hyperpigmented, velvety surface. It frequently occurs in the axillae, groins and inthe skin fold of the neck and occasionally on the dorsum of the hand.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "03cdf699-c357-4925-ba05-8ca999281692",
+    "stem": "On skin examination of a patient, you notice multiple, small, raised, slightly dome-shaped lesions containing purulent material.\nHow are these lesions best described?",
+    "options": [
+      "Bullae",
+      "Fissures",
+      "Pustules",
+      "Telangiectasia",
+      "Ulcers"
+    ],
+    "correct_option": 2,
+    "explanation": "Pustules are small elevations of the skin containing cloudy or purulent material, usually consisting of necrotic inﬂammatory cells.\nBullae are large vesicles containing serous ﬂuid.\nFissures are cracks in the skin that are narrow but deep.\nTelangiectasias are collections of enlarged capillaries visible on the skin or mucous membranes.\nUlcers are seen as discontinuity of the skin with complete loss of the epidermis and often portions of the dermis and subcutaneousfat.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "c53619d1-4a80-42fd-a6ec-6787fff261ff",
+    "stem": "A 47-year-old Turkish man presented to the Emergency department with this lesion on his arm.\nHe also complained of discomfort in the left axilla.\nThe lesion had developed over a period of two weeks and was painless. There was no past history of note. He had recently returned from avacation to his parents' goat farm in Turkey.\nWhat is the diagnosis?",
+    "options": [
+      "Cutaneous anthrax",
+      "Plague",
+      "Pyoderma gangrenosum",
+      "Brucellosis",
+      "Orf"
+    ],
+    "correct_option": 0,
+    "explanation": "The slide shows the typical appearance of cutaneous anthrax, caused by Bacillus anthracis.\nCutaneous disease is the commonest form of the infection in humans and is usually due to contact with infected animals or animalproducts. Anthrax is endemic to herd animals in some parts of the world.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  },
+  {
+    "id": "5fb8005b-92ee-46db-94cf-62e6b254ccd3",
+    "stem": "This 72-year-old lady presented with a two day history of fever and painful facial rash.\nWhat is the likely diagnosis?",
+    "options": [
+      "Impetigo",
+      "Rosacea",
+      "Lupus vulgaris",
+      "Erysipelas",
+      "Lupus pernio"
+    ],
+    "correct_option": 3,
+    "explanation": "Erysipelas is a Streptococcus pyogenes infection of the deep dermis and subcutis.\nTreatment relies upon IV antibiotics such as benzylpenicillin and erythromycin.\nComplications include sepsis, cerebral abscess and venous sinus thrombosis.",
+    "tags": [
+      "Dermatology"
+    ],
+    "source": "BMJ OnExamination"
+  }
+]

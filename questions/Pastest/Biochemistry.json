@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "4481522e-5d67-4e85-8fbe-cf4d70286e1f",
+    "stem": "A 44-year-old pharmacist presents with a history of recurrent episodes of faintness, sweating and tremor, occurring particularly in the late morning or late afternoon. An insulinoma is suspected. The patient is admitted for 3 days’ consecutive overnight fasting with blood glucose measurements in the morning. She remains asymptomatic during her admission and her lowest blood glucose concentration is 4.4 mmol/l. On discharge from the hospital, she reports that her symptoms have recurred. What would be the most useful investigation to establish the diagnosis?",
+    "options": [
+      "Computed tomography pancreas",
+      "Measurement of glycated haemoglobin",
+      "Measurement of plasma β-hydroxybutyrate",
+      "Simultaneous measurement of glucose and insulin when symptomatic",
+      "Simultaneous measurement of glucose, insulin and C-peptide when symptomatic"
+    ],
+    "correct_option": 4,
+    "explanation": "Simultaneous measurement of glucose, insulin and C-peptide when symptomatic\nThe occurrence of hypoglycaemia, other than in response to an obvious stimulus or in the fasting state, is suggestive of factitious hypoglycaemia (covert administration of insulin). In patients who are abusing exogenous insulin, insulin levels are elevated, but C-peptide is either in the normal range or suppressed.\n\nComputed tomography pancreas\nA computed tomography pancreas can be used in the investigation of an insulinoma. The absence of symptoms during a 72-hour observation period makes an insulinoma unlikely.\n\nMeasurement of glycated haemoglobin\nGiven the isolated episodes of hypoglycaemia, glycated haemoglobin is unlikely to be significantly reduced.\n\nMeasurement of plasma β-hydroxybutyrate\nPlasma β-hydroxybutyrate concentrations tend to be low in hypoglycaemia caused by insulin (whether endogenous or exogenous: insulin suppresses lipolysis).\n\nSimultaneous measurement of glucose and insulin when symptomatic\nMeasurement of insulin levels alone does not confirm whether the insulin is exogenous or endogenous.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "340e4699-ecd3-4c5e-a92d-3de6cb40023b",
+    "stem": "A 25-year-old man is found to have a fasting serum triglyceride concentration of 4.2 mmol/l at a routine examination for life insurance. His serum cholesterol concentration is 5.4 mmol/l; liver function tests are normal apart from a γ-glutamyltransferase activity of 114 U/l (upper limit of normal, 55 U/l), AST which is elevated at 198, (upper limit of normal is 47 U/l), and ALT is elevated at 92 U/l (upper limit of normal 50). He claims to be in good health but has a history of epilepsy for which he is taking sodium valproate. His body mass index is 24 kg/m 2. What is the most likely cause of the abnormal findings?",
+    "options": [
+      "Familial combined hyperlipidaemia",
+      "Hepatic steatosis secondary to alcohol",
+      "Non-alcoholic steatohepatitis",
+      "Remnant hyperlipidaemia (familial dysbetalipoproteinaemia, broad beta disease)",
+      "Valproate treatment"
+    ],
+    "correct_option": 1,
+    "explanation": "Hepatic steatosis secondary to alcohol\nThe combination of hypertriglyceridaemia, elevated AST, and elevated γ-glutamyltransferase activity is typical of alcohol-induced hepatic steatosis.\n\nFamilial combined hyperlipidaemia\nFamilial combined hyperlipidaemia is incorrect. Familial combined hyperlipidaemia can cause an elevated triglyceride, cholesterol or both, but liver function tests are usually normal unless hypertriglyceridaemia is severe.\n\nNon-alcoholic steatohepatitis\nNon-alcoholic steatohepatitis is incorrect. Given the BMI is 24, NASH is less likely versus alcohol related steatohepatitis.\n\nRemnant hyperlipidaemia (familial dysbetalipoproteinaemia, broad beta disease)\nRemanant hyperlipidaemia is incorrect. Remnant hyperlipidaemia is rare, and cholesterol and triglyceride concentrations are typically much higher than in this case.\n\nValproate treatment\nValproate treatment is incorrect. Valproate is not an enzyme-inducing drug and does not cause an increase in γglutamyltransferase (or hypertriglyceridaemia).",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "01286ede-6f51-4f5d-8dd9-7108543d5df4",
+    "stem": "Antibodies to which of the following are most frequently present in the serum of patients with type 1 diabetes at diagnosis?",
+    "options": [
+      "Coxsackie virus",
+      "Glucagon",
+      "Insulin",
+      "Islet cell antibodies",
+      "Cytomegalovirus"
+    ],
+    "correct_option": 3,
+    "explanation": "Islet cell antibodies\nIslet cell antibodies (usually directed against glutamic acid decarboxylase, GAD or Islet antigen-2 (IA2)) are present in the serum of patients with Type 1 diabetes at diagnosis. Although the titre may decline rapidly thereafter, persistent highly elevated titres are seen in 10-15% of patients. Memory T cells also persist which are primed for further autoimmune attack. Anti-ZnT8 antibodies, (against an intracellular component of beta cells), are also seen with accelerated beta cell failure.\n\nCoxsackie virus\nCoxsackie virus is incorrect. Antibodies to serotypes of Coxsackie virus may also be seen, and this has been suggested as a potential trigger for Type 1 diabetes. This trigger may however have been pulled some time before presentation with hyperglycaemia.\n\nGlucagon\nGlucagon is incorrect. Alpha cell function, as expressed by glucagon production is preserved for many years after the diagnosis of Type 1 diabetes.\n\nInsulin\nInsulin is incorrect. Antibodies to insulin are seen in Type 1 diabetes, but they usually appear later in the disease, are at low titre, and are often associated with use of animal insulins. Which of the following patterns of serum lipids is most characteristic of diabetes mellitus in white patients?\n\nCytomegalovirus\nCytomegalovirus is incorrect. There is not thought to be an association with cytomegalovirus infection and new onset Type 1 diabetes.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "df9ecf25-1017-42f1-a88c-7c29ec17019d",
+    "stem": "Which of the following patterns of serum lipids is most characteristic of diabetes mellitus in white patients?",
+    "options": [
+      "Elevated LDL cholesterol, elevated HDL cholesterol, elevated triglycerides",
+      "Elevated LDL cholesterol, elevated HDL cholesterol, normal triglycerides",
+      "Elevated LDL cholesterol, low HDL cholesterol, normal triglycerides",
+      "Normal LDL cholesterol, elevated HDL cholesterol, elevated triglycerides",
+      "Normal LDL cholesterol, low HDL cholesterol, elevated triglycerides"
+    ],
+    "correct_option": 4,
+    "explanation": "Normal LDL cholesterol, low HDL cholesterol, elevated triglycerides\nTriglycerides are most likely to be elevated in poorly controlled diabetes because of either absolute insulinopaenia or increased insulin resistance. Treatment of hyperglycaemia to achieve HbA1c within target can ameliorate much of the elevation in triglycerides.\n\nElevated LDL cholesterol, elevated HDL cholesterol, elevated triglycerides\nElevated LDL cholesterol, elevated HDL cholesterol, elevated triglycerides is incorrect. HDL cholesterol is most likely to be reduced in type II diabetes, and is a marker of insulin resistance.\n\nElevated LDL cholesterol, elevated HDL cholesterol, normal triglycerides\nElevated LDL cholesterol, elevated HDL cholesterol, normal triglycerides is incorrect. Elevated LDL and HDL cholesterol may be seen in association with SGLT-2 inhibitor therapy, although these lipid changes are not a makrer of type II diabetes per se.\n\nElevated LDL cholesterol, low HDL cholesterol, normal triglycerides\nElevated LDL cholesterol, low HDL cholesterol, normal triglycerides is incorrect. Isolated elevated LDL cholesterol is more likely to be seen in patients with polygenic hypercholesterolaemia.\n\nNormal LDL cholesterol, elevated HDL cholesterol, elevated triglycerides\nNormal LDL cholesterol, elevated HDL cholesterol, elevated triglycerides is incorrect. Elevated HDL cholesterol is not normally seen in type II diabetes, as low HDL cholesterol is a marker of insulin resistance. The renin-angiotensin-aldosterone system is responsible for the maintenance of normal arterial blood pressure. Many factors influence the release of aldosterone.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "5afc6b57-0688-4625-b864-deba8a1d2768",
+    "stem": "The renin-angiotensin-aldosterone system is responsible for the maintenance of normal arterial blood pressure. Many factors influence the release of aldosterone. Which of the following would increase aldosterone secretion?",
+    "options": [
+      "Hypervolaemia",
+      "Hypokalaemia",
+      "Hyponatraemia",
+      "Mean arterial pressure of 110 mmHg",
+      "Taking non-steroidal anti-inflammatories"
+    ],
+    "correct_option": 2,
+    "explanation": "Hyponatraemia\nAldosterone is a powerful stimulant for the resorption of sodium, activating NaK pumps in the distal tubule and collecting duct, epithelial sodium channels (ENaC) in the collecting duct, and sodium resorption from the gut, salivary glands and sweat. Therefore, reduced levels of serum sodium will stimulate the release of renin, and in turn, the secretion of aldosterone, in order to maintain normal sodium level Aldosterone is a mineralocorticoid secreted by the zona glomerulosa layer of the adrenal gland. It forms part of the renin-angiotensin-aldosterone system (RAAS). Renin is secreted by the juxtaglomerular apparatus in response to hypoperfusion, hyponatraemia, or hyperkalaemia. Renin converts angiotensinogen to angiotensin I. This travels in the bloodstream to the lungs, where angiotensin converting enzyme (ACE) converts the angiotensin I to angiotensin II. Angiotensin II acts at the adrenals to stimulate the release of aldosterone. The primary actions of aldosterone are to increase sodium resorption, increase water resorption, and increase potassium loss. Its specific actions are as follows: Stimulates NaK pumps in the distal convoluted tubule and collecting duct of the kidney. This results in the resorption of sodium ions and the loss of potassium ions into the tubule/duct lumen. Stimulates epithelial sodium channels (ENaC) in the collecting duct and colon. These resorb sodium Promotes the resorption of sodium from the gut, salivary glands and sweat Stimulates the sodium chloride symporter in the distal convoluted tubule These three actions lead to increased water resorption, as water will follow sodium ions according to the osmotic gradient Resorption of chloride ions in addition to sodium, to maintain electrolyte balance Stimulates excretion of hydrogen ions in the collecting ducts.\n\nHypervolaemia\nHypervolaemia is incorrect. Renin is released in response to hypoperfusion of the juxtaglomerular apparatus in the kidney; i.e. in response to hypovolaemia. Aldosterone acts at mineralocorticoid receptors, activating NaK pumps in the distal tubule and collecting duct, epithelial sodium channels (ENaC) in the collecting duct, and stimulating sodium resorption from the gut, salivary and sweat glands. Consequently it is a powerful stimulus for the resorption of sodium, and therefore water, which will follow sodium ions according to the osmotic. This means that in hypervolaemia, aldosterone secretion will be reduced in order to reduce absorption of sodium and further water.\n\nHypokalaemia\nHypokalaemia is incorrect. Renin is released in response to raised potassium and low sodium levels. In hypokalaemia, less renin is released and therefore less aldosterone is released. Aldosterone acts at mineralocorticoid receptors to activate NaK pumps in the distal tubule and collecting duct. This results in excretion of potassium into the urine and resorption of sodium. Therefore aldosterone acts to reduce potassium levels. If the patient is hypokalaemic, then to maintain homeostasis the levels of aldosterone need to be reduced, hence hypokalaemia reduces renin and therefore aldosterone secretion.\n\nMean arterial pressure of 110 mmHg\nMean arterial pressure of 110 mmHg is incorrect. The mean arterial pressure (MAP) is clinically calculated as MAP ≈ DP + 1/3(SP – DP), where DP is diastolic blood pressure and SP is systolic blood pressure. This MAP corresponds to a hypertensive patient. Hypertension causes increased perfusion of the juxtaglomerular apparatus, leading to reduced renin secretion and in turn, reduced aldosterone secretion.\n\nTaking non-steroidal anti-inflammatories\nTaking non-steroidal anti-inflammatories, or NSAIDs, is incorrect. NSAIDs are prostaglandin inhibitors. Prostaglandins are a key part of the signalling pathway in the juxtaglomerular apparatus that eventually leads to the release of renin. Therefore as NSAIDs inhibit prostaglandins, they inhibit the production of renin, and therefore the eventual secretion of aldosterone. An apparently healthy 20-year-old man has blood taken for lipid analysis in connection with an application for life insurance. He works as a builder and has no medical history of note. His body mass index (BMI) is 22 kg/m 2. The fasting triglyceride concentration is 4.0 mmol/l and HbA1C is 44 mmol/mol. He has no evidence of acanthosis nigricans on examination, and blood pressure is 120/70 mmHg. There is no family history of note although he admits to drinking alcohol in excess. As part of his work-up, he has an abdominal ultrasound which is reported as normal.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "5702451b-676f-4d21-b624-4e73a4b120f1",
+    "stem": "Which of the following is the most likely cause of their acidosis?",
+    "options": [
+      "Diabetic ketoacidosis",
+      "Diarrhoea",
+      "Metformin toxicity",
+      "Methanol toxicity",
+      "Salicylate overdose"
+    ],
+    "correct_option": 1,
+    "explanation": "Diarrhoea\nThis patient has a normal anion gap, calculated as (sodium + potassium) – (chloride + bicarbonate), which in this case equals 9.2. This is less than 11 and is therefore classified as a normal anion gap metabolic acidosis. Out of the options given, diarrhoea is the only cause of a normal anion gap acidosis due to bicarbonate loss.\n\nDiabetic ketoacidosis\nDiabetic ketoacidosis is incorrect. This is associated with a raised anion gap metabolic acidosis, due to generation of ketoacids such as β-hydroxybutyrate.\n\nMetformin toxicity\nMetformin toxicity is incorrect. This is associated with lactic acidosis, which leads to a raised anion gap acidosis.\n\nMethanol toxicity\nMethanol toxicity is incorrect. This leads to formation of formic acid, which again leads to a raised anion gap acidosis.\n\nSalicylate overdose\nSalicylate overdose is incorrect. This is another cause of a raised anion gap acidosis.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "76005bbe-9a9e-40c4-b259-46727e13e6fe",
+    "stem": "You are interested in a new gut hormone antagonist that is thought to lead to decreased hunger. Which of the following hormones is thought to stimulate hunger?",
+    "options": [
+      "Ghrelin",
+      "GIP",
+      "GLP-2",
+      "Leptin",
+      "PYY"
+    ],
+    "correct_option": 0,
+    "explanation": "Ghrelin\nGhrelin is secreted when the stomach is empty and drives increased hunger; levels fall once the stomach is full and remain low for approximately 3 hours after a meal. How quickly they begin to rise again may govern tendency to eat between meals and potentially drive increased consumption of high-calorie foods.\n\nGIP\nGlucose-dependent insulinotropic polypeptide (GIP) is incorrect. This is an incretin hormone that increases gut transit time and may also have central effects in reducing appetite.\n\nGLP-2\nGLP-2 is incorrect. This has no significant effect on appetite, but does induce mucosal growth; it is therefore a potential target for the treatment of short bowel syndrome and radiation-induced enteritis.\n\nLeptin\nLeptin is incorrect. A rise in these levels leads to decreased appetite. A 73 year old man is referred to the Emergency Department by his GP. He has been feeling increasingly nauseous over the past few days and is known to have CKD3. His U&E are very deranged, with a potassium of 7.5 mmol/l, a creatinine of 430 micromol/l and a urea of 29.1 mmol/l. On examination his BP is 149/85 mmHg, pulse is 85/min and regular. He does not appear to be in fluid overload.\n\nPYY\nPeptide YY (PYY) is incorrect. Like GIP, this is an incretin, an appetite suppressant recognised to have central effects and delay gastric emptying significantly.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "334df578-eacb-4d4a-8766-440e497aefc1",
+    "stem": "A 73 year old man is referred to the Emergency Department by his GP. He has been feeling increasingly nauseous over the past few days and is known to have CKD3. His U&E are very deranged, with a potassium of 7.5 mmol/l, a creatinine of 430 micromol/l and a urea of 29.1 mmol/l. On examination his BP is 149/85 mmHg, pulse is 85/min and regular. He does not appear to be in fluid overload. Which of the following is the most effective way to rapidly reduce his potassium in this situation?",
+    "options": [
+      "Calcium resonium",
+      "Calcium gluconate",
+      "Furosemide",
+      "Insulin and dextrose",
+      "Salbutamol"
+    ],
+    "correct_option": 3,
+    "explanation": "Insulin and dextrose\nThis is the most effective acute intervention to reduce serum potassium: the insulin drives potassium into the intracellular space, and the dextrose prevents hypoglycaemia. Typically, 10 units of Actrapid® are given in 50ml of 50% dextrose over 15 minutes.\n\nCalcium resonium\nTutor Calcium resonium is incorrect. This is a potassium-binding resin that will take some time to Chat reachwith AI maximal effect.\n\nCalcium gluconate\nCalcium gluconate is incorrect. While IV calcium gluconate is of course indicated under cardiac monitoring in this situation, its role is cardioprotective rather than the actual reduction of serum potassium.\n\nFurosemide\nFurosemide is incorrect. Given that the creatinine is 430 mcmol/l, this is not particularly effective as a diuretic, even when given at high dose.\n\nSalbutamol\nSalbutamol is incorrect. Although it may have additive effects on reducing potassium, and can be given concurrently with insulin and dextrose, it may be pro-arrhythmogenic.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "a95231dd-03ec-4a0a-abe6-0b0a63cf4df0",
+    "stem": "Which of the following would you consider the most likely risk factor for this man’s osteoporosis?",
+    "options": [
+      "Alcohol consumption",
+      "Elevated BMI",
+      "Low testosterone",
+      "Low normal calcium",
+      "Smoking history"
+    ],
+    "correct_option": 2,
+    "explanation": "Low testosterone\nThe long-term period of low libido, coupled with a fracture some 3 years earlier, raises the possibility of hypogonadism; low testosterone should therefore be considered a significant possible risk factor for osteoporosis in this case.\n\nAlcohol consumption\nAlcohol consumption is incorrect. Haemoglobin and platelets are normal here, both of which count against significant alcohol consumption.\n\nElevated BMI\nElevated BMI is incorrect. In the absence of diabetes, this is associated with increased bone mineral density.\n\nLow normal calcium\nLow-normal calcium is incorrect. This patient’s calcium at 2.15 mmol/l is not associated with increased risk of bone fracture, especially given the normal alkaline phosphatase.\n\nSmoking history\nSmoking history is incorrect. Although cigarette smoking is strongly associated with osteoporosis, an occasional cigar will not significantly impact on his bone mineral density.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "f657597d-3b44-4512-a02e-ee9120f3a604",
+    "stem": "Which of the following is the most likely diagnosis?",
+    "options": [
+      "Milk–alkali syndrome",
+      "Multiple myeloma",
+      "Occult carcinoma",
+      "Paget’s disease",
+      "Primary hyperparathyroidism"
+    ],
+    "correct_option": 0,
+    "explanation": "Milk–alkali syndrome\nAlthough milk–alkali syndrome is now rare, given the easy availability of both H2 antagonists and proton pump inhibitors, it is occasionally seen, particularly in patients who purchase over-the-counter calcium carbonate- or magnesium hydroxide-type preparations.\n\nMultiple myeloma\nMultiple myeloma is incorrect. Lab tests are entirely normal apart from calcium, which counts against multiple myeloma, particularly with respect to the normal erythrocyte sedimentation rate.\n\nOccult carcinoma\nOccult carcinoma is incorrect. The lack of anaemia, abnormal liver function tests or abnormal alkaline phosphatase counts against occult carcinoma.\n\nPaget’s disease\nPaget’s disease is incorrect. This is associated with a normal calcium and an elevated alkaline phosphatase.\n\nPrimary hyperparathyroidism\nPrimary hyperparathyroidism is incorrect. This is associated with elevated calcium and an elevated alkaline phosphatase.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "be743836-596b-467e-9df3-7398e2173707",
+    "stem": "A 42-year-old man presented with a 3-month history of lethargy and tiredness. His urine tested positive for glucose, and a random blood glucose concentration was 8.3 mmol/l. An oral glucose tolerance test (OGTT) revealed: glucose concentration at baseline at 5.6 mmol/l, rising to 9.3 mmol/l at 120 minutes. Which of the following statements is correct?",
+    "options": [
+      "The combination of the random glucose and glycosuria are diagnostic of diabetes",
+      "The result of the OGTT confirms a diagnosis of diabetes",
+      "The result of the OGTT confirms a diagnosis of impaired fasting glucose by WHO criteria",
+      "The result of the OGTT indicates impaired glucose tolerance",
+      "The result of the OGTT indicates that he is at significant increased risk of microvascular disease"
+    ],
+    "correct_option": 3,
+    "explanation": "The result of the OGTT indicates impaired glucose tolerance\nThe combination of a fasting venous plasma glucose concentration of <7.0 mmol/l and a 2-hour value of 7.8 mmol/l or greater but <11.1 mmol/l is diagnostic of impaired glucose tolerance.\n\nThe combination of the random glucose and glycosuria are diagnostic of diabetes\nThe combination of the random glucose and glycosuria are diagnostic of diabetes is incorrect. Random glucose values should not be used to diagnose diabetes mellitus and glucosuria can of course occur in patients with naturally occurring SGLT-2 mutations who have familial glycosuria in the presence of normal serum blood glucose levels.\n\nThe result of the OGTT confirms a diagnosis of diabetes\nThe result of the OGTT confirms a diagnosis of diabetes is incorrect. The fasting glucose is below the limit for a diagnosis of diabetes, as is the 2-hour glucose value.\n\nThe result of the OGTT confirms a diagnosis of impaired fasting glucose by WHO criteria\nThe result of the OGTT confirms a diagnosis of impaired fasting glucose is incorrect. Impaired fasting glucose is defined by WHO criteria as a fasting plasma glucose between 6.1 and 6.9 mmol/l.\n\nThe result of the OGTT indicates that he is at significant increased risk of microvascular disease\nThe result of the OGTT indicates that he is at significant increased risk of microvascular disease is incorrect. The risk of microvascular disease only rises significantly once blood glucose enters the diabetic range.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "34689c70-07fa-4900-882e-23cb24cf1af0",
+    "stem": "A 42-year-old man with type 1 diabetes mellitus, which was diagnosed 23 years ago, is admitted to hospital with diabetic ketoacidosis. He is complaining of abdominal pain and has vomited a number of times.On examination his temperature is 38.0°C, BP is 100/70 mmHg, pulse is 100/min and regular. His respiratory rate is elevated at 30. Which of the following findings on admission would most suggest an identifiable acute event has precipitated his diabetic ketoacidosis?",
+    "options": [
+      "Serum amylase activity of 1244 μ/l (upper limit of normal, 150 μ/l)",
+      "Serum creatinine concentration 140 μmol/l",
+      "Serum lactate concentration 4.3 mmol/l",
+      "Serum triglyceride concentration 5.2 mmol/l",
+      "White cell count of 15 × 10 9/l"
+    ],
+    "correct_option": 0,
+    "explanation": "Serum amylase activity of 1244 μ/l (upper limit of normal, 150 μ/l)\nAlthough patients with diabetic ketoacidosis (DKA) often have elevated serum amylase, the magnitude of elevation to approximately nine times the upper limit of normal suggests underlying acute pancreatitis as a precipitant for the event.\n\nSerum creatinine concentration 140 μmol/l\nSerum creatinine concentration 140 μmol/l is incorrect. A degree of pre-kidney disease due to volume depletion associated with ketoacidosis is common.\n\nSerum lactate concentration 4.3 mmol/l\nSerum lactate concentration 4.3 mmol/l is incorrect. Lactate may be elevated in patients with DKA as a result of poor tissue perfusion although this is not invariably the case.\n\nSerum triglyceride concentration 5.2 mmol/l\nSerum triglyceride concentration 5.2 mmol/l is incorrect. Hypertriglyceridaemia is common in uncontrolled diabetes, but levels of 5.2 would be unlikely to be a driver for acute pancreatitis. 4\n\nWhite cell count of 15 × 10 9/l\nWhite cell count of 15 × 10 9/l is incorrect. An elevated white cell count is common in patients presenting with diabetic ketoacidosis.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "53472517-57ce-4bbd-9cc9-dd14c417d16f",
+    "stem": "In a patient with chronic hyponatraemia (sodium concentration 112 mmol/l), who has plasma glucose of 7.5 mmol/l and serum urea of 3.1 mmol/l, which of the following findings would most suggest a diagnosis of the syndrome of inappropriate (secretion of) antidiuretic hormone (SIADH)?",
+    "options": [
+      "Normal cortisol response to ACTH",
+      "Plasma albumin concentration 28 g/l",
+      "Plasma osmolality 248 mosmol/kg",
+      "Urinary osmolality 350 mosmol/kg",
+      "Urinary sodium concentration <20 mmol/l"
+    ],
+    "correct_option": 3,
+    "explanation": "Urinary osmolality 350 mosmol/kg\nThe most significant finding in this patient is that the urine is concentrated relative to plasma; this is inappropriate, in that a low plasma osmolality should suppress antidiuretic hormone (ADH) secretion and lead to the formation of a maximally dilute urine.\n\nNormal cortisol response to ACTH\nNormal cortisol response to ACTH is incorrect. The normal cortisol response to ACTH is merely used to exclude a diagnosis of Addison’s, rather than to confirm a diagnosis of SIADH.\n\nPlasma albumin concentration 28 g/l\nPlasma albumin concentration 28 g/l is incorrect. Plasma albumin concentration 28 g/l suggests another potential cause of hyponatraemia such as liver or kidney failure.\n\nPlasma osmolality 248 mosmol/kg\nPlasma osmolality 248 mosmol/kg is incorrect. The low plasma osmolality reflects the hyponatraemia, since sodium is the principal determinant of extracellular fluid osmolality. It does not reveal information as to the underlying cause.\n\nUrinary sodium concentration <20 mmol/l\nUrine sodium concentration<20 mmol/l is incorrect. A low urine sodium excretion would suggest extrarenal sodium depletion as a cause of hyponatraemia.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "d2c3aec9-b273-4425-af35-3575bb7c8a33",
+    "stem": "A 62-year-old woman with type 2 diabetes being treated with a thiazide and a beta-blocker for hypertension is found to have a serum potassium concentration of 3.2 mmol/l. Her blood pressure is 156/94 mmHg; serum creatinine concentration is 115 μmol/l. What is the most likely cause of the hypokalaemia?",
+    "options": [
+      "Low dietary potassium intake",
+      "Primary aldosteronism",
+      "Renal tubular acidosis type 4",
+      "The beta-blocker",
+      "The thiazide diuretic"
+    ],
+    "correct_option": 4,
+    "explanation": "The thiazide diuretic\nLoop and thiazide diuretics increase sodium delivery to the distal segment of the distal tubule; this increases potassium loss because the resultant increase in distal tubular sodium concentration stimulates the aldosterone-sensitive sodium pump, increasing sodium reabsorption in exchange for potassium and hydrogen ions, which are then lost in the urine. Thiazide-like diuretics such as indapamide are less likely versus traditional thiazides such as bendroflumethiazide to lead to hypokalaemia.\n\nLow dietary potassium intake\nLow dietary potassium intake is incorrect. Most people have an adequate dietary potassium intake; a low potassium diet requires significant changes to food groups consumed, and is associated with significant palatability issues.\n\nPrimary aldosteronism\nPrimary aldosteronism is incorrect. Although primary hyperaldosteronism is a possibility, thiazide-related hypokalaemia should be excluded first by changing the thiazide for an alternative agent.\n\nRenal tubular acidosis type 4\nRenal tubular acidosis type 4 is incorrect. Whereas renal tubular acidoses types 1 and 2 are associated with hypokalaemia, type 4 (hyporeninaemic hypoaldosteronism, most frequently seen in patients with diabetes) is associated with hyperkalaemia.\n\nThe beta-blocker\nThe beta-blocker is incorrect. Non-selective beta blockade is recognised to impair entry of potassium into cells, leading to hyperkalaemia rather than hypokalaemia.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "275f64ee-0244-4ba8-a553-2eb0bcb4e6e7",
+    "stem": "Her potassium concentration has risen over the past 3 days. The potassium content of the parenteral feed has been reduced from 60 mmol/24 h to 20 mmol/24 h during this period. Urine output is appropriate to her fluid input. Her red cell, white cell and platelet counts are all normal. What is the most likely cause of the hyperkalaemia?",
+    "options": [
+      "Heparin treatment",
+      "Overprovision of potassium in the parenteral feed",
+      "Primary adrenal failure (Addison’s disease)",
+      "Pseudohyperkalaemia",
+      "Renal impairment"
+    ],
+    "correct_option": 0,
+    "explanation": "Heparin treatment\nHeparin inhibits aldosterone secretion by the adrenal cortex, leading to impaired renal potassium excretion, particularly in patients with diabetes or those who are acidotic.\n\nOverprovision of potassium in the parenteral feed\nOverprovision of potassium in the parenteral feed is incorrect. Approximately 20 mmol/24 h is the minimum obligatory potassium output, while the typical potassium requirement for patients on parenteral feeding is 40– 80 mmol/24 h. Partial resection of small intestine is likely to drive excess potassium loss, and parenteral feeding is very well controlled, making iatrogenic hyperkalaemia very unlikely.\n\nPrimary adrenal failure (Addison’s disease)\nPrimary adrenal failiure (Addison's disease) is incorrect. Adrenal failure is more likely to be associated with type 1, rather than type 2, diabetes, and an additional pathology would be unlikely on top of heparin as a reason for the hyperkalaemia.\n\nPseudohyperkalaemia\nPseudohyperkalaemia is incorrect. Pseudohyperkalaemia is hyperkalaemia occurring as a result of a loss of potassium from white cells and platelets during clotting, usually seen in patients with high white cell or platelet counts, or from defects in blood taking technique, driving collection of a haemolysed sample.\n\nRenal impairment\nRenal impairment is incorrect. The creatinine is 120 μmol/l, which counts against a diagnosis of kidney disease here. The elevated urea may be related to excess provision of amino acids.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "97d983f1-052e-4735-9ab7-1926c1b52468",
+    "stem": "A 54-year-old man with a long history of excessive alcohol ingestion develops a blistering skin eruption. His urine tests positive for porphyrins. What is the most likely diagnosis?",
+    "options": [
+      "Acute intermittent porphyria",
+      "Hepatoerythropoietic porphyria",
+      "Hereditary coproporphyria",
+      "Porphyria cutanea tarda",
+      "Variegate porphyria"
+    ],
+    "correct_option": 3,
+    "explanation": "Porphyria cutanea tarda\nCutaneous hepatic porphyria (porphyria cutanea tarda) can be inherited in autosomal dominant fashion, but is more frequently acquired (80% of cases), and is seen most frequently in association with excessive alcohol intake, with or without liver disease. It is due to a deficiency in activity of uroporphyrinogen decarboxylase (UROD). High factor sun screens are essential, tobacco smoking is not advised, oestrogens should be discontinued in women who have the condition, and alcohol should be stringently avoided. Symptoms usually slowly resolve once alcohol is discontinued.\n\nAcute intermittent porphyria\nAcute intermittent porphyria is incorrect. Acute intermittent porphyria (AIP) is an acute porphyria associated with abdominal pain, hypertension and tachycardia, and also features neuropsychiatric symptoms. Skin rash is not a feature of AIP. AIP is due to deficient activity of porphobilinogen deaminase.\n\nHepatoerythropoietic porphyria\nHepatoerythropoietic porphyria is incorrect. Hepatoerythropoietic porphyria is associated with a double gene deficiency with respect to production of UROD, and leads to a much earlier presentation with similar symptoms to porphyria cutanea tarda, without excess alcohol consumption.\n\nHereditary coproporphyria\nHereditary coproporphyria is incorrect. Hereditary coproporphyria is due to deficient action of coproporphyrinogen oxidase, and similar to AIP is an acute porphyria. In an adult patient with cirrhosis, which of the following findings is the most reliable diagnostic indicator that hereditary haemochromatosis is the cause of his underlying condition?\n\nVariegate porphyria\nVariegate porphyria is incorrect. Variegate porphyria is characterised by both acute attacks and photosensitisation, is less common than cutaneous hepatic porphyria, and is always genetically determined. It is due to a deficiency in protoporphyrinogen oxidase activity.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "9be31203-2d16-45fb-bd28-6a5f154534d8",
+    "stem": "You are asked to review a 60-year-old man who is being treated for postoperative ileus following colectomy and has a nasogastric tube in place. This has aspirated a considerable volume of gastric fluid. He has a metabolic alkalosis What is the most important cause of the acid–base disturbance?",
+    "options": [
+      "Hypoventilation",
+      "Increased renal bicarbonate reabsorption",
+      "Loss of gastric acid",
+      "Potassium depletion",
+      "Secondary aldosteronism"
+    ],
+    "correct_option": 2,
+    "explanation": "Loss of gastric acid\nLoss of unbuffered gastric acid causes metabolic alkalosis in prolonged nasogastric aspiration in postoperative ileus if there is inadequate replacement of fluid loss with intravenous physiological saline. The alkalosis is maintained by increased renal bicarbonate reabsorption and potassium depletion, at least in part driven by a secondary increase in aldosterone.\n\nHypoventilation\nHypoventilation is incorrect. Hypoventilation is a compensatory change in response to the metabolic alkalosis; on its own, hypoventilation causes carbon dioxide retention and a respiratory acidosis.\n\nIncreased renal bicarbonate reabsorption\nIncreased renal bicarbonate reabsorption is incorrect. The increased renal bicarbonate reabsorption andTutor hydrogen ion loss occur as a result of secondary increase in aldosterone because of volume loss.\n\nPotassium depletion\nPotassium depletion is incorrect. Potassium depletion occurs as a result of prolonged vomiting and is not the direct cause of the metabolic alkalosis.\n\nSecondary aldosteronism\nSecondary aldosteronism is incorrect. The increase in aldosterone occurs as a result of the vomiting and volume depletion, it is not the primary cause of the metabolic alkalosis.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "f2e11e71-1ffc-49e4-b924-e50911c18d72",
+    "stem": "A 75-year-old man with symptoms of prostatism over the last 5–6 months comes to the clinic for review. Abdominal examination is unremarkable, he has no renal masses and does not have a palpable bladder. PR is unremarkable. He has a serum prostate-specific antigen (PSA) concentration of 7.0 ng/ml, and his creatinine is 150 μmol/l. Which of the following statements is true with regard to this result?",
+    "options": [
+      "It could be explained by prostatitis",
+      "It is diagnostic of malignancy",
+      "It is likely to be invalid if he had undergone a digital rectal examination 48 hours before the blood",
+      "It is prognostically highly significant",
+      "It is unremarkable in a man of this age"
+    ],
+    "correct_option": 0,
+    "explanation": "It could be explained by prostatitis\nProstatitis and acute urinary retention can both result in increased serum concentrations of PSA. This patient has been suffering from symptoms of prostatism for more than three months. In chronic bacterial prostatitis, physical exam, including PR, is often normal. Hence, chronic prostatis is the most likely option.\n\nIt is diagnostic of malignancy\nIt is diagnostic of malignancy is incorrect. A PSA level of 7 ng/ml is certainly compatible with malignancy, but is not diagnostic of it. Lower levels of PSA are seen in patients with benign prostatic hypertrophy and with prostatitis.\n\nIt is likely to be invalid if he had undergone a digital rectal examination 48 hours before the blood\nIt is likely to be invalid if he had undergone a digital rectal examination 48 hours before the blood sample was taken Some authors believe that PSA should not be measured after a DRE. However, clinical studies have shown that the elevation in PSA levels is clinically insignificant and therefore this should not invalidate the result.\n\nIt is prognostically highly significant\nIt is prognostically highly significant is incorrect. In general, the higher the PSA, the greater the likelihood of malignancy, but some patients with malignancy have normal levels, because they have an underlying tumour which does not produce PSA. The absolute PSA concentration correlates poorly with prognosis in prostatic cancer, particularly where elevated levels have been identified at diagnosis.\n\nIt is unremarkable in a man of this age\nIt is unremarkable in a man of his age is incorrect. An upper limit of normal for PSA of 0–4 ng/ml is usually applied to results, although this is adjusted up slightly with increasing age. A value of 7 ng/ml would definitely be considered abnormal.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "137e6888-e028-4bee-8bf0-d3bf86441931",
+    "stem": "What would be the most important therapeutic measure?",
+    "options": [
+      "Gastric lavage with enteral desferrioxamine",
+      "Induction of vomiting",
+      "Intravenous infusion of desferrioxamine",
+      "Oral activated charcoal",
+      "Whole bowel irrigation"
+    ],
+    "correct_option": 2,
+    "explanation": "Intravenous infusion of desferrioxamine\nThe most important intervention in this situation, with a very high level of serum iron, is chelation therapy, facilitating its urinary excretion. It is most effective given as a continuous infusion, approximately 8 mg of iron is bound by 100 mg of desferrioxamine.\n\nGastric lavage with enteral desferrioxamine\nGastric lavage with desferrioxamine is incorrect. Serum iron is already approaching highly toxic levels, as such although instilling desferrioxamine into the GI tract may drive some iron chelation, it is not likely to be effective in avoiding complications of iron overdose.\n\nInduction of vomiting\nInduction of vomiting is incorrect.The induction of vomiting is ineffective if carried out more than 1 hour after ingestion and iron toxicity itself often causes vomiting.\n\nOral activated charcoal\nOral activated charcoal is incorrect. Activated charcoal poorly adsorbs inorganic poisons such as iron. You are called by the ambulance service for a pre-alert about a 22-year-old woman who has taken two full bottles of aspirin 300 mg tablets some 2 hours earlier. What clinical feature on arrival would most suggest that another drug has been taken in addition to aspirin?\n\nWhole bowel irrigation\nWhole bowel irrigation is incorrect. Whole bowel irrigation may be helpful if undissolved tablets remain in the gut, as is more likely to occur when slow-release iron preparations have been ingested. It is an additional therapy to desferrioxamine however, rather than an alternative to it.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "cd0bb033-602a-4651-9a55-4bd90ba74d1e",
+    "stem": "You are called by the ambulance service for a pre-alert about a 22-year-old woman who has taken two full bottles of aspirin 300 mg tablets some 2 hours earlier. What clinical feature on arrival would most suggest that another drug has been taken in addition to aspirin?",
+    "options": [
+      "Coma",
+      "Hyperventilation",
+      "Sweating",
+      "Tinnitus",
+      "Vomiting"
+    ],
+    "correct_option": 0,
+    "explanation": "Coma\nAlthough decreased consciousness is seen in aspirin overdose, it is seen late, and is associated with severe metabolic acidosis and hypokalaemia.\n\nHyperventilation\nHyperventilation is incorrect. Hyperventilation is the most prominent feature of the early period after aspirin overdose, and is associated with respiratory alkalosis.\n\nSweating\nSweating is incorrect. Sweating with peripheral vasodilatation and a bounding pulse is a common feature of aspirin overdose.\n\nTinnitus\nTinnitus is incorrect. Tinnitus is a common feature of aspirin overdose, and is related to activation of cochlear NDMA receptors. Fluid Balance and Fluid Replacement Therapy\n\nVomiting\nVomiting is incorrect. Gastric irritation, including vomiting, is commonly seen in pateints with aspirin overdose.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "0ef03125-5408-4405-8301-28bf9b9c2cb3",
+    "stem": "Which of the following drugs is he most likely to have taken?",
+    "options": [
+      "A benzodiazepine",
+      "A tricyclic antidepressant",
+      "Cocaine",
+      "Paracetamol (acetaminophen)",
+      "Theophylline"
+    ],
+    "correct_option": 4,
+    "explanation": "Theophylline\nThe blood gas data in this patient indicate an acute respiratory alkalosis, which is particularly associated with poisoning with a salicylate and theophylline, both of which are respiratory stimulants. Seizures are common in theophylline overdose and are usually managed with benzodiazepines. Very large amounts of potassium supplementation may be required to manage hypokalaemia associated with theophylline overdose.\n\nA benzodiazepine\nA benzodiazepine is incorrect. Benzodiazepines are respiratory depressants, leading to respiratory acidosis rather than alkalosis.\n\nA tricyclic antidepressant\nA tricyclic antidepressant is incorrect. Tricyclic antidepressants in overdose are associated with significant respiratory depression, coma and fits.\n\nCocaine\nCocaine is incorrect. Cocaine causes tachycardia, hypertension and anxiety, and may in chronic use lead to accelerated ischaemic heart disease, but it does not usually result in such severe hyperventilation that a pH of 7.56 is achieved.\n\nParacetamol (acetaminophen)\nParacetamol (acetaminophen) is incorrect. Significant acid–base disturbance is seen late in paracetamol overdose, and metabolic acidosis is the usual prominent feature.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "945aa510-50bc-4451-9a3c-d75955763385",
+    "stem": "A 52-year-old woman is admitted to the surgical unit with an episode of moderate to severe acute pancreatitis who has eaten little over the last 24 hours due to severe nausea. You are asked to give an opinion as to the best way to meet her nutritional needs. Which of the following is the most appropriate initial way to manage them?",
+    "options": [
+      "Continue oral intake",
+      "Nasogastric feeding",
+      "Nasojejunal feeding",
+      "Nil by mouth for 48 hours",
+      "Parenteral feeding"
+    ],
+    "correct_option": 1,
+    "explanation": "Nasogastric feeding\nStudies have shown that continuing feeding in acute pancreatitis rather than moving to a nil by mouth state is the best way to maintain integrity of the gastrointestinal tract with respect to potential bacterial invasion. Nasogastric (NG) feeding is the default initial choice, and if vomiting persists/there is significant gastric stasis, alternative such as nasojejunal feeding should be considered before moving to parenteral feeding.\n\nContinue oral intake\nContinue oral intake is incorrect. Maintaining adequate calorie intake is crucial with respect to outcomes in acute pancreatitis; it is unlikely that a patient with acute pancreatitis will be able to maintain adequate calorie intake without supplemental NG feeding.\n\nNasojejunal feeding\nNasojejunal feeding is incorrect. Nasojejunal feeding is the default alternative option if NG feeding is not tolerated due to persistent vomiting.\n\nNil by mouth for 48 hours\nNil by mouth for 48 hours is incorrect. Nil by mouth for 48 hours could potentially lead to significant calorie deficit and worse outcomes in acute pancreatitis with respect to increased time in a high-dependency hospital setting, and increased 60-day mortality. 7 27 You are asked to review a 71-year-old patient who has received excess blood transfusions and saline fluid replacement after a bleed following left total hip replacement. You estimate that approximately a 20% increase in his blood volume has occurred. What physiological process is most likely to correct this abnormality?\n\nParenteral feeding\nParenteral feeding is incorrect. Parenteral feeding is only considered if both NG and nasojejunal feeding are not tolerated, as it does not ameliorate the risk of small bowel perforation associated with pancreatitis.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "b17e0ed2-5289-4576-9302-b813c2cb3b8c",
+    "stem": "A 16-year-old teenager has suffered recurrent haemarthroses affecting both knees after playing sports, and a bleeding episode after dental extraction. As a consequence of the haemarthroses he has arthritis affecting both knees. Only male members of his family have been affected by the bleeding tendency, and his APTT is prolonged on coagulation testing. What is the most likely coagulation factor deficiency causing his bleeding tendency?",
+    "options": [
+      "Factor VIII",
+      "Protein C",
+      "Protein S",
+      "Thromboxane",
+      "von Willebrand factor"
+    ],
+    "correct_option": 0,
+    "explanation": "Factor VIII\nDeficiency of either factor VIII (haemophilia A) or factor IX (haemophilia B), which together make up the factor VIIIa/factor IXa intrinsic tenase enzymatic complex, results in the development of haemophilia. The pathological problem in both haemophilia A and haemophilia B (also called “Christmas disease”) is the inability to form a functional tenase complex to activate factor X to factor Xa. The disease exists in severe, moderate and mild forms. These are classified as such on the basis of a clinical laboratory blood coagulation test, which is performed to assess the level of functional coagulant protein (percentage activity of factor VIII in haemophilia A or factor IX in haemophilia B). In mild disease patients may present relatively late in life with joint haemorrhage or bleeding after dental extraction. The condition is Xlinked, accounting for the inheritance pattern seen here.\n\nProtein C\nProtein C is incorrect. Protein C deficiency results in increased propensity to clot/form venous thromboses, rather than bleeding episodes.\n\nProtein S\nProtein S is incorrect. Protein S deficiency, like protein C deficiency, results in increased propensity to clot/form venous thromboses, rather than bleeding episodes.\n\nThromboxane\nThromboxane is incorrect. Thromboxane synthetase deficiency does lead to abnormal platelet function and increased bleeding tendency, but it follows an autosomal recessive inheritance pattern. 7 30 You are asked to assess the cardiovascular risk status of a man with impaired glucose tolerance and severe obesity. You suspect he is highly insulin resistant. Which of the following pathophysiological changes is most strongly associated with increased insulin resistance?\n\nvon Willebrand factor\nvon Willebrand factor is incorrect. von Willebrand’s disease does present with haemoarthrosis and prolonged activated partial thromboplastin time (APTT), but it is mostly inherited in autosomal dominant fashion.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "867d5ddb-3bb1-4928-b655-72d74cef30e5",
+    "stem": "You are asked to assess the cardiovascular risk status of a man with impaired glucose tolerance and severe obesity. You suspect he is highly insulin resistant. Which of the following pathophysiological changes is most strongly associated with increased insulin resistance?",
+    "options": [
+      "Decreased platelet aggregation",
+      "Hypotension",
+      "Improved endothelial function",
+      "Increased HDL levels",
+      "Increased levels of plasminogen activator inhibitor-1"
+    ],
+    "correct_option": 4,
+    "explanation": "Increased levels of plasminogen activator inhibitor-1\nInsulin resistance is associated with a procoagulant state, driven at least in part by increased levels of PAI-1, which in itself is a risk factor for myocardial infarction.\n\nDecreased platelet aggregation\nDecreased platelet aggregation is incorrect. Both ICAM and VCAM-1 levels are thought to be increased in patients who are insulin resistant, driving increased propensity for platelet adhesion to occur.\n\nHypotension\nHypotension is incorrect. Hypotension Insulin resistance is associated with hypertension, both driven by obesity and by higher circulating insulin driving increased sodium and water retention.\n\nImproved endothelial function\nImproved endothelial function is incorrect. Increased blood pressure and vascular inflammation may well be responsible for driving a deterioration in endothelial function in patients with insulin resistance.\n\nIncreased HDL levels\nIncreased HDL levels is incorrect. Patients with high levels of insulin resistance have an atherogenic lipid profile as evidenced by low HDL cholesterol and elevated triglycerides.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "35908405-cf2e-4860-843e-57020eb3e615",
+    "stem": "An 81-year-old nursing-home resident is admitted to hospital in an unconscious state. His blood sugar is measured as 1.5 mmol/l (normal 3–6 mmol/l). You administer glucagon. Which of the following best describes one of the main actions of glucagon?",
+    "options": [
+      "Decreased gluconeogenesis",
+      "Decreased glycogenolysis",
+      "Decreased ketone body production from fatty acids",
+      "Increased glycogenolysis and gluconeogenesis",
+      "Increased lipogenesis in adipose tissue"
+    ],
+    "correct_option": 3,
+    "explanation": "Increased glycogenolysis and gluconeogenesis\nGlucagon is produced by alpha cells which are found in pancreatic islets. Its main action is on the liver to promote glycogenolysis and gluconeogenesis.\n\nDecreased gluconeogenesis\nDecreased gluconeogenesis is incorrect. Gluconeogenesis, the production of glucose from alternative noncarbohydrate carbon sources such as lactate and glycerol is promoted by glucagon action.\n\nDecreased glycogenolysis\nDecreased glycogenolysis is incorrect. Glucagon’s role is to maximise energy mobilisation from stores, including from glycogen.\n\nDecreased ketone body production from fatty acids\nDecreased ketone body production from fatty acids is incorrect. Glucagon promotes fatty acid oxidation, which leads to an increase in ketones such as beta hydroxybutyrate.\n\nIncreased lipogenesis in adipose tissue\nIncreased lipogenesis in adipose tissue is incorrect. The actions of glucagon on adipose tissue are mediated by cyclic adenosine monophosphate (AMP) to stimulate lipolysis, producing free fatty acids that can act as a major alternative energy source. You are reviewing a man with familial hypertriglyceridaemia who has presented to the surgeons with pancreatitis. He asks about why he suffers from this condition.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "a1499598-1f62-471c-a943-9ad3d7c51be5",
+    "stem": "You are reviewing a man with familial hypertriglyceridaemia who has presented to the surgeons with pancreatitis. He asks about why he suffers from this condition. Which of the following best describes the metabolism of VLDL (predominant triglyceride) particles?",
+    "options": [
+      "They are formed from IDL particles",
+      "They are synthesised continuously in the liver",
+      "They are synthesised postprandially in the small intestine",
+      "They bind primarily to the hepatic LDL receptor",
+      "They take up cholesterol from cells"
+    ],
+    "correct_option": 1,
+    "explanation": "They are synthesised continuously in the liver\nMost familial hypertriglyceridaemia is polygenic in origin, and due to a modest excess in the circulating concentration of very low density lipoprotein (VLDL) particles. There may be a history of retinal vein thrombosis or recurrent pancreatitis in individuals affected by the familial condition who have very high triglyceride levels (>11 mmol/l). VLDL particles are synthesised continuously in the liver and contain most of the triglyceride the body produces and a smaller amount of cholesterol. They provide the main source of energy during prolonged periods of fasting. They have apolipoprotein C-II on their surface, which has the following consequences: it allows them to bind to capillary endothelium it allows for triglycerides to be progressively removed by lipoprotein lipase, which leaves a particle depleted of triglyceride and apolipoprotein C-II, known as an IDL (intermediate-density lipoprotein) particle.\n\nThey are formed from IDL particles\nThey are formed from IDL particles is incorrect. IDL particles are metabolised to form particles of LDL cholesterol.\n\nThey are synthesised postprandially in the small intestine\nThey are synthesised postprandially in the small intestine is incorrect. Chylomicrons are synthesised postprandially in small intestinal enterocytes.\n\nThey bind primarily to the hepatic LDL receptor\nThey bind primarily to the hepatic LDL receptor is incorrect. The hepatic LDL receptor is primarily there to recognise LDL cholesterol, although some VLDL is recognised by the hepatic LDL receptor because of the Apo E moiety.\n\nThey take up cholesterol from cells\nThey take up cholesterol from cells is incorrect. The primary function of HDL is to take up cholesterol from cells.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "6119ed16-e43a-45c3-a332-0e5c20e2ec0c",
+    "stem": "You suspect Cushing’s disease. He refuses to comply with urine collection but will consent to a blood test for cortisol. At what time of day is a random cortisol test most likely to be abnormal?",
+    "options": [
+      "0900 hours",
+      "1200 hours",
+      "1700 hours",
+      "2000 hours",
+      "2400 hours"
+    ],
+    "correct_option": 4,
+    "explanation": "2400 hours\nPlasma cortisol levels in normal individuals show a circadian rhythm. Levels are highest in the early morning, and fall to their lowest levels during sleep at around midnight. In patients with Cushing’s syndrome, the 0900 hours cortisol level may be within the normal range, but midnight levels are usually not suppressed. Isolated venous blood tests for cortisol levels are not the best way to detect Cushing’s syndrome. A 24-hour urine collection with analysis of cortisol levels is a much better early screening test for Cushing’s syndrome. Melatonin follows the opposite pattern to cortisol with levels being highest during periods of sleep.\n\n0900 hours\n0900 hours is incorrect. In normal individuals cortisol levels are highest at around 0900 hours, and during this time period they may be in the normal range in patients with Cushing’s.\n\n1200 hours\n1200 hours is incorrect. Levels of cortisol during the day are not useful with respect to predicting risk of Cushing’s.\n\n1700 hours\n1700 hours is incorrect. Similar to looking at levels at 1200 hours, levels of cortisol during the peak period of activity are not useful in differentiating Cushing’s from normal individuals. You are asked to review a 45-year-old obese woman who is jaundiced; you suspect that she may have primary biliary cirrhosis with accumulation of bile salts.\n\n2000 hours\n2000 hours is incorrect. Although levels are beginning to tail off by 2000 hours, if an isolated venous sample for Cushing’s is the only option, waiting until later in the evening is recommended.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "365fb6f6-fd84-426e-98d7-b3ce53d05b32",
+    "stem": "You are asked to review a 45-year-old obese woman who is jaundiced; you suspect that she may have primary biliary cirrhosis with accumulation of bile salts. Which of the following best fits the metabolism of bile acids?",
+    "options": [
+      "Around 30% of the bile acid pool is lost in faeces each day",
+      "Concentration in the gall bladder is around 500 mmol/l",
+      "The total bile salt pool in the liver is around 10 g",
+      "Their production is catalysed by cholesterol 7α-hydroxylase",
+      "80% of bile salts are reabsorbed during each cycle"
+    ],
+    "correct_option": 3,
+    "explanation": "Their production is catalysed by cholesterol 7α-hydroxylase\nBile salts are synthesised in hepatocytes from cholesterol via a process catalysed by cholesterol 7αhydroxylase. They are then excreted in bile and pass into the duodenum.\n\nAround 30% of the bile acid pool is lost in faeces each day\nAround 30% of the bile acid pool is lost in faeces each day is incorrect. Total faecal loss is around 10–20% of the bile acid pool in any one day. Intestinal bile acid transport inhibitors which promote faecal loss of bile acids are a target in the treatment of type 2 diabetes and primary biliary cirrhosis.\n\nConcentration in the gall bladder is around 500 mmol/l\nConcentration in the gall bladder is around 500 mmol/l is incorrect. Bile acids exist in the gall bladder at a concentration of between 100 and 300 mmol/l. The two primary bile acids (cholic and chenodeoxycholic acid) them Tutor into are conjugated with glycine or taurine which increases their solubility. Intestinal bacteria then convert secondary bile acids.\n\nThe total bile salt pool in the liver is around 10 g\nThe total bile salt pool in the liver is around 10 g is incorrect. The total bile salt pool in the liver is small at around 2.5–5g.\n\n80% of bile salts are reabsorbed during each cycle\n80% of bile salts are reabsorbed during each cycle is incorrect. The enterohepatic circulation ensures the bile salt pool is recycled 6–8 times per day, leading to reabsorption of 80-90% of bile acids.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "a70ad9c9-0712-4e42-bd47-de41007bd70b",
+    "stem": "A 55-year-old chronic heavy smoker is brought to the Emergency Department with a 2-day history of polyuria, polydipsia, nausea and progressive drowsiness. On examination, he is lethargic and confused. A chest radiograph shows a round shadow in the right mid-zone with enlarged hilar lymph nodes on the right side. An ECG is normal except for a narrowed QT interval and notching of the terminal portion of the QRS most prominent in V1. What is the most likely metabolic abnormality in this case?",
+    "options": [
+      "Hypercalcaemia",
+      "Hyperkalaemia",
+      "Hypernatraemia",
+      "Hyperphosphataemia",
+      "Hypokalaemia"
+    ],
+    "correct_option": 0,
+    "explanation": "Hypercalcaemia\nThe ECG features with notching of the QRS and a narrowing of the QT interval are typical features of hypercalcaemia, as is the polyuria, polydipsia and progressive drowsiness described in his history. An underlying bronchial squamous cell carcinoma is the most likely cause.\n\nHyperkalaemia\nHyperkalaemia is incorrect. Hyperkalaemia is associated with peaked T waves, and with higher levels of potassium, progressive widening of P waves and lengthening of the PR interval.\n\nHypernatraemia\nHypernatraemia is incorrect. Hypernatraemia is associated with the symptoms described, although it is much more commonly seen in the elderly following a cerebral event, and is not associated with the ECG changes seen here.\n\nHyperphosphataemia\nHyperphosphataemia is incorrect. In the event that the hypercalcaemia seen here is related to PTH-related peptide, hypophosphataemia, rather than high levels of phosphate, are likely here.\n\nHypokalaemia\nHypokalaemia is incorrect. Hypokalaemia is associated with T-wave flattening, ST depression, and U waves seen on the ECG.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "21964b3d-a5ce-4691-9093-1f56bd49b1cf",
+    "stem": "Antimitochondrial and anti-smooth muscle antibodies are positive. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Alcoholic cirrhosis",
+      "Autoimmune hepatitis",
+      "Carcinoma of the head of the pancreas",
+      "Primary biliary cholangitis",
+      "Primary sclerosing cholangitis"
+    ],
+    "correct_option": 3,
+    "explanation": "Primary biliary cholangitis\nThe high alkaline phosphatase concentration in this patient suggests cholestatic jaundice, and the slow onset of disease, with initial symptoms of itching, and antimitochondrial antibody positivity, fits well with a diagnosis of PBC. Although smooth muscle antibodies are seen in autoimmune hepatitis, they are also a recognised finding in PBC.\n\nAlcoholic cirrhosis\nAlcoholic cirrhosis is incorrect. The very modest alcohol consumption and small elevation in γglutamyltransferase make a diagnosis of alcoholic cirrhosis less likely.\n\nAutoimmune hepatitis\nAutoimmune hepatitis is incorrect. Although smooth muscle antibodies are present, the liver function test picture is much more suggestive of obstruction/cholestasis rather than hepatocellular dysfunction.\n\nCarcinoma of the head of the pancreas\nCarcinoma of the head of the pancreas is incorrect. Pancreatic carcinoma is associated with epigastric pain radiating to the back and progressive weight loss, neither of which are reported here.\n\nPrimary sclerosing cholangitis\nPrimary sclerosing cholangitis is incorrect. Primary sclerosing cholangitis is more common in males than females, and 75% of cases are associated with inflammatory bowel disease.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "3eddde5d-bb54-4220-ad9a-6854e841a9b6",
+    "stem": "A 21-year-old male medical student who has been feeling non-specifically unwell for several days is noticed to have slightly icteric sclerae by his girlfriend and has liver function tests performed. The results of these are normal apart from a serum bilirubin concentration of 44 μmol/l (3–17). His urine does not contain bilirubin. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Dubin–Johnson syndrome",
+      "Gilbert’s syndrome",
+      "Hereditary spherocytosis",
+      "Infectious mononucleosis",
+      "Rotor syndrome"
+    ],
+    "correct_option": 1,
+    "explanation": "Gilbert’s syndrome\nGilbert’s may carry an autosomal dominant or autosomal recessive inheritance pattern, and the episode of jaundice here has been triggered by his non-specific illness and a potential reduction in calorie intake. No intervention is required, and jaundice resolves spontaneously, although phenobarbitone has been shown to accelerate metabolism of excess bilirubin.\n\nDubin–Johnson syndrome\nDubin–Johnson syndrome is incorrect. Dubin–Johnson syndrome is inherited with an autosomal recessive pattern, and is seen more frequently in patients of Jewish heritage. In most patients the jaundice is asymptomatic and remains at a low level, with no long-term sequelae. Bilirubin is conjugated and appears in the urine. Coproporphyrin excretion pattern can be used to confirm the diagnosis.\n\nHereditary spherocytosis\nHereditary spherocytosis is incorrect. Hereditary spherocytosis is a chronic haemolytic disorder and presents with low-grade anaemia, intermittent jaundice and splenomegaly. Over the longer term it is also associated with increased risk of gallstones.\n\nInfectious mononucleosis\nInfectious mononucleosis is incorrect. Infectious mononucleosis is associated with a viral hepatitis, transaminases are elevated, and atypical lymphocytes are seen on the blood film. 10 A 71-year-old-man is given a health check by his doctor. He has no complaints, apart from pain in his hip, which he attributes to arthritis. He has blood taken for a panel of routine biochemical and haematological tests. The only abnormality is a serum alkaline phosphatase activity of 822 u/l. A routine hip and pelvis X-ray reveals arthritic changes around the right hip joint including acetabular protrusion and cortical thickening.\n\nRotor syndrome\nRotor syndrome is incorrect. Like Dubin–Johnson syndrome, rotor syndrome is associated with the appearance of conjugated bilirubin in the urine, and jaundice is usually apparent soon after birth.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "df8130c9-ee64-495e-a2ff-4fac6aeea1fc",
+    "stem": "A 71-year-old-man is given a health check by his doctor. He has no complaints, apart from pain in his hip, which he attributes to arthritis. He has blood taken for a panel of routine biochemical and haematological tests. The only abnormality is a serum alkaline phosphatase activity of 822 u/l. A routine hip and pelvis X-ray reveals arthritic changes around the right hip joint including acetabular protrusion and cortical thickening. Which of the following is the most likely cause of this abnormality in his case?",
+    "options": [
+      "Metastatic carcinoma",
+      "Osteoarthritis",
+      "Osteomalacia",
+      "Osteoporosis",
+      "Paget’s disease"
+    ],
+    "correct_option": 4,
+    "explanation": "Paget’s disease\nElevated alkaline phosphatase activity is usually an indicator of bone or cholestatic hepatobiliary disease. The fact that other liver function tests are normal in this patient militates against (though does not exclude) the latter. An increase in alkaline phosphatase from bone reflects increased osteoclastic activity. The condition presents with excess osteoclastic activity followed by a compensatory increase in osteoblastic activity, leading to the formation of disorganized bone, which is less compact, mechanically weaker, highly vascular and more susceptible to fracture. Bisphosphonates are the intervention of choice.\n\nMetastatic carcinoma\nMetastatic carcinoma is incorrect. Given the patient has no other symptoms to suggest carcinomatosis, and only one joint is affected, Paget’s is the more likely underlying diagnosis.\n\nOsteoarthritis\nOsteoarthritis is incorrect. Osteoarthritis is not associated with biochemical abnormalities.\n\nOsteomalacia\nOsteomalacia is incorrect. Although osteomalacia is associated with elevated alkaline phosphatase, it is also associated with hypocalcaemia.\n\nOsteoporosis\nOsteoporosis is incorrect. Osteoporosis is not associated with an elevated alkaline phosphatase unless there is a resultant fracture which has driven osteoblast activity.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "54ceaa18-3364-46e0-8707-f5e89e52cebf",
+    "stem": "A 72-year-old woman is referred to the Endocrine Clinic by her GP after she was found to have a serum calcium concentration of 3.12 mmol/l on routine blood testing. Which of the following clinical features, if present, would most direct you towards a specific cause?",
+    "options": [
+      "Bilateral hilar lymphadenopathy",
+      "Bone pain",
+      "Polyuria",
+      "Short QT interval",
+      "Ureteric colic"
+    ],
+    "correct_option": 0,
+    "explanation": "Bilateral hilar lymphadenopathy\nThe presence of hilar lymphadenopathy on chest X-ray in a patient with hypercalcaemia should raise a suspicion that the latter is due to sarcoid (in which the granulomas secrete calcitriol, 1,25dihydroxycholecalciferol). In this patient a history of shortness of breath or chronic cough should be elicited. Excess sun exposure and consumption of phosphate containing drinks can also drive up calcium levels.\n\nBone pain\nBone pain is incorrect. Bone pain can occur with hypercalcaemia secondary to malignancy or hyperparathyroidism and so is not a specific finding.\n\nPolyuria\nPolyuria is incorrect. Polyuria is a feature of severe hypercalcaemia, irrespective of the cause.\n\nShort QT interval\nShort QT interval is incorrect. A short QT interval is also a feature of hypercalcaemia, not a cause.\n\nUreteric colic\nUreteric colic is incorrect. Ureteric colic is particularly associated with primary hyperparathyroidism, but is not specific, as renal stones may be seen across a number of other causes of hypercalcaemia.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "9649a16b-d28f-4d7f-a6df-3dc5f712e5b4",
+    "stem": "A 20-year-old man presents with mild jaundice following a flu-like illness. Following review by a gastroenterologist, he has been told that a diagnosis of Gilbert’s syndrome is probable. Which of the following laboratory tests is most likely to confirm this diagnosis?",
+    "options": [
+      "Absence of bilirubin in the urine",
+      "Decreased serum haptoglobin concentration",
+      "Elevated serum aspartate aminotransferase (transaminase, AST) activity",
+      "Increased reticulocyte count",
+      "Increased urinary urobilinogen excretion"
+    ],
+    "correct_option": 0,
+    "explanation": "Absence of bilirubin in the urine\nIn Gilbert’s syndrome there is a defect in the UGT1A1 gene which leads to a defect in glucuronidation, and a consequent increase in unconjugated bilirubin. This leads to jaundice, but an absence of bilirubin in the urine.\n\nDecreased serum haptoglobin concentration\nDecreased serum haptoglobin concentration is incorrect. Decreased serum haptoglobin is more consistent with a diagnosis of haemolysis.\n\nElevated serum aspartate aminotransferase (transaminase, AST) activity\nElevated serum aspartate aminotransferase (transaminase, AST) activity is incorrect. Elevated serum transaminases are inconsistent with a diagnosis of Gilbert’s, because the sole defect is in glucuronidation.\n\nIncreased reticulocyte count\nIncreased reticulocyte count is incorrect. Increase in reticulocyte count is most likely to be seen in patients with haemolysis.\n\nIncreased urinary urobilinogen excretion\nIncreased urinary urobilinogen excretion is incorrect. Increased urinary urobilinogen excretion implies a degree of bilirubin conjugation which is not seen in patients with Gilbert’s syndrome.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "1be4f9ec-ed0c-469b-8afa-47377ab8e26f",
+    "stem": "A 71-year-old man is referred by his GP to the Emergency Department, having presented with increasing nausea, shortness of breath and lethargy. The results of initial investigations include a serum Cr concentration of 654 μmol/l and a K + of 6.2 mmol/l. Which of the following best suggests a specific cause for his kidney disease?",
+    "options": [
+      "Anaemia",
+      "Bence Jones proteinuria",
+      "Hyperuricaemia",
+      "Hypocalcaemia",
+      "Metabolic acidosis"
+    ],
+    "correct_option": 1,
+    "explanation": "Bence Jones proteinuria\nExcretion of immunoglobulin light chains suggests a diagnosis of myeloma. Myeloma can cause kidney disease through various mechanisms, including tubular obstruction by protein, particularly when there is coexistent dehydration /low urinary flow, and infiltration by amyloid.\n\nAnaemia\nAnaemia is incorrect. It is associated with chronic kidney disease irrespective of cause, due to decreased production of erythropoietin and bone marrow suppression.\n\nHyperuricaemia\nHyperuricaemia is incorrect. Although severe gout is associated with urate stones and consequent renal impairment, kidney disease per se is associated with reduced urate excretion, and as such is a non-specific finding.\n\nHypocalcaemia\nHypocalcaemia is incorrect. This occurs due to reduced renal hydroxylation of vitamin D, which is common across the various mechanisms of renal impairment.\n\nMetabolic acidosis\nMetabolic acidosis is incorrect. This is common across mechanisms of chronic kidney disease due to defects in bicarbonate reabsorption and acid secretion. Multiple Myeloma An overweight 32-year-old woman presents with a short history of painless jaundice. There is no previous history of illness and, apart from jaundice, the only signs of chronic liver disease are spider naevi on the upper body. Initial investigations reveal a Hb of 127 g/l, MCV 105 fl, serum bilirubin 162 μmol/l, AST 182 U/l, ALT 81 U/l, ALP 224 U/l and GGT 200 U/l.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "d845f6bd-03c9-40aa-b42a-ff5f6e25ae09",
+    "stem": "An overweight 32-year-old woman presents with a short history of painless jaundice. There is no previous history of illness and, apart from jaundice, the only signs of chronic liver disease are spider naevi on the upper body. Initial investigations reveal a Hb of 127 g/l, MCV 105 fl, serum bilirubin 162 μmol/l, AST 182 U/l, ALT 81 U/l, ALP 224 U/l and GGT 200 U/l. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Alcoholic liver disease",
+      "Autoimmune hepatitis",
+      "Carcinoma of the head of the pancreas",
+      "Cholecystitis",
+      "Hepatitis A infection"
+    ],
+    "correct_option": 0,
+    "explanation": "Alcoholic liver disease\nJaundice with an elevation of both aspartate aminotransferase (AST) and alkaline phosphatase (ALP) suggests mixed hepatocellular damage and cholestatic liver disease, typical of acute alcoholic hepatitis on a background of chronic liver disease (and is not excluded by the lack of physical signs). The high γ-glutamyltransferase (GGT) and the fact that the AST: ALT ratio is greater than 2, lend further credence to alcohol as the underlying cause of her presentation. Macrocytosis is another feature typical of chronic excessive alcohol intake.\n\nAutoimmune hepatitis\nAutoimmune hepatitis is incorrect. As jaundice in this condition is usually preceded by a period of severe tiredness, lethargy and itching. It is also associated with anti-smooth muscle antibody positivity and a picture more suggestive of hepatocellular dysfunction versus the partial obstructive picture seen here.\n\nCarcinoma of the head of the pancreas\nCarcinoma of the head of the pancreas is incorrect. This is associated with epigastric pain radiating to the back in the majority of cases, and a more obstructive picture on liver function testing.\n\nCholecystitis\nCholecystitis is incorrect. This is associated with right upper quadrant pain and obstructive jaundice, rather than the painless picture seen here.\n\nHepatitis A infection\nHepatitis A infection is incorrect. This is associated with a diarrhoeal illness and flu-like symptoms, and is followed some 1–2 weeks later by the onset of jaundice; it is also associated with hepatocellular dysfunction on liver function testing.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "7d809131-0997-4a76-ab0b-2fbaa04f613d",
+    "stem": "A 19-year-old woman presents to the Emergency Department, for the third time over the past 6 months, with hypertension and abdominal pain associated with significant distress. She has been diagnosed as suffering from acute intermittent porphyria. You are writing a management plan for colleagues in the event she presents on a further occasion for treatment. Which of the following is the most useful intervention?",
+    "options": [
+      "Exchange transfusion",
+      "IV 5% dextrose",
+      "IV haem arginate",
+      "IV phenobarbitone",
+      "Oral cimetidine"
+    ],
+    "correct_option": 2,
+    "explanation": "IV haem arginate\nThis suppresses hepatic haem synthesis that is responsible for the presentation with episodes of acute intermittent porphyria (AIP), leading to resolution of symptoms. A typical regimen involves giving 3–4 mg/kg/day over the course of 4 days.\n\nExchange transfusion\nExchange transfusion is incorrect. This does not have a role in the treatment of acute intermittent porphyria.\n\nIV 5% dextrose\nIV 5% dextrose is incorrect. This does not deliver an adequate carbohydrate load to impact on AIP, and care should be taken when giving glucose replacement to avoid worsening any associated hyponatraemia.\n\nIV phenobarbitone\nIV phenobarbitone is incorrect. This is a historical treatment for epilepsy and was used to resolve jaundice in Gilbert syndrome. Fits associated with AIP are treated with levetiracetam. Acute Intermittent Porphyria An elderly man with a history of prostatism presents with acute retention of urine. His serum Cr concentration is 520 μmol/l. Which of the following additional abnormal serum biochemistry test results is most suggestive of a chronic component to his kidney disease?\n\nOral cimetidine\nOral cimetidine is incorrect. This is an enzyme inhibitor that may reduce haem synthesis, although no randomised controlled trials (RCTs) support its use in AIP; haem arginate remains the first-choice intervention.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "bf9f1422-2077-461f-a3a6-1836fef8a8ac",
+    "stem": "An elderly man with a history of prostatism presents with acute retention of urine. His serum Cr concentration is 520 μmol/l. Which of the following additional abnormal serum biochemistry test results is most suggestive of a chronic component to his kidney disease?",
+    "options": [
+      "Hyperkalaemia",
+      "Hyperuricaemia",
+      "Hypocalcaemia",
+      "Hyponatraemia",
+      "Low serum bicarbonate concentration"
+    ],
+    "correct_option": 2,
+    "explanation": "Hypocalcaemia\nIts presence in kidney disease suggests that it is, at least in part, long-standing and owing to decreased renal synthesis of calcitriol (1,25-dihydroxycholecalciferol). Vitamin D is supplemented in chronic kidney disease, but guidelines suggest that calcium and vitamin D supplementation is not begun until parathyroid hormone (PTH) has escaped twice the upper limit of the normal range.\n\nHyperkalaemia\nHyperkalaemia is incorrect. High potassium does not differentiate between acute and chronic kidney disease. Where a chronic rise is seen, it may be tolerated to a higher level versus acute potassium changes, although the management is the same, with IV calcium under cardiac monitoring being the initial step for severe hyperkalaemia.\n\nHyperuricaemia\nHyperuricaemia is incorrect. This can be seen in both acute and chronic kidney disease, due to failure of adequate urate excretion. It is of course a cause of acute and chronic kidney disease itself, due to urate nephropathy.\n\nHyponatraemia\nHyponatraemia is incorrect. Salt and water overload (leading to hyponatraemia because of decreased free water excretion) can be seen in both acute and chronic renal impairment.\n\nLow serum bicarbonate concentration\nLow serum bicarbonate concentration is incorrect. Due to defective H + excretion and defective bicarbonate retention, this is a feature of both acute and chronic kidney disease.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "47d95055-fed6-44e5-97be-8dc2fcb317dd",
+    "stem": "A 68-year-old man undergoes a routine health check-up, which includes a physical examination and various laboratory investigations. An elevated BMI of 35 kg/m 2 is noted and he has abnormal results as follows: fasting blood glucose 8.0 mmol/l; corrected calcium 2.01 mmol/l; ALP activity 232 U/l (upper limit of reference range – 150); TSH 10.1 mU/l; Cr clearance (calculated) 70 ml/min (normal range: 85 – 125 µmol/min). Which one of the following parameters would be considered of least concern?",
+    "options": [
+      "Fasting blood glucose concentration",
+      "Glomerular filtration rate (GFR)",
+      "Alkaline phosphatase (ALP) activity",
+      "Serum calcium",
+      "Thyroid-stimulating hormone (TSH) concentration"
+    ],
+    "correct_option": 1,
+    "explanation": "Glomerular filtration rate (GFR)\nThe GFR declines with ageing beyond 40 years, but serum concentrations of creatinine (Cr) and urea are usually not affected because of the concomitant decreases in muscle bulk and protein turnover, respectively.\n\nFasting blood glucose concentration\nFasting blood glucose concentration is incorrect. This is in the impaired fasting glucose range, putting this patient at increased risk of cardiovascular disease; he should therefore be encouraged to lose weight.\n\nAlkaline phosphatase (ALP) activity\nAlkaline phosphatase (ALP) activity is incorrect. It is significantly elevated here, in conjunction with the hypocalcaemia, which is suggestive of osteomalacia.\n\nSerum calcium\nSerum calcium is incorrect. This patient is hypocalcaemic, coupled with the raised alkaline phosphatase, which is suggestive of a diagnosis of osteomalacia.\n\nThyroid-stimulating hormone (TSH) concentration\nThyroid-stimulating hormone (TSH) concentration is incorrect. It is significantly elevated, which may fit with subclinical hypothyroidism; measurement of free triiodothyronine (T3) and free thyroxine (T4) is therefore an essential next step.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "5c2b95e9-bf44-416a-afc5-73a689c217ac",
+    "stem": "Which of the following fluids would be the most appropriate to replace the fluid being lost in a patient with a paralytic ileus draining 2 litres of fluid a day through a nasogastric tube?",
+    "options": [
+      "Compound sodium lactate (Hartmann’s solution)",
+      "5% dextrose",
+      "10% dextrose",
+      "0.18% sodium chloride with 4% dextrose",
+      "0.9% sodium chloride with potassium according to electrolytes"
+    ],
+    "correct_option": 4,
+    "explanation": "0.9% sodium chloride with potassium according to electrolytes\nTo replace the fluid being lost in a patient with a paralytic ileus draining 2 litres of fluid a day through a nasogastric tube, it is essential to supply sufficient chloride ions to replace the chloride being lost in the gastric fluid (gastric juice is essentially dilute hydrochloric acid).\n\nCompound sodium lactate (Hartmann’s solution)\nCompound sodium lactate (Hartmann’s solution) is incorrect. This does not replace lost chloride ions, and the lactate it contains may be metabolised to bicarbonate, exacerbating alkalosis.\n\n5% dextrose\nA 70-year-old man with symptoms of prostatism has a serum prostate-specific antigen (PSA) level of 20 μg/l (normal value, < 4 μg/l). Which one of the following statements about the clinical importance of this result is the most likely?\n\n0.18% sodium chloride with 4% dextrose\n0.18% sodium chloride with 4% dextrose is incorrect. This does not contain adequate chloride replacement, therefore driving increased risk of metabolic alkalosis.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "a4bd3810-0da3-4f05-ad26-916246e9a32f",
+    "stem": "A 70-year-old man with symptoms of prostatism has a serum prostate-specific antigen (PSA) level of 20 μg/l (normal value, < 4 μg/l). Which one of the following statements about the clinical importance of this result is the most likely?",
+    "options": [
+      "It could be elevated because a digital rectal examination was performed 48 h before the blood",
+      "It could be elevated because of cancer elsewhere in the urinary tract",
+      "It is diagnostic of prostatic cancer",
+      "It is more likely to reflect prostatic cancer than benign prostatic hypertrophy",
+      "It is normal for a man of this age"
+    ],
+    "correct_option": 3,
+    "explanation": "It is more likely to reflect prostatic cancer than benign prostatic hypertrophy\nProstate-specific antigen (PSA) is specific to the prostate, although not for cancer; however, the degree of elevation seen here, (5 times the upper limit of nor mal), is consistent with a cancer.\n\nIt could be elevated because a digital rectal examination was performed 48 h before the blood\nIt could be elevated because a digital rectal examination was performed 48 h before the blood sample was taken It could be elevated because a digital rectal examination was performed 48 h before the blood sample was Chat AI the Tutor taken is incorrect. Although digital rectal examination may be associated with small increases in with PSA, magnitude of increase seen here is inconsistent with examination alone.\n\nIt could be elevated because of cancer elsewhere in the urinary tract\nIt could be elevated because of cancer elsewhere in the urinary tract is incorrect. PSA is specific to the prostate gland.\n\nIt is diagnostic of prostatic cancer\nIt is diagnostic of prostatic cancer is incorrect. PSA may rarely be significantly elevated in other conditions apart from cancer, including prostatitis and benign prostatic hypertrophy, although not usually to this level.\n\nIt is normal for a man of this age\nIt is normal for a man of this age is incorrect. Although the upper limit of normal may be adjusted up for increasing age, the PSA is markedly elevated here.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "0233b87d-57f7-4d12-84f2-0e23d5a61e44",
+    "stem": "A 45-year-old man with a history of Type 1 diabetes comes to the nephrology clinic for review. His GP has attempted to start an ACE inhibitor, but was unable to. Although his creatinine stayed relatively stable, a significant increase in his potassium was seen; his BP is 142/82 mmHg. Which one of the following is the most likely diagnosis?",
+    "options": [
+      "Membranous glomerulonephritis",
+      "Renal artery stenosis",
+      "Renal tubular acidosis type (RTA) I",
+      "Renal tubular acidosis type (RTA) II",
+      "Renal tubular acidosis type (RTA) IV"
+    ],
+    "correct_option": 4,
+    "explanation": "Renal tubular acidosis type (RTA) IV\nAcquired and usually seen in patients with mild kidney disease due to diabetes or tubulointerstitial renal disease. The underlying cause is thought to be resistance to the action of aldosterone.\n\nMembranous glomerulonephritis\nMembranous glomerulonephritis is incorrect. This is associated with marked proteinuria, rather than hyperkalaemia.\n\nRenal artery stenosis\nRenal artery stenosis is incorrect. This is associated with an increase in creatinine as well as the increase in potassium seen here.\n\nRenal tubular acidosis type (RTA) I\nRenal tubular acidosis type (RTA) I is incorrect. Distal RTA is associated with hypokalaemia and renal calculi.\n\nRenal tubular acidosis type (RTA) II\nRenal tubular acidosis type (RTA) II is incorrect. Proximal renal tubular acidosis is associated with hypokalaemia, rather than the hyperkalaemia seen here. Renal Tubular Acidosis A patient in the intensive care unit following liver transplant surgery has a metabolic alkalosis with a pH of 7.56 and an elevated serum bicarbonate.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "4dffbc8e-103a-4195-9bef-93895ec54ef9",
+    "stem": "A patient in the intensive care unit following liver transplant surgery has a metabolic alkalosis with a pH of 7.56 and an elevated serum bicarbonate. Which of the following is the most likely cause?",
+    "options": [
+      "Acetazolamide use",
+      "Diuretic-induced volume depletion",
+      "Hypermagnesaemia",
+      "Increased serum lactate",
+      "Increased urea metabolism"
+    ],
+    "correct_option": 1,
+    "explanation": "Diuretic-induced volume depletion\nRelative volume depletion is a feature of cirrhosis, due to hypoalbuminaemia driving low colloid osmotic pressure. This drives increased aldosterone, which is not adequately metabolised by an impaired liver. Furosemide use in the post-operative period further exacerbates alkalosis driven by hyperaldosteronism and could be responsible for the presentation here.\n\nAcetazolamide use\nAcetazolamide use is incorrect. This is used as a treatment for metabolic alkalosis rather than being a cause.\n\nHypermagnesaemia\nHypermagnesaemia is incorrect. Although elevated magnesium is a recognised association of metabolic alkalosis, it is not a cause.\n\nIncreased serum lactate\nIncreased serum lactate is incorrect. Lactate is associated with tissue hypoxia seen at the time of transplant, but is not a cause of alkalosis.\n\nIncreased urea metabolism\nIncreased urea metabolism is incorrect. Metabolic alkalosis is a driver for urea synthesis by the liver in cirrhosis, but urea synthesis is not a cause of increased pH.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "af3edee4-8cf3-423f-bec3-21b61232a893",
+    "stem": "A 48-year-old woman is referred to the gastroenterology clinic for review. She has no significant past medical history of note, and drinks one bottle of wine per week. On examination her BP is 150/82 mmHg, and pulse is 67 bpm and regular; her BMI is 29 kg/m 2. Her abdomen is soft and non-tender. Blood testing has revealed elevated ALT, AST and GGT; the AST:ALT ratio is 1 : 1.2. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Alcoholic steatohepatitis (ASH)",
+      "Cholelithiasis",
+      "Haemochromatosis",
+      "Non-alcoholic steatohepatitis (NASH)",
+      "Wilson’s disease"
+    ],
+    "correct_option": 3,
+    "explanation": "Non-alcoholic steatohepatitis (NASH)\nGiven this patient’s BMI, modest alcohol consumption and AST:ALT ratio less than 2, NASH is the most likely diagnosis, as it is associated with raised transaminases and elevated GGT, as seen here. Elevated GGT is also markedly elevated in patients with biliary obstruction.\n\nAlcoholic steatohepatitis (ASH)\nAlcoholic steatohepatitis (ASH) with AI is Tutor Alcoholic steatohepatitis (ASH) is incorrect. The AST:ALT ratio is less than 2 and alcohol Chat consumption modest, making NASH the more likely diagnosis.\n\nCholelithiasis\nCholelithiasis is incorrect. A rise in GGT would be expected, although a rise in alkaline phosphatase (ALP) and right upper quadrant pain would also be a feature.\n\nHaemochromatosis\nHaemochromatosis is incorrect. The menstrual cycle effectively being a natural form of venesection, presentation with liver disease in women due to haemochromatosis is very unusual.\n\nWilson’s disease\nWilson’s disease is incorrect. This usually presents in the second or third decade with abnormal liver function tests (LFTs), neuropsychiatric symptoms or unilateral motor dysfunction.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "288a49a4-4e35-4a7f-864e-9c090834186d",
+    "stem": "A 19-year-old man is admitted by ambulance after falling into a river. He is pulled out by two friends but is thought to have inhaled a significant quantity of water. On examination in the Emergency Department his saturation is 90% on O 2 by mask. He is drowsy but conscious, with bradycardia, BP of 90/60 mmHg and a temperature of 34.8°C. Auscultation of his chest reveals wheeze and crackles consistent with fluid inhalation. Which one of the following is the most likely biochemical imbalance to be seen?",
+    "options": [
+      "Mixed metabolic and respiratory acidosis",
+      "Low urea",
+      "Compensated respiratory acidosis",
+      "Hypokalaemia",
+      "Hyponatraemia"
+    ],
+    "correct_option": 0,
+    "explanation": "Mixed metabolic and respiratory acidosis\nInhalation of fluid leads to disordered gas exchange in patients with significant fluid aspiration, precipitating respiratory acidosis. Metabolic acid results from intravascular volume depletion, hypotension and consequent tissue hypoxia.\n\nLow urea\nLow urea is incorrect. Relative intravascular volume depletion results in either normal or elevated, rather than reduced, urea.\n\nCompensated respiratory acidosis\nCompensated respiratory acidosis is incorrect. Metabolic compensation for respiratory acidosis takes some 48– 72 hr, and given hypotension and bradycardia, reduced tissue perfusion drives metabolic acidosis.\n\nHypokalaemia\nHypokalaemia is incorrect. Normal or elevated potassium is seen in cases of significant inhalation of fluid. You are reviewing the clinical chemistry results of a 19-year-old South Asian woman who has moved to the UK. She eats a vegetarian diet and rarely ventures out of the house. On examination in the clinic her BP is 110/70 mmHg, pulse is 70 bpm and regular, and her BMI is 22 kg/m 2. She complains of pain affecting both femurs and has evidence of proximal myopathy. Investigations:\n\nHyponatraemia\nHyponatraemia is incorrect. Normal or elevated sodium are seen in cases of large-volume fluid inhalation due to intravascular volume depletion.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "f320a570-b902-4381-be3b-a616b035df50",
+    "stem": "Which one of the following is the most likely diagnosis?",
+    "options": [
+      "Hypoparathyroidism",
+      "Primary hyperparathyroidism",
+      "Pseudohypoparathyroidism",
+      "Osteomalacia",
+      "Hypothyroidism"
+    ],
+    "correct_option": 3,
+    "explanation": "Osteomalacia\nOsteomalacia has a higher incidence in South Asians, particularly those who eat a vegetarian diet, and is associated with hypocalcaemia and an elevated alkaline phosphatase; a compensatory rise in parathyroid hormone (PTH) may also drive increased phosphate excretion. Vitamin D and calcium supplementation rapidly reverse the symptoms.\n\nHypoparathyroidism\nHypoparathyroidism is incorrect. The typical blood picture would be hypocalcaemia, but phosphate is elevated and alkaline phosphatase is in the normal range; PTH is, of course, low.\n\nPrimary hyperparathyroidism\nPrimary hyperparathyroidism is incorrect. In this case, with no significant past medical history, primary hyperparathyroidism would be expected; this is associated with hypercalcaemia.\n\nPseudohypoparathyroidism\nPseudohypoparathyroidism is incorrect. The blood picture is one of hypocalcaemia and elevated phosphate; however, there is PTH resistance, so levels of PTH are actually elevated.\n\nHypothyroidism\nHypothyroidism is incorrect. Low calcium may be seen after thyroidectomy, but this is most often related to disruption of the parathyroids, and is transient.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "a2e2da44-fa5c-446d-8fa7-b5fdf59d32f1",
+    "stem": "Which one of the following is the principal cause of the raised calcium, which is associated with sarcoidosis?",
+    "options": [
+      "Elevated parathyroid hormone (PTH)",
+      "Elevated calcitonin",
+      "Elevated cholecalciferol",
+      "Elevated 1,25-dihydroxycholecalciferol",
+      "Elevated calcitroic acid"
+    ],
+    "correct_option": 3,
+    "explanation": "Elevated 1,25-dihydroxycholecalciferol\nElevated 1,25-dihydroxycholecalciferol 1,25-dihydroxy vitamin D production by activated alveolar macrophages is increased in sarcoidosis, which results in increased efficiency of calcium absorption from the small intestine and consequent hypercalcaemia. It is also recognised that elevation of parathyroid hormone (PTH) may occur in conjunction with sarcoidosis, although this may just represent coexistent hyperparathyroidism by chance in many cases. Increase in dietary phosphate from Coca-Cola ® has been shown to increase the risk of renal stones and soft tissue calcification.\n\nElevated parathyroid hormone (PTH)\nElevated parathyroid hormone (PTH) is incorrect. Sarcoidosis is associated with elevated vitamin D; it is therefore most likely to be associated with suppressed levels of PTH.\n\nElevated calcitonin\nElevated calcitonin is incorrect. Calcitonin levels may be elevated as a response to hypercalcaemia in sarcoidosis but they are not the cause of the hypercalcaemia itself.\n\nElevated cholecalciferol\nElevated cholecalciferol is incorrect. It is the hydroxylated form of vitamin D that is increased in patients with sarcoidosis.\n\nElevated calcitroic acid\nElevated calcitroic acid is incorrect. Although this is the metabolite of hydroxylated vitamin D, it is not the principal cause of hypercalcaemia in sarcoidosis.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "7e7faa91-15e7-4654-9067-ea94bc6a6851",
+    "stem": "A 30-year-old man is referred to the rheumatology clinic complaining of pain in his hips and back on walking. He has also begun to develop a dusky pigmentation discoloration, affecting his ears in particular, and has some calcification of the pinnae on examination. There is a family history of alkaptonuria. Which step in metabolism is altered in a patient with alkaptonuria?",
+    "options": [
+      "Amino acid metabolism",
+      "Purine metabolism",
+      "Pyrimidine metabolism",
+      "Glycoprotein metabolism",
+      "Carbohydrate metabolism"
+    ],
+    "correct_option": 0,
+    "explanation": "Amino acid metabolism\nAlkaptonuria occurs because of a homogentisic acid oxidase deficiency that leads to a defect in tyrosine metabolism and accumulation of homogentisic acid. There is increased incidence of the disease in individuals who are HLA-DR7-positive. Symptoms occur owing to homogentisic acid accumulation and calcification. Dietary reduction of tyrosine and phenylalanine may reduce homogentisic acid accumulation and symptoms if instituted early.\n\nPurine metabolism\nPurine metabolism is incorrect. Excess purine synthesis or reduced purine breakdown is responsible for the development of gout.\n\nPyrimidine metabolism\nPyrimidine metabolism is incorrect. Such disorders can lead to megaloblastic anaemia, renal disorders and congenital cardiovascular disease; an example is hereditary orotic aciduria.\n\nGlycoprotein metabolism\nGlycoprotein metabolism is incorrect. Disorders in glycoprotein and glycolipid metabolism usually result from defects in lysosomal function; an example is galactosialidosis.\n\nCarbohydrate metabolism\nCarbohydrate metabolism is incorrect. Diabetes is the prime example of a disorder of carbohydrate metabolism.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "829e4ba2-fde0-4d9d-87c8-414914f60c83",
+    "stem": "A 17-year-old girl presents with excess hair and amenorrhoea. She is normotensive. Her prolactin levels are normal but she has a raised 17α-hydroxyprogesterone level and testosterone. What is the most likely diagnosis?",
+    "options": [
+      "Complete 11β-hydroxylase deficiency",
+      "Complete 21-hydroxylase deficiency",
+      "Partial 11β-hydroxylase deficiency",
+      "Partial 21-hydroxylase deficiency",
+      "17-hydroxylase deficiency"
+    ],
+    "correct_option": 3,
+    "explanation": "Partial 21-hydroxylase deficiency\nThis patient has congenital adrenal hyperplasia (CAH). The most common type of CAH is 21-hydroxylase deficiency (autosomal-recessive) affecting around 1 in 10,000 White ethnicity; as a result, cortisol levels are low and trigger ACTH release and adrenal hyperplasia. 21-hydroxylase is responsible for metabolizing 17hydroxyprogesterone and progesterone itself, so absence or partial functioning of the enzyme leads to accumulation of 17-hydroxyprogesterone and other hormones leading to virilisation.\n\nComplete 11β-hydroxylase deficiency\nComplete 11β-hydroxylase deficiency is incorrect. 11-beta hydroxylase deficiency drives accumulation of corticosteroids one step further along the synthesis pathway, so 11-deoxycortisol and deoxycorticosterone levels are elevated.\n\nComplete 21-hydroxylase deficiency\nComplete 21-hydroxylase deficiency is incorrect. Complete 21-hydroxylase deficiency normally presents with symptoms of salt wasting in childhood, and more marked virilisation in girls. Patients with complete 21hydroxylase deficiency may require salt supplementation.\n\nPartial 11β-hydroxylase deficiency\nPartial 11β-hydroxylase deficiency is incorrect. The fact 17-hydroxyprogesterone levels are elevated here counts against 11beta hydroxylase deficiency as the underlying diagnosis.\n\n17-hydroxylase deficiency\n17-hydroxylase deficiency is incorrect. 17-hydroxylase deficiency presents with delayed puberty and symptoms of mineralocorticoid excess. You are investigating the effects of a new agent in the treatment of elevated LDL cholesterol.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "0f870424-d461-4da1-acfe-a5c808a0d9d7",
+    "stem": "You are investigating the effects of a new agent in the treatment of elevated LDL cholesterol. Which of the following is a key feature of low-density lipoproteins (LDL)?",
+    "options": [
+      "Levels are increased by PCSK9 inhibition",
+      "Their concentration is highly correlated with dietary cholesterol content",
+      "They are involved in reverse cholesterol transport",
+      "They are synthesised de novo in the liver",
+      "They contain apolipoprotein B-100"
+    ],
+    "correct_option": 4,
+    "explanation": "They contain apolipoprotein B-100\nEach particle of LDL contains one molecule of apolipoprotein B-100, the ligand for the LDL receptor.\n\nLevels are increased by PCSK9 inhibition\nLevels are increased by PCSK9 inhibition is incorrect. PCSK9 drives LDL receptor degradation and when liver LDL receptor levels fall, LDL levels rise. Inhibition of PCSK9 (a drug target), in contrast results in a fall in LDL.\n\nTheir concentration is highly correlated with dietary cholesterol content\nTheir concentration is highly correlated with dietary cholesterol content is incorrect. The concentration of LDLs is determined mainly by the rates of hepatic synthesis and peripheral clearance.Dietary saturated fat intake correlates more strongly than dietary cholesterol intake with LDL-cholesterol concentration.\n\nThey are involved in reverse cholesterol transport\nThey are involved in reverse cholesterol transport is incorrect. HDL cholesterol is involved in reverse cholesterol transport. A 72 year old woman presents to the Emergency department with gradually worsening nausea, vomiting and drowsiness. According to relatives she has suffered from a chronic cough for some time, and has gradually lost weight. She continues to smoke 10 cigarettes per day. Examination reveals a blood pressure of 148/82, pulse is 72 and regular. Auscultation of the chest reveals crackles and quiet wheeze consistent with COPD. Abdomen is soft and non-tender with a BMI of 22. Bloods taken in the emergency department reveal a creatinine of 175 micromol/l (60-110), and a calcium of 3.4 mmol/l, (2.1-2.65). Which of the following malignancies would you consider as the most likely underlying cause?\n\nThey are synthesised de novo in the liver\nThey are synthesised de novo in the liver is incorrect. LDLs are formed from VLDL (very-low-density lipoprotein) and IDL (intermediate-density lipoprotein) by successive removal of triglyceride and modification in the circulation.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "074ab91e-8e95-4821-9f51-9c5d2dce7ae4",
+    "stem": "A 72 year old woman presents to the Emergency department with gradually worsening nausea, vomiting and drowsiness. According to relatives she has suffered from a chronic cough for some time, and has gradually lost weight. She continues to smoke 10 cigarettes per day. Examination reveals a blood pressure of 148/82, pulse is 72 and regular. Auscultation of the chest reveals crackles and quiet wheeze consistent with COPD. Abdomen is soft and non-tender with a BMI of 22. Bloods taken in the emergency department reveal a creatinine of 175 micromol/l (60-110), and a calcium of 3.4 mmol/l, (2.1-2.65). Which of the following malignancies would you consider as the most likely underlying cause?",
+    "options": [
+      "Bronchial carcinoid",
+      "Lymphoma",
+      "Multiple myeloma",
+      "Small-cell carcinoma of the bronchus",
+      "Squamous-cell carcinoma of the bronchus"
+    ],
+    "correct_option": 4,
+    "explanation": "Squamous-cell carcinoma of the bronchus\nGiven the history of smoking and chronic obstructive pulmonary disease (COPD), underlying bronchial carcinoma should be considered as the most likely cause of hypercalcaemia. Squamous cell carcinomas are more likely to produce PTHrp, renal, bladder, breast and ovarian cancers are other solid tumours known to produce the hormone.\n\nBronchial carcinoid\nBronchial carcinoid is incorrect. Bronchial carcinoid is more likely to present at a younger age with obstructive symptoms leading to lobar pneumonia, or pulmonary haemorrhage due to the vascular nature of the tumour, and isn’t linked to smoking.\n\nLymphoma\nLymphoma is incorrect. The chest symptoms and smoking history count more towards an underlying bronchial carcinoma versus a lymphoma. Lymphomas can be associated with hypercalcaemia, this may be due to unregulated extrarenal production of calcitriol.\n\nMultiple myeloma\nMultiple myeloma is incorrect. Multiple myeloma may be responsible for hypercalcaemia, although this is most likely to be seen in patients with advanced disease, due to osteoclast activity.\n\nSmall-cell carcinoma of the bronchus\nSmall-cell carcinoma of the bronchus is incorrect. Small cell carcinoma of the bronchus is less likely versus squamous cell carcinoma to lead to hypercalcaemia. A 64 year old woman who is treated with subcutaneous teriparatide for osteoporosis, comes to the clinic for review. She has now been taking the medication for 2 months.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "7b25084e-4a7d-4507-95cf-bc37b5052bc1",
+    "stem": "A 22 year old man presents to the endocrine clinic with recurrent balanitis and is found to have a fasting plasma glucose of 8.0 mmol/l. He has a history in the family of type 2 diabetes. His weight has been stable over the past few months. On examination his BP is 110/70, pulse is 70 bpm and regular. His BMI is 23. Anti-GAD antibodies are weakly positive. Which of the following features in his history and examination makes us more likely to think of underlying type 2 diabetes rather than type 1 diabetes?",
+    "options": [
+      "Fasting plasma glucose 8.0",
+      "Lack of recent weight loss",
+      "Onset age 22",
+      "Positive anti-GAD antibodies",
+      "Recurrent balanitis"
+    ],
+    "correct_option": 1,
+    "explanation": "Lack of recent weight loss\nAlthough not invariably, type 1 diabetes is likely to be associated with symptoms of insulinopaenia at presentation, these include polyuria, polydipsia and weight loss. The lack of weight loss hints at an alternative diagnosis, and given the strong family history of type 2 diabetes, MODY is a possibility.\n\nFasting plasma glucose 8.0\nFasting plasma glucose 8.0 is incorrect. The fasting plasma glucose of 8.0 is in the diabetic range, and may indicate the early stages of type 1 diabetes or indeed type 2 diabetes mellitus.\n\nOnset age 22\nOnset age 22 is incorrect. Although type 2 diabetes was historically associated with older age at onset, it’s now diagnosed in children as young as 11 years of age.\n\nPositive anti-GAD antibodies\nPositive anti-GAD antibodies is incorrect. The GAD antibody titre is only weakly positive, hence it’s not a strong pointer to either type 1 or type 2 diabetes.\n\nRecurrent balanitis\nRecurrent balanitis is incorrect. Recurrent balanitis is merely associated with increased glucose levels.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "6d607ed9-0fec-4f2f-9c69-de7a6f1a21a7",
+    "stem": "A 55-year-old woman presents to the clinic some 2 years after diagnosis with type 2 diabetes mellitus. Her weight is 86 kg, body mass index 36 kg/m 2. Current medication is oral metformin 1g twice per day. Other past history of note includes a previous inferior myocardial infarction some 5 years earlier. On examination her BP is 142/82, pulse is 72 and regular. Her chest is clear, there is mild pitting oedema of both ankles which may be related to use of amlodipine. A recent HbA1c is 71 mmol/mol, and her creatinine is 95 micromol/l. Which of the following is the most appropriate intervention?",
+    "options": [
+      "Acarbose",
+      "Empagliflozin",
+      "Glipizide",
+      "Liraglutide",
+      "Sitagliptin"
+    ],
+    "correct_option": 1,
+    "explanation": "Empagliflozin\nEmpagliflozin is an SGLT-2 inhibitor, which leads to renal excretion of glucose and has positive effects on HbA1c and is associated with minor, (2-3% loss in weight on average), over a 6 month period. It also has a positive impact on cardiovascular mortality as evidenced by the EMPA-REG study. Given this patient’s positive history with respect to ischaemic heart disease, and significant obesity, it is therefore the most appropriate option.\n\nAcarbose\nAcarbose is incorrect. Although acarbose is an option for controlling blood glucose, its effects are modest in lowering HbA1c, and it is often poorly tolerated in combination with metformin due to abdominal pain, flatulence and diarrhea.\n\nGlipizide\nGlipizide is incorrect. In this situation even a short acting sulphonylurea is likely to promote weight gain and may be associated with both fluid retention and hypoglycaemia.\n\nLiraglutide\nLiraglutide is incorrect. A GLP-1 agonist is a potential option for this patient because it promotes both glucose control and weight loss, but is most likely to be used in addition to dual oral therapy.\n\nSitagliptin\nSitagliptin is incorrect. Sitagliptin is a DPPIV inhibitor. Although it has potential advantages in this patient, (it is weight neutral and does not cause hypoglycaemia), an SGLT-2 inhibitor is preferred because of modest positive effects with respect to weight control. ( Blood buffers are essential for maintaining the body’s acid-base balance.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "dc550ee0-37a0-41ce-873f-17479fd0f19f",
+    "stem": "Blood buffers are essential for maintaining the body’s acid-base balance. Which of the following is a blood buffer?",
+    "options": [
+      "Carbon dioxide",
+      "Haemoglobin",
+      "Potassium",
+      "Sodium",
+      "Urea"
+    ],
+    "correct_option": 1,
+    "explanation": "Haemoglobin\nHaemoglobin is a protein and has imidazole side chains which can buffer H + ions. Along with bicarbonate, it is one of the most important buffering agents in plasma. Deoxyhaemoglobin is a much more effective buffer than oxyhaemoglobin which accounts for some proportion of the Haldane effect (the effect of oxygen on haemoglobin, reducing its ability to transport carbon dioxide).\n\nCarbon dioxide\nCarbon dioxide is incorrect. Carbon dioxide is absorbed into the bloodstream and with water will form carbonic acid. However, the presence of bicarbonate in the blood acts as a buffer such that there is minimal change in blood pH with the absorption of carbon dioxide.\n\nPotassium\nPotassium is incorrect. A buffer must be able to accept H + ions; potassium is a cation and therefore cannot accept H + ions.\n\nSodium\nSodium is incorrect. A buffer must be able to accept H + ions; sodium is a cation and therefore cannot accept H + ions.\n\nUrea\nUrea is incorrect. Urea is not a base, and does not contain any side groups that can accept H + ions, therefore it cannot act as a buffer. Buffers are substances or solutions that accept a proton or hydroxyl group with very little change in overall pH. Blood buffers include bicarbonate, haemoglobin and protein. Technically phosphate is also a serum buffer but so little of it is present in the plasma that it has no significant contribution to the body’s acid-base balance mechanisms. Haemoglobin has imidazole side chains which can accept hydrogen ions. Haemoglobin is a much more effective buffer in its deoxygenated form, which contributes to the Haldane effect. This is where carbon dioxide is offloaded more easily at the lungs (when haemoglobin is oxygenated) but is easily picked up and transported from the tissues (when haemoglobin has been deoxygenated).",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "9f57c4b0-ec93-44d6-aeb0-fbbce091cb12",
+    "stem": "He begins a total parenteral nutrition (TPN) regimen, but unfortunately, suffers decreased consciousness and a short tonic–clonic seizure. In this case, deficiency of which one of the following is the most likely cause of the change in consciousness?",
+    "options": [
+      "Phosphate",
+      "Niacin",
+      "Sodium",
+      "Glucose",
+      "Potassium"
+    ],
+    "correct_option": 0,
+    "explanation": "Phosphate\nPhosphate is the correct answer. Any patient with a drastically reduced nutrient intake for consecutive days or has had a critical illess/major surgery is at risk of developing refeeding syndrome when feeding is recommenced, potentially leading to neurologic, pulmonary, cardiac, neuromuscular, and hematologic complications. The hallmark biochemical feature of re-feeding syndrome is hypophosphataemia, which leads to cardiac, respiratory and neuromuscular failure. Other central nervous system manifestations include metabolic encephalopathy as a result of ATP depletion, which may include altermed mental status, parastheisa, seizures and coma. However, the syndrome is complex and may also feature abnormal sodium and fluid balance; changes in glucose, protein and fat metabolism; thiamine deficiency; hypokalaemia; and hypomagnesaemia. In this case, thiamine should be replaced before starting feeding, and phosphate replacement added to the bags.\n\nNiacin\nNiacin is incorrect. Deficiency of niacin leads to pellagra, a multi-system condition that commonly causes diarrhoea, dermatitis and dementia.\n\nSodium\nSodium is incorrect. Symptoms and signs of hyponatremia are non-specific and may include the following: nausea and vomiting, confusion, lethargy, fatigue and decreased consciousness. Symptom severity depends on the speed of the drop in blood sodium. A gradual drop, even to very low levels, may be tolerated well if it occurs over several days or weeks. Replacement of sodium should occur gradually in order to avoid the risk of developing central pointe myelinolysis.\n\nGlucose\nAlthough hypoglycaemia is common in patients with alcoholism, carbohydrate forms a major component of refeeding solution, meaning that hypoglycaemia is very unlikely in this situation.\n\nPotassium\nPotassium is incorrect. Mild hypokalaemia is often asymptomatic but may lead to the development of arrhythmias. Severe hypokalaemia may cause muscles weakness, cramps, respiratory depression and paralysis.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "5d988c64-e636-41d0-83aa-554d1ebdc302",
+    "stem": "A 72-year-old man has pain in his left hip which has progressively worsened over the past six months, such that his movement is now severely limited. Examination reveals severe limitation of flexion and external rotation of the left hip. A hip X-ray shows gross deformity of the joint with loss of joint space and extensive new bone formation. You suspect Paget’s disease. Which of the following is most likely to be elevated?",
+    "options": [
+      "Alkaline phosphatase",
+      "Calcium",
+      "Magnesium",
+      "Phosphate",
+      "Vitamin D"
+    ],
+    "correct_option": 0,
+    "explanation": "Alkaline phosphatase\nAlkaline phosphatase is a marker of osteoblast activity. It correlates well with symptoms of Paget’s disease and responds to treatment with bisphosphonates. If there is debate about whether the alkaline phosphatase is bony in origin or from the liver, then measurement of the bone-specific enzyme may be useful. Symptom relief is the goal of intervention with bisphosphonates rather than aiming to normalise alkaline phosphatase.\n\nCalcium\nCalcium is normal in patients with Paget’s disease and has no value as a measure of disease activity. Small elevations in calcium may be seen in patients with Paget’s who spend a prolonged period of time bedbound.\n\nMagnesium\nLow serum magnesium concentrations are associated with highly active Paget's disease; they do not arise from increased urinary loss nor from a lowered net absorption of magnesium, but probably from increased uptake by bone. Increased levels are not therefore a feature in patients with Paget’s disease symptoms.\n\nPhosphate\nPhosphate accumulation is seen in patients with chronic renal impairment and in patients with hypoparathyroidism. It is not a feature of Paget’s disease. Low-phosphate diet and use of phosphate binders are integral to the management of patients with more advanced chronic kidney disease.\n\nVitamin D\nElevated vitamin D is seen in patients with hypercalcaemia related to active sarcoidosis, where production of 1,25-OH vitamin D is increased. Elevated vitamin D does not have a role in the pathogenesis of Paget’s disease.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "d6095dba-8766-43de-b3c6-977b78f29039",
+    "stem": "Given the likely diagnosis, which of the following is the initial treatment of choice?",
+    "options": [
+      "IV infusion of hypertonic saline",
+      "IV infusion of isotonic saline",
+      "Oral demeclocycline",
+      "Oral furosemide",
+      "Restriction of water intake"
+    ],
+    "correct_option": 0,
+    "explanation": "IV infusion of hypertonic saline\nAcute (< 48 hours) symptomatic hyponatraemia necessitates prompt correction, as the rapid rate of change in serum Na + levels does not allow for equilibration of Na + between the intravascular and extravascular spaces. This can be particularly problematic in the brain. When the serum Na + level falls sharply, the interstitium within the CNS becomes relatively hypertonic, leading to movement of water from the serum. Given the volumetric constraints of the skull, this cerebral oedema can quickly lead to coma, seizures, brainstem herniation and death. Prompt administration of hypertonic saline (3%) is therefore indicated, typically as an infusion in 100-ml increments over ten minutes until symptoms . The maximum daily rate of serum Na+ correction must also be controlled because there is a risk of central pontine myelinolysis with rapid overcorrection. Guidelines can vary, but they generally advise an increase of serum Na + of 8–12 mmol in the first day for severe cases, followed by 4–6 mmol/day. Clinical manifestations of central pontine myelinolysis may include dysarthria, dysphagia, para-/quadriparesis, seizures, confusion, coma and, rarely, locked-in syndrome.\n\nIV infusion of isotonic saline\nIV infusion of isotonic saline will not significantly raise the serum Na + level in a patient who is euvolaemic with hyponatraemia. Fluid restriction is therefore preferred.\n\nOral demeclocycline\nOral demeclocycline promotes free water loss, leading to an increase in the serum Na + level and is a possible intervention in the event that fluid retention alone fails to correct the problem.\n\nOral furosemide\nFurosemide promotes both Na + and water loss. As such, it is not appropriate as monotherapy for syndrome of inappropriate antidiuretic hormone secretion (SIADH) and, indeed in this situation, may promote pre-kidney disease.\n\nRestriction of water intake\nRestriction of water intake is the initial treatment of choice for hyponatraemic patients with SIADH who are not at imminent risk of seizures or coma and who have a serum Na + level of 130 mEq/l or above. This precipitates a gradual rise in the serum Na + level, not greater than the recommended maximum of 8–10 mmol/day.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "f9fd9f0f-ffee-426b-a4db-cd22f25704f6",
+    "stem": "A 48-year-old woman with known renal disease presents to the Emergency Department. Her admission biochemistry profile shows a serum K + concentration of 6.2 mmol/l; her ECG is abnormal. Which ECG abnormality is most likely to have occurred earliest as her hyperkalaemia developed?",
+    "options": [
+      "Prolonged PR interval",
+      "Prominent U waves",
+      "Reduced P wave amplitude",
+      "Sine wave pattern",
+      "Tall, tented T waves"
+    ],
+    "correct_option": 4,
+    "explanation": "Tall, tented T waves\nThe development of tall tented T waves is typically seen early in the time course of hyperkalaemia.\n\nProlonged PR interval\nProlonged PR interval is incorrect. This is typically seen where potassium (K +) is greater than 6.5 mmol/l, and represents progressive paralysis of the atria.\n\nProminent U waves\nProminent U waves is incorrect. These are a feature of hypo- rather than hyperkalaemia, which is seen here.\n\nReduced P wave amplitude\nReduced P wave amplitude is incorrect. Like PR prolongation, is seen when potassium (K +) is greater than 6.5 mmol/l and at K+ levels greater than 7.5 mmol/l the P wave disappears.\n\nSine wave pattern\nSine wave pattern is incorrect. This is seen on ECG as a preterminal change, and is associated with potassium (K +) levels greater than 7.0 mmol/l.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "cbf045e2-2837-4880-b7f6-19396d839a4a",
+    "stem": "A young couple in their twenties presents to the Genetics Clinic to discuss the risk of future children they may have suffering from liver failure. Apparently, a niece died in very early childhood, suffering from progressive jaundice in infancy. No other family members have been affected, and the family remember there was a marked rise in unconjugated bilirubin in the child. Which of the following fits best with the underlying inherited condition?",
+    "options": [
+      "Autosomally-dominant, severe conjugated hyperbilirubinaemia",
+      "Autosomally inherited, severe unconjugated hyperbilirubinaemia",
+      "Autosomal-recessive, mild unconjugated hyperbilirubinaemia",
+      "X-linked, severe conjugated hyperbilirubinaemia",
+      "X-linked, severe unconjugated hyperbilirubinaemia"
+    ],
+    "correct_option": 1,
+    "explanation": "Autosomally inherited, severe unconjugated hyperbilirubinaemia\nCrigler–Najjar is a rare syndrome that can be either autosomal-recessive (type 1) or autosomal-recessive with pseudodominance (type 2). Severe unconjugated hyperbilirubinaemia results from an absence (type 1) or decrease (type 2) of glucuronyl transferase. As, in effect, it is a prehepatic problem, liver histology is normal and only those with the type-2 disease can survive to adulthood. Liver transplantation is the only effective intervention.\n\nAutosomally-dominant, severe conjugated hyperbilirubinaemia\nAutosomal-dominant, severe conjugated hyperbilirubinaemia is incorrect. Conjugated hyperbilirubinaemia is seen in both Dubin-Johnson and Rotor syndrome, Dubin-Johnson carries an autosomal recessive inheritance pattern.\n\nAutosomal-recessive, mild unconjugated hyperbilirubinaemia\nAutosomal-recessive, mild unconjugated hyperbilirubinaemia is incorrect. Gilbert’s syndrome is an example of an autosomal recessive condition associated with mild unconjugated hyperbilirubinaemia.\n\nX-linked, severe conjugated hyperbilirubinaemia\nX-linked, severe conjugated hyperbilirubinaemia is incorrect. X-linked severe conjugated hyperbilirubinaemia is not well described, and the fact that a niece was affected, makes an X-linked condition less likely.\n\nX-linked, severe unconjugated hyperbilirubinaemia\nX-linked, severe unconjugated hyperbilirubinaemia is incorrect. G6PD deficiency is X-linked and results in neonatal jaundice.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "535d339c-7338-4747-85ee-2712dfc9ac89",
+    "stem": "A 42-year-old woman with a family history of early death due to ischaemic heart disease comes to the clinic for review. She is worried about making sure her blood pressure and lipids are well controlled. Her BP is measured at 142/72 mmHg, and fasting cholesterol is measured at 8.4 mmol/l, with an LDL of 5.7 mmol/l; TSH is 2.5 mU/l (NR 0.4–5). Which of the following is the most likely cause?",
+    "options": [
+      "Chylomicron retention",
+      "HDL receptor mutation",
+      "Increased secretion of VLDL",
+      "Lipoprotein lipase deficiency",
+      "LDL receptor mutation"
+    ],
+    "correct_option": 4,
+    "explanation": "LDL receptor mutation\nMutations in the LDL-receptor gene lead to the development of familial hypercholesterolaemia. Homozygosity leads to higher levels of cholesterol, with total cholesterol levels of 15 mmol/l not unusual in this situation. Treatment in this woman’s case is with high-dose statin therapy, +/- addition of other lipid-lowering agents such as evolocumab or ezetimibe.\n\nChylomicron retention\nChylomicron retention is incorrect. This is associated with malabsorption of fats, diarrhoea and neurological disorders.\n\nHDL receptor mutation\nHigh-density lipoprotein (HDL)-receptor mutation is incorrect. Mutations in the HDL scavenger receptor lead to premature cardiovascular disease, but not a large rise in LDL cholesterol.\n\nIncreased secretion of VLDL\nIncreased secretion of very low-density lipoprotein (VLDL) is incorrect. This is associated with a rise in triglycerides.\n\nLipoprotein lipase deficiency\nFamilial lipoprotein lipase deficiency is incorrect. This is very rare and results in marked elevation of triglycerides, eruptive xanthomata and recurrent pancreatitis.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "5db96afd-8f42-4e09-bead-9e91ddfd1693",
+    "stem": "A 38-year-old woman with type 1 diabetes reports at her regular clinic review that she has been experiencing frequent episodes of hypoglycaemia during the previous 6 months, despite reducing her overall dose of insulin by almost 50%. Her HbA1c in the clinic is 36 mmol/mol having been 45 mmol/mol a year previously. She says that her periods are becoming scanty and irregular and wonders if she is having an early menopause. Her gonadotrophin concentrations are low. What is the most likely cause of the reduction in her insulin requirement?",
+    "options": [
+      "Addison’s disease",
+      "Hypopituitarism",
+      "Increased exercise",
+      "Spontaneous regression of diabetes",
+      "Weight loss"
+    ],
+    "correct_option": 1,
+    "explanation": "Hypopituitarism\nBoth decreased secretion of cortisol and growth hormone can drive a reduction in insulin requirements because these are counter-regulatory hormones with respect to insulin action. The progressively more scanty and irregular periods also fit loss of gonadotrophin release, suggesting hypopituitarism because of deficiency of multiple pituitary hormones.\n\nAddison’s disease\nAddison’s disease is incorrect. The features here including sex hormone dysfunction are more supportive of hypopituitarism rather than isolated cortisol deficiency.\n\nIncreased exercise\nIncreased exercise is incorrect. Increased exercise would not drive as great a reduction in insulin dose as that seen here, making a reduction in counter-regulatory hormones the more likely driver for hypoglycaemia.\n\nSpontaneous regression of diabetes\nSpontaneous regression of diabetes is incorrect. Although patients with type 1 diabetes may enter a honeymoon period soon after diagnosis, spontaneous regression of diabetes is not seen in established disease.\n\nWeight loss\nWeight loss is incorrect. Marked weight loss is not reported by the patient here, implying that it cannot be the driver for the reduction in insulin dose.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "ca5ce42a-75d6-4605-92ac-e19e491964b5",
+    "stem": "A 27-year-old woman presents with global weakness, lethargy and numbness of her extremities, which has worsened over the past 6 weeks; she admits to intermittent diarrhoea. On examination in the Emergency Department, she is markedly underweight with a body mass index (BMI) of only 18 kg/m 2. Her blood pressure is 100/70 mmHg and blood testing reveals hypokalaemia, raised chloride levels, low serum bicarbonate and a pH of 7.31. Which of the following diagnoses seems most likely in this case?",
+    "options": [
+      "Bartter syndrome",
+      "Liddle syndrome",
+      "Gitelman syndrome",
+      "Laxative abuse",
+      "Diuretic abuse"
+    ],
+    "correct_option": 3,
+    "explanation": "Laxative abuse\nThis patient has a hypokalaemic, hyperchloraemic metabolic acidosis. The most likely cause is gastrointestinal loss of bicarbonate and potassium due to chronic severe laxative abuse. While mild laxative abuse results in alkalosis, more severe loss of bicarbonate eventually leads to acidosis. Diagnosis would be supported by urine testing for metabolites of commonly used laxative agents.\n\nBartter syndrome\nBartter syndrome is incorrect. This is associated with hypokalaemia and metabolic alkalosis due to defective reabsorption of chloride in the thick ascending loop of Henle.\n\nLiddle syndrome\nLiddle syndrome is incorrect. This is associated with increased activity of the epithelial sodium channel, which promotes salt and water retention, driving hypokalaemia and hypertension.\n\nGitelman syndrome\nGitelman syndrome is incorrect. This, like Bartter’s, is due to defective chloride reabsorption and is associated with hypokalaemia and metabolic alkalosis.\n\nDiuretic abuse\nDiuretic abuse is incorrect. Although diuretic abuse would lead to marked potassium loss, it is associated with alkalosis rather than acidosis.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "4c8eb8ca-98fc-4650-a33b-ddd347f406a0",
+    "stem": "A 74-year-old woman is asked to attend the endocrine clinic having had a routine blood test at the GP surgery which revealed hypercalcaemia with a calcium of 2.88 mmol/l. She has had mild asthma for the past 40 years, takes a salbutamol inhaler, and uses amlodipine for control of blood pressure. Physical examination is unremarkable with a blood pressure of 122/82, pulse is 65 and regular. Heart sounds are normal, her chest is clear. Her BMI is 23. Renal function is normal with a creatinine of 82. Which of the following is the most likely cause of her hypercalcaemia?",
+    "options": [
+      "Milk–alkali syndrome",
+      "Primary hyperparathyroidism",
+      "Sarcoidosis",
+      "Secondary hyperparathyroidism",
+      "Squamous-cell carcinoma"
+    ],
+    "correct_option": 1,
+    "explanation": "Primary hyperparathyroidism\nTwo of the commonest causes of hypercalcaemia in the western world are primary hyperparathyroidism and malignancy. In primary hyperparathyroidism there is excess production of parathyroid hormone (PTH); although usually from a benign adenoma, this sometimes results from hyperplasia of the parathyroid glands and, in very rare cases, a carcinoma. The unremarkable findings on examination, coupled with absence of other significant pathology, make primary hyperparathyroidism the most likely answer.\n\nMilk–alkali syndrome\nMilk–alkali syndrome is incorrect. The milk–alkali syndrome can occur in patients who suffer from dyspepsia and drink milk and alkali-containing antacids, which may reduce the renal excretion of calcium. The condition is rarely seen now because of use of proton pump inhibitors.\n\nSarcoidosis\nSarcoidosis is incorrect. Sarcoidosis leading to hypercalcaemia is likely to be associated with respiratory symptoms, including a chronic cough.\n\nSecondary hyperparathyroidism\nSecondary hyperparathyroidism is incorrect. Given renal function is normal, secondary hyperparathyroidism is unlikely as the cause for her hypercalcaemia.\n\nSquamous-cell carcinoma\nSquamous-cell carcinoma is incorrect. Given the absence of a smoking history and benign findings on examination, an underlying bronchial carcinoma as the cause of hyperclacaemia is unlikely.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "02ad70d9-611f-4f79-b2e3-9baf1a6169f3",
+    "stem": "Which one of the following enzymes is specifically raised in the serum of patients with Gaucher’s disease?",
+    "options": [
+      "Acid phosphatase",
+      "Alanine transaminase (ALT)",
+      "Aspartate transaminase (AST)",
+      "Gamma-GT (GGT)",
+      "Alkaline phosphatase (ALP)"
+    ],
+    "correct_option": 0,
+    "explanation": "Acid phosphatase\nMinor elevations of liver enzymes are common in Gaucher’s disease, but it is acid phosphatase and angiotensinconverting enzyme that are most commonly raised in the serum. Gaucher's disease is the most common lysosomal storage disease; it is caused by deficient activity of acid beta-glucosidase, leading to the deposition of glucocerebroside in cells of the macrophage–monocyte system. It is classified into three subtypes, nonneuropathic, acute neuropathic and chronic neuropathic. Recombinant glucosidase and glucosylceramide inhibitors (e.g. miglustat) are the mainstay of therapy.\n\nAlanine transaminase (ALT)\nAlanine transaminase (ALT) is incorrect. This is a marker of hepatocellular injury that may be elevated due any underlying liver disease, and is not specific for Gaucher’s.\n\nAspartate transaminase (AST)\nAspartate transaminase (AST) is incorrect. Similar to ALT, AST is a marker of parenchymal liver injury. However, unlike ALT, AST is much less specific to the liver and may also be elevated due to other conditions such as myocardial infarction.\n\nGamma-GT (GGT)\nGamma-GT (GGT) is incorrect. GGT is another non-specific marker predominantly used in the diagnosis of liver disease. In particular, it is helpful in diagnosing diseases of the biliary tree and is also elevated in conjunction with excess alcohol consumption.\n\nAlkaline phosphatase (ALP)\nAlkaline phosphatase (ALP) is incorrect. ALP is used as a marker of liver disease but is also present in several other tissues throughout the entire body, such as the liver, bile duct, kidneys, bones and placenta. You are reviewing lab results and see a referral slip marked “acidosis ?cause”. The results are shown below. Investigations;.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "7b580512-1066-4a5c-932c-1c4c49e3df9b",
+    "stem": "A 25-year-old woman is referred to the General Medical Clinic after being admitted to the Emergency Department with confusion and agitation, abdominal pain and hypertension. An astute junior in the department sent a urine sample for porphyrins, which was found to be positive. Which one of the following features would most suggest lead poisoning rather than acute intermittent porphyria as a cause of her presentation?",
+    "options": [
+      "Abdominal pain",
+      "Anaemia",
+      "Foot drop",
+      "Hypertension",
+      "Seizures"
+    ],
+    "correct_option": 1,
+    "explanation": "Anaemia\nAnaemia occurs only in lead poisoning and is due to inhibition of ferrochelatase (the activity of this enzyme is normal in acute intermittent porphyria), a decrease in red cell lifespan, and inhibition of pyrimidine 5'nucleotidase leading to the accumulation of pyrimidine nucleotides in red cells, which in turn reduces the stability of the cell membrane (and is seen on a blood film as basophilic stippling).\n\nAbdominal pain\nAbdominal pain with AIand Tutoris Abdominal pain. Abdominal pain is a feature of both lead poisoining and acute intermittent Chat porphyria, therefore not a differentiator here.\n\nFoot drop\nFoot drop is incorrect. Motor neuropathy including foot drop is a feature of both diagnoses.\n\nHypertension\nHypertension is incorrect. Hypertension is a feature of acute porphyrias, but is not normally seen in patients with lead poisoning.\n\nSeizures\nSeizures is incorrect. Although encephalopathy with seizures is more common in children with lead poisoning, it is still seen in adults with lead poisoning and in those with acute porphyrias. A young man is admitted to the Emergency Department having taken an overdose of an unknown drug. On examination, he is hyperventilating and has a tachycardia. Results of arterial blood gas analysis (breathing room air) are.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "fe70b2df-e3b9-443d-ad16-4da5b884a145",
+    "stem": "A 54-year-old woman has undergone some blood tests as part of an employment health screen. She reports she is in good health and, being very health conscious, takes regular vitamin and mineral supplements. She is taking bendrofluazide 2.5 mg for hypertension and her blood pressure is 132/82 mmHg. The only abnormalities are a serum calcium concentration of 2.94 mmol/l and a phosphate level just under the lower end of the normal range. Which of the following is the most likely cause?",
+    "options": [
+      "Diuretic treatment",
+      "High dietary calcium intake",
+      "High dietary vitamin D intake",
+      "Occult malignancy",
+      "Primary hyperparathyroidism"
+    ],
+    "correct_option": 4,
+    "explanation": "Primary hyperparathyroidism\nThe fact that this individual is asymptomatic, and the elevated calcium with a phosphate at the lower end of the normal range, make primary hyperparathyroidism the most likely diagnosis.\n\nDiuretic treatment\nDiuretic treatment with Diuretic treatment is incorrect. Although thiazides can cause hypercalcaemia and increased Chat urinary phosphate excretion, the effect is usually mild and unlikely to cause such a high calcium level.\n\nHigh dietary calcium intake\nHigh dietary calcium intake is incorrect. High dietary calcium intake doesn’t usually lead to systemic hypercalcaemia, as it’s under hormonal control via hydroxylated vitamin D.\n\nHigh dietary vitamin D intake\nHigh dietary cholecalciferol intake is incorrect. Hypercalcaemia due to increased cholecalciferol intake alone is rare, as quite large quantities of vitamin D are required to cause overdose. It’s more likely to be seen against a background of other conditions which pre-dispose to hypercalcaemia such as sarcoidosis.\n\nOccult malignancy\nOccult malignancy is incorrect. We’re not given any history of symptoms suggestive of underlying malignancy, and she only presented to medical services because of an insurance medical.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "d2ea1553-b0c5-4387-b405-4b724fd0cf21",
+    "stem": "In an adult patient with cirrhosis, which of the following findings is the most reliable diagnostic indicator that hereditary haemochromatosis is the cause of his underlying condition?",
+    "options": [
+      "Liver biopsy",
+      "Serum ferritin concentration",
+      "Serum iron concentration",
+      "Serum total iron-binding capacity",
+      "Transferrin saturation"
+    ],
+    "correct_option": 0,
+    "explanation": "Liver biopsy\nIn hereditary haemochromatosis (HH), the excess iron is primarily found in parenchymal cells, whereas with secondary iron overload, accumulation tends to be in Kupffer cells. Liver biopsy can demonstrate this, allows assessment of liver damage and is of prognostic value.\n\nSerum ferritin concentration\nSerum ferritin concentration is incorrect. Serum ferritin concentration is almost always markedly elevated in haemochromatosis, but elevations can occur in any inflammatory condition (including other Chat liver with diseases) as ferritin is an acute phase protein.\n\nSerum iron concentration\nSerum iron concentration is incorrect. Serum iron concentration is normal in approximately 25% of patients with HH and can be elevated in healthy individuals or people with secondary iron overload.\n\nSerum total iron-binding capacity\nSerum total iron-binding capacity is incorrect. Serum total iron-binding capacity (TIBC) reflects the transferrin concentration, which is usually normal in haemochromatosis, although TIBC can also be reduced.\n\nTransferrin saturation\nTransferrin saturation is incorrect. Transferrin saturation is typically high in HH, although it can also be increased in other iron-overload conditions and in liver disease. Molecular genetic analysis is also a useful option. Homozygosity for the C282Y mutation, or compound heterozygosity for C282Y and H63D, can identify asymptomatic individuals at risk of developing clinical haemochromatosis.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "9004d47e-dd1c-4a30-98ff-5245135867b8",
+    "stem": "A 45-year-old man is admitted to the Emergency Department unconscious and hyperventilating. His breath smells of alcohol. He owns a garage which apparently has money problems, and according to colleagues who accompany him to the Emergency Department, he has been drinking at work. Which of the following findings would most suggest that ethylene glycol had been consumed?",
+    "options": [
+      "Blood glucose concentration of 12 mmol/l",
+      "Ketonuria",
+      "Metabolic acidosis",
+      "Serum calcium concentration (corrected) 1.62 mmol/l",
+      "Serum sodium concentration 131 mmol/l"
+    ],
+    "correct_option": 3,
+    "explanation": "Serum calcium concentration (corrected) 1.62 mmol/l\nThe principle end product of metabolism of ethylene glycol that causes significant toxicity is oxalic acid. This then combines with calcium to form insoluble calcium oxalate and drives presentation with acidosis and kidney disease. The treatment for ethylene glycol overdose is an inhibitor of alcohol dehydrogenase such as ethanol itself or fomepizole.\n\nBlood glucose concentration of 12 mmol/l\nBlood glucose concentration of 12 mmol/l is incorrect. A blood glucose level of 12 mmol/l is a very non-specific finding and cannot be attributed to a particular cause of poisoning.\n\nKetonuria\nKetonuria with Ketonuria is incorrect. Ketosis is seen in diabetic ketoacidosis, alcoholic ketoacidosis and in Chat patients with prolonged fasting; it is therefore not specific to ethylene glycol consumption.\n\nMetabolic acidosis\nMetabolic acidosis is incorrect. Although metabolic acidosis is associated with ethylene glycol poisoing, it may be associated with other agents in overdose/poisoning such as metformin, methanol and salicylate.\n\nSerum sodium concentration 131 mmol/l\nSerum sodium concentration 131 mmol/l is incorrect. Hyponatraemia is associated with a number of potential diagnoses, including ethanol abuse.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "e8cc19d2-52ee-4fa7-88ad-4c069cc68e9c",
+    "stem": "You are asked to review a 71-year-old patient who has received excess blood transfusions and saline fluid replacement after a bleed following left total hip replacement. You estimate that approximately a 20% increase in his blood volume has occurred. What physiological process is most likely to correct this abnormality?",
+    "options": [
+      "Aldosterone release",
+      "Atrial natriuretic peptide (ANP) release",
+      "Increased activity of renal sympathetic nerves",
+      "Reduced activity of carotid baroreceptors",
+      "Venous dilatation"
+    ],
+    "correct_option": 1,
+    "explanation": "Atrial natriuretic peptide (ANP) release\nANP is a 28 amino acid peptide which is released in response to atrial stretch, likely to be associated with the 20% increase in blood volume. ANP dilates the afferent glomerular arteriole, constricts the efferent glomerular arteriole, and drives an increase in glomerular filtration rate (GFR). This then leads to an increase in salt and water excretion.\n\nAldosterone release Tutor Aldosterone release is incorrect. Aldosterone release drives salt and water retention, not required in AI this situation.\n\nIncreased activity of renal sympathetic nerves\nIncreased activity of renal sympathetic nerves is incorrect. Renal sympathetic nerve activity drives an increase in blood pressure rather than a reduction, and potentially promotes further salt and water retention.\n\nReduced activity of carotid baroreceptors\nReduced activity of carotid baroreceptors is incorrect. The greater impact on sodium and water excretion comes from ANP release related to atrial stretch.\n\nVenous dilatation\nVenous dilatation is incorrect. Venous dilatation may occur to modulate blood pressure, but does not reduce circulating blood volume. You are reviewing blood results on a 49-year-old man who has presented with cirrhosis related to excess alcohol consumption. You note that he has metabolic alkalosis.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "fe141e39-d17c-48ca-8104-4cdf5990c46e",
+    "stem": "You are reviewing blood results on a 49-year-old man who has presented with cirrhosis related to excess alcohol consumption. You note that he has metabolic alkalosis. Which of the following is the likely primary pathological mechanism?",
+    "options": [
+      "Bicarbonate loss due to ascites",
+      "Increased gastric acid production",
+      "Reduced bicarbonate secretion from the pancreas",
+      "Reduced lactate formation in skeletal muscle",
+      "Relative intravascular volume depletion"
+    ],
+    "correct_option": 4,
+    "explanation": "Relative intravascular volume depletion\nIn cirrhosis, the low albumin associated with severe disease drives relative intravascular volume depletion. Aldosterone release is increased as a result, and steroid hormone metabolism is reduced by liver impairment. Both of these factors drive presentation with metabolic alkalosis. Additionally, albumin behaves as a weak acid and a hypoalbuminaemic state results in metabolic alkalosis. Production of urea (one way to compensate) is also impaired in patients with cirrhosis.\n\nBicarbonate loss due to ascites\nBicarbonate loss due to ascites with Bicarbonate loss due to ascites is incorrect. Ascites is associated with relative fluid depletionChat in the intravascular compartment, which actually drives an increase in bicarbonate.\n\nIncreased gastric acid production\nIncreased gastric acid production is incorrect. There is actually a reduction in 24-hour gastric acid secretion in patients with cirrhosis versus the general population.\n\nReduced bicarbonate secretion from the pancreas\nReduced bicarbonate secretion from the pancreas is incorrect. There is actually elevated output of water and bicarbonate from the pancreas in patients with cirrhosis, although the concentration of bicarbonate is reduced.\n\nReduced lactate formation in skeletal muscle\nReduced lactate formation in skeletal muscle is incorrect. Liver failure actually accentuates lactate formation rather than reducing it; reduced lactate formation does not significantly contribute to the alkalosis seen here.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "a33ce22d-c201-499a-9aa0-fb021a0922d4",
+    "stem": "A 75-year-old woman is being followed by her GP for suspected developing primary hypothyroidism. She complains of tiredness all the time and has gained 3 kg in weight. On examination her BP is 132/82 mmHg, and pulse is 62 bpm and regular; her BMI is elevated at 32 kg/m 2. Which of the following biochemical changes would you most expect to be able to detect first?",
+    "options": [
+      "Fall in serum free thyroxine (T4)",
+      "Fall in serum thyroxine-binding globulin",
+      "Fall in serum free triiodothyronine (T3)",
+      "Fall in serum total triiodothyronine",
+      "Increase in serum thyroid-stimulating hormone (TSH)"
+    ],
+    "correct_option": 4,
+    "explanation": "Increase in serum thyroid-stimulating hormone (TSH)\nIn the early stages of hypothyroidism free thyroxine is maintained in the normal range by increased secretion of TSH. Patients with a slightly elevated TSH and low-normal thyroxine are said to have ‘compensated’ or ‘borderline’ hypothyroidism. In some individuals, it appears that this state can be maintained without progression to frank hypothyroidism.\n\nFall in serum free thyroxine (T4)\nFall in serum free thyroxine (T4) is incorrect. This occurs after increased levels of TSH can no longer maintain adequate output of thyroxine.\n\nFall in serum thyroxine-binding globulin\nChat Fall in serum thyroxine-binding globulin is incorrect. This tends to remain in the normal range in with patients with primary hypothyroidism.\n\nFall in serum free triiodothyronine (T3)\nFall in serum free triiodothyronine (T3) is incorrect. This occurs later than the fall in thyroxine for patients with primary hypothyroidism.\n\nFall in serum total triiodothyronine\nFall in serum total triiodothyronine is incorrect. Measurement of total thyroid hormones (free and bound fraction) is less sensitive than measuring the free hormones, and hence is likely to be seen last of all.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "1844a97f-2265-48e8-92f5-6e0a927e0eae",
+    "stem": "A 72-year-old woman is admitted to the Emergency Department with nausea, vomiting and complaining of yellow visual field discoloration. On further questioning it transpires she has mixed up her tablets and been taking 250 mcg of digoxin per day for the last 2 weeks. Which of the following biochemical abnormalities, if present, would exacerbate her symptoms of digoxin poisoning?",
+    "options": [
+      "Hypokalaemia",
+      "Hypocalcaemia",
+      "Hypermagnesaemia",
+      "Hyponatraemia",
+      "Hypophosphataemia"
+    ],
+    "correct_option": 0,
+    "explanation": "Hypokalaemia\nPotassium depletion enhances the binding of digoxin to the Na +/K + pump. This increases the extent of inhibition of sodium transport, which can in turn cause digoxin toxicity. Correction of hypokalaemia is a key first step in management of the condition.\n\nHypocalcaemia\nHypocalcaemia is incorrect. This does cause QT prolongation, but it does not specifically impact on digoxin toxicity.\n\nHypermagnesaemia\nHypermagnesaemia with Hypermagnesaemia is incorrect. Magnesium is a co-factor for successful functioning of the Chat Na+/K+ pump, and low magnesium, therefore, exacerbates digoxin toxicity.\n\nHyponatraemia\nHyponatraemia is incorrect. Although this may worsen confusion, it does not increase the risk of cardiovascular manifestations of digoxin toxicity.\n\nHypophosphataemia\nHypophosphataemia is incorrect. Low phosphate does not exacerbate digoxin toxicity, although it is recognised to worsen cardiac failure by reducing left ventricular (LV) contractility.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "4c566668-c3ed-44d9-9815-9895202e41c5",
+    "stem": "A 40-year-old female patient has been referred to hospital with jaundice. On examination, there is hepatosplenomegaly. She does not take any medication and does not drink alcohol. Her sister, who is 10 years older, had similar problems and has been diagnosed with a condition after antibody testing. Following serum testing, antibodies to which antigen are most likely to be detected in her serum?",
+    "options": [
+      "Anti-double-stranded DNA",
+      "Anti-histone",
+      "Anti-mitochondrial",
+      "Anti-transglutaminase",
+      "Anti-cyclic citrullinated peptide (CCP)"
+    ],
+    "correct_option": 2,
+    "explanation": "Anti-mitochondrial\nThe history is suggestive of primary biliary cholangitis (PBC), an autoimmune condition where progressive destruction of the bile ducts in the liver occurs, leading to cholestasis, fibrosis and cirrhosis. Patients with primary biliary cholangitis are also at an increased risk of developing hepatocellular carcinoma. Over 95% of patients with primary biliary cholangitis have antibodies to mitochondria (AMA), which are detectable in the serum before abnormalities in liver function are apparent and long before the onset of symptoms.\n\nAnti-double-stranded DNA\nAnti-double-stranded DNA is incorrect. These antibodies are diagnostic of systemic lupus erythematosus (SLE).\n\nAnti-histone Tutor of Anti-histone is incorrect. These auto-antibodies are found in the majority of patients with SLE and inAI >95% patients with drug-induced lupus.\n\nAnti-transglutaminase\nAnti-transglutaminase is incorrect. These antibodies are diagnostic of coeliac disease and dermatitis herpetiformis.\n\nAnti-cyclic citrullinated peptide (CCP)\nAnti-cyclic citrullinated peptide (CCP) is incorrect. These antibodies are diagnostic of rheumatoid arthritis.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "af97052c-9a5c-4249-ac22-ea3c5965cdac",
+    "stem": "An 82-year-old woman has a calculated glomerular filtration rate (GFR) of 45 ml/min. Which of the following is likely to have the greatest impact on her measured estimated GFR (eGFR)?",
+    "options": [
+      "Body fat percentage",
+      "Carbohydrate intake",
+      "Fat intake",
+      "Muscle mass",
+      "Protein intake"
+    ],
+    "correct_option": 3,
+    "explanation": "Muscle mass\nMuscle mass has a strong impact on measurement of eGFR. In malnourished patients with low muscle mass, serum creatinine-based equations overestimate GFR. In patients with higher muscle mass, these equations underestimate GFR. In elderly patients, formal measurement of GFR may be considered in assessment of renal function.\n\nBody fat percentage\nMeasured creatinine is not determined by body fat; it is determined by muscle mass, because creatinine is generated by protein turnover. Increased body fat may of course be associated with increased insulin resistance and hypertension, which can drive a worsening of renal function over time.\n\nCarbohydrate intake\nCarbohydrate intake is not a factor in assessment of eGFR because it has no impact on measured creatinine. Chat in with Over time, excess carbohydrate may be associated with incidental chronic kidney disease (CKD) patients without diabetes mellitus.\n\nFat intake\nHigher intake of fat per se is not associated with worsening renal function over time. Higher intake of saturated fat has been shown in epidemiological studies to worsen albuminuria over time.\n\nProtein intake\nThere is no evidence that changes in protein intake have an acute impact on renal function, and measured creatinine is most closely related to muscle mass, which is often reduced in the elderly. Patients with chronic excess protein consumption may be at increased risk of urate stone formation.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "8cedd609-d9f2-4714-8800-e6a3056856c7",
+    "stem": "A 64 year old woman who is treated with subcutaneous teriparatide for osteoporosis, comes to the clinic for review. She has now been taking the medication for 2 months. Which of the following is most useful in measuring the response to teriparatide?",
+    "options": [
+      "Calcium",
+      "Cathepsin K",
+      "C-terminal cross-linked telopeptide (CTX)",
+      "Procollagen type I N propeptide (PINP)",
+      "Tartrate resistant acid phosphatase"
+    ],
+    "correct_option": 3,
+    "explanation": "Procollagen type I N propeptide (PINP)\nTeriparatide is a PTH analogue which increases osteoblast activity, as such measurement of bone formation markers is likely to be most useful in assessing response. Examples of markers of bone formation include: Procollagen type I propeptides C-terminal (PICP) N-terminal (PINP) Osteocalcin (OC)\n\nCalcium\nCalcium is incorrect. Calcium remains in the normal range in patients with osteoporosis. A fall may be seen in patients where osteoclast activity is inhibited, (e.g. with bisphosphonates or denosumab.\n\nCathepsin K\nCathepsin K is incorrect. Cathepsin K is a protease involved in bone resporption, as such it isn’t as useful as bone formation markers in assessing response to teriparatide.\n\nC-terminal cross-linked telopeptide (CTX)\nCTX is incorrect. C terminal telopeptide can be used as a marker of bone turnover, which is primarily elevated where there is increased bone reabsorption.\n\nTartrate resistant acid phosphatase.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "c81ff058-00a6-435d-b8b2-47c0fc76ea6f",
+    "stem": "A 24-year-old woman undergoes resection of the terminal ileum with fashioning of an ileostomy for Crohn’s disease. Some 2 weeks after surgery, she is making a good recovery and is eating a high-energy, low-residue diet, but has a high ileostomy volume, necessitating intravenous fluid replacement. Her serum calcium concentration is 1.82 mmol/l, phosphate 1.28 mmol/l, alkaline phosphatase 82 U/l (normal < 150 U/l), albumin 30 g/l, creatinine 80 μmol/l. Prior to surgery, her corrected serum calcium concentration was 2.18 mmol/l and her albumin 36 g/l. What is the most likely cause of her hypocalcaemia?",
+    "options": [
+      "Formation of insoluble calcium salts in the intestine",
+      "Hypoalbuminaemia",
+      "Hypomagnesaemia",
+      "Malabsorption of calcium",
+      "Malabsorption of vitamin D"
+    ],
+    "correct_option": 2,
+    "explanation": "Hypomagnesaemia\nPatients with ileostomies can lose large amounts of magnesium through their stomas; hypomagnesaemia impairs PTH secretion and can cause hypocalcaemia that is resistant to an increased provision of calcium. In this situation it’s important not only to replace calcium, but also to replace magnesium salts\n\nFormation of insoluble calcium salts in the intestine\nFormation of insoluble calcium salts in the intestine is incorrect. Impaired fat absorption can lead to the formation of insoluble calcium salts in the gut, although this isn’t relevant here because fat and calcium are predominantly absorbed in the proximal small intestine.\n\nHypoalbuminaemia\nHypoalbuminaemia is incorrect. Even with correction for hypoalbuminaemia, calcium is still low at approximately 2.0 mmol/l.\n\nMalabsorption of calcium\nMalabsorption of calcium is incorrect. Although some absorption of calcium occurs in the distal small intestine, most absorption of calcium occurs in the duodenum.\n\nMalabsorption of vitamin D.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "5d159cd9-9d54-45f9-ac14-70f63c6ed4cd",
+    "stem": "A 56-year-old woman with known metastatic breast cancer presents to the Emergency Department with a calcium concentration of 3.22 mmol/l; her Cr is elevated at 195 mcmol/l and urea is 17.2 mmol/l. Which of the following is the most appropriate initial management?",
+    "options": [
+      "Intravenous hydrocortisone",
+      "Intravenous infusion of 0.9% sodium chloride",
+      "Intravenous infusion of sodium phosphate",
+      "Oral bisphosphonate",
+      "Oral thiazide diuretic"
+    ],
+    "correct_option": 1,
+    "explanation": "Intravenous infusion of 0.9% sodium chloride\nIn this case there is significant evidence of dehydration, and rehydration with normal saline is the initial intervention of choice, establishing a diuresis which should promote calcium excretion.\n\nIntravenous hydrocortisone\nIntravenous hydrocortisone is incorrect. Corticosteroids have little impact in hypercalcaemia related to solid tumours.\n\nIntravenous infusion of sodium phosphate\nIntravenous infusion of sodium phosphate is incorrect. It is dangerous: it lowers the calcium concentration rapidly, but risks causing metastatic calcification.\n\nOral bisphosphonate\nOral bisphosphonate is incorrect. Their onset of action is too long to impact significantly on this patient’s hypercalcaemia.\n\nOral thiazide diuretic.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "d56632af-d930-4ce6-b918-628a73594a75",
+    "stem": "An apparently healthy 20-year-old man has blood taken for lipid analysis in connection with an application for life insurance. He works as a builder and has no medical history of note. His body mass index (BMI) is 22 kg/m 2. The fasting triglyceride concentration is 4.0 mmol/l and HbA1C is 44 mmol/mol. He has no evidence of acanthosis nigricans on examination, and blood pressure is 120/70 mmHg. There is no family history of note although he admits to drinking alcohol in excess. As part of his work-up, he has an abdominal ultrasound which is reported as normal. Which of the following is the most likely cause of the hypertriglyceridaemia?",
+    "options": [
+      "Undiagnosed diabetes mellitus",
+      "World Health Organisation (WHO) type 1 hyperlipidaemia (chylomicronaemia syndrome)",
+      "A high alcohol intake",
+      "A high saturated fat intake",
+      "Non-alcoholic steatohepatitis (NASH)"
+    ],
+    "correct_option": 2,
+    "explanation": "A high alcohol intake\nAlcohol consumption is a common cause of hypertriglyceridaemia, and all patients presenting with isolated hypertriglyceridaemia should be counselled on alcohol cessation or modification in combination with regular exercise, which can reduce triglyceride levels.\n\nUndiagnosed diabetes mellitus\nUndiagnosed diabetes mellitus is incorrect. This is very unlikely given the BMI, lack of family history and HbA1c level.\n\nWorld Health Organisation (WHO) type 1 hyperlipidaemia (chylomicronaemia syndrome)\nWorld Health Organization (WHO) type 1 hyperlipidaemia (chylomicronaemia syndrome) is incorrect. Chylomicronaemia syndrome is rare, usually presents in childhood and is associated with much higher triglyceride concentrations.\n\nA high saturated fat intake\nA high saturated fat intake is incorrect. A high saturated fat intake is more likely to elevate plasma cholesterol than triglyceride concentrations.\n\nNon-alcoholic steatohepatitis (NASH).",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "8b5bfad1-1d78-4c03-ae88-dac37aa7eda1",
+    "stem": "A 22-year-old aid worker is admitted to the Emergency Department from the local airport; he apparently suffered from profuse watery diarrhoea during the flight and collapsed soon after walking from the plane. He has no past medical history of note. On examination his BP is 80/60 mmHg, pulse is 95 bpm and regular, he is severely dehydrated and has soiled himself during the ambulance journey. You suspect he has cholera. Which of the following is the mechanism by which cholera leads to fluid loss?",
+    "options": [
+      "GIP receptor antagonism",
+      "GLP1 receptor antagonism",
+      "GLP2 receptor agonism",
+      "GM1 receptor agonism",
+      "SGLT1 antagonism"
+    ],
+    "correct_option": 3,
+    "explanation": "GM1 receptor agonism\nThe answer is GM1-receptor agonism (Option D). Cholera endotoxin B subunits bind to the GM1 receptor located on small intestinal mucosa cells. Subsequent entry of the A1 subunit into secretory cells then leads to continuous adenylate cyclase activity, a sustained increase in cAMP and massive secretion of water and electrolytes into the small intestine.\n\nGIP receptor antagonism\nGlucose-dependent insulinotropic polypeptide (GIP)-receptor antagonism (Option A) is incorrect. This is responsible for the second-phase insulin response, and is therefore a target for agonism in the treatment of Type 2 diabetes.\n\nGLP1 receptor antagonism\nGLP-1-receptor antagonism (Option B) is incorrect. This is an incretin, released in response to feeding, which leads to an increase in insulin release by beta cells in the pancreas; GLP-1 agonists are therefore used as a treatment for diabetes.\n\nGLP2 receptor agonism\nGLP-2-receptor agonism (Option C) is incorrect. This stimulates small intestine mucosal growth. For this reason, GLP-2 agonists are being developed for the treatment of radiotherapy-induced gastrointestinal damage and short bowel syndrome.\n\nSGLT1 antagonism.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  },
+  {
+    "id": "4435f4d0-7bca-4a23-aa6a-ee76b00511e7",
+    "stem": "A 24-year-old, unconscious man is admitted to the Emergency Department. No history is available. The results of arterial blood gas analysis are: pH 7.1, pCO 2 7.0 kPa, pO 2 8.2. HCO 3 - 17.1 mmol/l. These results indicate which one of the following acid–base disturbances?",
+    "options": [
+      "Metabolic acidosis with respiratory compensation",
+      "Mixed metabolic and respiratory acidosis",
+      "Respiratory acidosis",
+      "Respiratory acidosis with metabolic alkalosis",
+      "Uncompensated metabolic acidosis"
+    ],
+    "correct_option": 1,
+    "explanation": "Mixed metabolic and respiratory acidosis\nThe low pH in this patient indicates acidosis. The raised CO 2 and failure of the bicarbonate to rise (indeed it is below the lower limit of normal) indicates a mixed respiratory and metabolic acidosis.\n\nMetabolic acidosis with respiratory compensation\nMetabolic acidosis with respiratory compensation is incorrect. Respiratory compensation implies low pCO2, but the CO2 is in fact raised here, which does not fit with this proposed answer.\n\nRespiratory acidosis\nRespiratory acidosis is incorrect. Although the pCO2 is consistent with respiratory acidosis, the low bicarbonate fits with a mixed metabolic and respiratory picture.\n\nRespiratory acidosis with metabolic alkalosis\nRespiratory acidosis with metabolic alkalosis is incorrect. The bicarbonate is below the lower limit of normal, which is inconsistent with a metabolic alkalosis.\n\nUncompensated metabolic acidosis.",
+    "tags": [
+      "Biochemistry"
+    ],
+    "source": "Pastest"
+  }
+]
